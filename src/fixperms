@@ -1,0 +1,11 @@
+# fixup perms/owner for logs and their directory, and players too.
+
+id
+
+chown anime.anime_www ../log
+chmod u=rwx,g=rx,o= ../log
+chown anime.anime_www ../player
+chmod u=rwx,g=rx,o= ../player
+chown anime.anime_www ../player/*
+chmod u=rwx,g=rx,o= ../player/*
+

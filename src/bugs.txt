@@ -1,0 +1,288 @@
+[20394] Belgarath: two handed with dual is bugged
+[13084] Belldandy: can dual wield with a two-handed weapon?
+[ 1319] Beatumz: Heya Imms... here i am in the Tower Of High Sorcery looking at Tatorious the shopkeeper... who doesn't sell anything, or do anything.
+[ 5229] Sirak: Is this chest supposed to disappear and reappear everytime you look?
+[ 5229] Sirak: nevermind...
+[ 3054] Arcam: kamara
+[ 3054] Flavius: Heron did a Double-Vorpal vibration in one hit, should only be one I'm sure...
+[11186] Flavius: Heron still vorpals twice each time it is suppose to do it once, just thought I'd report this again.
+[ 6543] Sirak: Why can't i kill this person? *Sirak*
+[26011] Folken: The Arm-Graft gun has charges of General Purpose... not a spell morts should have access to.
+[ 3006] Pocari: Not sure if this a major problem, but gas breath can be used even if you don't have a valid target.  Like cast 'gas breath' abcd will still work even though there isn't a mob abcd in the room.
+[ 3001] Puglet: cannot compare jo to a sword... says cannot compare a jo to a map of neo-tokyo,,, strange hope ya havent gotten this one yet
+[ 3054] Wyrd: i think i have either noticed a bug or a trick
+[ 3054] Wyrd: if you get poisoned from a high lvl creature it is really hard to remove poison yourself.  so just cast poison on one subsandwich.  then eat the sandwich.  it will cause you to become poison also.  but then just c 'cure poison' on yourself now and it
+[ 3054] Chiatrem: bug
+[26011] Folken: Can dual wield with two handed weapons.  Not a good thing.
+[ 1504] Kesid: When I try to look sign, it says there is a ring on the floor? There isn't. I can't read any signs! -Kesid
+[ 3045] Wakashi: BUggie quest.. order me to kill a puppy at pet store.. but it won't allow me to kill it
+[10416] Ardyh: Just a small thing: "You do a Dragon Punch...to noone!", souldn't it be "no one!"?  I'm not the best in english so i might be wrong.  :)
+[ 3170] Jayar: midas
+[ 3001] Ghoti: equ 1st
+[ 3054] Argyle: meow
+[ 9206] Zinge: i began this character with 1250 xp/lev. Now my prompt is telling me i need 2100+ xp/lev for just hiting 11th level. What the heck is going on here???
+[11016] Cambyr: I've been having problems with the scroll setting. I've got mine to 40 lines, but when it gets to the end and is waiting for me to [ Hit Return to continue ], I get tells that were meant for others, parts of notes, or room descriptions from other roo
+[ 3758] Ototo: I cannae practice mace in the mud school practice room
+[10424] Murasame: mor
+[ 5111] Quinos: cure light subtracted one from my health, no i was not in combat or plagued
+[ 5205] Quinos: when fighting and using optic blast if the monster flees i still hit, sometimes killing it in a different room.
+[ 3001] Arris: kit
+[26000] Aes: bir
+[ 3005] Rangita: auction: i bid 10 on the long sword, came out as a bet of 14510g! - i aint exactly mad rich, and i doubt the sword is worth THAT much :)  eh well, ive seen it happen to others before, it had to happen to me eventually.
+[ 3054] Taryn: ok, this has been happening for a few days now. I try casting true sight, and it returns either 'You lost your concentration' or 'You can see everyone and thing' - but I dont have the spell on my affects list, and I still can't see invis
+[ 3170] Sephrina: seph
+[ 3007] Tenamor: twag
+[ 3007] Tenamor: twag
+[ 9616] Torin: I cannot TRAIN my stats up to the Maximum stats: Str: 20 Int: 25 Wis: 23 Dex: 25 Con: 22... they are at -Str: 18[22] Int: 16[19] Wis: 18[23] Dex: 18[25] Con: 18[22] and I am a Dark Elf... help!?
+[ 3728] Kerse: test
+[ 3111] Sacrifice: officer
+[ 3170] Manamor: Buster from the royal treasury!' to you.
+[ 3170] Manamor: Buster from the royal treasury!' to you.
+[ 3054] Tummy: Auction screwed up again
+[ 3054] Tummy: Auction: I typed "auc bid 31" and it made me auction
+[10429] Zyro: kevisson
+[10429] Zyro: kevisson
+[ 8313] Mordred: marsh giant in swamp marsh cannot be attacked; the messages is  god dont like this 
+[10416] Selaikan: message You may now quest again. was followed a minute later with You have run out of time for your quest. You may quest again in 10 minutes.
+[ 3025] Selaikan: quote "You may now quest again." 1 minute later.. quote "You have run out of time for your quest!" "You may quest again in 10 minutes." I didn't do any quest and wasn't on one but was heading there to get one but now I have 10 minutes before can do o
+[ 3054] Mordred: I ve located (su
+[ 3054] Mordred: I ve located (suPER) boots of flying is  carried by Ilana 
+[25024] Fafhrd: Clan In needs to be updated.  For one thing, Jurai is led by Sirus.
+[ 3008] Pocari: Otho is draggable/pushable.  This screws over low level players.
+[ 9208] Elixx: While sleeping you can't "color list"
+[ 3170] Mouschi: hi
+[ 3001] Garbokk: when i got a quest from the questmaster, i was to kill the nomad commander, when i tried it said, You are not permittedto kill thid person! Shinjiru also tried and it said the same thing, we moved him and it still said it
+[17009] Selae: when sleeping you don't hear the automatic auction
+[17009] Selae: monk's healing touch does not work if wearing eq that is flagged anti_(align the monk is)
+[17009] Selae: dispel magic at 60th level fails a lot dispelling spells casted by 25th level mobs..that is senseless
+[ 3054] Dogeshi: I haven't needed to eat or drink for 4 hrs now, bug maybe, but good also.
+[ 3054] Dogeshi: Link-dead people that have been link-dead since I've been on which has been 4 hrs + now.
+[ 3054] Dogeshi: Cannot auction items off (items that normally can be auctioned), seems to only be for certain chars.
+[12183] Seri: alth
+[ 3750] Shandra: symm
+[ 3721] Xanatos: the Store in the mud school has no food, and the prices are too high.
+[ 3009] Aliana: sandwich
+[ 3009] Aliana: sandwich
+[ 3170] Kole: Buster from the royal treasury!' to you.
+[ 3170] Dirac: Quest Master still assigns Quests to newbie area
+[ 8501] Trepid: Help file on tokens is missing
+[14533] Mia: Aeka's global limit is, ah... way too high.
+[25024] Gaige: hi belldandy!
+[ 3370] Pharris: Marit
+[ 3054] Jaro: The pose is a bit messed... it shows diffirent poses concatenated together :P
+[ 3035] Kaitou: to all
+[ 3035] Kaitou: I think I found a bug. I was grouping with Zohar to kill bison, and the mud crashed. Thats the third time it crashes when we do that. The first two times were on the same day so we thought it was just a coincidence. Obviously, it isnt.
+[12640] Shiela: People can gate into PRIVATE Rooms.
+[ 3005] Darthmaul: cera
+[ 3005] Darthmaul: cera
+[ 3005] Darthmaul: anonelbe
+[ 3054] Shua: list
+[10475] Arias: Pai
+[ 3006] Neta: neta
+[ 3007] Dorien: bar
+[12161] Syrant: voices
+[12161] Syrant: there screwed up...
+[16587] Tyrax: --Blindness doesn't say 'you failed' if the mob saves.
+[12515] Kasei: North-East Corner of Large Ballroom in Moon Kingdom, going south brings you back to the exact same room I think.
+[ 3170] Saenok: too many to mention.
+[ 3170] Taohor: Buster
+[13515] Zerai: ilana
+[ 3001] Anailat: if you have a poa, and you quit, then you drop it but if you come back you still have one and there's one on the ground and so they multiply....
+[25024] Vassada: cha
+[25024] Vassada: list
+[ 3700] Sajuri: quests are kinda out of levels for some of the quests.
+[ 9611] Sajuri: on the score shouldnt the armor class get better with spells and armor instead of it getting worse?
+[ 1103] Sfran: when I do 'look sign' or 'read sign' I just get 'you se a ring with a rising sun on the floor' outside of Tokyo
+[ 3170] Zappata: questmaster
+[16574] Zyrak: im overweight i drop 9000 silver loot corpse i can still retrive 9000 silver i dropped not sure if this is bug or not
+[ 3009] Travak: sub
+[ 3009] Travak: sub
+[ 3009] Travak: sub
+[ 3009] Travak: sub
+[ 3009] Travak: sub
+[ 3009] Travak: sub
+[ 3009] Travak: sub
+[ 3001] Kentara: tet
+[ 1145] Sajuri: maybe i'm wrong about this but should the ob program for the sherriffs of shire attack you instead of each other?
+[ 3011] Proktin: hrm...
+[ 3011] Proktin: list
+[ 3010] Proktin: -not bugs. i just kept on messing up.
+[26010] Rastlin: ilana
+[ 3054] Batoosai: sleeping
+[ 3054] Mekoa: When you try to design your own prompt you can't use the Magenta (set #12) color because it uses a % sign as it's char. Please fix this.. i really like that colour. =)
+[10467] Marit: phar
+[11001] Tukora: cast cry on a mob that already has cry cast on it and it says : "A (mob) is already balling."  the correct spelling for this is "bawling," I believe.
+[12180] Suzuran: alth
+[12180] Suzuran: Ignore that.
+[16520] Friza: North East corner on Wrym and Sunrise.  A name in the Underdark is messed up, should be Wyrm Street
+[ 3170] Elzar: The questmaster is giving quests that are much too hard to complete.  He told me, at level 10, to go to hell and kill a tortured soul...
+[ 3054] Weejo: I found a bug, if you accidently kill yourself with an align based spell, your corpse will end up empty and you GAIN exp if you just gained a level, this is a serious bug...
+[ 3009] Caoiminh: 'sign in the bakery???'
+[14516] Croatoan: I was just invis... and my detect hidden and true sight wore off... really. it said you become less aware of your surroundings, and you're eyes blur as you're vision turns back to normal. anyways... I was invis when this happened,
+[14516] Croatoan: and with that... I tried to cast detect hidden and true sight again. I couldn't. I could detect hidden, but not invis... and not true sight... so i cancelled my spells, and everything returned to normal... I don't think that's a good thing. what if t
+[14516] Croatoan: what if that happens when someone's fighting an aggro mob>
+[ 3370] Eidos: triss
+[ 6601] Eoill: typing look sign sometimes says about the signet ring instead of reading the sign
+[ 3001] Timoteo: S
+[10406] Ruka: when you go link dead and reconnect, often you are blind in that room and that room onyl, it is rather odd, and lasts about a tick, I think
+[ 4064] Riobard: my max strength is set to 3 (which is entirely wrong), but my set strength is 11 and therefor I am unable to pick anything up!
+[ 4064] Riobard: due to my innapropriate lack of strength which was reported earlier, I am unable to pick up the weapon (blade of poison) which was disabled from me!
+[ 4064] Riobard: due to my max strength being 3 and my only being able to hold 30 pounds of wieght, my blade of poison was picked up by a hobgoblin. I have no hope of getting it back now!
+[ 3258] Koorishin: 1000
+[16501] Voldo: the autosac isnt working
+[ 3040] Koorishin: I can't get anything?
+[12515] Sakra: north east corner of ballroom in moon kingdom, if you go south you end up in the same spot.
+[26007] Nothing: an imm when they come on to trans  you out.
+[ 3033] Trewq: mut
+[ 5551] Geresh: my screen is compleatly messed up and nothing is reading right!!!
+[ 3054] Kreno: bug
+[ 6002] Zefia: I'm hungry but i'm too full to eat any more... go figure...
+[ 3054] Zeitgeist: test
+[ 3170] Mandragora: bay
+[12649] Santius: on one spot at the planes if you move then you are somewhere else
+[ 3371] Seikou: Kishoku
+[ 3712] RyoSaotome: Seikou Come on man!
+[14548] Kishoku: kishoku
+[ 3170] Saenok: titles are fucked add this line in set_title: strcat(arg, " <color char>7");
+[12625] Santius: when someody dies there corpse appears as charred remains, even if they were fought in hand to hand
+[ 9526] Notik: there is no help on Mantuax
+[ 3001] Santius: when i type who, sometimes it shows a list of items
+[ 3757] Zaka: this mud sux
+[ 3757] Zaka: One needs more than an anime theme to sell a mud
+[ 3757] Zaka: one needs actual DEPTH to the fucking game system and mechanics
+[ 3001] Shimbaa: tetsu
+[ 3054] Mathom: daet
+[ 3001] Romani: free cash: kill yourself at tetsuo and sac your body for 210 silver (indefinately)
+[ 3033] Beatumz: 20*sub
+[16517] Hisan: If you're carrying more weight than you're supposed to, and most of it is in silver. You can drop the silver, get however much money is on the mob you're killing, drop it, and then pick it up all as one thing, and carry as much as is there
+[ 3014] Mayaka: baa
+[ 6624] Azryh: the sign!
+[ 3009] Kakeru: The all.<item> thing seems to be buggy, it didn't work for me almost all times, I had 10+ white potions and the put all.white back didn't work. I hope you IMMs receive this, thanks :p
+[ 3018] Celeraya: What is the point of AFK mode? All it really does is give you sipmathetic (if they chose to) immunity from pks, and make your display <AFK>.
+[ 6500] Endurielle: auction is doing something strange - i had 62 gold, bet 110, and then it sold me the item and still had 62 gold <none in bank>
+[16171] Romani: if you die and are at near max TNL you will gain EXP
+[23548] Mayaka: baa
+[16570] Hisan: you can use the push/drag command to move around without using mv points...I'm assuming this is a bug
+[ 3009] Kuno: 5 sub
+[ 3033] Olinkara: I made a potion of 'armor' with the brew skill, thing is that it listed the potion in my inventory as magic mushroom, though syntax to get it was vial
+[ 3054] Olinkara: My old password that got nulled was jalad... changed to something else now..
+[ 3054] Zane: two handed weapon can't be equipped if holding item, but item can be held while 2-hand weapon is equipped
+[ 3170] Romani: Please report old password with bug.   what the heck does this mean?
+[ 3054] Roque: monk
+[ 3054] Roque: monk
+[ 9627] Notik: in the repair shop of NT it says to reapair an item, give it to the guy behind the counter.  there is not a guy behind a counter.
+[ 3001] Notik: if u are in the air, and you can't fly, u float in the air, u dont fall
+[ 3258] Notik: the descriptions of places dont appear unless u look around
+[ 3001] Notik: n/m my bug
+[12510] Notik: i do not have the pass door spell, but i end up going through doors and walls
+[ 3368] JinK: "HELP QUEST" doesnt work
+[16578] Zane: auction min bid did not work
+[26011] Xante: the to in "to busy" in the casting anger when you have concentrate on should be too : P
+[ 3007] Govandra: Can't read the sign in the Inn. gives SIGNet righ description instead.
+[ 3170] Araziel: lart
+[  646] Kemrek: girl
+[ 3008] Reina: barius]
+[ 3008] Reina: barius
+[ 3170] Alishya: tao
+[ 3334] Xjsu: You may already know of this one, but there is a bug about picking up a pile of coins on the ground; even if it's more than your weight allowance, you can pick them up: so if you are other weight from coins; drop what you carry, get coins from the co
+[ 1200] Noxas: to
+[ 3608] Corkpyre: The dusty skeletons in the graveyard are mobs, yet I'm carrying two of them in my inventory.
+[ 9623] Jedeth: Witch's Brew in Thalos not working...
+[ 3035] Naji: The questmaster seem to be giving out impossible quests. I recently was ordered to find an object in mud school when I was level 15.
+[ 3054] Chiats: bug bug bug *squash*
+[ 3054] Delemir: Check out lore... won't let you examine contents of bags once you learn it
+[ 9410] Koque: When you're firebreathed and in a group with other chars, you can see who says what.  I'm not sure if it does that when blind, but I'm guessing it does.  You shouldn't be able to see who says what on group tell because when you're blind/firebreathed,
+[ 9410] Koque: list
+[ 9410] Koque: Oopsies.  =p
+[ 3054] Buriasu: lighthawk eq. eq that can morph into other eq - sword to shield, etc. wouldn't be hard at all. just create a thing that drains maybe 700 mana, and changes the wear loc of the obj
+[26006] Batanen: Suzuran is one. Well, more like a pest.  Permission to use newspaper , sir?
+[ 3054] Buriasu: make a friggin new info command, or change help bug typo
+[ 3054] Buriasu: jump command, like dragoons. jump out of combat for a round, and then, come back, with mass damage. like a powered backstab. a miss will splatter a random mob in the room, and stun the user. massive miss lag, and round lag. easy to code.
+[16815] Kitaro: Got logged off came back full eq but light source doesnot work was in a fight lost 600 exp
+[ 3334] Kitaro: happened again 11 minutes later at 1:56pm CDT 450exp lost
+[ 3007] Bloth: When you play the song Iris at the Kabuto Inn, it doesn't finish the song
+[ 9523] Chumirro: uhmm whenever someone else is fighting someone and you try to push one of them it says (your name) is fighting wait your turn. . . .!!!
+[ 3170] Bloth: You can cast cry and fear and prolly other maladiction spells on mobs that are immune to magic, such as Yang'tou.
+[ 3035] Kydman: Locate object shows a bunch of mobs with leather backpacks and sailormoons yet upon killing all of them they have none.
+[ 3360] Bloth: I typed c 'gate' spy to gate to someone to join then in killing smurfs and I gate to a beggar, and one of his keywords was spy, and he was the only one
+[ 3001] Diaseraph: recall 2s30e3n2d8n3e going south from this point will take you back to the same room
+[ 3001] Rezelis: tetsuo
+[ 3170] Zekk: list
+[ 3745] Valius: All channels can be turned off with a new character, with the exception of OOC - that requires being level 2 before you can shut it off.
+[ 3759] Valius: Nasty bug; during the creation of a customized dragonkin warrior, we removed the Warrior Default package. The sword skill is, according to info warrior basic, covered no matter what. However, after removing warrior default, when we got prompted to ch
+[ 3759] Valius: More detail on that bug. Sword and Third Attack are both covered in Warrior Basic and in Warrior Default. We added and removed Warrior Default, which put the sword and third attack skills back up on the list to add. It actually removed basic skills t
+[ 3759] Valius: more detail; sword and third attack are both part of warrior basic and default. by adding default and removing it, you remove sword and 3rd attack from warrior basic as well - shouldn't be able to remove a basic skill.
+[ 3009] Valius: hunger/thirst. If you go hungry and thirsty, and then drink a lot from the fountain, you wind up full with your thirst cured. At that point you can't eat to cure your hunger and will occasionally lose hp until you get unfull enough to eat something.
+[ 3758] Crix: I don't know if this is intentional but there seems to be a problem with the vampire race, whenever I feed it doesn't quench my thirst and hunger but regular food does.
+[13124] Aragos: slayers spells are gettin a bit random on damage, it varies from desolates to unspeakables on unsanced mobs, both ra tilt and doragu, doragu does even less
+[ 8567] Cosmic: When you cast blind and fail... it doesn't have a cout message.
+[ 3170] Cosmic: When I gated away in middle of battle, right after the questmaster it said:
+[ 3170] Cosmic: "A cloaked section agent has a few scratches."
+[ 3170] Cosmic: + Then after my prompt: The kendo officer screams 'PROTECT THE INNOCENT!! BANZAI!!
+[ 3170] Cosmic: + and below that: A cloaked section 6 agent has a few scratches. Sound screwy.
+[ 9404] Ryadel: auto-damage -- the damage percentage is calculated before damage is actually applied. isn't that backwards?
+[ 3040] Kydman: Earthquake spell doesn't hit any mobs even when fighting them
+[ 3008] Ryadel: demon bracers id as having 1 vs magic; midnight blue bracers as 0 vs magic; yet wearing 2 demon bracers leaves me very well armored, whereas wearing two midnight blue bracers leaves me superbly armored vs magic. eh?
+[16545] Ryadel: why's there a huge lag whenever you get an item, from the ground or from your backpack or whatnot? really interrupts game flow
+[ 3758] Starlette: Gothrel
+[ 9982] Alerik: If you auction something and its put in the list and you quit before its being sold you neither get the gold for it or if no one's bids on it, the item just disappears!
+[ 9982] Alerik: So I would like to be rembursed for 20 gold...nvrmnd I really don't care about the 20 gold
+[ 3700] Kyrlin: when customising vampire ninja, choosing only ninja default results in no weapon to choose and thus a bug
+[ 3011] Kyrlin: the standard issue neck guard and jacket are the wrong types, need's to be swaped, either that or I'm bugged
+[17032] Sythar: DP tries to hit the first player in the room without target.
+[ 3001] Sangoku: adm
+[ 3740] Vrodo: You block the boar's attack with your shield. <----- but I havnt shield block now :(
+[ 5236] Shiela: Feed is strong during the day and weak at night
+[ 3170] Shiela: If you delete and you were in a clan, and you recreate, you're still in that clan :p
+[ 9202] Leinad: hi there.... well i just got disconnected (don't know how) and when i reconnected i appeared somewhere else! (i was sleeping at the altar in neotokyo and appeared in a mountain path). weird isn't it?? anyhow, this is a great MUD... greetings
+[13519] Shiela: Keep getting quests to unconnected areas
+[13519] Shiela: Gwah, please remove the midgaard/old thalos area or reconnect it. Its just floating around and lowbies get quests there but can't reach the area.
+[13519] Shiela: %S for prompt shows improper symbols
+[13519] Desh: althena
+[ 3054] Kissandra: idea
+[ 3374] Glacious: sometimes when i look around in the donation room, at the end i see a whole bunch of stuff that isnt there, sometimes i get the list of players oline, etc
+[ 3001] Pwept: to
+[ 1119] Bedlam: rofl.. uh.. i attack shiriff A, shriff B banzais! and attacks me... and from what i can tell, shiriff C banzais and atatcks *B* for initiating an attack on "innocent" me... =8)
+[13519] Althena: kuami
+[ 3007] Katie: jug
+[ 9400] Maiyu: Missing a help file for replay.
+[ 3054] Kurokishi: magic.c spell_teleport(): When a player is teleported by a mob, please set him stop_fighting so he doesn't get aggressed by any spec_guards at the destination.
+[13519] Kurokishi: Ninja default group contains dodge, which ninja basics already contains.
+[13519] Kurokishi: Ninja default group contains dirt kicking, trip, and hide, which ninjas cannot learn.
+[ 3054] Nakitama: I just duplicated a pitck-black flaming longsword while I was asleep-- thought you might wanna know.
+[ 3054] Reina: PKQst: Tetsuo pulls his weapon from Iverson's bowels...marinara sauce anyone?You hear someone's death cry.
+[ 9563] Kurokishi: fight.c multi_hit(): Please double-check to make sure the code to check for fourth attack doesn't accidentally check the third attack skill; I seem to be landing too many attacks.
+[10005] Kurokishi: fight.c multi_hit() : one of the if(ch->fighting...) checks designed to abort if the victim is dead short-circuits when circle is used against a victim other than ch->fighting
+[ 3334] Kurokishi: act_obj.c, in wear_obj(): Loophole: It's possible to wield a primary weapon lighter than the secondary, even though it's not possible to dual wield a secondary heavier than the primary.
+[ 9985] Kurokishi: Off-hand vorpal weapons seem to never make the check for glowing blue and vibrating-- is this so?
+[ 9959] Kurokishi: Er, forget the line about dual-wielded vorpals, I was mistaken.
+[12246] Kurokishi: When primary-wielded weapon is disarmed, the dual wielded weapon seems to start using the hand-to-hand skill and doing no damage if no hand-to-hand skill...
+[ 9403] Anya: write
+[ 9403] Anya: spelling error in gutter punk description 'their' is incorrectly spelled as 'thier'
+[ 3716] Yarran: monster in west cage of MUD school gives two cloaks, bracer is received singly instead of in a pair
+[12036] Manuke: In one of the recent changes, the Jujin Kai beast woman was affected. Now when she loads the dagger, it instantly shocks her and she drops it, allowing just anyone to come along and pick it up. The easiest 2 solutions I can think of offhand are to ma
+[12036] Manuke: read
+[12036] Manuke: Sorry, bad night. Buggered earlier message. Jujin kai ideas  1)Make mob evil 2)remove anti-neutral flag from dagger 3)have her hold instead of wield it. Thank You for your patience.
+[ 3054] Yarran: There's no race help on dragonkin
+[ 3005] Raziel: cleaner
+[ 3035] Aeron: tas
+[ 9410] Drakko: It says I'm carrying 1645 lbs of stuff when I'm not even close to that!
+[11008] Cygrai: san
+[16533] Greiger: res
+[16533] Greiger: oops I guess bug isn't a social
+[ 8304] Fatetaf: sanali
+[ 8304] Fatetaf: sanali
+[ 8304] Fatetaf: sanali
+[12610] Kydman: Inside the North-Eastern Watch Tower in Moon Kingdom: down runs in a circle
+[10514] Yombo: gold
+[10514] Yombo: gold
+[ 3746] Wong: can hold things, and use two handed weapons, and long as you equip the weapon first, and then hold item/shield
+[16591] Jian: marhault
+[ 3000] Yombo: 2.ruger
+[ 7918] Yochi: If you own a pet and climb the Chain of Naris, your pet becomes stuck. Maybe I'm just not figuring out how to get it down, but I've tried everything to no avail. I guess it might be kind of a bug, sorry if it isn't.
+[ 3721] Penetra: list
+[ 3374] Manikai: Dark Elves can't dual wield
+[ 9513] Manikai: sometimes when 'open gate' is typed, the game replies that it is not a container.  Other times it works fine.
+[ 3714] Lunik: i ma in the w cage front of the cage room and i am stuck. allthough i see the east (cage room)i can't go. when i type xeit i sais Possible exit NONE!!!
+[ 3170] Zekim: Report
+[ 3170] Zekim: It will say you may now quest again, but then when you go to recieve a quest it will say there is no quest for you at this time

@@ -1,0 +1,1377 @@
+#AREADATA
+Name Furkinkin~
+Builders $sirus~
+VNUMs 14201 14339
+Credits Sirus~
+Security 5
+End
+
+
+
+#MOBILES
+#14327
+Kaelie Brem~
+Kaelie Brem~
+Kaelie Brem, the Inn hostess, stands here smiling.
+~
+This brightfully cheery female smiles with bright eyes and looks at you.
+Her green shirt with white lace trim across the bosom blends well with
+her silky green hair that casades down her back. The green dress she wears
+dances around her knees as she grabs for some drinks.
+~
+High-Elf~
+AB Jc 600 0
+20 25 10d10+1000 10d10+1000 10d10+1000 slap
+2 2 2 2
+0 AB BMO K
+stand stand none 25
+AHMV ABCDEFGHIJK medium unknown
+#14334
+Ukyo Kuonji~
+Ukyo~
+Ukyo Kuonji stands here, cooking up some cuisine.
+~
+A kawaii younf female wearing a purple shirt and black spandex
+pants stands here, cooking up some of her famous food. A shoulder
+strap rests over her shoulder which carries a number of kitchen
+gear, and slung over her shoulder is a giant spatula.
+~
+Human~
+AB 0 500 0
+20 200 10d10+1000 10d10+100 10d10+1000 slap
+2 2 2 2
+0 AB 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium unknown
+#14337
+Gwynian Grunthor~
+Innkeeper Gwynian~
+Grunthor Gwynian, the Inn Keeper, stands here waiting to help you.
+~
+An older man, but still one with great suaveness in his steps
+stands here, dressed in all black with his hair tied back looking
+at the patrons, Mr. Gwynian smiles. He winks at you and then starts
+to mix a drink up.
+~
+Human~
+ABV 0 100 0
+20 10 10d100+1000 10d100+1000 10d100+100 punch
+2 2 2 2
+0 AB 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#14201
+Hyper Cleaning Fluid~
+a bottle of HYPER Cleaning Fluid~
+A bottle of HYPER cleaning fluid rests here.~
+unknown~
+potion 0 AO
+40 'haste' 'poison' 'reserved' 'reserved'
+10 0 7 100
+#14326
+Generic Ring~
+a ring~
+A ring is here.~
+unknown~
+armor 0 AB
+CE CE CE BD 0
+40 2 100000 100
+#14327
+Generic Weapon~
+a dagger~
+A dagger is here.~
+Blade~
+weapon 0 AN
+dagger 10 9 divine 0
+40 5 10000 100
+#14331
+Suite Key~
+suite Key~
+The Aegis Inn Suite here lies here.~
+unknown~
+key P AO
+0 0 0 0 0
+1 1 80 100
+#14333
+Water Bottle~
+water bottle~
+A water bottle is here.~
+unknown~
+drink Y AO
+300 64 'water' 0 0
+1 14 120 100
+#14334
+okonomiyaki pizza~
+okonomiyaki~
+An okonomiyaki pizza sits here, ready to eat.~
+Food~
+food 0 A
+BCE DF 0 0 0
+1 0 25 100
+#0
+
+
+
+#ROOMS
+#14336
+Aegis Backyard~
+The cozy warm glow of the grass has an almost etheral feel to it as any
+kind of light, sun or moon, boounces delightfully across the flora.  There
+is a crystal clear lake that leads to the east and west just up ahead, and
+the great Aegis Inn stands to the south.  
+~
+0 1024 0
+D0
+~
+~
+0 0 14324
+D2
+~
+~
+0 0 14327
+S
+#14337
+Lounge~
+In the immediate front of the the room an oak desk stands, ready for
+people to rent rooms for the night.  Ball walls line the side of the room
+and spacious little booths are neatly tucked away in all corners of the
+area.  There is a staircase that runs to the second floor.  
+~
+0 1032 0
+D1
+~
+~
+0 0 14326
+D4
+~
+~
+0 0 14328
+S
+#14201
+Main Gates of Furinkan High School~
+There is a large steel gate that is set before the main walkway of the
+school.  In the distance, a large white complex can be seen, cascading off
+to the east and west for quite some ways.  There is a lawn present before
+the building, well kept and trim with the green grass shining in harmony
+with the clean atmosphere of the area.  There is a wall a few feet past the
+gate that seems to trim the entire course of the school.  
+~
+0 0 0
+D0
+~
+~
+0 0 14203
+D1
+~
+~
+0 0 14202
+S
+#14202
+Sidewalk~
+To the north of the sidewalk is a large concrete wall that shoots up
+around 10 feet.  It's fairly thick in stature with a set of protruding gate
+links atop of it.  To the west the wall continues along.  
+~
+0 0 0
+D3
+~
+~
+0 0 14201
+S
+#14203
+Walkway~
+There is a chipper atmosphere in the air all around.  The grass is well
+kept and quite soft to the touch.  Benches and tables are placed all around
+the lawn and appear to be well used, due to wear and tear from the ages
+apperent in their architexture.  
+~
+0 0 0
+D0
+~
+~
+0 0 14208
+D1
+~
+~
+0 0 14204
+D2
+~
+~
+0 0 14201
+D3
+~
+~
+0 0 14205
+S
+#14204
+The lawn~
+The grass shines across the spanning lawn, with a row of trees planted
+along the wall of the south and the building to the north.  The complex that
+stands a few stories high directly to the north seems to be clean and well
+made.  The parimeter is gated off to the east, and back to the west, there
+looks to be a walkway.  
+~
+0 0 0
+D3
+~
+~
+0 0 14203
+S
+#14205
+The lawn~
+There is a bench that rests here, which looks to have many hearts and
+other informal designs cut into it along with the names of several boys and
+girls.  There is a large building to the north that stands several stories
+high.  To the west, more tables and benches are present, along with a large
+tree that shades quite a bit of the courtyard.  
+~
+0 0 0
+D1
+~
+~
+0 0 14203
+D3
+~
+~
+0 0 14206
+S
+#14206
+The lawn~
+The most dominant sight in this section of the yard is the very tall tree
+that shoots up a few stories in height.  There looks to be some leaves that
+have recently fallen from it that rest peacefully on the ground.  There are
+a couple of tables spread out with the carvings of mischevious youth on
+them.  
+~
+0 0 0
+D1
+~
+~
+0 0 14205
+D3
+~
+~
+0 0 14207
+S
+#14207
+The outer courtyard~
+Here, there is a section of the wall that veers off to the north, cutting
+off any travel to the west.  The grass here seems to be a little more kept,
+due to the line of flowers that line the wall.  The building to the
+north-east turns and heads off into the northbound direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 14206
+S
+#14208
+The steps~
+There is a large set of stairs that lead up to a set of quadruple doors
+to the north.  Architexture on these stairs appears to be fairly well dated,
+but with ease well cared for.  They are clean and have a smooth sheen across
+them.  The building before spans up a few stories in height.  
+~
+0 0 0
+D0
+~
+~
+1 0 14209
+D2
+~
+~
+0 0 14203
+S
+#14209
+Main corridor~
+There is a large hallway that begins here which streches out to the east
+and west.  Directly ahead is a bullitin board which has all the names of the
+teachers, which location they are in, as well as a list of students programs
+they run.  Also, there is a list of dates of important activity.  
+~
+0 0 0
+D1
+~
+~
+0 0 14213
+D2
+~
+~
+1 0 14208
+D3
+~
+~
+0 0 14210
+S
+#14210
+The hallway~
+The hallway here is lined with lockers with numbers all on them.  Some of
+the lockers have explicit writings on them which look to be freshly written.
+There are also a few which look to have some kinds of notes sticking out of
+them.  The hall continues off to the east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 14209
+D3
+~
+~
+0 0 14211
+S
+#14211
+The hallway~
+The rows of lockers stop off to allow a few doors leading into classrooms
+to be present.  On the wall there is a picture of a student smiling, with
+the sub-heading of 'vote me for class president'.  
+~
+0 0 0
+D0
+~
+~
+0 0 14212
+D1
+~
+~
+0 0 14210
+D3
+~
+~
+0 0 14220
+S
+#14212
+A Classroom~
+There is a blackboard on the western wall of the room which reads 'Math
+90' on it.  The tables and desk all seem to have copies of mathmatics books
+on them.  
+~
+0 0 0
+D2
+~
+~
+0 0 14211
+S
+#14213
+The hallway~
+There is a row of student lockers that span across here.  This looks like
+it is the junior hall since there is quite a lot of posters that seem to
+highlight the junior class.  On the floor, there is a few cracks which look
+like they might have stemmed from some sort of battle that has taken place. 
+~
+0 0 0
+D1
+~
+~
+0 0 14214
+D3
+~
+~
+0 0 14209
+S
+#14214
+The hallway~
+To the north, there looks to be a storage closet with janitor tools.  To
+the west, the hall spans onward, and to the east, there is a staircase
+leading up.  
+~
+0 0 0
+D0
+~
+~
+1 0 14215
+D1
+~
+~
+0 0 14216
+D3
+~
+~
+0 0 14213
+S
+#14215
+Janitor's Closet~
+In this dimly lit room, the spacious walls are lined with industrial
+shape cleaning liquids and cleaning untinsels nealy lined up.  There is also
+a drain on the floor which appears to be used.  
+~
+0 0 0
+D2
+~
+~
+1 0 14214
+S
+#14216
+The staircase~
+The stairs here lead upward towards the second story of this school
+building.  The stairs themselves are neatly kept.  There is a window that
+lines the stairs which gives a nice view of everything outside.  
+~
+0 0 0
+D3
+~
+~
+0 0 14214
+D4
+~
+~
+0 0 14217
+S
+#14217
+The staircase~
+The stairway from this height is a pretty substancial drop.  The window
+looking outside is large and clean, giving a clear view of much of the city.
+To the west, the school continues on in a spanning hallway.  
+~
+0 0 0
+D3
+~
+~
+0 0 14218
+D5
+~
+~
+0 0 14216
+S
+#14218
+The hallway~
+The hallways here is lined with all sorts of posters from the art
+department.  It seems that many of the males here seem to appreciate the
+female form when it comes to artwork.  Manga art seems to be fairly in
+style, as well, since many of the peices are influenced by media such as
+video games and other forms of entertainment.  
+~
+0 0 0
+D1
+~
+~
+0 0 14217
+D3
+~
+~
+0 0 14219
+S
+#14219
+The hallway~
+In this section of the hallway, there are cracks in the walls freshly
+lined with plaster.  There are what look like punch marks in lockers that
+look to have come from some seriously angered person.  The white tiled floor
+is is creased with hairline fractures and cracks.  
+~
+0 0 0
+D0
+~
+~
+0 0 14242
+D1
+~
+~
+0 0 14218
+D3
+~
+~
+0 0 14232
+S
+#14220
+The hallway~
+The hallways that heads off to the west stops here, and continues on to
+the north.  To the east, the hall keeps going on as far as the eye can see. 
+~
+0 0 0
+D0
+~
+~
+0 0 14221
+D1
+~
+~
+0 0 14211
+S
+#14221
+The hallway~
+To the west, there is a wall that has a large picture window built into
+it.  The view overlooks the outer courtyard where the large tree stands tall
+in the middle of it.  To the north, the hallways continues on and swings
+around to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 14222
+D2
+~
+~
+0 0 14220
+S
+#14222
+The hallway~
+This section of the hallways seems to have a row of doors leading in and
+out of classrooms on it.  To the north, there is a door that leads outside
+into the back area of the school.  
+~
+0 0 0
+D1
+~
+~
+0 0 14223
+D3
+~
+~
+0 0 14221
+S
+#14223
+The hallway~
+In this section of hallway, there is a computer lab open to the south. 
+The sounds of humming PCs can be heard by any passerby.  To the north there
+picture window shows a picture of the fitness courtyard.  
+~
+0 0 0
+D1
+~
+~
+0 0 14226
+D2
+~
+~
+0 0 14224
+D3
+~
+~
+0 0 14222
+S
+#14224
+Computer Lab~
+In this labratory, there is row after row of personal computers lined up.
+On the wall, there is a whole five section rack of software available to
+use, not to mention video games to play.  All of the computers are on a
+network, which is connected to a large HUB in the rear of the room.  
+~
+0 0 0
+D0
+~
+~
+0 0 14223
+D1
+~
+~
+0 0 14225
+S
+#14225
+Technician's Lab~
+In this small room, there are a few personal computers going, and no
+visable sign of light coming in from any direction.  With the blue glow of
+the monitors, the walls behind are lit up.  The walls is lined with posters
+of Sailormoon, Card Captors, and various other shojou anime.  In the air,
+the tunes of Rainbow Brite are playing.  
+~
+0 0 0
+D3
+~
+~
+0 0 14224
+S
+#14226
+The Rear Entrance~
+There is a door to the north which leads outside to the fitness area.  To
+east and west, the hallway continues on.  To the south, there is a row of
+posters that show no viable information.  
+~
+0 0 0
+D0
+~
+~
+0 0 14231
+D1
+~
+~
+0 0 14227
+D3
+~
+~
+0 0 14223
+S
+#14227
+The hallway~
+On the walls, there are all sorts of lockers that hail to the freshmen. 
+The smell of adolesence is almost in the air itself.  To the east are the
+restrooms in the area, and to the west there is a doorway outside.  
+~
+0 0 0
+D1
+~
+~
+0 0 14228
+D3
+~
+~
+0 0 14226
+S
+#14228
+Common area~
+In the middle of this small part of the school, there are a couple of
+tables that sit where students can sit and rest, or even read if need be.  A
+KIOSK sits against the wall with student information on it.  To the east and
+south, there are the restrooms for the students.  
+~
+0 0 0
+D1
+~
+~
+0 0 14230
+D2
+~
+~
+0 0 14229
+D3
+~
+~
+0 0 14227
+S
+#14229
+Girl's Restroom~
+In this lush bathroom, the stalls line the wall with pearly white stall
+doors.  The sinks are plentiful and very clean.  Against the wall there is a
+machine to cater to girl's needs.  In the corner there is also a small
+little couch to sit in.  
+~
+0 0 0
+D0
+~
+~
+0 0 14228
+S
+#14230
+Boy's Restroom~
+The smell of cigarette smoke seems to be pretty high.  On the few stall
+doors, there is all sorts of names and phone numbers written down, all
+pointing to the deduction that this is where prostites must write down their
+information.  The sinks are all flowing with paper towels and the urinals
+all seem to the used to ash trays.  
+~
+0 0 0
+D3
+~
+~
+0 0 14228
+S
+#14231
+Outside Walkway~
+The air outside here smells a little bit like resturants since behind the
+school there is a row of eateries that commonly cater to the students during
+their lunch hour.  To the north and east, a set of courts and tracks are
+sprung up, ready for the students to use during physical education classes. 
+~
+0 0 0
+D2
+~
+~
+0 0 14226
+S
+#14232
+The hallway~
+The large picture window to the south seems to show a grand view of the
+front lawn of the high school, which carries the view clear into the city. 
+To the north, an open classroom is present, and to the east and west lockers
+continue to line the hallway.  
+~
+0 0 0
+D1
+~
+~
+0 0 14219
+D3
+~
+~
+0 0 14233
+S
+#14233
+The hallway~
+On the walls here, there is writing which points a bunch of arrows to the
+north.  There is 'l337' speak written all over next to the arrows, which
+seems to read different things that make no sense.  
+~
+0 0 0
+D0
+~
+~
+0 0 14243
+D1
+~
+~
+0 0 14232
+D3
+~
+~
+0 0 14234
+S
+#14234
+The hallway~
+To the east, the wallway continues along.  To the north the hallway archs
+and continues to go on.  The tile in this section of hall looks to have been
+completely crashed through, and a lot of reconstruction work has been done
+on it.  
+~
+0 0 0
+D0
+~
+~
+0 0 14235
+D1
+~
+~
+0 0 14233
+S
+#14235
+The hallway~
+To the north, there is a sign with a picture of Principal Kuno that reads
+'MAKE SURE YOUR TUCK IN YOUR POCKETS OF YOU WILL RECIEVE DETENTION'.  To the
+east, the picture window overlooking the open courtyard is a tad bit dirty
+from handprints being trapsed all over it.  
+~
+0 0 0
+D1
+~
+~
+0 0 14236
+D2
+~
+~
+0 0 14234
+S
+#14236
+Senior Hall~
+~
+0 0 0
+D1
+~
+~
+0 0 14237
+D2
+~
+~
+0 0 14256
+D3
+~
+~
+0 0 14235
+S
+#14237
+Senior Hall~
+~
+0 0 0
+D1
+~
+~
+0 0 14238
+D2
+~
+~
+0 0 14257
+D3
+~
+~
+0 0 14236
+S
+#14238
+Senior Hall~
+~
+0 0 0
+D1
+~
+~
+0 0 14239
+D2
+~
+~
+0 0 14259
+D3
+~
+~
+0 0 14237
+S
+#14239
+Senior Hall~
+~
+0 0 0
+D1
+~
+~
+0 0 14240
+D2
+~
+~
+0 0 14258
+D3
+~
+~
+0 0 14238
+S
+#14240
+Stairway~
+~
+0 0 0
+D3
+~
+~
+0 0 14239
+D4
+~
+~
+0 0 14241
+S
+#14241
+Stairway~
+~
+0 0 0
+D3
+~
+~
+0 0 14244
+D5
+~
+~
+0 0 14240
+S
+#14242
+Ms. Hinako's room~
+In this playfully decorated class room, all the desks are turned in
+interesting ways, seeminly unfit to actually teach in.  On the blackboard,
+there are various doodles that lined across it.  The teacher's desk is
+composed of cute little stuffed animals, which only compliment the vast
+amount of pink books on the floor.  
+~
+0 0 0
+D2
+~
+~
+0 0 14219
+S
+#14243
+Great Teacher Largo's room~
+On the walls, there is a vast amount of writing with seem to have started
+at the blackboard but continued to stretch all over the room.  Everything in
+here is written in a broken 'l337' language, even though the blackboard says
+'3ngl1sh 101'.  In the corner, there are a few hotwired PCs which look to
+have been overclocked at 10 times their nomral compacity.  
+~
+0 0 0
+D2
+~
+~
+0 0 14233
+S
+#14244
+Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 14241
+D2
+~
+~
+0 0 14251
+D3
+~
+~
+0 0 14245
+S
+#14245
+Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 14244
+D3
+~
+~
+0 0 14246
+S
+#14246
+Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 14245
+D2
+~
+~
+0 0 14253
+D3
+~
+~
+1 0 14247
+S
+#14247
+Teacher's Area~
+~
+0 0 0
+D1
+~
+~
+1 0 14246
+D2
+~
+~
+0 0 14254
+D3
+~
+~
+0 0 14248
+S
+#14248
+Teacher's Area~
+~
+0 0 0
+D1
+~
+~
+0 0 14247
+D3
+~
+~
+0 0 14249
+S
+#14249
+Teacher's Area~
+~
+0 0 0
+D1
+~
+~
+0 0 14248
+D2
+~
+~
+0 0 14250
+S
+#14250
+Principal Kuno's Office~
+~
+0 0 0
+D0
+~
+~
+0 0 14249
+S
+#14251
+Library~
+~
+0 0 0
+D0
+~
+~
+0 0 14244
+D3
+~
+~
+0 0 14252
+S
+#14252
+Library~
+~
+0 0 0
+D1
+~
+~
+0 0 14251
+D3
+~
+~
+0 0 14253
+S
+#14253
+Library~
+~
+0 0 0
+D0
+~
+~
+0 0 14246
+D1
+~
+~
+0 0 14252
+S
+#14254
+Teacher's Lounge~
+~
+0 0 0
+D0
+~
+~
+0 0 14247
+D3
+~
+~
+0 0 14255
+S
+#14255
+Teacher's Lounge~
+~
+0 0 0
+D1
+~
+~
+0 0 14254
+S
+#14256
+Art Lab~
+~
+0 0 0
+D0
+~
+~
+0 0 14236
+D1
+~
+~
+0 0 14257
+S
+#14257
+Art Lab~
+~
+0 0 0
+D0
+~
+~
+0 0 14237
+D3
+~
+~
+0 0 14256
+S
+#14258
+Science Lab~
+~
+0 0 0
+D0
+~
+~
+0 0 14239
+D3
+~
+~
+0 0 14259
+S
+#14259
+Science Lab~
+~
+0 0 0
+D0
+~
+~
+0 0 14238
+D1
+~
+~
+0 0 14258
+S
+#14322
+Hidden Grove~
+There is a small wooden house built here, surrounded by large trees.  All
+along the ground there is exercise gear.  Oddly, there is also enough
+weapons here to support a small militia, and along the walls there are
+practice dummies and several bails or hay which have been beaten into little
+piles of grain.  This must be some sort of hidden war prep area.  
+~
+0 1024 0
+D1
+~
+~
+0 0 14323
+S
+#14323
+Dock~
+This massive oak dock hovers on planks over the waters of the lake. 
+There are several little bird nests that sit in the trees around the area,
+and it seems like some other small animals make their homes in this area. 
+To the west there is a large row of trees and to the south-east is the
+Aegis.  Across the lake there is a large building.  
+~
+0 1024 0
+D1
+~
+~
+0 0 14324
+D3
+~
+~
+0 0 14322
+S
+#14324
+Lakeside~
+The bank of the lake stands to the north.  Little ripples of water seem
+to wash up on the bank of ginger colored sands lining the clear waters.  The
+smell of rainfall and honey are in the air, caused by the lovely serenity
+and clarity of the lake.  To the south stands the Aegis Inn, and woods
+continue onward to the west.  
+~
+0 1024 0
+D2
+~
+~
+0 0 14336
+D3
+~
+~
+0 0 14323
+S
+#14325
+Lawn before Aegis~
+The shiny green grass before the massive Inn to the north seems to emit a
+subtle, easy going aura to it.  Northbound, the Aegis Inn stands with two
+stacked stories of well constructed oak.  The Inn itself has a easy woodsy
+look to it from the outside, and the windows looking inside seem to be made
+of crystaline pressed glass which gives it a slight reflective property to
+it.  The subtle sounds of a lake are heard to the far north.  
+~
+0 1028 2
+D0
+~
+~
+0 0 14326
+D2
+~
+~
+0 0 14333
+S
+#14326
+`6A`^e`&g`^i`6s `8I`7n`&n``~
+The common area in the forfront of the Aegis Inn is quite large and
+rather impressive due to a sleek design that segways the sections in the
+room easily.  There is a bar counter to the north, with a massive mirror
+behind the back wall in which a bottle of everything seems to be placed. 
+The black painted oak counter glistens a little bit, as does the stools and
+tables in the area.  To the west side of the room there are booths made of
+the same glossy black oak.  The boothes themselves are purposely poorly lit
+and private.  Against the east wall there is a fireplace with a nice rug
+before it, followed by two cozy chairs that look the fireplace over.  There
+is also a stairway up which passes by the harrowing rafters above.  
+~
+0 1032 0
+D0
+~
+~
+0 0 14327
+D2
+~
+~
+0 0 14325
+D3
+~
+~
+0 0 14337
+D5
+~
+~
+0 0 14329
+S
+#14327
+Back Room~
+On the wall next to the door there is a sign that reads 'Employee Area'
+on it.  The back room room is rather large with a series of interconnected
+cart shelves all around, all holding some sort of food product or beverage. 
+The walls are clean white, unlike the rest of the Inn, and the counters are
+well organized next to the stoves and ovens.  To the north a door leads
+outside and to the common area lies directly south.  
+~
+0 1032 0
+D0
+~
+~
+0 0 14336
+D2
+~
+~
+0 0 14326
+S
+#14328
+Aegis Inn, Second Floor~
+The hallways lead off into several directions where guest Inn rooms are
+available for rent to the many patrons of the city.  The walls are lined
+with paintings of heroes from the ages, and there are small tables in the
+hall which hold on them exotic flower blossoms in cast marble planters.  An
+access stairway upward leads to the roof, and below there is the common area
+of the Inn.  
+~
+0 1032 0
+D0
+~
+~
+0 0 14330
+D1
+~
+~
+1 14331 14331
+D4
+~
+~
+0 0 14332
+D5
+~
+~
+0 0 14337
+S
+#14329
+Basement~
+In this basement, in a small section to the north, there is a set of
+four water heater tanks and all of the electrical panel to run the Inn.  To
+the south of the spacious basement, there is a place where row after row of
+liquer and wine bottles are lin in a near retentive manner on the cast iron
+racks.  The pipes lining the ceiling are also piping hot to be under.  
+~
+0 1024 0
+D4
+~
+~
+0 0 14326
+S
+#14330
+Bedroom~
+Subtle oak walls give a gentle feel to the room.  Added with the effect
+the oak dressers and end tables, the room has a down to earth tone to it.  A
+desk stands in the corner, ready to use by any patron who rents out the
+room.  It appears the room is well kept due to the fact it's very tidy and
+organized.  
+~
+0 8 0
+D2
+~
+~
+0 0 14328
+S
+#14331
+Aegis Inn Suite~
+The suave atmosphere in the room gives a calming effect that makes the
+aura in the room especially pleasant.  There is a hot tub resting near the
+huge picture window, which leads into a nice big balcony overlooking the
+lake.  The big cozy looking bed rests against the wall, with large black
+cover blankets sprawled over it.  
+~
+0 1544 0
+D3
+~
+~
+1 14331 14328
+S
+#14332
+Aegis Inn Rooftop~
+The rooftop up here sports a sun window which has a hatch on it that
+leads into the common area of the Inn.  The stairway entry near the west
+side of the roof leads back down to the second floor of the Inn.  The view
+up here gives a clear picture of the glistening lake to the north, and to
+the south there is a good voyuer of the park.  
+~
+0 1024 0
+D5
+~
+~
+0 0 14328
+S
+#14333
+Sidewalk~
+The sidewalk in this area is a little bit scrapped from what looks like
+the brushes of giant cleaning machines.  There is a pathway that leads to
+the north where the outline of a giant building stands, with a sign out
+front that appears to say Aegis in.  To the west, the sidewalk continues on
+towards another rural area.  
+~
+0 0 0
+D0
+~
+~
+0 0 14325
+D1
+~
+~
+0 0 3043
+D3
+~
+~
+0 0 14335
+S
+#14334
+Ukyo's Resturaunt~
+This quant little shop is filled wall to wall with little curios and
+knick-knacks passed on from the generations in typical Japanese tradition. 
+There is a bar set up for people to sit down and order something to eat. 
+The bamboo chairs and tables around the room have sets of different sauces
+to add to your dishes.  
+~
+0 1024 0
+D0
+~
+~
+0 0 14335
+S
+#14335
+Sidewalk~
+The scratchy sidewalk stretchs around the block here.  To the north the
+lawn carries on in several directions, with the lake to the north off in the
+distance.  The scent of hot, delicious japanese food is flowing through the
+air, coming from the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 14333
+D2
+~
+~
+0 0 14334
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 14208 0 1
+D 0 14209 2 1
+D 0 14214 0 1
+D 0 14215 2 1
+D 0 14246 3 1
+D 0 14247 1 1
+D 0 14328 1 2
+D 0 14331 3 2
+M 0 14337 1 14337 1
+G 0 14331 0
+O 0 14201 0 14215
+M 0 14327 1 14327 1
+G 0 14333 0
+M 0 14334 1 14334 1
+G 0 14334 0
+S
+
+
+
+#SHOPS
+14337 0 18 0 0 0 100 100 0 23
+14327 0 17 19 0 0 100 100 0 23
+14334 0 19 17 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

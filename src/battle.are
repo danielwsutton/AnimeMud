@@ -1,0 +1,1355 @@
+#AREADATA
+Name Devil's Battle Cave~
+Builders None~
+VNUMs 17000 17099
+Credits {70 90} Kyrn    Devil's Battle Cave~
+Security 9
+End
+
+
+
+#MOBILES
+#17000
+spectator battle cave~
+A spectator~
+A battle cave spectator is here, cheering for the combatants.
+~
+The sound this man is making in front of you is deafening. He screams
+at the top of his lungs for his favorite combatant. He totally
+ignores any advice given by the other spectators to keep his voice down
+and continues to scream in your ear. He stands wearing a nice blue
+baseball cap and a pair of nice looking gray trousers.
+~
+Human~
+ABG DFHOa 0 0
+75 0 70d10+13250 0d0+0 10d7+38 scratch
+-45 -45 -45 -45
+FGJ AB 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#17001
+gambler battle cave~
+A gambler~
+A battle cave gambler is here, waving money in your face.
+~
+This man stands very firm in his seat while he waves frantically a
+money clip filled with bills. Judging by the clothing this man is
+wearing, you can tell that he isn't one in the unemployment lines.
+He pushes you out the way as you block his view of the ring.
+~
+Human~
+ABG DFHOa -200 0
+80 0 70d10+14750 0d0+0 8d11+41 pound
+-50 -50 -50 -50
+CDEGJ AB 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#17002
+white suit guard~
+A security guard~
+A guard dressed in a white suit is here, supervising the fight.
+~
+This man wears a nice pair of shades and holds a portable phone in his
+right hand. He glances at your presence and begins to follow your
+movements with his eyes. You can tell that this man isn't going to let
+out of his sight. He tells you to hurry along and scoots you away from
+him.
+~
+Human~
+ABG DFHOa -500 0
+85 0 80d10+16000 0d0+0 10d9+43 smash
+-55 -55 -55 -55
+DFIJT AB 0 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+#17003
+dhamd champion~
+Dhamd~
+Dhamd sits in his corner, awaiting the bell to ring.
+~
+Dhamd is a man built like a god. Looks like this man has gone through
+months and months of training to where he is right now. He sits
+calmly in his corner, awaiting the bell to ring for round one. Dhamd,
+defending champion of the Battle Cave, glances at you and begins to
+snicker softly as the bell rings.
+~
+Human~
+ABG DFHOa -500 0
+90 0 80d10+17250 0d0+0 9d11+46 crush
+-60 -60 -60 -60
+DEFIJKP AB CDHIO N
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#17004
+egis~
+Egis~
+Egis stands firmly against his corner, awaiting the fight.
+~
+Egis looks like he could weigh more than 5 mac trucks. This man has so
+much body weight that the ring begins to slightly shake as he takes steps
+to his corner. He glares at Dhamd, his opponent, and then at you. He
+begins to burst out in laughter as his eyes leave you. Wonder what he
+was thinking about.
+~
+Human~
+ABG DFHOa -500 0
+90 0 80d10+17250 0d0+0 9d11+46 beating
+-60 -60 -60 -60
+FGIJP AB CDLM NO
+stand stand male 12000
+AHMV ABCDEFGHIJK medium unknown
+#17005
+black suit guard huge man~
+An elite bodyguard~
+A huge man wearing a black suit stands mocking you.
+~
+The bodyguard stands firmly as he pushes you out of this area. He begins
+to mock you, telling you to leave unless you like getting your a$$ kicked.
+His black suit is finely made from a well-known designer and the
+jewelry he wears on his neck and wrist is genuine gold. The idea of you
+leaving comes across your head as he begins to walk rapidly towards you.
+~
+Human~
+ABG DFHOa -400 0
+90 0 80d10+17250 0d0+0 9d11+46 pound
+-60 -60 -60 -60
+DEFGHIP AB C 0
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+#17006
+blue suit personal guard~
+A personal guard~
+A man dressed in a blue suit is here, holding a gun to your head.
+~
+This man isn't no joke. He's standing here with a glock 9 straight at your
+head. I guess you stumbled on the wrong guy or something. He quickly
+tells you to leave or your brain's are going to become splattered all
+over the office walls. He wears a large blue suit and has a shiny neck-chain
+that catches your eye.
+~
+Human~
+ABG DFHOa -500 0
+95 0 90d10+18500 0d0+0 10d10+48 blast
+-65 -65 -65 -65
+DEFJT 0 0 0
+stand stand male 60000
+AHMV ABCDEFGHIJK medium unknown
+#17007
+Sodom personal guard~
+Sodom~
+Sodom, Lee's personal guard is here, awaiting your move.
+~
+Sodom, one of Master Lee's bodyguards stands before you with his arms
+crossed. He looks and laughs at your pitiful stature and begins to
+slowly move towards you. He pounds his fist hard against the palm of his
+hands and he approaches.
+~
+Human~
+ABG DFHOTa -1000 0
+98 0 90d10+19250 0d0+0 11d10+50 charge
+-68 -68 -68 -68
+CDEFGHIJKLP AB DEFG C
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#17008
+gomorrah~
+Gomorrah~
+Gomorrah, Lee's personal guard is here, staring at you.
+~
+Gomorrah, Lee's personal bodyguard stands before you snickering and awaiting
+Master Lee's orders. He nods his head at Lee as Lee tells him something in
+Japanese and then begins to take a couple of steps towards you.
+Obviously Master Lee doesn't really want you around here.
+~
+Human~
+ABG DFHOTa -1000 0
+98 0 90d10+19250 0d0+0 11d10+50 charge
+-68 -68 -68 -68
+CDEFGHIJKP AB DEFG C
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#17009
+master lee~
+Master Lee~
+Master Lee stands here, awaiting his guards to attack.
+~
+Master Lee is dressed in a red designer suit. He is wearing all kinds
+of jewelry and rings. He begins yelling at you in Japanese and all his
+guards begins to take steps towards you. You quickly realize that
+upsetting the overlord of Kowloon Palace was the wrong thing to do.
+~
+Human~
+ABG DFHOPTa -1000 0
+100 0 90d10+19750 0d0+0 12d12+50 blast
+-70 -70 -70 -70
+CDEFGHIJK 0 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#17000
+blue baseball cap~
+a blue baseball cap~
+A nice blue baseball cap lies here in the dirt.~
+cloth~
+armor 0 AE
+ABCD ABCD AD AD 0
+75 5 15000 100
+A
+18 3
+A
+12 20
+#17001
+pair gray trousers~
+a pair of gray trousers~
+A nice pair of gray trouser is here, laying alone.~
+silk~
+armor 0 AF
+AC BD CE ACD 0
+75 5 15000 100
+A
+24 -4
+A
+19 3
+#17002
+pair brown dress boots~
+a pair of brown dress boots~
+An expensive pair of brown dress boots are here.~
+hard leather~
+armor 0 AG
+BD CE ABCD AC 0
+80 5 16000 100
+A
+17 -4
+A
+19 3
+A
+14 20
+#17003
+shiny golden wrist chain~
+a shiny golden wrist chain~
+A nice wrist chain is here, gleaming in the dirt.~
+gold~
+armor 0 AM
+BD BD ABCD ABCD 0
+80 5 16000 100
+A
+18 3
+A
+13 20
+A
+1 3
+#17004
+black designer jacket~
+a black designer jacket~
+A black jacket lies here in the dirt.~
+silk~
+armor B AK
+ABCD ABCD ABCD AC 0
+80 5 15000 100
+A
+13 40
+A
+17 -5
+#17005
+portable phone~
+a portable phone~
+A ringing portable phone is lieing here.~
+metal~
+armor ABJL AO
+CE BD BD ACD 0
+85 5 17000 100
+A
+19 3
+A
+17 -10
+#17006
+black small shades~
+a pair of small black shades~
+A pair of Ray-Ban shades lie on the floor here.~
+glass~
+armor 0 AE
+AE AE ABD D 0
+85 5 17000 100
+A
+18 3
+A
+4 3
+A
+3 3
+#17007
+red boxing trouser~
+a pair of red boxing trousers~
+A large pair of boxing trousers is here.~
+silk~
+armor JL AL
+CE CE AC BD 0
+90 5 18000 100
+A
+13 25
+A
+18 3
+A
+24 -5
+#17008
+red boxing gloves~
+a pair of red boxing gloves~
+A large pair of red boxing gloves is here.~
+silk~
+armor JL AH
+ABCD ABCD CE AC 0
+90 5 18000 100
+A
+12 25
+A
+14 25
+A
+2 3
+#17009
+blue boxing gloves~
+a pair of blue boxing gloves~
+A pair of blue boxing gloves are here.~
+silk~
+armor JL AH
+CE ABCD BD BD 0
+90 5 18000 100
+A
+5 6
+A
+19 3
+#17010
+blue boxing trousers~
+a pair of blue boxing trousers~
+A nice pair of boxing trousers are here.~
+silk~
+armor JL AL
+AE ACD ACD CD 0
+90 5 18000 100
+A
+13 50
+A
+3 3
+#17011
+sparkling wrist chain~
+a sparking wrist chain~
+A wrist chain sparkles on the ground here.~
+silk~
+armor AJL AM
+E BCD CD ACD 0
+90 5 18000 100
+A
+19 3
+A
+24 -5
+A
+17 -5
+#17012
+gleaming neck chain~
+a gleaming neck chain~
+A chain lays on the floor here, gleaming in the sunlight.~
+silk~
+armor BJLY AC
+CE ABCD ABCD D 0
+95 5 19000 100
+A
+2 4
+A
+12 30
+A
+17 -6
+#17013
+engraved ring labled sodom~
+an engraved ring labled 'Sodom'~
+A large ring with the inscription of 'Sodom' lies here.~
+diamond~
+armor AFJLY AB
+ABCD ABCD ABCD ACD 0
+95 5 19000 100
+A
+18 4
+A
+1 4
+A
+13 30
+#17014
+ring engraved labled Gomorrah~
+an engraved ring labled 'Gomorrah'~
+A large ring with the inscription of 'Gomorrah' lies here in the dirt.~
+adamantite~
+armor BFJLY AB
+ABCD ABCD ABCD ACD 0
+95 5 19000 100
+A
+14 30
+A
+17 -6
+A
+19 4
+#17015
+silver handled flashlight~
+a silver-handled flashlight~
+A large silver flashlight lies here.~
+silver~
+armor AJLY AO
+CE ABCD ABCD BD 0
+100 5 20000 100
+A
+24 -6
+A
+5 4
+A
+1 4
+#0
+
+
+
+#ROOMS
+#17000
+Inner hall~
+You have entered the inner hall of the Battle Cave. Decorated in a 
+very demented way, the walls are covered with weapons coated with
+dried blood and other things. The exits are south which will
+take you out of the battle cave, your north which takes you to the
+inner chamber.
+~
+0 1 0
+D0
+~
+~
+0 -1 17001
+D2
+~
+~
+0 -1 13009
+S
+#17001
+Inner forum~
+The ceiling is about 2 to 3 stories above your head. You can hear in
+the distance the cheering and screaming of quite a bit of people coming
+from the north. To the east and west is a hallway paved in marble. The
+exit to the battle cave lies to the south.
+~
+0 1 1
+D0
+~
+~
+0 -1 17008
+D1
+~
+~
+0 -1 17005
+D2
+~
+~
+0 -1 17000
+D3
+~
+~
+0 -1 17002
+S
+#17002
+Western marble hallway~
+Down this hallway you can see many trophy cases along the walls. Glancing
+at all of them and reading the subscriptures, you can tell that Dhamd has
+been a busy man. The hallway continues to the west or back to the
+forum to the east.
+~
+0 1 0
+D1
+~
+~
+0 -1 17001
+D3
+~
+~
+0 -1 17003
+S
+#17003
+Entrance to male restroom~
+Here the hallway ends and to the north is the door to the male gender
+restroom. Judging by the condition of the door, this restroom is going
+to be in the condition of a shrine or anything. To the east continues
+the western hallway.
+~
+0 1 0
+D0
+~
+~
+1 -1 17004
+D1
+~
+~
+0 -1 17002
+S
+#17004
+Inside the male restroom~
+The condition of this restroom is the worst you've ever encountered in
+your life. Toilet paper cover the floor, mirrors covered in 'stuff',
+and other things that make you sick to your stomach. The stench
+that follows this room is so unbearable that leaving is the first
+thing that enters your mind.
+~
+0 1 0
+D2
+~
+~
+1 -1 17003
+S
+#17005
+Eastern marble hallway~
+This hallway is covered with mantles covered with pictures relating to
+previous fight at this battle cave. The exits are to the east which
+leads to the female restroom, or west back to the inner forum.
+~
+0 1 0
+D1
+~
+~
+0 -1 17006
+D3
+~
+~
+0 -1 17001
+S
+#17006
+Entrance to female restroom~
+You have arrived to the entrance to the female restroom. The door is
+half-sitting on the hinges here, which indicated that this restroom
+is poorly maintained. To the west is the eastern hallway and to the
+north is the door into the female restroom.
+~
+0 1 0
+D0
+~
+~
+1 -1 17007
+D3
+~
+~
+0 -1 17005
+S
+#17007
+Inside the female restroom~
+Swamped in toilet paper and other materials, you can barely move your
+body around here. Also, the aura here has such a stench that you
+become a bit queasy at the stomach inhaling it. The exit, which is
+looking very good now, lies to the south.
+~
+0 1 0
+D2
+~
+~
+1 -1 17006
+S
+#17008
+Northern marble hallway~
+You stand in the middle of a large forum. Decorated with odd-looking
+furniture and other objects, this place seems to be fairly maintained.
+Exits are to the north and to the south from your position.
+~
+0 1 0
+D0
+~
+~
+0 -1 17009
+D2
+~
+~
+0 -1 17001
+S
+#17009
+Entrance to inner chamber~
+The screams and shouts are deafing from here. The staircase here leads
+up to the unknown. To the north lies two great doors which leads to
+the inner chamber, which all the battle are held. To the south returns
+you to the northern marble hallway.
+~
+0 1 0
+D0
+~
+~
+1 -1 17010
+D2
+~
+~
+0 -1 17008
+D4
+~
+~
+0 -1 17038
+S
+#17010
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The chamber extends to the north, west, and east. The
+exit of the chamber lies to the south.
+~
+0 1 0
+D1
+~
+~
+0 -1 17030
+D2
+~
+~
+1 -1 17009
+D3
+~
+~
+0 -1 17011
+S
+#17011
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The chamber extends to the north, west, and east.
+~
+0 1 0
+D0
+~
+~
+0 -1 17031
+D1
+~
+~
+0 -1 17010
+D3
+~
+~
+0 -1 17012
+S
+#17012
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The chamber extends to the north and to the east.
+~
+0 1 0
+D0
+~
+~
+0 -1 17013
+D1
+~
+~
+0 -1 17011
+S
+#17013
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The chamber continues to the north, east, and south.
+~
+0 1 0
+D0
+~
+~
+0 -1 17014
+D2
+~
+~
+0 -1 17012
+S
+#17014
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The chamber continues in all cardinal directions.
+~
+0 1 0
+D0
+~
+~
+0 -1 17016
+D2
+~
+~
+0 -1 17013
+D3
+~
+~
+0 -1 17015
+S
+#17015
+A security post~
+Here stands most of the security guards that are not wandering with the
+crowds. Spectators are not welcomed here and therefore you are asked
+to leave with a quickness. The exits lies only to the east.
+~
+0 1 0
+D1
+~
+~
+0 -1 17014
+S
+#17016
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The chamber continues to the north, south and east.
+~
+0 1 0
+D0
+~
+~
+0 -1 17017
+D2
+~
+~
+0 -1 17014
+S
+#17017
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The exits are to the north, east, and south.
+~
+0 1 0
+D0
+~
+~
+0 -1 17018
+D2
+~
+~
+0 -1 17016
+S
+#17018
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The only exits present are to the east and to the south.
+~
+0 1 0
+D1
+~
+~
+0 -1 17019
+D2
+~
+~
+0 -1 17017
+S
+#17019
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The exits are to the south, west and east.
+~
+0 1 0
+D1
+~
+~
+0 -1 17020
+D3
+~
+~
+0 -1 17018
+S
+#17020
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The exits are to the north, south, east, and west.
+~
+0 1 0
+D0
+~
+~
+0 -1 17021
+D1
+~
+~
+0 -1 17022
+D3
+~
+~
+0 -1 17019
+S
+#17021
+A security post~
+Here stands most of the security guards that are not wandering with the
+crowds. Spectators are not welcomed here and therefore you are asked
+to leave with a quickness. The exits lies only to the south.
+~
+0 1 0
+D2
+~
+~
+0 -1 17020
+S
+#17022
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The exits are to the south, west and east.
+~
+0 1 0
+D1
+~
+~
+0 -1 17023
+D3
+~
+~
+0 -1 17020
+S
+#17023
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The exits are to the west and south.
+~
+0 1 0
+D2
+~
+~
+0 -1 17024
+D3
+~
+~
+0 -1 17022
+S
+#17024
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The exits are to the west, south and north.
+~
+0 1 0
+D0
+~
+~
+0 -1 17023
+D2
+~
+~
+0 -1 17025
+S
+#17025
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. You can travel to the north, south and west.
+~
+0 1 0
+D0
+~
+~
+0 -1 17024
+D2
+~
+~
+0 -1 17026
+S
+#17026
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The security post is to the east, and the chamber
+continues to the north south and west.
+~
+0 1 0
+D0
+~
+~
+0 -1 17025
+D1
+~
+~
+0 -1 17027
+D2
+~
+~
+0 -1 17028
+S
+#17027
+A security post~
+Here stands most of the security guards that are not wandering with the
+crowds. Spectators are not welcomed here and therefore you are asked
+to leave with a quickness. The exits lies only to the west.
+~
+0 1 0
+D3
+~
+~
+0 -1 17026
+S
+#17028
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The security post is to the east, and the chamber
+continues to the north south and west.
+~
+0 1 0
+D0
+~
+~
+0 -1 17026
+D2
+~
+~
+0 -1 17029
+S
+#17029
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The security post is to the east, and the chamber
+continues to the north and west.
+~
+0 1 0
+D0
+~
+~
+0 -1 17028
+D3
+~
+~
+0 -1 17030
+S
+#17030
+Inner chamber of Battle Cave~
+The crowd screams and cheers wildly as all heads are pointing to the
+action at the center of the ring. This place is so crowded..its hard
+move anywhere. The security post is to the east, and the chamber
+continues to the north, west, and east.
+~
+0 1 0
+D0
+~
+~
+0 -1 17037
+D1
+~
+~
+0 -1 17029
+D3
+~
+~
+0 -1 17010
+S
+#17031
+Down the stairs~
+These stairs lead to the ring, where all the action is taking place.
+All around you the crowd stands screaming at the combatants already in
+the ring. The path leads down or back to the chamber to the south.
+~
+0 1 0
+D2
+~
+~
+0 -1 17011
+D5
+~
+~
+0 -1 17032
+S
+#17032
+Heading to the ring~
+The action seems to get more intense as you approach the ring. The
+grouling match already taking place kinda set a bit of fear in your
+heart. You can continue down to the ring, or head back up the stairs.
+~
+0 1 0
+D4
+~
+~
+0 -1 17031
+D5
+~
+~
+0 -1 17033
+S
+#17033
+At the edge of the ring~
+You stand at the edge of the ring. The combatants are currently resting
+awaiting for the next round. The screams seem to quiet down during this
+period of time. You can head back up the stairs or enter the ring.
+~
+0 1 0
+D1
+~
+~
+0 -1 17034
+D4
+~
+~
+0 -1 17032
+S
+#17034
+Inside the battle ring~
+This ring is covered in spilled blood and sweat. The buffer boys nearly
+runs you down as he begins scrubbing the ring before the next round
+of action starts. Currently, the combatants are at their corners, or
+else you'd be right in the middle of the action.
+~
+0 1 0
+D1
+~
+~
+0 -1 17035
+D3
+~
+~
+0 -1 17033
+S
+#17035
+At the edge of the ring~
+You stand at the edge of the ring. The combatants are currently resting
+awaiting for the next round. The screams seem to quiet down during this
+period of time. You can head back up the stairs or enter the ring.
+~
+0 1 0
+D3
+~
+~
+0 -1 17034
+D4
+~
+~
+0 -1 17036
+S
+#17036
+Heading to the ring~
+The action seems to get more intense as you approach the ring. The
+grouling match already taking place kinda set a bit of fear in your
+heart. You can continue down to the ring, or head back up the stairs.
+~
+0 1 0
+D4
+~
+~
+0 -1 17037
+D5
+~
+~
+0 -1 17035
+S
+#17037
+Down the stairs~
+These stairs lead to the ring, where all the action is taking place.
+All around you the crowd stands screaming at the combatants already in
+the ring. The path leads down or back to the chamber to the south.
+~
+0 1 0
+D2
+~
+~
+0 -1 17030
+D5
+~
+~
+0 -1 17036
+S
+#17038
+Entrance to Master Lee's viewing room~
+The door is finely decorated with the symbol of crossed snakes. You
+hear a conversation on the other side of the door but cant make out
+the exact contents of it. The stairway leads back down.
+~
+0 1 0
+D0
+~
+~
+1 -1 17039
+D5
+~
+~
+0 -1 17009
+S
+#17039
+Inside Master Lee's viewing room~
+The room is covered with guards dressed in red suits, and aren't too
+happy to see you around. At the far northern part of the room, you see
+a large glass wall which gives an excellent view of the action in the
+ring.
+~
+0 1 0
+D0
+~
+~
+0 -1 17047
+D1
+~
+~
+0 -1 17046
+D2
+~
+~
+1 -1 17038
+D3
+~
+~
+0 -1 17040
+S
+#17040
+Inside Master Lee's viewing room~
+The room is covered with guards dressed in red suits, and aren't too
+happy to see you around. At the far northern part of the room, you see
+a large glass wall which gives an excellent view of the action in the
+ring.
+~
+0 1 0
+D0
+~
+~
+0 -1 17041
+D1
+~
+~
+0 -1 17039
+S
+#17041
+Inside Master Lee's viewing room~
+The room is covered with guards dressed in blue suits, and aren't too
+happy to see you around. At the far northern part of the room, you see
+a large glass wall which gives an excellent view of the action in the
+ring.
+~
+0 1 0
+D0
+~
+~
+0 -1 17042
+D1
+~
+~
+0 -1 17047
+D2
+~
+~
+0 -1 17040
+S
+#17042
+Inside Master Lee's viewing room~
+The room is covered with guards dressed in blue suits, and aren't too
+happy to see you around. At the far northern part of the room, you see
+a large glass wall which gives an excellent view of the action in the
+ring.
+~
+0 1 0
+D1
+~
+~
+0 -1 17043
+D2
+~
+~
+0 -1 17041
+S
+#17043
+Inside Master Lee's viewing room~
+The room is covered with guards dressed in blue suits, and aren't too
+happy to see you around. At the far northern part of the room, you see
+a large glass wall which gives an excellent view of the action in the
+ring.
+~
+0 1 0
+D1
+~
+~
+0 -1 17044
+D2
+~
+~
+0 -1 17047
+D3
+~
+~
+0 -1 17042
+S
+#17044
+Inside Master Lee's viewing room~
+The room is covered with guards dressed in blue suits, and aren't too
+happy to see you around. At the far northern part of the room, you see
+a large glass wall which gives an excellent view of the action in the
+ring.
+~
+0 1 0
+D2
+~
+~
+0 -1 17045
+D3
+~
+~
+0 -1 17043
+S
+#17045
+Inside Master Lee's viewing room~
+The room is covered with guards dressed in blue suits, and aren't too
+happy to see you around. At the far northern part of the room, you see
+a large glass wall which gives an excellent view of the action in the
+ring.
+~
+0 1 0
+D0
+~
+~
+0 -1 17044
+D2
+~
+~
+0 -1 17046
+D3
+~
+~
+0 -1 17047
+S
+#17046
+Inside Master Lee's viewing room~
+The room is covered with guards dressed in blue suits, and aren't too
+happy to see you around. At the far northern part of the room, you see
+a large glass wall which gives an excellent view of the action in the
+ring.
+~
+0 1 0
+D0
+~
+~
+0 -1 17045
+D3
+~
+~
+0 -1 17039
+S
+#17047
+Center of Master Lee's viewing room~
+Master Lee stands by his desk, watching the action down in the ring.
+He is accompanied by two special body guards. The desk is covered with
+alot of paperwork and other odds and ends. The exits are to the north,
+south, east, and west.
+~
+0 1 0
+D0
+~
+~
+0 -1 17043
+D1
+~
+~
+0 -1 17045
+D2
+~
+~
+0 -1 17039
+D3
+~
+~
+0 -1 17041
+S
+#0
+
+
+
+#SPECIALS
+M 17002 spec_guard
+M 17005 spec_guard
+M 17006 spec_guard
+S
+
+
+
+#RESETS
+D 0 17003 0 1
+D 0 17006 0 1
+D 0 17038 0 1
+M 0 17002 39 17000 2
+E 0 17005 0 17
+E 0 17006 0 6
+M 0 17002 39 17002 1
+E 0 17006 0 6
+M 0 17002 39 17003 2
+M 0 17002 39 17005 1
+E 0 17006 0 6
+M 0 17002 39 17006 2
+M 0 17002 39 17008 2
+E 0 17006 0 6
+E 0 17005 0 17
+M 0 17002 39 17009 2
+E 0 17005 0 17
+M 0 17000 39 17010 3
+E 0 17000 0 6
+M 0 17001 14 17010 1
+E 0 17004 0 12
+E 0 17003 0 15
+M 0 17001 14 17011 2
+E 0 17002 0 8
+M 0 17000 39 17012 4
+M 0 17001 14 17013 2
+M 0 17000 39 17014 4
+M 0 17002 39 17015 5
+M 0 17000 39 17016 4
+M 0 17001 14 17017 3
+E 0 17003 0 14
+E 0 17004 0 12
+M 0 17000 39 17018 4
+M 0 17000 39 17020 5
+M 0 17002 39 17021 5
+M 0 17005 7 17021 1
+E 0 17011 0 15
+M 0 17000 39 17023 4
+M 0 17001 14 17024 2
+E 0 17003 0 15
+M 0 17000 39 17025 3
+M 0 17000 39 17026 3
+E 0 17001 0 7
+M 0 17002 39 17027 5
+E 0 17006 0 6
+E 0 17005 0 17
+M 0 17000 39 17028 2
+M 0 17001 14 17028 2
+E 0 17003 0 14
+M 0 17000 39 17029 4
+M 0 17001 14 17030 2
+E 0 17004 0 12
+M 0 17002 39 17031 1
+E 0 17005 0 17
+M 0 17002 39 17032 39
+M 0 17002 39 17033 3
+M 0 17003 1 17034 1
+E 0 17008 0 9
+E 0 17007 0 13
+M 0 17004 1 17034 1
+E 0 17009 0 9
+E 0 17010 0 13
+M 0 17002 39 17035 2
+M 0 17002 39 17036 1
+M 0 17002 39 17037 2
+M 0 17006 6 17039 2
+E 0 17012 0 3
+M 0 17005 7 17040 2
+E 0 17011 0 15
+M 0 17006 6 17041 2
+M 0 17005 7 17042 1
+M 0 17006 6 17043 6
+E 0 17012 0 3
+M 0 17005 7 17044 1
+M 0 17006 6 17045 6
+M 0 17005 7 17046 2
+E 0 17011 0 15
+M 0 17007 1 17047 1
+E 0 17013 0 1
+M 0 17008 1 17047 1
+E 0 17014 0 1
+M 0 17009 1 17047 1
+E 0 17015 0 17
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

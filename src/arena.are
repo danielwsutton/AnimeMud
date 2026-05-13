@@ -1,0 +1,382 @@
+#AREA
+arena.are~
+[Arena] Ruined Airfield~
+(ARENA) Kyrn    Ruined Airfield~
+10000 10099
+
+#ROOMS
+#10000
+A deserted hanger~
+Your presence accompanies a deserted F-16 falcon sitting in the middle
+of the hanger, draped in brown cloth torn by constant use. Shelves
+hanging from black smoke-tainted hinges surround the walls of this
+hanger. Danging light fixtures sway to the calling of the wind as
+it rushes from the entrance to the rear of the hanger. The shadows
+provide plenty of cover and can hide even the most visible people.
+~
+0 CDNW 0
+D0
+~
+~
+0 -1 10001
+D1
+~
+~
+0 -1 10011
+S
+#10001
+A deserted hanger~
+You stand at the rear of this deserted hanger. The large doors which
+seem to be the exit of this hanger have long been blown off and all
+that remains is reminents of a black powder surrounding the hanger
+door frame. The exterior of the hanger contains many metal sheets
+which covered the hanger at one time; floating and hanging from lack
+of maintenance.
+~
+0 CDNW 0
+D0
+~
+~
+0 -1 10002
+D1
+~
+~
+0 -1 10012
+D2
+~
+~
+0 -1 10000
+S
+#10002
+A ruined runway~
+The broken concrete makes you cautiously move along this destroyed
+runway. Patches of concrete missing reveals that this runway was
+bombed beyond any future use. The ground in and around the runway
+is painted with black smoke and red dust. The skyline is engulfed
+in a reddish fire color, suggesting the destruction was recent. All
+that remains of this runway are strapes of concrete and broken grass.
+~
+0 CDNW 0
+D0
+~
+~
+0 -1 10003
+D1
+~
+~
+0 -1 10014
+D2
+~
+~
+0 -1 10001
+S
+#10003
+A ruined runway~
+The runway makes a rough transition from broken concrete to smoldering
+grass and dirt. The black smoke emitted from the grass consumes the
+landscape and hinders the details of the landscape in the distance. A
+haze seems to sway with the wind as it passes back and forth from your
+position. A large parimeter fence stands tall in front of you, blocking
+any passage to the north.
+~
+0 CDNW 0
+D1
+~
+~
+0 -1 10004
+D2
+~
+~
+0 -1 10002
+S
+#10004
+A large control tower~
+Towering in front of your position lies a broken control tower. Large
+bulks of wiring and probes hang from a large hole blown into the
+tower recently. Small electrical sparks emit from the hole, suggesting
+some power source still running nearby. The camoflauge paint of the
+tower has been reduced to patches of blackened ash and smoke. A small
+entrance, big enough for you to enter, lies in the rubble of the tower.
+~
+0 CDNW 0
+D1
+~
+~
+0 -1 10005
+D2
+~
+~
+0 -1 10014
+D3
+~
+~
+0 -1 10003
+S
+#10005
+Inside the control tower~
+Squirming through the rocks and metal of the blown hole. You manage to
+enter into the base of the control tower. Overturned tables containing
+electrical consoles flood the room along with scrapes of metal, mounts
+of ash, and a cloud of smoke. A small fire still burns along the lower
+rim of a barrel labled, "Flammable Substance". A large metal stairway
+lies above you, the upper half destroyed and hanging on some scrap metal.
+~
+0 CDNW 0
+D1
+~
+~
+0 -1 10006
+D2
+~
+~
+0 -1 10015
+D3
+~
+~
+0 -1 10004
+S
+#10006
+Inside the control tower~
+The eastern wall of the tower remains, although weakened from the blasts,
+it prevents any from continuing to the east. Along the eastern wall of
+the control tower lies many footlockers and man-size lockers, obviously
+for personnel use only. Looking to the south you notice that the southern
+wall has been completely destroyed and nothing remains but hanging wires
+and pipes from the sides of the blasted area.
+~
+0 CDNW 0
+D2
+~
+~
+0 -1 10007
+D3
+~
+~
+0 -1 10005
+S
+#10007
+A large control tower~
+You stand infront of a destroyed control tower, the southern wall 
+completely destroyed from an unknown blast. The smoldering grass 
+which is now covered in metal and stone, releases small amounts of
+fumes that suggest recent explosions. The walls around the blasted
+area are caked with heavy amounts of ash and dust, probably from
+kicked up dirt in the explosion. A small path leads to the south.
+~
+0 CDNW 0
+D0
+~
+~
+0 -1 10006
+D2
+~
+~
+0 -1 10008
+D3
+~
+~
+0 -1 10015
+S
+#10008
+A broken cobbled path~
+The path contains many patches of dirt and concrete thrown into random
+places from the destruction of this air-base. A large tail-end of a
+plane stands embeded into the ground on your right. The ends bent and
+molded into an unknown pattern. The large parimeter fence to your east
+kills any suggestion of traveling in that direction. The broken path
+continues to the south of your position.
+~
+0 CDNW 0
+D0
+~
+~
+0 -1 10007
+D2
+~
+~
+0 -1 10009
+D3
+~
+~
+0 -1 10013
+S
+#10009
+A large gas generator~
+At the corner of the intersection of the southern and eastern fences
+lies a large gas generator. Miraculously it still runs although choking
+from the lack of fuel left in it. A piece of the metal which contains
+the accual generator has been blown open and reveals some of the
+mechanical parts of the running generator. You notice some small sparks
+coming from inside the generator locating from two wires which seem to
+have been severed from the blast.
+~
+0 CDNW 0
+D0
+~
+~
+0 -1 10008
+D3
+~
+~
+0 -1 10010
+S
+#10010
+A large taxi runway~
+You stand on a runway used to taxi aircraft from the main runway to
+the hangers. A large deserted blackened hanger lies far to the west
+of your position. This runway isnt too badly damage and could be
+repaired if any personnel were left to repair it. The concrete here
+contains small rocks and pebbles from thrown concrete as the blast
+sent concrete flying across the runways.
+~
+0 CDNW 0
+D0
+~
+~
+0 -1 10013
+D1
+~
+~
+0 -1 10009
+D3
+~
+~
+0 -1 10011
+S
+#10011
+Entrance to deserted hanger~
+The hanger sits with the ends running north to south. However a large
+blown hole lies in the eastern wall of the hanger, making penetration
+into the hanger easier from the east. Inside the hanger you see a large
+rod which originates from an aircraft which has been intacted from the
+destruction of the airfield. The concrete becomes dirt here as large
+patches of destroyed runway run under your feet.
+~
+0 CDNW 0
+D0
+~
+~
+0 -1 10012
+D1
+~
+~
+0 -1 10010
+D3
+~
+~
+0 -1 10000
+S
+#10012
+A small dirt path~
+Mounds of ammo and expended shells cover the dusty path leading from
+the hanger to a small jeep lot in the distance. Footprints cover most
+of the path in a random pattern from the hysteria of the attack on
+the airfield. Gazing to your right you notice half of a skeleton lieing
+on the ground. Bones either cracked or charred, the identification of
+this person will never be revealed. The path continues to your east and
+west.
+~
+0 CDNW 0
+D0
+~
+~
+0 -1 10014
+D1
+~
+~
+0 -1 10013
+D2
+~
+~
+0 -1 10011
+D3
+~
+~
+0 -1 10001
+S
+#10013
+A military parking lot~
+Overturned vehicles and automobiles cake the military lot here. All
+appear to be undrivable and therefore considered useless. Some either
+smoldering in small flames or leaking battery and engine fluids; others
+with body damage that can never be repaired. The lot itself didnt
+completely evade any destruction. Cracks in the concrete and even patches
+of concrete missing appear to cover this parking lot, making repairs
+a futile effort.
+~
+0 CDNW 0
+D0
+~
+~
+0 -1 10015
+D1
+~
+~
+0 -1 10008
+D2
+~
+~
+0 -1 10010
+D3
+~
+~
+0 -1 10012
+S
+#10014
+A ruined runway~
+The long strip of runway engulfs your small stature as you look
+wildly to your east and west. The runway, now containing large
+fragments of rock, dust, ash, and smoke, was in full use just minutes
+before the attack began. Now reduced to rubble, the runway is only
+a reminder of the destruction that occured just hours ago. This large
+runway continues to run to the east and west of your position.
+~
+0 CDNW 0
+D0
+~
+~
+0 -1 10004
+D1
+~
+~
+0 -1 10015
+D2
+~
+~
+0 -1 10012
+D3
+~
+~
+0 -1 10002
+S
+#10015
+An abandoned aircraft~
+A large cargo carrying aircraft stands before you with its nose smashed
+into the concrete. This aircraft, obviously destroyed during the attack,
+was in position to takeoff before it was destroyed on the runway. The
+scent of burning engine fuel surrounds you as you notice a small fire
+burning where the gas tank use to be. All that remains is a large hole
+in the port side of the aircraft, caused from a nearby explosion.
+~
+0 CDNW 0
+D0
+~
+~
+0 -1 10005
+D1
+~
+~
+0 -1 10007
+D2
+~
+~
+0 -1 10013
+D3
+~
+~
+0 -1 10014
+S
+#0
+
+
+#$

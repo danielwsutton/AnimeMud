@@ -1,0 +1,2136 @@
+#AREADATA
+Name Realm of the Jujin Kai~
+Builders None~
+VNUMs 12000 12099
+Credits {30 60} Breetai Realm of the Jujin Kai~
+Security 9
+End
+
+
+
+#MOBILES
+#12001
+old master~
+the Old Master~
+The Old Master of the Jujin Kai sits legs crossed, meditating.
+~
+He is the Old Master of the Jujin Kai.  His eyes have no pupils and are 
+large and bulbous.  His skin has a woodish texture and glows a brilliant
+gold.  His hair is long and thin, and very sparse.  Beasts from around 
+the realm come to him for advice and blessings.  Although he is so old, 
+his power is very great which makes you respect him far beyond any other 
+creature.  He can see deep into the future and remembers very much about 
+the past; he knows much.
+~
+Human~
+ABFGR DFHZ 500 0
+100 0 90d10+19750 45d5+8925 12d12+50 divine
+-70 -70 -70 -70
+EFK ABN HIJO KLQ
+sit stand male 4120
+ABHMV ABCDEFGHIJKM medium unknown
+#12002
+beast man bathing~
+bathing man-beast~
+A beast stands here, bathing in a beautiful waterfall.
+~
+This beast-man has long flowing blonde hair.  He is completely naked, but
+has fur hiding most of the more sensitive parts of his body.  He appears 
+to be completely at peace in his homeworld.  He appears to have many 
+mystical powers much like ever other member of his race.
+~
+Human~
+ABGR H 0 0
+40 0 15d10+1850 10d10+1000 4d8+13 claw
+-13 -13 -13 -13
+FN ABR 0 O
+stand stand male 0
+AHMV ABCDEFGHIJKQ medium unknown
+#12003
+monk old~
+a Jujin Kai Monk~
+A monk of the Old Master is here, head bent, meditating.
+~
+One of the many monks that follows the old master stands here.  He 
+has a shaved body and white face paint to show his dedication to the
+Old Master.  He gives his power to the Old Master by meditation and 
+concentration. His entire life has been dedicated to assisting the Old
+Master in any way the Master asks.
+~
+Human~
+ABGJR FHN 0 0
+35 0 10d10+1300 10d10+1000 4d7+11 blast
+-12 -12 -12 -12
+KU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12004
+makai demon~
+a Makai Demon~
+A demon from the Makai world is squealing and screaming here.
+~
+This demon, like all of his kin is deformed and missahappen.  All three
+of his eyes are placed on strange parts of his head, and his arms are 
+enlongated and skinny.  He has no mouth that is visible and his legs 
+are built like that of a chicken.  He has two fingers on each hand and 
+is coated in a viscus clear fluid.  His skin is a deep green and has 
+small festering blisters and sores inundating it.  He is wearing some 
+sort of strange Makai armor however.
+~
+unique~
+ABFGR DFH -750 0
+30 0 6d12+853 10d10+100 4d6+8 slime
+-9 -9 -9 -9
+FKQ ABLQ JK HIN
+stand stand male 100
+AHMV ABDKLMQ medium unknown
+#12005
+jujin kai sentry~
+a Jujin Kai Sentry~
+A Jujin Kai sentry stands fully alerted, waiting for something bad to happen.
+~
+This young sentry has elongated teeth and what looks like the eyes of 
+a cat.  He is one of the Jujin Kai which are a race of half man half 
+beasts.  He waits around the his world to kill any intruders. He lurks 
+about like an assassin waiting to pounce on a victim that does not 
+belong.  He looks very strong, so perhaps it would be a good idea to 
+let him be.
+~
+Human~
+AGRT DFHPQ -750 0
+25 0 5d10+550 10d10+1000 2d10+7 scratch
+-7 -7 -7 -7
+FKU ABLQ I 0
+stand stand male 300
+AHMV ABCDEFGHIJK medium unknown
+#12006
+jujinkai warrior~
+a Jujin Kai Warrior~
+A warrior of the Jujin Kai floats here ready to fight.
+~
+A well trained warrior, this man beast is a formidable apponent.  He 
+has the powers and prowess of all of his kind. A strange aura envelopes
+his body while he flies, possibly a spell of some kind, or just a side 
+effect of his ability to fly.  His teeth are like that of a lion and 
+his hair is wild like a mane.  He even has a tail.  He wears simple 
+clothes but it does not hide his ability.
+~
+Human~
+ABGRT DFT 0 0
+40 0 15d10+1850 10d10+1000 4d8+13 beating
+-20 -20 -20 -20
+EFKNU 0 0 0
+stand stand male 1290
+AHMV ABCDEFGHIJK medium unknown
+#12007
+jujin kai woman~
+a Jujin Kai Woman~
+A Jujin Kai beast woman kneels in the creek, doing laundry.
+~
+A beast woman of the Jujin Kai has long dark hair, and feline teeth.  
+Her eyes meet yours as you look at her.  She is very beautiful, but her
+stance and posture give her brutal and strong nature away.  She raises 
+an eyebrow at you as you watch her.
+~
+unique~
+ABGQ DFN 300 0
+60 0 50d10+9500 10d10+1000 8d6+28 scratch
+-30 -30 -30 -30
+CDEF AB HIJP KLOQ
+stand stand female 1200
+AHMV ABCDEF medium unknown
+#12008
+jujin kai priest~
+a Jujin Kai Priest~
+A Jujin Kai priest stands here solemnly, monitoring the monks.
+~
+He is dressed in long flowing robes.  His head and whole body are shaved
+completely bald.  He stands here training and monitoring the younger 
+and more inexperienced monks.  He has strange face paint upon him and 
+little amulets and charms annoint his entire body.
+~
+Human~
+ABGQ DFH 0 0
+55 0 50d10+7000 10d10+100 10d4+23 slap
+-25 -25 -25 -25
+FHI ABLNQ HIP JK
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12009
+arch priest jujin kai~
+the Jujin Kai Arch Priest~
+An Arch Priest of the Jujin Kai kneels here, meditating.
+~
+He is an older man, with a completely shaved head and pointed ears.  He 
+has red and white paint adorning his face. He has a genuine feeling of 
+peace and rest about him.  Looking upon his garments you notice a very 
+powerful looking pendant worn around his neck.  Otherwise, all of his 
+robes look very common and plain.  He seems not to notice anything but 
+his own thoughts.
+~
+Human~
+ABGR DFH 900 0
+100 0 90d10+19750 10d10+1000 12d12+50 divine
+-70 -70 -70 -70
+FHIKN ABLNOPQ HIJ KM
+sit stand male 0
+AHMV ABCDEFGHIJKQ medium unknown
+#12010
+commoner jujin kai~
+a Jujin Kai commoner~
+A Jujin Kai commoner walks about, enjoying himself.
+~
+This man is like all of his brethren. He has long, wild hair, and
+feline like teeth.  His ears come to an almost elf-like point, but
+are too animalistic.  His eyes are like that of a cat, and he moves with
+an inhuman grace.  He has a long tail, and wears clothes of a simple
+person.  He is one of the Man-Beast Jujin Kai, and must be treated
+with respect.
+~
+Human~
+AGT F 50 0
+45 0 25d10+3000 10d10+1000 8d4+16 charge
+-15 -15 -15 -15
+EKU ABLQ IJ HKM
+stand stand male 1200
+AHMV ABCDEFGHIJKQ medium unknown
+#12011
+jujin kai commoner fem~
+a Jujin Kai commoner~
+A Jujin Kai commoner stands here, enjoying herself.
+~
+She is a simple commoner of the Jujin Kai realm.  This however does not 
+mean she is weak.  Like all of her kind, she has special powers and 
+abilities that humans lack.  Her beauty, although primal, is still 
+striking.  She has short cropped dark hair that is parted all to one 
+side.  She has a shapely body with muscular features usually uncommon 
+to human females.
+~
+Human~
+AGT F 50 0
+40 0 25d10+3000 10d10+1000 8d4+16 bite
+-15 -15 -15 -15
+CFNU ABL HJ IKO
+stand stand female 1700
+AHMV ABCDEFGHIJKQ medium unknown
+#0
+
+
+
+#OBJECTS
+#12001
+dagger jujin kai beast~
+a jujin kai dagger~
+A dagger from the world of the beasts lies here.~
+adamantite~
+weapon GJL AN
+dagger 10 5 none 0
+60 5 12000 100
+A
+19 2
+A
+5 2
+E
+pommel~
+The pommel of this sword is made from Makai bone.~
+#12002
+key tarnished bone~
+a tarnished key~
+A key made from tarnished Makai bone lies here.~
+~
+key FGP A
+0 0 0 0 0
+90 5 0 100
+E
+key~
+The key appears to be carved from a bone of a demon from the world of 
+the Makai.~
+#12003
+skull ring black~
+a black skull ring~
+There is a black ring with a skull etched on it's surface here.~
+ebony~
+armor BG AB
+ABD ABD ABD AC 0
+55 5 11000 100
+A
+18 2
+A
+5 2
+#12004
+black choker~
+a black choker with a silver clasp~
+A black choker with a silver clasp lies here.~
+adamantite~
+armor FG AC
+CD CD CD AD 0
+70 5 14000 100
+A
+19 3
+A
+3 3
+E
+choker~
+The choker has a mystical spell cast upon it to make it invisible to 
+normal eyes.~
+#12005
+golden robe~
+a golden robe~
+An ancient robe with silver stitching lies here in a heap.~
+adamantite~
+armor AG AK
+CD BD BD D 0
+60 5 12000 100
+A
+24 -6
+E
+robe~
+This robe was made and suited for the Old Master of the Jujin Kai.~
+#12006
+black arm band~
+a black arm band~
+A black arm band lies here in a tangled mess.~
+cloth~
+armor B AM
+D D D BC 0
+40 5 8000 100
+A
+5 2
+A
+13 10
+#12007
+makai body plate~
+a makai body plate~
+A large piece of makai armor lies here.~
+adamantite~
+armor GJL AD
+ABC ABC ABC C 0
+30 40 6000 100
+A
+5 1
+A
+13 10
+#12008
+head piece makai~
+a makai head piece~
+A makai head piece lies here.~
+adamantite~
+armor GJL AE
+ABC BC BC BC 0
+30 20 6000 100
+A
+4 1
+A
+12 10
+#12009
+stone trousers makai~
+a pair of makai stone trousers~
+A pair of pants from the world of the demons lies here.~
+adamantite~
+armor GJL AF
+BC ABC ABC C 0
+30 20 6000 100
+A
+12 10
+A
+2 1
+#12010
+makai goat feet~
+a pair of makai goat feet~
+Goat feet from a makai demon lies here.~
+adamantite~
+armor GJL AG
+BC BC ABC BC 0
+30 20 6000 100
+A
+14 10
+A
+13 10
+#12011
+gauntlets makai~
+a pair of makai gauntlets~
+A pair of gloves from the world of the Makai lie here.~
+adamantite~
+armor GJL AH
+D C C AD 0
+30 20 6000 100
+A
+18 1
+A
+19 1
+#12012
+makai arm shields~
+a pair of makai arm shields~
+A pair of arm shields from the Makai world lie here.~
+adamantite~
+armor GJL AI
+BD AC AC AC 0
+30 20 6000 100
+A
+1 1
+A
+13 10
+#12013
+makai codpiece piece~
+a makai codpiece~
+A codpiece from the world of the Makai is here.~
+adamantite~
+armor GJL AL
+BC BC BC ABC 0
+30 20 6000 100
+A
+19 1
+A
+5 1
+#12014
+makai shield~
+a makai shield~
+A makai shield lies here.~
+adamantite~
+armor GJL AJ
+CD CD A 0 0
+30 20 6000 100
+A
+19 1
+A
+13 10
+#12015
+sentry platemail~
+sentry platemail~
+Platemail from a Jujin Kai sentry lies here.~
+adamantite~
+armor GJL AD
+AC BD AC AB 0
+25 30 5000 100
+A
+1 1
+A
+12 10
+#12016
+helmet sentry~
+a sentry's helmet~
+A helmet from a Jujin Kai sentry lies here.~
+adamantite~
+armor GJL AE
+BC B D ABC 0
+25 30 5000 100
+A
+12 10
+A
+2 1
+#12017
+sentry leg~
+sentry leg armor~
+A set of leg armor from a Jujin Kai sentry lie here.~
+adamantite~
+armor GJL AF
+D AC AC AC 0
+25 30 5000 100
+A
+3 1
+A
+12 10
+#12018
+boots sentry~
+sentry boots~
+A pair of well used boots from a Jujin Kai sentry lie here.~
+adamantite~
+armor GJL AG
+BD AC AC AB 0
+25 30 5000 100
+A
+4 1
+A
+12 10
+#12019
+hand mesh sentry~
+sentry hand mesh~
+Mesh for protecting a Jujin Kai sentry's hands lies here~
+adamantite~
+armor GJL AH
+AB CD AC AB 0
+25 30 5000 100
+A
+5 1
+A
+12 10
+#12020
+arm guards sentry~
+sentry arm guards~
+A pair of arm guards made for a Jujin Kai sentry lie here.~
+adamantite~
+armor GJL AI
+AB ABC BD AB 0
+25 5 5000 100
+A
+18 1
+A
+12 10
+#12021
+sentry belt~
+a sentry's belt~
+A Jujin Kai sentry belt is here, lying on the ground.~
+adamantite~
+armor GJL AL
+AC AC AC D 0
+25 30 5000 100
+A
+19 1
+A
+12 10
+#12022
+shield sentry~
+a sentry shield~
+A shield from a Jujin Kai sentry lies here on the ground. ~
+adamantite~
+armor GJL AJ
+BD BD A B 0
+25 65 5000 100
+A
+17 -2
+A
+12 10
+#12023
+beaded band~
+a beaded wrist band~
+A beaded wrist band from a Jujin Kai woman lies here.~
+adamantite~
+armor AGY AM
+ABCD ABCD ABCD ABCD 0
+100 5 20000 100
+A
+19 4
+A
+13 30
+A
+12 30
+#12024
+jujin kai arch pendant~
+a jujin kai pendant~
+A pendant from the Arch Priest of the Old Master lies here.~
+adamantite~
+armor BGY AC
+ABCD ABCD ABCD ABCD 0
+100 5 20000 100
+A
+18 4
+A
+12 30
+A
+17 -6
+#0
+
+
+
+#ROOMS
+#12001
+On the Flatland~
+You stand on the flats of the Beast World.  In all directions spans the
+flatlands, with strange mountains in the distance to the very far north.
+To the distant south you can make out a small range of many different 
+small mountains.  The sky is a strange pale yellow colour, and the ground
+and soil is almost jet black.
+~
+0 0 2
+D0
+~
+~
+0 -1 12002
+D1
+~
+~
+0 -1 12029
+D2
+~
+~
+0 -1 12005
+D3
+~
+~
+0 -1 12032
+S
+#12002
+On the Flatland~
+You stand along the flatland of the Beast World.  There is a well beaten
+path leading north towards and huge and jagged mountain.  The sky is a 
+strange pale yellow colour and you can make out people flying about the
+mountain in the distance.  The ground consists of a black, hard soil.
+~
+0 0 2
+D0
+~
+~
+0 -1 12003
+D1
+~
+~
+0 -1 12031
+D2
+~
+~
+0 -1 12001
+S
+#12003
+Before the base of a mountain~
+Before you to the north stands a gargantuan mountain.  In no other world
+could a mountain have become so large, but things in the world of the 
+beasts are different than anywhere else.  The sky emanates a very strange
+yellow glow that seems to turn more of a reddish haze toward the mountain.
+The whole mountain seems to give off a strange pulsing vibration.
+~
+0 0 4
+D0
+~
+~
+0 -1 12004
+D2
+~
+~
+0 -1 12002
+S
+#12004
+The base of the mountain~
+You are on the base of a large, jagged mountain of huge mass. The only 
+way to possily reach the top of it would be to fly, for it has a sleek 
+and smooth surface, making it impossible to climb.  To the south, you 
+can make out the flatlands.  The sky is a strange yellow-red colour 
+that pleases your eyes.  The mountain gives off a faint but powerful 
+pulsing vibration.
+~
+0 0 5
+D1
+~
+~
+0 -1 12009
+D2
+~
+~
+0 -1 12003
+D3
+~
+~
+0 -1 12010
+D4
+~
+~
+0 -1 12018
+S
+#12005
+On the Flatland~
+You stand on the flatlandsin world of the beasts.  They sky has a strange
+yellowish glow and the ground consists of a hard and rough black soil.  
+Very far off to the north you can make out a very large mountain, and 
+closer to the south, many smaller mountains.
+~
+0 0 2
+D0
+~
+~
+0 -1 12001
+D1
+~
+~
+0 -1 12033
+D2
+~
+~
+0 -1 12047
+D3
+~
+~
+0 -1 12042
+S
+#12006
+In a stone hut~
+You stand in a small and dusky little stone hut.  The floor is made 
+from rotting wood.  There is a fireplace in the corner, but it has 
+long since collapsed.  The roof also looks as though it could fall 
+at any second, but you can sense that some strange spell holds it up.
+~
+0 512 0
+D3
+The door is old and moldy.~
+door~
+1 12002 12014
+S
+#12007
+The base of the mountain~
+You stand at the base of the eastern side of the mountain. It looms 
+before you in a very menacing manner, its black jagged surface daring
+you to explore further.  The sky around here is a redish yellow hue.  
+The mountain feels as though it gives off a strange deep pulsing 
+vibration.  To the east you can see a small stone structure.
+~
+0 0 5
+D0
+~
+~
+0 -1 12013
+D1
+~
+~
+0 -1 12014
+D2
+~
+~
+0 -1 12009
+D4
+~
+~
+0 -1 12019
+S
+#12008
+The base of the mountain~
+You stand on the western side of the black jagged mountain.  It looms 
+before you in a manner that you find most intimidating. Farther west 
+lies a small path towards a waterfall.  North and south lead only
+farther around the base of the mountain.  The sky is a redish yellow 
+colour that is unlike any sky you have ever seen before.  There seems 
+to be a pulsing vibration coming from the mountain itself.
+~
+0 0 5
+D0
+~
+~
+0 -1 12011
+D2
+~
+~
+0 -1 12010
+D4
+~
+~
+0 -1 12021
+S
+#12009
+The base of the mountain~
+You stand along the south easterly part of the base of the mountain.  
+It consists of a strange, jagged, black soil that is hard to the touch.
+The mountain feels like it is giving off a strange pulsing vibratation.
+The sky is an extremely uncommon yellow-red colour.
+~
+0 0 5
+D0
+~
+~
+0 -1 12007
+D3
+~
+~
+0 -1 12004
+D4
+~
+~
+0 -1 12023
+S
+#12010
+The base of the mountain~
+You stand on the southwestern side of the base of the mountain.  It
+appears to be made of a strange black jagged soil, that has a flat, 
+sleek surface.  You can feel a strong pulse that vibrates through you 
+entire body.  The sky in this part of the beast world has a strange 
+reddish yellow glow.
+~
+0 0 5
+D0
+~
+~
+0 -1 12008
+D1
+~
+~
+0 -1 12004
+D4
+~
+~
+0 -1 12024
+S
+#12011
+The base of the mountain~
+You stand at the north east side of the base of the mountain.  It 
+appears to be made from a strange soil, that is almost glass-like.  
+It is jet black and its surface is sleek and smooth.  The sky around 
+the mountain is a yellowish red color that is completely unfamiliar 
+to you.  A pulsing vibration courses through the ground.
+~
+0 0 5
+D1
+~
+~
+0 -1 12012
+D2
+~
+~
+0 -1 12008
+D4
+~
+~
+0 -1 12025
+S
+#12012
+The base of the mountain~
+You stand along the north side of the base of the mountain. To the 
+north, you can here the sound of low mumbling voices.  The moutain's
+surface on this side has stairs etched into it that appear to go all
+the way to the very top.  The sky is a strange red colour, and the 
+vibrations feel stronger.
+~
+0 8 5
+D0
+~
+~
+0 -1 12015
+D1
+~
+~
+0 -1 12013
+D2
+~
+~
+0 -1 12017
+D3
+~
+~
+0 -1 12011
+S
+#12013
+The base of the mountain~
+You stand on the north western side of the base of the black mountain.
+The mountain appears to be made out of a black glass-like soil.  The 
+sky is a bizarre yellowish red colour that intrigues you.  You can 
+feel a pulsing vibration coming from the mountain itself.
+~
+0 0 5
+D2
+~
+~
+0 -1 12007
+D3
+~
+~
+0 -1 12012
+D4
+~
+~
+0 -1 12022
+S
+#12014
+Entrance to a stone hut~
+To the far west you can see the mountain looming in the distance.  You
+are by a small stone building that looks as ancient as the rest of this
+strange world.  There is a small sign on the building which you can 
+barely make out for it is very worn.
+~
+0 0 1
+E
+sign~
+You can barely make out the words, but it reads something about 
+traveling and pilgrimage. ~
+D1
+The door is old and moldy.~
+door~
+1 12002 12006
+D3
+~
+~
+0 -1 12007
+S
+#12015
+North of the mountain base~
+Standing just north of the mountain base, you see a large rock on the
+ground.  It has large characters etched in it in a stranage writting 
+that is unknown to you.  There is however, a small carved message on 
+the side of the rock that is completely ledgible.  The sky is a strange
+yellowish red colour and a pulsing vibration can be felt all around you
+from the mountain.
+~
+0 2048 4
+E
+message etching~
+The message reads:
+
+In 3000 years the Cho Jin will come again to unite the three worlds in 
+peace.  The time is soon.~
+D2
+~
+~
+0 -1 12012
+S
+#12016
+A small waterfall~
+There is a small creek coming from a the west.  The rest of the way in
+that direction is very rocky and barren.  The creek seems to fall off 
+of a small cliff and become a cascading miniature waterfall.  The creek
+then continues in a southerly direction.
+~
+0 0 2
+D3
+~
+~
+0 -1 12074
+S
+#12017
+Stairs carved in the mountain~
+You are on a set of stairs that leads to the top of the mountain.  
+They are completely smooth and the edges are razor sharp.  The sky 
+is a red colour and catches your eyes uneasily.
+~
+0 0 1
+D0
+~
+~
+0 -1 12012
+D4
+~
+~
+0 -1 12020
+S
+#12018
+In the air around the mountain~
+You are floating in the air around the southern part of the mountain.  
+Many of the Jujin Kai are able to fly as well, and you can see them 
+scattered about the realm.  The sky is a deep red colour.  You see 
+upwards enough to know that the mountain top is not very far away.
+~
+0 0 9
+D1
+~
+~
+0 -1 12023
+D3
+~
+~
+0 -1 12024
+D4
+~
+~
+0 -1 12028
+D5
+~
+~
+0 -1 12004
+S
+#12019
+In the air around the mountain~
+You are in the air around the eastern part of the mountain. You can 
+see many of the Jujin Kai flying around as well.  The sky is a red 
+colour that is almost startling.  You can see upwards that the 
+mountain top is not far away.
+~
+0 0 9
+D0
+~
+~
+0 -1 12022
+D2
+~
+~
+0 -1 12023
+D4
+~
+~
+0 -1 12028
+D5
+~
+~
+0 -1 12007
+S
+#12020
+Stairs carved in the mountain~
+You walk along stair that seem to have been carved into the mountain's
+surface.  They are completely smooth and very sharp around the edges.
+Your ascent can be carried on upwards or you can descend downwards.  
+To the east and west is only air, which some have the ability to travel
+upon.  The sky is an unusual red colour that is almost startling.
+~
+0 0 1
+D1
+~
+~
+0 -1 12022
+D3
+~
+~
+0 -1 12025
+D4
+~
+~
+0 -1 12026
+D5
+~
+~
+0 -1 12017
+S
+#12021
+In the air around the mountain~
+You are floating in the air on the western side of the mountain.  
+Looking upwards you can see that you are not very far from the top of 
+the mountain.  Downwards you can see the ground is even closer.  The 
+sky is a red colour which troubles you.
+~
+0 0 9
+D0
+~
+~
+0 -1 12025
+D2
+~
+~
+0 -1 12024
+D4
+~
+~
+0 -1 12027
+D5
+~
+~
+0 -1 12008
+S
+#12022
+In the air around the mountain~
+You float in the air to the north-east side of the mountain.  Looking 
+up you can see that you are becoming close to the top of the mountain.
+Downwards you can see that the ground is even closer.  The sky becomes 
+more red as you approach the top.
+~
+0 0 9
+D2
+~
+~
+0 -1 12019
+D3
+~
+~
+0 -1 12020
+D4
+~
+~
+0 -1 12028
+D5
+~
+~
+0 -1 12013
+S
+#12023
+In the air around the mountain~
+You float in the air to the south-eastern part of the mountain.  Many 
+of the Jujin Kai can be seen flying around in all directions.  You can
+see by looking upwards that the top of the mountain is near.  The sky 
+is a troubling red colour, and only becomes deeper as you ascend.
+~
+0 0 9
+D0
+~
+~
+0 -1 12019
+D3
+~
+~
+0 -1 12018
+D4
+~
+~
+0 -1 12028
+D5
+~
+~
+0 -1 12009
+S
+#12024
+In the air around the mountain~
+You float in the air at the south-western part of the mountain.  You 
+can see by looking upwards that the top is close.  The sky becomes 
+more red as you ascend, while becoming more the common yellow colour 
+as you descend.
+~
+0 0 9
+D0
+~
+~
+0 -1 12021
+D1
+~
+~
+0 -1 12018
+D4
+~
+~
+0 -1 12027
+D5
+~
+~
+0 -1 12010
+S
+#12025
+In the air around the mountain~
+You float in the air at the north-western part of the mountain.  Many
+of the Jujin Kai beast men can be seen flying around and about the 
+mountain.  The stairs are directly east, perhaps you would rather 
+carry your journey on foot?
+~
+0 0 9
+D1
+~
+~
+0 -1 12020
+D2
+~
+~
+0 -1 12021
+D4
+~
+~
+0 -1 12027
+D5
+~
+~
+0 -1 12011
+S
+#12026
+Stairs near the peak of the mountain~
+You are walking along the stairs very near to the peak of the mountain.
+The sky is a deep startling blood red that is very intimidating, and 
+the pulsing sound is almost ear shattering.
+~
+0 0 1
+D1
+~
+~
+0 -1 12028
+D3
+~
+~
+0 -1 12027
+D4
+~
+~
+0 -1 12030
+D5
+~
+~
+0 -1 12020
+S
+#12027
+In the air near the peak of the mountain~
+You are floating in the air near the peak of the mountain. You feel 
+that if you wish to go to the very top, you must take the stairs, for 
+a pulsing vibration shatters any concentration. The stairs lie to the 
+east.
+~
+0 0 9
+D1
+~
+~
+0 -1 12026
+D5
+~
+~
+0 -1 12025
+S
+#12028
+In the air near the peak of the mountain~
+You float in the air near the peak of the mountain.  If you wish to 
+ascend and reach the peak, you feel like you must continue on foot by
+using the stairs to the west, for a vibration from the mountain is 
+shattering your concentration. The sky is a deep blood red that makes 
+your skin crawl.
+~
+0 0 9
+D3
+~
+~
+0 -1 12026
+D5
+~
+~
+0 -1 12022
+S
+#12029
+On the Flatland~
+You stand in the flatlands.  To the very far north, you can make 
+out one monstrous mountain.  To the south lies a series of smaller 
+mountains and hills.  The sky in this world is a strange pale yellow.
+~
+0 0 2
+D0
+~
+~
+0 -1 12031
+D1
+~
+~
+0 -1 12034
+D2
+~
+~
+0 -1 12033
+D3
+~
+~
+0 -1 12001
+S
+#12030
+The peak of the mountain~
+You stand on the peak of the mountain.  The air and sky all around 
+you is bathed in a blood red glow, making you feel very unsafe.  
+There appears to be a portal to another world here.  The portal has 
+a creature that does not belong in this world emerging from it.
+~
+0 0 1
+D5
+~
+~
+0 -1 12026
+S
+#12031
+On the Flatland~
+You stand along the flats of the world of the Jujin Kai.  Far off to 
+the east you can make out a large forest.  Much farther to the south 
+are many small mountains and hills.  There is a small brook that 
+gurgles along from the east, and carries on to the west.
+~
+0 0 2
+D1
+~
+~
+0 -1 12041
+D2
+~
+~
+0 -1 12029
+D3
+~
+~
+0 -1 12002
+S
+#12032
+On the Flatland~
+You stand along the flatland of the world of the beasts.  To the south 
+lies many small hills and mountains.  To the immediate west lies a 
+small path which leads to a larger main road in the distance.  The
+sky in this strange world is an off yellow colour that you find rather
+pleasant.
+~
+0 0 2
+D1
+~
+~
+0 -1 12001
+D3
+~
+~
+0 -1 4002
+S
+#12033
+In the hills~
+You stand in a small group of hills and mountains.  Directly to the 
+south a small hill blocks you path, while to the south is the flatlands.
+To the east lie more hills, and the west lie the flats.  The world 
+of the Jujin Kai has a sky like no other place you can think of.
+~
+0 0 4
+D0
+~
+~
+0 -1 12029
+D1
+~
+~
+0 -1 12048
+D3
+~
+~
+0 -1 12005
+S
+#12034
+On the Flatland~
+You look around and see only flat, barren land.  There are a small group
+of hills and small mountains to the south, while to the north east and west
+lie more of the flats.  The soil around this area is black and hard packed.
+The sky is an off yellow colour.
+~
+0 0 2
+D0
+~
+~
+0 -1 12041
+D1
+~
+~
+0 -1 12035
+D2
+~
+~
+0 -1 12048
+D3
+~
+~
+0 -1 12029
+S
+#12035
+On the Flatland~
+You stand on the barren flats of the world of the Jujin Kai beast men.  To
+the south is a forest so thick that it is impenetrible.  Far off
+to the east you can make out a similiar forest.  There are no cities or
+towns in the world of the Jujin Kai, for they can find everything they need
+on thier own.  The soil on the ground here is a black hard packed dirt,
+and the sky is a beautiful yellow colour.
+~
+0 0 2
+D0
+~
+~
+0 -1 12036
+D1
+~
+~
+0 -1 12038
+D3
+~
+~
+0 -1 12034
+S
+#12036
+On the Flatland~
+You carry along on the flatland.  The soil is black and hard packed to
+the ground.  There is a small creek that runs in from the west and 
+carries on westward.  There is a Jujin Kai woman washing her clothes 
+in it.  To the north is a forest so thick that you can not even try 
+to enter it.  The sky is a strange, yet pleasant yellow colour.
+~
+0 0 2
+D1
+~
+~
+0 -1 12037
+D2
+~
+~
+0 -1 12035
+D3
+~
+~
+0 -1 12041
+S
+#12037
+On the Flatland~
+You stand on the flats of the Jujin Kai world.  There is an impregnible
+forest directly to your north.  A small brook flowing in from the west 
+and carries on to the east.  The ground consists of a peculiar black, 
+hard packed soil.
+~
+0 0 2
+D1
+~
+~
+0 -1 12040
+D2
+~
+~
+0 -1 12038
+D3
+~
+~
+0 -1 12036
+S
+#12038
+On the Flatland~
+You stand along the flats of the Jujin Kai world.  There is a strange 
+yellow glow in the sky that mystifies you.  The ground is made from a 
+thick hard packed black soil.  To the south is a forest that is thick 
+enough to prevent entry.  Something tells you that the beast men have 
+little trouble entering or exiting it.
+~
+0 0 2
+D0
+~
+~
+0 -1 12037
+D1
+~
+~
+0 -1 12039
+D3
+~
+~
+0 -1 12035
+S
+#12039
+The beginning of the forest~
+To the west spans the flatland while to the east spans the forest.  
+The ground along the begining of the forest is much softer and has 
+small shrubs and growth along the it.  The sky becomes more of a green 
+colour as the forest deepens.  Strangey, there are no sounds of common 
+forest wildlife.
+~
+0 0 2
+D1
+~
+~
+0 -1 12052
+D3
+~
+~
+0 -1 12038
+S
+#12040
+The beginning of the forest~
+There is a small brook that flows in from the west, and widens to 
+expand into a small river as it flows to the east. The ground along 
+the forest's edge is much softer than that of the flatlands, and is covered 
+with many different kinds of shrubs and bushes.
+~
+0 0 2
+D1
+~
+~
+0 -1 12051
+D3
+~
+~
+0 -1 12037
+S
+#12041
+On the Flatland~
+You stand on the flatland of the world of the Jujin Kai.  The ground 
+consists of a strange hard packed soil.  There is a creeak that flows in 
+from the west and carries on into the east.  An exit into the forest to 
+the north is blacked off by foliage too dense to travel in.  To the south, 
+east and west, the flats carry on as far as the eye can see.
+~
+0 0 2
+D1
+~
+~
+0 -1 12036
+D2
+~
+~
+0 -1 12034
+D3
+~
+~
+0 -1 12031
+S
+#12042
+In the hills~
+Here there are many hills and small mountains.  The ground is made of 
+a hard packed black soil.  There is a pleasant yellow glow to the sky 
+in the beast world that puts you at ease.  Directly to the south 
+is a small mountain that prevents you from journeying in that 
+direction. To the east is the flatlands, and the west carries on into a 
+small valley.
+~
+0 0 4
+D1
+~
+~
+0 -1 12005
+D3
+~
+~
+0 -1 12043
+S
+#12043
+In the valley~
+You stand in the most northn side of a small valley.  The sides of the 
+valley span very high in the air, and prevent you from walking to the west.  
+The valley continues on southward while to the north carries on.  The sky
+is a yellowish glow.
+~
+0 0 4
+D0
+~
+~
+0 -1 12071
+D1
+~
+~
+0 -1 12042
+D2
+~
+~
+0 -1 12044
+S
+#12044
+In the valley~
+You stand directly in the center of the valley.  To the north, the valley 
+becomes smaller and widens into small hills and flats.  Southward the 
+valley carries on.  The rock and slate that the valley are made from 
+consist of an almost obsidian type substance.
+~
+0 0 4
+D0
+~
+~
+0 -1 12043
+D2
+~
+~
+0 -1 12045
+S
+#12045
+In the valley~
+You stand in a valley that is consists of obsidian-like slate and 
+rock.  To the north the valley continues on, while southward it comes 
+to a dead-end cliff with many large cracks in it.  To the east there are 
+rolling hills and small mountains.  There is no sun in the sky, but only 
+a yellow haze.
+~
+0 0 4
+E
+cliff~
+The cliff looks as though it has a crack large enough for you to fit into.~
+D0
+~
+~
+0 -1 12044
+D1
+~
+~
+0 -1 12046
+D2
+The crack must be opened a little wider before you can enter it.~
+crack~
+1 -1 12070
+S
+#12046
+In the hills~
+You are amidst many small rolling hills and small barren meadows.  To the 
+north-east is a small mountain.  The ground in the hills consists of a 
+black slate-like rock that no vegitation appears to be able to grow from.  
+The sky is a hazey yellow which pleases you.  To the east the hills become 
+again similiar to flatlands, but much more barren and desolate.  To the 
+north is a very small valley to which beyond you can see the flatlands.
+~
+0 65536 4
+D0
+~
+~
+0 -1 12047
+D3
+~
+~
+0 -1 12045
+S
+#12047
+In the valley~
+To the north is the beginning of the flatlands.  Southward leads to 
+rolling hills consisting of black slate-like rock.  The east and west
+ are blocked by the valley walls which span too high to see over, and 
+which are too smooth to climb.  The sky is a yellow haze, which calms 
+your battered nerves.
+~
+0 0 4
+D0
+~
+~
+0 -1 12005
+D2
+~
+~
+0 -1 12046
+S
+#12048
+In the hills~
+To the north, you can see the flatlands spannig for a great distance.  
+To the south spans rough hills and rocky terrain. The ground and surroundings
+are made from a black slate'like rock, that is very unpleasant to the 
+eye.  The sky relaxes you however with its calm yellow haze.
+~
+0 0 4
+D0
+~
+~
+0 -1 12034
+D2
+~
+~
+0 -1 12049
+D3
+~
+~
+0 -1 12033
+S
+#12049
+In the hills~
+To the very far north, you can barely make out the flatlands.  To your 
+west, there lies a small mountain of rubble which you dare not try to tread 
+upon.  To the south, the terrain becomes even more scattered and desolate.  
+The sky's noral yellow colour has begum to fade more into a deep blackish 
+purple.
+~
+0 0 4
+D0
+~
+~
+0 -1 12048
+D2
+~
+~
+0 -1 12050
+S
+#12050
+Among the desolate terrain~
+The landscape along here is desolate and barren.  There are no forms of 
+plant or wild animal life, and you doubt that there ever was.  You can 
+see tall pillars reaching high into the sky all along the south.  The sky 
+is no longer a pleasant yellow, but now a deep and cold purple.
+~
+0 0 3
+D0
+~
+~
+0 -1 12049
+D2
+~
+~
+0 -1 12056
+S
+#12051
+In the Forest~
+You stand amidst a small clearing which spans in all directions except 
+north and west.  To the west, the terrain begins to become flatlands.  
+There is no wild life, but there appears to be an over abundance of plant 
+life.  There is a small river running in from the west, and running out to 
+the east.
+~
+0 0 3
+D1
+~
+~
+0 -1 12054
+D2
+~
+~
+0 -1 12052
+D3
+~
+~
+0 -1 12040
+S
+#12052
+In the Forest~
+You stand amist a wide variety of plant life.  There appears to be no 
+wild animal life however.  To the south, the forest becomes too dense 
+to travel into.  To the west, the terrain begins to become flat, and dry.  
+To the east and north however, the forest continues.
+~
+0 0 3
+D0
+~
+~
+0 -1 12051
+D1
+~
+~
+0 -1 12055
+D3
+~
+~
+0 -1 12039
+S
+#12053
+In the meditation grove~
+You stand in a grove in which there is no shrubs or bushes what so ever.  
+There is a brook that flows in from the south, and collects in a small 
+basin in the center of the grove.  There is a feeling of complete inner 
+peace and sanctity.  Priests and monks from the Jujin Kai's Old Master 
+come here to refresh themselves and meditate.
+~
+0 0 3
+D2
+~
+~
+0 -1 12054
+S
+#12054
+In the Forest~
+The east of this part of the forest is blocked by dense foliage.  There 
+is a small creek that flows in from the west, then slowly curves north.  
+To the north there appears to be a small grove, while the forest continues 
+in all other directions.  The forest floor is covered with many small 
+shrubs bushes, and large ancient trees.
+~
+0 0 3
+D0
+~
+~
+0 -1 12053
+D2
+~
+~
+0 -1 12055
+D3
+~
+~
+0 -1 12051
+S
+#12055
+In the Forest~
+You stand in part of the forest in the world of the Jujin Kai.  There is 
+dense foliage blocking the way east and south. There are no sounds of any 
+wildlife what so ever, but it does not alarm you.  To the north and west the 
+forest continues on.  The forest floor is covered with a variety of different 
+shrubs, bushes and trees.
+~
+0 0 1
+D0
+~
+~
+0 -1 12054
+D3
+~
+~
+0 -1 12052
+S
+#12056
+Among the desolate terrain~
+Standing amoung the blackened and slate rocks, you feel a deep sense of 
+lonlieness.  There are no smells in the air, and no sounds of common 
+wildlife.  There are no plants or even weeds growing amongst the 
+rocks.  To the east and west, rubble is piled high, blocking and travel
+ in either direction.  The sky is a deep and very sinister purple colour.  
+You can make out gigantic pillars reaching high up into the sky in the 
+distance to the south.
+~
+0 65537 4
+D0
+~
+~
+0 -1 12050
+D2
+~
+~
+0 -1 12057
+S
+#12057
+At the base of the Pillars~
+You stand at the base of many gigantic pillars reaching high up into 
+the sky.  You can't fathom how high they go, but there is a reason for 
+this.  The sky is almost black except for a small purple glow.  You think 
+that you can see a white glow coming from what might be the top of the 
+pillars.  There is rubble all around, which prevents any travel in 
+any direction.
+~
+0 1 3
+D0
+~
+~
+0 -1 12056
+D4
+~
+~
+0 -1 12058
+S
+#12058
+Floating between the Pillars~
+While in flight, you notice that there are four pillars.  At this altitude, 
+you can see that they hold a huge platform high up in the air.  You can 
+only surmise who or what has built thi incredibly grand structure.  You can 
+see a hole in the bottom of the pillars where the Jujin Kai must enter to 
+reach the top of the platform.  Below you lies ancient rubble.
+~
+0 1 9
+D4
+~
+~
+0 -1 12059
+D5
+~
+~
+0 -1 12057
+S
+#12059
+Floating between the Pillars~
+You are floating between the four pillars that hold the platform in the 
+air.  You can see clearly a hole on the bottom of the platform.  The hole 
+emanates a white glow in the darkness surrounding you.  You can hear faint 
+chanting and a hollow drum beat.
+~
+0 1 9
+D4
+~
+~
+0 -1 12060
+D5
+~
+~
+0 -1 12058
+S
+#12060
+On the Platform~
+You are floating above the hole on the platform.  White light bathes the 
+entire platform in it's grace.  You can here chanting from all around.  
+Rhythmic drum beats also fill the air.  Below you is the hole in the platform 
+where you can descend to the ground.
+~
+0 1 9
+D0
+~
+~
+0 -1 12069
+D1
+~
+~
+0 -1 12063
+D2
+~
+~
+0 -1 12065
+D3
+~
+~
+0 -1 12067
+D4
+~
+~
+0 -1 12061
+D5
+~
+~
+0 -1 12059
+S
+#12061
+The Old Master's Chamber~
+You stand before the Old Master himself.  There is a `&white`` light bathing
+ the entire room.  The chanting and drum beats can still be heard from 
+below, but you are too concerned with being in the audience of the 
+greatest prophet of the Jujin Kai.  There is a large throne-like chair 
+in which the Old One sits.
+~
+0 0 0
+D5
+~
+~
+0 -1 12060
+S
+#12062
+On the Platform~
+You stand on the platform where monks and priests of the Jujin Kai meditate
+for the Old Master.  There are fires burning in braziers, flickering their 
+light on the many that are chanting.
+~
+0 0 0
+D2
+~
+~
+0 -1 12063
+D3
+~
+~
+0 -1 12069
+S
+#12063
+On the Platform~
+You stand on the platform where Jujin Kai monks and priests meditate 
+and chant.  The platform is a gold colour which is enhanced by many fire 
+braziers giving off flickering light.  The chanting is slow and 
+rhythmic and matches the drum beats perfectly.
+~
+0 0 0
+D0
+~
+~
+0 -1 12062
+D2
+~
+~
+0 -1 12064
+D3
+~
+~
+0 -1 12060
+S
+#12064
+On the Platform~
+You stand on the platform where monks and priests of the Jujin Kai gather 
+to chant and meditate.  The platform appears to made out of a strange 
+metal, but you could be mistaken.  Golden light bathes the area from many 
+small braziers burning.  The monks and priests chanting fills your ears.
+~
+0 0 1
+D0
+~
+~
+0 -1 12063
+D3
+~
+~
+0 -1 12065
+S
+#12065
+On the Platform~
+You stand on the platform in which Jujin Kai preists and monks gather 
+to meditate and chant.  They channel their powers together to give the Old 
+Master more strength.  The platform is made from what appears to be a 
+golden metal of some kind.  There are several braziers with fires in 
+them, flickering eerie light across the platform.
+~
+0 0 0
+D0
+~
+~
+0 -1 12060
+D1
+~
+~
+0 -1 12064
+D3
+~
+~
+0 -1 12066
+S
+#12066
+On the Platform~
+You stand on a platform in which Jujin Kai priests and monks gather 
+to meditate.  You can feel the chanting surround you and feel its power 
+being transfered around.  The air seems to have an electric charge from 
+the intensity of the monks' and priests' chanting.  Braziers are 
+magicly alive with flame.
+~
+0 0 0
+D0
+~
+~
+0 -1 12067
+D1
+~
+~
+0 -1 12065
+S
+#12067
+On the Platform~
+You stand on a golden platform in which many Jujin Kai monks and 
+priests are chanting and meditating.  You can hear the rhythmic beat 
+of their drums as they channel their strength and power into the Old Master.  
+Braziers flicker firelight across the darkened platform, giving a 
+sinister apearance to their pure ritual.
+~
+0 0 0
+D0
+~
+~
+0 -1 12068
+D1
+~
+~
+0 -1 12060
+D2
+~
+~
+0 -1 12066
+S
+#12068
+On the Platform~
+Many Jujin Kai monks and priests are gathered on the platform to channel 
+their power to the Old Master.  Pulsing drum beats come from all around 
+to help with their ritual.  Braziers flicker firelight across the 
+entire platform giving an eerie golden glow.  Many of the monks are 
+sweating and exhausted from their extreme exertion.
+~
+0 0 0
+D1
+~
+~
+0 -1 12069
+D2
+~
+~
+0 -1 12067
+S
+#12069
+On the Platform~
+You stand on a golden platform in which many Jujin Kai monks and 
+priests are chanting and meditating.  You can hear the rhythmic beat 
+of their drums as they channel their strength and power into the Old Master.  
+Braziers flicker firelight across the darkened platform, giving a 
+sinister appearance to their pure ritual.
+~
+0 0 0
+D1
+~
+~
+0 -1 12062
+D2
+~
+~
+0 -1 12060
+D3
+~
+~
+0 -1 12068
+S
+#12070
+In a crack in the valley wall~
+Amazingly enough, you have managed to fit yourself inside this crack.
+It is dark, gloomy and worst of all, cold.  You would muth rather be 
+outside in the yellow sky.
+~
+0 0 1
+D0
+The crack must be open up a bit more before you can exit.~
+crack~
+1 -1 12045
+S
+#12071
+In the valley~
+To the east and west are large cliff walls in the valley.  The valley 
+continues on north and south.  A brisk wind blows throught the valley which
+gives you a slight chill. The walls and floor of the valley consist of a 
+black slate-like rock.  The sky has a cheerful yellowish glow.
+~
+0 0 4
+D0
+~
+~
+0 -1 12072
+D2
+~
+~
+0 -1 12043
+S
+#12072
+In the valley~
+You stand in a long, chasm like valley in the world of the Jujin Kai 
+beast men.  The walls to the east and west are sleek, smooth black rock.  
+A chill passes through you from a small gust of wind and the sky is a 
+pleasant yellow haze.
+~
+0 0 1
+D0
+~
+~
+0 -1 12073
+D2
+~
+~
+0 -1 12071
+S
+#12073
+In the valley~
+You walk along a valley made from shining black rock.  The walls of the 
+valley are smooth and unclimbable.  A small creek runs out of a large crack 
+in the valley wall and runs northward.  The sky is a strange yellow glow.
+~
+0 0 1
+D0
+~
+~
+0 -1 12074
+D2
+~
+~
+0 -1 12072
+S
+#12074
+In the valley~
+You stand in a valley of the beast world.  The valley seems to end here, 
+but the small creek continues into a small waterfall to the east.  
+The sky is a yellowish haze.  Also, farther to the east lies gargantuan 
+mountain.
+~
+0 0 4
+D1
+~
+~
+0 -1 12016
+D2
+~
+~
+0 -1 12073
+S
+#0
+
+
+
+#SPECIALS
+M 12001 spec_cast_mage
+M 12002 spec_breath_lightning
+M 12004 spec_breath_frost
+M 12005 spec_guard
+M 12007 spec_cast_cleric
+M 12008 spec_cast_cleric
+M 12009 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 12006 3 2
+D 0 12014 1 2
+D 0 12045 2 1
+D 0 12070 0 1
+M 0 12005 4 12009 1
+E 0 12016 0 6
+E 0 12018 0 8
+E 0 12022 0 11
+M 0 12011 6 12015 1
+M 0 12002 1 12016 1
+E 0 12006 0 14
+M 0 12006 4 12021 1
+M 0 12006 4 12022 1
+M 0 12006 4 12023 1
+M 0 12006 4 12027 1
+M 0 12010 3 12029 1
+M 0 12011 6 12029 1
+M 0 12004 1 12030 1
+E 0 12007 0 5
+E 0 12008 0 6
+E 0 12009 0 7
+E 0 12010 0 8
+E 0 12011 0 9
+E 0 12012 0 10
+E 0 12013 0 13
+E 0 12014 0 11
+M 0 12007 1 12036 1
+E 0 12005 0 12
+E 0 12001 0 16
+M 0 12005 4 12039 1
+E 0 12016 0 6
+E 0 12019 0 9
+E 0 12020 0 10
+M 0 12005 4 12043 1
+E 0 12015 0 5
+E 0 12022 0 11
+E 0 12021 0 13
+M 0 12010 3 12045 1
+M 0 12011 6 12045 1
+M 0 12011 6 12046 1
+M 0 12011 6 12052 1
+M 0 12009 1 12053 1
+E 0 12024 0 3
+E 0 12023 0 15
+M 0 12010 3 12055 1
+M 0 12005 4 12056 1
+E 0 12015 0 5
+E 0 12017 0 7
+E 0 12020 0 10
+M 0 12001 1 12061 1
+E 0 12024 0 3
+E 0 12023 0 15
+M 0 12003 14 12062 3
+M 0 12008 6 12063 1
+E 0 12003 0 1
+M 0 12003 14 12064 3
+M 0 12008 6 12065 1
+M 0 12003 14 12066 4
+M 0 12008 6 12067 2
+E 0 12003 0 1
+M 0 12003 14 12068 4
+M 0 12008 6 12069 2
+O 0 12002 0 12070
+M 0 12011 6 12072 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,939 @@
+#AREADATA
+Name Kurusa's Area~
+Builders $kurusa~
+VNUMs 14000 14150
+Credits Kurusa~
+Security 5
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#14000
+runearmour~
+`7a `%F`5arseer`%'`5s `&R`7une `&A`7rmour``~
+A set of armor plates formed of crystaline rune gems.~
+crystal~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+I 0 0 C
+F
+V 0 0 G
+#14001
+runearmour~
+`7a `%W`5arlock`%'`5s `&R`7une `&A`7rmour``~
+A set of armor plates formed of crystaline rune gems.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+R 0 0 C
+F
+V 0 0 F
+#14002
+aspectarmour~
+`7a `^D`6ire `^A`6venger`^'`6s `&A`7spect `&A`7rmour``~
+Multi-plated body armor is lain here, its opaque layers lending it a mesh-like apperance.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+R 0 0 I
+F
+V 0 0 K
+#14003
+aspectarmour~
+`7a `@S`2triking `@S`2corpion`@'`2s `&A`7spect `&A`7rmour``~
+Multi-plated body armor is lain here, its opaque layers lending it a mesh-like apperance.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+R 0 0 K
+F
+V 0 0 O
+#14004
+aspectarmour~
+`7a `!D`1ark `!R`1eaper`!'`1s `&A`7spect `&A`7rmour``~
+Multi-plated body armor is lain here, its opaque layers lending it a mesh-like apperance.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+R 0 0 E
+F
+V 0 0 C
+#14005
+aspectarmour~
+`7a `!F`1ire `!D`1ragon`!'`1s `&A`7spect `&A`7rmour``~
+Multi-plated body armor is lain here, its opaque layers lending it a mesh-like apperance.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+I 0 0 H
+F
+V 0 0 I
+#14006
+aspectarmour~
+`7a `^S`6wooping `^H`6awk`^'`6s `&A`7spect `&A`7rmour``~
+Multi-plated body armor is lain here, its opaque layers lending it a mesh-like apperance.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+R 0 0 J
+F
+V 0 0 E
+#14007
+aspectarmour~
+`7a `$W`4arp `$S`4pider`$'`4s `&A`7spect `&A`7rmour``~
+Multi-plated body armor is lain here, its opaque layers lending it a mesh-like apperance.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+R 0 0 F
+#14008
+aspectarmour~
+`7a `@H`2owling `@B`2anshee`@'`2s `&A`7spect `&A`7rmour``~
+Multi-plated body armor is lain here, its opaque layers lending it a mesh-like apperance.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+R 0 0 G
+F
+V 0 0 H
+#14009
+aegissuit~
+`7an `%I`5nquisitor`%'`5s `&A`7egis `&S`7uit``~
+A mesh of circuits and high fibre wire seem to be thrown together to form some kind of suit.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+I 0 0 C
+F
+V 0 0 G
+#14010
+aegissuit~
+`7a `%G`5rey `%K`5night`%'`5s `&A`7egis `&S`7uit``~
+A mesh of circuits and high fibre wire seem to be thrown together to form some kind of suit.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+R 0 0 C
+F
+V 0 0 F
+#14011
+marinearmour~
+`7a `^S`6pace `^M`6arine`^'`6s `&T`7actical `&A`7rmour``~
+This armour is fully encased by a multitude of impact resistant plates fit tightly together.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+R 0 0 I
+F
+V 0 0 K
+#14012
+marinearmour~
+`7an `^A`6pothecaries`^' `&T`7actical `&A`7rmour``~
+This armour is fully encased by a multitude of impact resistant plates fit tightly together.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+R 0 0 J
+F
+V 0 0 E
+#14013
+marinearmour~
+`7a `@T`2echmarine`@'`2s `&T`7actical `&A`7rmour``~
+This armour is fully encased by a multitude of impact resistant plates fit tightly together.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+R 0 0 K
+F
+V 0 0 O
+#14014
+marinearmour~
+`7a `!C`1aptain`!'`1s `&T`7actical `&A`7rmour``~
+This armour is fully encased by a multitude of impact resistant plates fit tightly together.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+R 0 0 E
+F
+R 0 0 H
+F
+V 0 0 I
+#14015
+marinearmour~
+`7a `$S`4tandard `$B`4earer`$'`4s `&T`7actical `&A`7rmour``~
+This armour is fully encased by a multitude of impact resistant plates fit tightly together.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+R 0 0 F
+#14016
+dreadnought~
+`7a `!T`1erminator`!'`1s `&T`7actical `&D`7readnought `&A`7rmour``~
+This armour is fully encased by a multitude of impact resistant plates fit tightly together, yet
+with three tim
+es the thickness of normal tactical armour and heavier weapons mounted upon it.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+R 0 0 E
+F
+R 0 0 J
+F
+V 0 0 C
+#14017
+flakvest~
+`7a `@S`2ister`@'`2s `&F`7lak `&V`7est``~
+This armour is a lighter version of the imperial guard's standard flak armour.~
+unknown~
+armor HMPTUYZ AD
+CE CE CE CE 0
+1 5 0 100
+F
+R 0 0 G
+F
+V 0 0 H
+#14020
+forcestaff~
+`7a `%F`5arseer`%'`5s `&F`7orce `&S`7taff``~
+An elongated staff carved from crystal and bearing a number of runes along its length.~
+unknown~
+weapon HMPTUYZ AN
+exotic 11 10 magic DEF
+1 5 0 100
+A
+18 60
+A
+19 60
+#14021
+witchblade~
+`7a `%W`5arlock`%'`5s `&W`7itch `&B`7lade``~
+A curved sword gleams with the pale color of bone, humming softly.~
+unknown~
+weapon BHMPTUYZ AN
+exotic 10 9 wrath EF
+1 5 0 100
+A
+19 30
+A
+18 30
+#14022
+shurikencatapult~
+`7a `^D`6ire `^A`6venger`^'`6s `&S`7huriken `&C`7atapult``~
+(no description)~
+unknown~
+weapon HMPTUYZ AN
+exotic 10 9 chill BF
+1 5 0 100
+A
+18 40
+A
+19 40
+A
+19 10
+A
+18 10
+#14023
+chainsword~
+`7a `@S`2triking `@S`2corpion`@'`2s `&C`7hainsword``~
+(no description)~
+unknown~
+weapon HMPTUYZ AN
+exotic 10 9 acbite H
+1 5 0 100
+A
+18 20
+A
+19 20
+#14024
+mandiblaster~
+`7a `@S`2triking `@S`2corpion`@'`2s `&M`7andiblaster``~
+(no description)~
+unknown~
+weapon HMPTUYZ AN
+dagger 10 9 sting D
+1 2 0 100
+A
+19 20
+A
+18 20
+#14025
+missilelauncher~
+`7a `!D`1ark `!R`1eaper`!'`1s `&M`7issile `&L`7auncher``~
+(no description)~
+unknown~
+weapon HMPTUYZ AN
+exotic 11 10 blast AEF
+1 5 0 100
+A
+18 50
+A
+19 50
+#14026
+meltagun~
+`7a `!F`1ire `!D`1ragon`!'`1s `&M`7eltagun``~
+(no description)~
+unknown~
+weapon HMPTUYZ AN
+exotic 11 10 flame AF
+1 5 0 100
+A
+18 50
+A
+19 50
+#14027
+lasgun~
+`7a `^S`6wooping `^H`6awk`^'`6s `&L`7asgun``~
+(no description)~
+unknown~
+weapon HMPTUYZ AN
+exotic 10 9 shock FG
+1 5 0 100
+A
+18 50
+A
+19 50
+#14028
+deathspinner~
+`7a `$W`4arp `$S`4pider`$'`4s `&D`7eath `&S`7pinner``~
+(no description)~
+unknown~
+weapon HMPTUYZ AN
+exotic 10 9 bite CDF
+1 5 0 100
+A
+18 100
+A
+19 100
+#14029
+powersword~
+`7a `@H`2owling `@B`2anshee`@'`2s `&P`7owersword``~
+(no description)~
+unknown~
+weapon HMPTUYZ AN
+exotic 10 9 slash DE
+1 5 0 100
+A
+18 20
+A
+19 20
+#14030
+bansheemask~
+`7a `@H`2owling `@B`2anshee`@'`2s `&M`7ask``~
+(no description)~
+unknown~
+weapon HMPTUYZ AN
+exotic 10 9 bite D
+1 2 0 100
+A
+19 20
+A
+18 20
+#14032
+chainsword~
+``~
+(no description)~
+unknown~
+weapon HMPTUY AN
+exotic 11 9 acbite H
+1 5 0 100
+A
+18 500
+A
+18 200
+A
+18 50
+A
+19 80
+A
+18 150
+#14033
+chainsword~
+``~
+(no description)~
+unknown~
+weapon HMPTUY AN
+exotic 10 7 chill B
+0 5 0 100
+#14034
+chainsword~
+``~
+(no description)~
+unknown~
+weapon HMPTUY AN
+exotic 12 12 blast A
+0 0 0 100
+#14035
+chainsword~
+``~
+(no description)~
+unknown~
+weapon HMPTUY AN
+exotic 12 12 wrath E
+0 0 0 100
+#14036
+chainsword~
+``~
+(no description)~
+unknown~
+weapon HMPTUY AN
+exotic 15 15 blast AD
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#14000
+Under the stadium~
+This is the part of the stadium where Kurusa has sex with his mother and little boys.
+~
+0 9228 0
+D0
+~
+~
+0 0 14008
+D1
+~
+~
+0 0 14014
+D2
+~
+~
+0 0 14018
+D3
+~
+~
+0 0 14012
+S
+#14001
+North West Corner of Stadium~
+~
+0 8192 0
+D1
+~
+~
+0 0 14002
+D2
+~
+~
+0 0 14006
+S
+#14002
+North Wall of Stadium~
+~
+0 8192 0
+D1
+~
+~
+0 0 14003
+D2
+~
+~
+0 0 14007
+D3
+~
+~
+0 0 14001
+S
+#14003
+North Wall of Stadium~
+~
+0 8192 0
+D1
+~
+~
+0 0 14004
+D2
+~
+~
+0 0 14008
+D3
+~
+~
+0 0 14002
+S
+#14004
+North Wall of Stadium~
+~
+0 8192 0
+D1
+~
+~
+0 0 14005
+D2
+~
+~
+0 0 14009
+D3
+~
+~
+0 0 14003
+S
+#14005
+North East Corner of Stadium~
+~
+0 8192 0
+D2
+~
+~
+0 0 14010
+D3
+~
+~
+0 0 14004
+S
+#14006
+`4B`$LU`4E G`$OA`4L``~
+~
+0 8192 0
+D0
+~
+~
+0 0 14001
+D1
+~
+~
+0 0 14007
+D2
+~
+~
+0 0 14011
+S
+#14007
+Stadium~
+~
+0 8192 0
+D0
+~
+~
+0 0 14002
+D1
+~
+~
+0 0 14008
+D2
+~
+~
+0 0 14012
+D3
+~
+~
+0 0 14006
+S
+#14008
+Stadium~
+~
+0 8192 0
+D0
+~
+~
+0 0 14003
+D1
+~
+~
+0 0 14009
+D2
+~
+~
+0 0 14013
+D3
+~
+~
+0 0 14007
+S
+#14009
+Stadium~
+~
+0 8192 0
+D0
+~
+~
+0 0 14004
+D1
+~
+~
+0 0 14010
+D2
+~
+~
+0 0 14014
+D3
+~
+~
+0 0 14008
+S
+#14010
+`1R`!E`1D G`!OA`1L``~
+~
+0 8192 0
+D0
+~
+~
+0 0 14005
+D2
+~
+~
+0 0 14015
+D3
+~
+~
+0 0 14009
+S
+#14011
+`4B`$LU`4E G`$OA`4L``~
+~
+0 8192 0
+D0
+~
+~
+0 0 14006
+D1
+~
+~
+0 0 14012
+D2
+~
+~
+0 0 14016
+S
+#14012
+Stadium~
+~
+0 8192 0
+D0
+~
+~
+0 0 14007
+D1
+~
+~
+0 0 14013
+D2
+~
+~
+0 0 14017
+D3
+~
+~
+0 0 14011
+S
+#14013
+Center of Stadium~
+~
+0 8192 0
+D0
+~
+~
+0 0 14008
+D1
+~
+~
+0 0 14014
+D2
+~
+~
+0 0 14018
+D3
+~
+~
+0 0 14012
+S
+#14014
+Stadium~
+~
+0 8192 0
+D0
+~
+~
+0 0 14009
+D1
+~
+~
+0 0 14015
+D2
+~
+~
+0 0 14019
+D3
+~
+~
+0 0 14013
+S
+#14015
+`1R`!E`1D G`!OA`1L``~
+~
+0 8192 0
+D0
+~
+~
+0 0 14010
+D2
+~
+~
+0 0 14020
+D3
+~
+~
+0 0 14014
+S
+#14016
+`4B`$LU`4E G`$OA`4L``~
+~
+0 8192 0
+D0
+~
+~
+0 0 14011
+D1
+~
+~
+0 0 14017
+D2
+~
+~
+0 0 14021
+S
+#14017
+Stadium~
+~
+0 8192 0
+D0
+~
+~
+0 0 14012
+D1
+~
+~
+0 0 14018
+D2
+~
+~
+0 0 14022
+D3
+~
+~
+0 0 14016
+S
+#14018
+Stadium~
+~
+0 8192 0
+D0
+~
+~
+0 0 14013
+D1
+~
+~
+0 0 14019
+D2
+~
+~
+0 0 14023
+D3
+~
+~
+0 0 14017
+S
+#14019
+Stadium~
+~
+0 8192 0
+D0
+~
+~
+0 0 14014
+D1
+~
+~
+0 0 14020
+D2
+~
+~
+0 0 14024
+D3
+~
+~
+0 0 14018
+S
+#14020
+`1R`!E`1D G`!OA`1L``~
+~
+0 8192 0
+D0
+~
+~
+0 0 14015
+D2
+~
+~
+0 0 14025
+D3
+~
+~
+0 0 14019
+S
+#14021
+South West Corner of Stadium~
+~
+0 8192 0
+D0
+~
+~
+0 0 14016
+D1
+~
+~
+0 0 14022
+S
+#14022
+South Wall of Stadium~
+~
+0 8192 0
+D0
+~
+~
+0 0 14017
+D1
+~
+~
+0 0 14023
+D3
+~
+~
+0 0 14021
+S
+#14023
+South Wall of Stadium~
+~
+0 8192 0
+D0
+~
+~
+0 0 14018
+D1
+~
+~
+0 0 14024
+D3
+~
+~
+0 0 14022
+S
+#14024
+South Wall of Stadium~
+~
+0 8192 0
+D0
+~
+~
+0 0 14019
+D1
+~
+~
+0 0 14025
+D3
+~
+~
+0 0 14023
+S
+#14025
+South East Corner of Stadium~
+~
+0 8192 0
+D0
+~
+~
+0 0 14020
+D3
+~
+~
+0 0 14024
+S
+#14026
+The Penalty Box~
+~
+0 9228 0
+S
+#14027
+The Referee's House~
+~
+0 8196 0
+S
+#14150
+`1Er`!i`1k`8'`1s `8Off`&i`8ce``~
+The corpses are gone, but the entirety of the bar has been burnt to
+nothing but ash, save for a table, set of chairs, and a television.  All the
+windows have been boarded up, as well as all but the front door, with a sign
+that reads "Erik's Office" nailed near the door, Underneath that is a
+smaller sign that says "Please wipe your feet."  
+~
+0 1032 0
+D0
+~
+~
+0 0 12193
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

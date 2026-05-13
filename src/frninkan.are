@@ -1,0 +1,752 @@
+#AREADATA
+Name Funinkan High~
+Builders $sirus~
+VNUMs 14201 14351
+Credits Sirus~
+Security 5
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#14201
+Hyper Cleaning Fluid~
+a bottle of HYPER Cleaning Fluid~
+A bottle of HYPER cleaning fluid rests here.~
+unknown~
+potion 0 AO
+40 'haste' 'poison' 'reserved' 'reserved'
+10 0 7 100
+#0
+
+
+
+#ROOMS
+#14201
+Main Gates of Furinkan High School~
+There is a large steel gate that is set before the main walkway of the
+school.  In the distance, a large white complex can be seen, cascading off
+to the east and west for quite some ways.  There is a lawn present before
+the building, well kept and trim with the green grass shining in harmony
+with the clean atmosphere of the area.  There is a wall a few feet past the
+gate that seems to trim the entire course of the school.  
+~
+0 0 0
+D0
+~
+~
+0 0 14203
+D1
+~
+~
+0 0 14202
+S
+#14202
+Sidewalk~
+To the north of the sidewalk is a large concrete wall that shoots up
+around 10 feet.  It's fairly thick in stature with a set of protruding gate
+links atop of it.  To the west the wall continues along.  
+~
+0 0 0
+D3
+~
+~
+0 0 14201
+S
+#14203
+Walkway~
+There is a chipper atmosphere in the air all around.  The grass is well
+kept and quite soft to the touch.  Benches and tables are placed all around
+the lawn and appear to be well used, due to wear and tear from the ages
+apperent in their architexture.  
+~
+0 0 0
+D0
+~
+~
+0 0 14208
+D1
+~
+~
+0 0 14204
+D2
+~
+~
+0 0 14201
+D3
+~
+~
+0 0 14205
+S
+#14204
+The lawn~
+The grass shines across the spanning lawn, with a row of trees planted
+along the wall of the south and the building to the north.  The complex that
+stands a few stories high directly to the north seems to be clean and well
+made.  The parimeter is gated off to the east, and back to the west, there
+looks to be a walkway.  
+~
+0 0 0
+D3
+~
+~
+0 0 14203
+S
+#14205
+The lawn~
+There is a bench that rests here, which looks to have many hearts and
+other informal designs cut into it along with the names of several boys and
+girls.  There is a large building to the north that stands several stories
+high.  To the west, more tables and benches are present, along with a large
+tree that shades quite a bit of the courtyard.  
+~
+0 0 0
+D1
+~
+~
+0 0 14203
+D3
+~
+~
+0 0 14206
+S
+#14206
+The lawn~
+The most dominant sight in this section of the yard is the very tall tree
+that shoots up a few stories in height.  There looks to be some leaves that
+have recently fallen from it that rest peacefully on the ground.  There are
+a couple of tables spread out with the carvings of mischevious youth on
+them.  
+~
+0 0 0
+D1
+~
+~
+0 0 14205
+D3
+~
+~
+0 0 14207
+S
+#14207
+The outer courtyard~
+Here, there is a section of the wall that veers off to the north, cutting
+off any travel to the west.  The grass here seems to be a little more kept,
+due to the line of flowers that line the wall.  The building to the
+north-east turns and heads off into the northbound direction.  
+~
+0 0 0
+D1
+~
+~
+0 0 14206
+S
+#14208
+The steps~
+There is a large set of stairs that lead up to a set of quadruple doors
+to the north.  Architexture on these stairs appears to be fairly well dated,
+but with ease well cared for.  They are clean and have a smooth sheen across
+them.  The building before spans up a few stories in height.  
+~
+0 0 0
+D0
+~
+~
+1 0 14209
+D2
+~
+~
+0 0 14203
+S
+#14209
+Main corridor~
+There is a large hallway that begins here which streches out to the east
+and west.  Directly ahead is a bullitin board which has all the names of the
+teachers, which location they are in, as well as a list of students programs
+they run.  Also, there is a list of dates of important activity.  
+~
+0 0 0
+D1
+~
+~
+0 0 14213
+D2
+~
+~
+1 0 14208
+D3
+~
+~
+0 0 14210
+S
+#14210
+The hallway~
+The hallway here is lined with lockers with numbers all on them.  Some of
+the lockers have explicit writings on them which look to be freshly written.
+There are also a few which look to have some kinds of notes sticking out of
+them.  The hall continues off to the east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 14209
+D3
+~
+~
+0 0 14211
+S
+#14211
+The hallway~
+The rows of lockers stop off to allow a few doors leading into classrooms
+to be present.  On the wall there is a picture of a student smiling, with
+the sub-heading of 'vote me for class president'.  
+~
+0 0 0
+D0
+~
+~
+0 0 14212
+D1
+~
+~
+0 0 14210
+D3
+~
+~
+0 0 14220
+S
+#14212
+A Classroom~
+There is a blackboard on the western wall of the room which reads 'Math
+90' on it.  The tables and desk all seem to have copies of mathmatics books
+on them.  
+~
+0 0 0
+D2
+~
+~
+0 0 14211
+S
+#14213
+The hallway~
+There is a row of student lockers that span across here.  This looks like
+it is the junior hall since there is quite a lot of posters that seem to
+highlight the junior class.  On the floor, there is a few cracks which look
+like they might have stemmed from some sort of battle that has taken place. 
+~
+0 0 0
+D1
+~
+~
+0 0 14214
+D3
+~
+~
+0 0 14209
+S
+#14214
+The hallway~
+To the north, there looks to be a storage closet with janitor tools.  To
+the west, the hall spans onward, and to the east, there is a staircase
+leading up.  
+~
+0 0 0
+D0
+~
+~
+1 0 14215
+D1
+~
+~
+0 0 14216
+D3
+~
+~
+0 0 14213
+S
+#14215
+Janitor's Closet~
+In this dimly lit room, the spacious walls are lined with industrial
+shape cleaning liquids and cleaning untinsels nealy lined up.  There is also
+a drain on the floor which appears to be used.  
+~
+0 0 0
+D2
+~
+~
+1 0 14214
+S
+#14216
+The staircase~
+The stairs here lead upward towards the second story of this school
+building.  The stairs themselves are neatly kept.  There is a window that
+lines the stairs which gives a nice view of everything outside.  
+~
+0 0 0
+D3
+~
+~
+0 0 14214
+D4
+~
+~
+0 0 14217
+S
+#14217
+The staircase~
+The stairway from this height is a pretty substancial drop.  The window
+looking outside is large and clean, giving a clear view of much of the city.
+To the west, the school continues on in a spanning hallway.  
+~
+0 0 0
+D3
+~
+~
+0 0 14218
+D5
+~
+~
+0 0 14216
+S
+#14218
+The hallway~
+The hallways here is lined with all sorts of posters from the art
+department.  It seems that many of the males here seem to appreciate the
+female form when it comes to artwork.  Manga art seems to be fairly in
+style, as well, since many of the peices are influenced by media such as
+video games and other forms of entertainment.  
+~
+0 0 0
+D1
+~
+~
+0 0 14217
+D3
+~
+~
+0 0 14219
+S
+#14219
+The hallway~
+In this section of the hallway, there are cracks in the walls freshly
+lined with plaster.  There are what look like punch marks in lockers that
+look to have come from some seriously angered person.  The white tiled floor
+is is creased with hairline fractures and cracks.  
+~
+0 0 0
+D0
+~
+~
+0 0 14242
+D1
+~
+~
+0 0 14218
+D3
+~
+~
+0 0 14232
+S
+#14220
+The hallway~
+The hallways that heads off to the west stops here, and continues on to
+the north.  To the east, the hall keeps going on as far as the eye can see. 
+~
+0 0 0
+D0
+~
+~
+0 0 14221
+D1
+~
+~
+0 0 14211
+S
+#14221
+The hallway~
+To the west, there is a wall that has a large picture window built into
+it.  The view overlooks the outer courtyard where the large tree stands tall
+in the middle of it.  To the north, the hallways continues on and swings
+around to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 14222
+D2
+~
+~
+0 0 14220
+S
+#14222
+The hallway~
+This section of the hallways seems to have a row of doors leading in and
+out of classrooms on it.  To the north, there is a door that leads outside
+into the back area of the school.  
+~
+0 0 0
+D1
+~
+~
+0 0 14223
+D3
+~
+~
+0 0 14221
+S
+#14223
+The hallway~
+In this section of hallway, there is a computer lab open to the south. 
+The sounds of humming PCs can be heard by any passerby.  To the north there
+picture window shows a picture of the fitness courtyard.  
+~
+0 0 0
+D1
+~
+~
+0 0 14226
+D2
+~
+~
+0 0 14224
+D3
+~
+~
+0 0 14222
+S
+#14224
+Computer Lab~
+In this labratory, there is row after row of personal computers lined up.
+On the wall, there is a whole five section rack of software available to
+use, not to mention video games to play.  All of the computers are on a
+network, which is connected to a large HUB in the rear of the room.  
+~
+0 0 0
+D0
+~
+~
+0 0 14223
+D1
+~
+~
+0 0 14225
+S
+#14225
+Technician's Lab~
+In this small room, there are a few personal computers going, and no
+visable sign of light coming in from any direction.  With the blue glow of
+the monitors, the walls behind are lit up.  The walls is lined with posters
+of Sailormoon, Card Captors, and various other shojou anime.  In the air,
+the tunes of Rainbow Brite are playing.  
+~
+0 0 0
+D3
+~
+~
+0 0 14224
+S
+#14226
+The Rear Entrance~
+There is a door to the north which leads outside to the fitness area.  To
+east and west, the hallway continues on.  To the south, there is a row of
+posters that show no viable information.  
+~
+0 0 0
+D0
+~
+~
+0 0 14231
+D1
+~
+~
+0 0 14227
+D3
+~
+~
+0 0 14223
+S
+#14227
+The hallway~
+On the walls, there are all sorts of lockers that hail to the freshmen. 
+The smell of adolesence is almost in the air itself.  To the east are the
+restrooms in the area, and to the west there is a doorway outside.  
+~
+0 0 0
+D1
+~
+~
+0 0 14228
+D3
+~
+~
+0 0 14226
+S
+#14228
+Common area~
+In the middle of this small part of the school, there are a couple of
+tables that sit where students can sit and rest, or even read if need be.  A
+KIOSK sits against the wall with student information on it.  To the east and
+south, there are the restrooms for the students.  
+~
+0 0 0
+D1
+~
+~
+0 0 14230
+D2
+~
+~
+0 0 14229
+D3
+~
+~
+0 0 14227
+S
+#14229
+Girl's Restroom~
+In this lush bathroom, the stalls line the wall with pearly white stall
+doors.  The sinks are plentiful and very clean.  Against the wall there is a
+machine to cater to girl's needs.  In the corner there is also a small
+little couch to sit in.  
+~
+0 0 0
+D0
+~
+~
+0 0 14228
+S
+#14230
+Boy's Restroom~
+The smell of cigarette smoke seems to be pretty high.  On the few stall
+doors, there is all sorts of names and phone numbers written down, all
+pointing to the deduction that this is where prostites must write down their
+information.  The sinks are all flowing with paper towels and the urinals
+all seem to the used to ash trays.  
+~
+0 0 0
+D3
+~
+~
+0 0 14228
+S
+#14231
+Outside Walkway~
+The air outside here smells a little bit like resturants since behind the
+school there is a row of eateries that commonly cater to the students during
+their lunch hour.  To the north and east, a set of courts and tracks are
+sprung up, ready for the students to use during physical education classes. 
+~
+0 0 0
+D2
+~
+~
+0 0 14226
+S
+#14232
+The hallway~
+The large picture window to the south seems to show a grand view of the
+front lawn of the high school, which carries the view clear into the city. 
+To the north, an open classroom is present, and to the east and west lockers
+continue to line the hallway.  
+~
+0 0 0
+D1
+~
+~
+0 0 14219
+D3
+~
+~
+0 0 14233
+S
+#14233
+The hallway~
+On the walls here, there is writing which points a bunch of arrows to the
+north.  There is 'l337' speak written all over next to the arrows, which
+seems to read different things that make no sense.  
+~
+0 0 0
+D0
+~
+~
+0 0 14243
+D1
+~
+~
+0 0 14232
+D3
+~
+~
+0 0 14234
+S
+#14234
+The hallway~
+To the east, the wallway continues along.  To the north the hallway archs
+and continues to go on.  The tile in this section of hall looks to have been
+completely crashed through, and a lot of reconstruction work has been done
+on it.  
+~
+0 0 0
+D0
+~
+~
+0 0 14235
+D1
+~
+~
+0 0 14233
+S
+#14235
+The hallway~
+To the north, there is a sign with a picture of Principal Kuno that reads
+'MAKE SURE YOUR TUCK IN YOUR POCKETS OF YOU WILL RECIEVE DETENTION'.  To the
+east, the picture window overlooking the open courtyard is a tad bit dirty
+from handprints being trapsed all over it.  
+~
+0 0 0
+D1
+~
+~
+0 0 14236
+D2
+~
+~
+0 0 14234
+S
+#14236
+~
+~
+0 0 0
+D1
+~
+~
+0 0 14237
+D3
+~
+~
+0 0 14235
+S
+#14237
+~
+~
+0 0 0
+D1
+~
+~
+0 0 14238
+D3
+~
+~
+0 0 14236
+S
+#14238
+~
+~
+0 0 0
+D1
+~
+~
+0 0 14239
+D3
+~
+~
+0 0 14237
+S
+#14239
+~
+~
+0 0 0
+D1
+~
+~
+0 0 14240
+D3
+~
+~
+0 0 14238
+S
+#14240
+~
+~
+0 0 0
+D3
+~
+~
+0 0 14239
+D4
+~
+~
+0 0 14241
+S
+#14241
+~
+~
+0 0 0
+D5
+~
+~
+0 0 14240
+S
+#14242
+Ms. Hinako's room~
+In this playfully decorated class room, all the desks are turned in
+interesting ways, seeminly unfit to actually teach in.  On the blackboard,
+there are various doodles that lined across it.  The teacher's desk is
+composed of cute little stuffed animals, which only compliment the vast
+amount of pink books on the floor.  
+~
+0 0 0
+D2
+~
+~
+0 0 14219
+S
+#14243
+Great Teacher Largo's room~
+On the walls, there is a vast amount of writing with seem to have started
+at the blackboard but continued to stretch all over the room.  Everything in
+here is written in a broken 'l337' language, even though the blackboard says
+'3ngl1sh 101'.  In the corner, there are a few hotwired PCs which look to
+have been overclocked at 10 times their nomral compacity.  
+~
+0 0 0
+D2
+~
+~
+0 0 14233
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 14208 0 1
+D 0 14209 2 1
+D 0 14214 0 1
+D 0 14215 2 1
+O 0 14201 0 14215
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

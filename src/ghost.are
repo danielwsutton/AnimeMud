@@ -1,0 +1,493 @@
+#AREADATA
+Name New area~
+Builders None~
+VNUMs 851 875
+Credits (null)~
+Security 5
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#856
+Key #4~
+the fourth key~
+The Fourth Key is here.~
+unknown~
+key Y A
+0 0 0 0 0
+1 1 1 100
+#860
+Key #2~
+the second key~
+The Second Key is here.~
+unknown~
+key Y A
+0 0 0 0 0
+1 1 1 100
+#861
+Key #1~
+the first key~
+The First Key is here.~
+unknown~
+key Y A
+0 0 0 0 0
+1 1 1 100
+#868
+Key #3~
+the third key~
+The Third Key is here.~
+unknown~
+key Y A
+0 0 0 0 0
+1 1 1 100
+#0
+
+
+
+#ROOMS
+#851
+Center Roadway~
+~
+0 0 0
+D0
+~
+~
+0 0 852
+D1
+~
+~
+0 0 856
+D3
+~
+~
+0 0 865
+S
+#852
+Center Roadway~
+~
+0 0 0
+D0
+~
+~
+0 0 853
+D1
+~
+~
+0 0 857
+D2
+~
+~
+0 0 851
+D3
+~
+~
+0 0 864
+D4
+~
+~
+0 0 870
+S
+#853
+Center Roadway~
+~
+0 0 0
+D0
+~
+~
+0 0 854
+D1
+~
+~
+0 0 858
+D2
+~
+~
+0 0 852
+D3
+~
+~
+0 0 863
+D4
+~
+~
+0 0 866
+S
+#854
+Center Roadway~
+~
+0 0 0
+D0
+~
+~
+0 0 855
+D1
+~
+~
+0 0 859
+D2
+~
+~
+0 0 853
+D3
+~
+~
+0 0 862
+D4
+~
+~
+0 0 867
+S
+#855
+Center Roadway~
+~
+0 0 0
+D1
+~
+~
+0 0 860
+D2
+~
+~
+0 0 854
+D3
+~
+~
+0 0 861
+S
+#856
+Eastern Roadway~
+~
+0 0 0
+D0
+~
+~
+0 0 857
+D3
+~
+~
+0 0 851
+D5
+~
+~
+0 0 875
+S
+#857
+Eastern Roadway~
+~
+0 0 0
+D0
+~
+~
+0 0 858
+D2
+~
+~
+0 0 856
+D3
+~
+~
+0 0 852
+S
+#858
+Eastern Roadway~
+~
+0 0 0
+D0
+~
+~
+0 0 859
+D2
+~
+~
+0 0 857
+D3
+~
+~
+0 0 853
+D4
+~
+~
+0 0 868
+S
+#859
+Eastern Roadway~
+~
+0 0 0
+D0
+~
+~
+0 0 860
+D2
+~
+~
+0 0 858
+D3
+~
+~
+0 0 854
+S
+#860
+Eastern Roadway~
+~
+0 0 0
+D2
+~
+~
+0 0 859
+D3
+~
+~
+0 0 855
+D5
+~
+~
+0 0 872
+S
+#861
+Western Roadway~
+~
+0 0 0
+D1
+~
+~
+0 0 855
+D2
+~
+~
+0 0 862
+D5
+~
+~
+0 0 873
+S
+#862
+Western Roadway~
+~
+0 0 0
+D0
+~
+~
+0 0 861
+D1
+~
+~
+0 0 854
+D2
+~
+~
+0 0 863
+S
+#863
+Western Roadway~
+~
+0 0 0
+D0
+~
+~
+0 0 862
+D1
+~
+~
+0 0 853
+D2
+~
+~
+0 0 864
+D4
+~
+~
+0 0 869
+S
+#864
+Western Roadway~
+~
+0 0 0
+D0
+~
+~
+0 0 863
+D1
+~
+~
+0 0 852
+D2
+~
+~
+0 0 865
+S
+#865
+Western Roadway~
+~
+0 0 0
+D0
+~
+~
+0 0 864
+D1
+~
+~
+0 0 851
+D5
+~
+~
+0 0 874
+S
+#866
+The Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 867
+D1
+~
+~
+0 0 868
+D2
+~
+~
+0 0 870
+D3
+~
+~
+0 0 869
+D4
+~
+~
+0 0 871
+D5
+~
+~
+0 0 853
+S
+#867
+North Tower~
+~
+0 0 0
+D2
+~
+~
+0 0 866
+D5
+~
+~
+0 0 854
+S
+#868
+East Tower~
+~
+0 0 0
+D3
+~
+~
+0 0 866
+D5
+~
+~
+0 0 858
+S
+#869
+West Tower~
+~
+0 0 0
+D1
+~
+~
+0 0 866
+D5
+~
+~
+0 0 863
+S
+#870
+South Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 866
+D5
+~
+~
+0 0 852
+S
+#871
+High Tower~
+~
+0 0 0
+D5
+~
+~
+0 0 866
+S
+#872
+North East Base~
+~
+0 0 0
+D4
+~
+~
+0 0 860
+M 400 H 400
+S
+#873
+North West Base~
+~
+0 0 0
+D4
+~
+~
+0 0 861
+M 400 H 400
+S
+#874
+South West Base~
+~
+0 0 0
+D4
+~
+~
+0 0 865
+M 400 H 400
+S
+#875
+South East Base~
+~
+0 0 0
+D4
+~
+~
+0 0 856
+M 400 H 400
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

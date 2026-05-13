@@ -1,0 +1,4105 @@
+#AREADATA
+Name Midgar~
+Builders None~
+VNUMs 9900 10099
+Credits {50 99} Cadderly Midgar~
+Security 9
+End
+
+
+
+#MOBILES
+#9900
+cid highwind~
+Cid~
+A tall man smokes his cigarette calmly.
+~
+Cid Highwind is a tough-talking, warm-hearted old pilot who hasn't 
+forgotten his dreams.  He is a master of aircraft as well as the spear.
+~
+unique~
+AB HN 500 0
+90 2 300d1+25000 50d50+500 12d10+25 thrust
+-84 -84 -84 -84
+CEFHKT AB 0 0
+stand stand male 500
+HMV ABCDEFGHIJK medium unknown
+#9901
+red xiii nanaki~
+Red XIII~
+A crimson-red panther prowls about.
+~
+This beast has a tattoo of the roman numeral XIII on its shoulder.  It 
+is not until it looks at you with his intelligent eyes that you understand 
+it is no ordinary creature.  Then it speaks, telling you its name is Nanaki.
+~
+unique~
+AB HJNQa 800 0
+90 2 300d1+25000 50d50+500 12d10+25 claw
+-80 -80 -80 -80
+CDFHKM AB H 0
+stand stand male 500
+AHMV ABCDEFHJKQUV medium unknown
+#9902
+barret wallace~
+Barret~
+A gigantic man with a gun for a right hand looks at you menacingly.
+~
+Head of the underground resistance movement, Avalanche, Barret is fighting the 
+Shinra, Inc. which has monopolized Mako energy by building special reactors to 
+suck it out of the planet.  Although Avalanche disbanded years ago when the Shinra 
+building was destroyed, Barret will do anything to protect his daughter Marlene.
+~
+unique~
+AB HN 700 0
+90 4 300d1+25000 10d70+500 12d10+25 blast
+-86 -85 -89 -79
+DFHJKOQ AB 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#9903
+aeris gainsborough~
+Aeris~
+A beautiful young woman asks if you would buy a flower.
+~
+Young, beautiful, and somewhat mysterious, Aeris met Cloud while selling flowers on 
+the streets of Midgar.  Later, she learned to harness her mysterious powers...those of the Cetra.
+~
+unique~
+AB HN 1000 0
+90 6 1d1+30000 50d50+5000 12d11+25 slap
+0 -90 -90 -90
+AEHJK AB 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#9904
+cloud strife~
+Cloud~
+A young SOLDiER stands here, defiant.
+~
+His eyes glow with an inner energy, and you realize he has been exposed to Mako.  
+He holds a huge sword behind his shoulder with a strength that belies his size.  
+This is the legendary Cloud Strife.
+~
+unique~
+AB HN 1000 0
+100 6 1d1+30000 50d50+1000 12d11+30 cleave
+-99 -99 -99 -99
+ADEFHJKT AB 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#9905
+cait sith~
+Cait Sith~
+A toy cat sits atop a giant stuffed moogle.
+~
+At first glance it appears to be toys.  Then you notice that the cat sitting on top 
+of the plush moogle is breathing.
+~
+unique~
+AB H -1000 0
+90 5 1d1+30000 10d10+1000 12d10+25 blast
+80 80 80 80
+ACFHKNOQ AB 0 0
+stand stand none 500
+AHMV ABCDEFGHIJK medium unknown
+#9906
+emerald weapon~
+the Emerald Weapon~
+A beast of incredible size looms over you.
+~
+Its origin is mysterious, its power undeniable.  The Emerald Weapon's glistening metallic 
+scales reflect the dim light around this place.  You cannot repress a shudder as you gaze 
+at its awesome might.
+~
+unique~
+ABF DFHJNT 0 0
+200 20 1d1+30000 50d50+5000 15d15+50 shock
+-100 -100 -100 -100
+ACDEFHJKN ABHLQ K P
+stand stand none 1000
+CDGHJMVXac ABCDHKMNOPQUX giant unknown
+#9907
+sephiroth~
+Sephiroth~
+A man with ice blue eyes and silver-white hair floats just above the floor.
+~
+As soon as you look into this being's eyes, you feel a dull throb in your 
+head.  The throb becomes a pulsating beat, and you cannot help but grasp 
+your temples to stop the pounding.  The dark figure brandishes an impossibly 
+long katana...this is Sephiroth.
+~
+unique~
+AB BDFHJQTU -1000 0
+120 0 1d1+30000 10d10+1000 10d10+1000 pound
+-99 -99 -99 -99
+ACEFHJK AB CFM N
+stand stand male 50000
+CDHMV ABCDEFGHIJK medium unknown
+#9908
+chocobo yellow~
+the yellow chocobo~
+A yellow chocobo munches on some greens.
+~
+This chocobo is somewhat small for its race.  It could be used for riding, 
+if it were not so wild.  Right now it is enjoying a meal of Gishal Greens.  
+It looks up at you and utters an indignant "Wark!"
+~
+unique~
+AG 0 0 0
+50 1 50d10+4500 10d10+1000 5d8+19 peck
+-20 -20 -20 -20
+CDFHJ A 0 MO
+stand stand either 5000
+HM BQ medium unknown
+#9909
+chocobo green~
+the green chocobo~
+A green chocobo is running around, trying to fly.
+~
+This chocobo has bright green feathers.  It is sometimes known as a Mountain 
+Chocobo.  An excellent climber, it often tried in vain to take flight.
+~
+unique~
+ABG 0 0 0
+52 0 50d10+5500 10d10+1000 6d7+20 peck
+-22 -22 -22 22
+CDFHJ A 0 M
+stand stand either 5000
+AGHMW ABCDEFPQ medium unknown
+#9910
+chocobo blue~
+the blue chocobo~
+A blue chocobo is here.  When it sees you it steps back.
+~
+This chocobo has light blue feathers, and seems to be very 
+timid.  As you approach it, it starts to run away.
+~
+unique~
+AGH 0 0 0
+54 1 50d10+6500 10d10+1000 6d7+20 peck
+-24 -24 -24 -24
+CDFHJ A 0 M
+stand stand either 5000
+AGHMW ABCDEFPQ medium unknown
+#9911
+chocobo red~
+the red chocobo~
+A red chocobo is here.  It looks at you, ready for a fight.
+~
+This chocobo has fire-red feathers and a fairly large body.  
+It looks more aggressive than its counterparts; it is ready 
+for a fight.
+~
+unique~
+AG 0 0 0
+56 0 50d10+7000 10d10+1000 10d4+24 peck
+-26 -26 -26 -26
+CDFHJ A 0 M
+stand stand either 5000
+AGHMW ABCDEFPQU medium unknown
+#9912
+chocobo black~
+the black chocobo~
+A black chocobo takes to the air.
+~
+This chocobo has jet black feathers.  Unlike the other chocobos, 
+it soars through the air with ease.  It sees you, and lets out a "Wark!"
+~
+unique~
+AG T 0 0
+58 0 50d10+8500 10d10+1000 5d10+25 peck
+-28 -28 -28 -28
+CDFHJ A 0 M
+stand stand either 5000
+AGHMW ABCDEFPQU medium unknown
+#9913
+chocobo white~
+the white chocobo~
+A rare white chocobo is here.
+~
+This chocobo has feathers of the purest white...well, except where it 
+is dirty.  This chocobo is said to have magical properties, and is 
+rarely seen in this part of the world.
+~
+unique~
+AG H 0 0
+60 0 50d10+9500 10d10+1000 8d6+28 peck
+-30 -30 -30 -30
+CDFHJ AN 0 M
+stand stand either 5000
+ACGHMW ABCDEFPQ medium unknown
+#9914
+chocobo gold~
+the gold chocobo~
+A yellow chocobo munches on some greens.
+~
+At first glance you could mistake this chocobo to be a common 
+yellow one.  However, upon closer inspection you realize it is 
+a legendary Gold Chocobo!  These are said to be able to cross 
+any terrain without effort.
+~
+unique~
+AG 0 0 0
+62 0 50d10+10500 10d10+1000 8d6+30 peck
+-32 -32 -32 -32
+CDFHJ A BEG 0
+stand stand either 50000
+AGHMW ABCDEFPQU medium unknown
+#9915
+chocobo platinum~
+the platinum chocobo~
+A chocobo of silver feathers and incredible beauty gazes into your eyes.
+~
+You cannot believe it actually exists, let alone that you have found it!  
+It is the Platinum Chocobo, so rare that its existence was only a rumor.  
+Now it stands before you in all its splendor.
+~
+unique~
+AG BFHNQT 0 0
+64 0 10d50+11500 10d10+1000 8d8+30 peck
+-34 -34 -34 -34
+CDFHJ A HIJK MN
+stand stand either 9000
+CDGHMW ABCDEFPQU medium unknown
+#9916
+soldier~
+the soldier~
+A SOLDiER stands here, looking for a fight.
+~
+This warrior has spent countless hours in battle.  A war veteran, he 
+is no easy opponent.  He holds his gigantic sword without difficulty 
+for one of his size.
+~
+unique~
+AB H -200 0
+70 0 12d6+10000 20d5+1000 6d10+40 beating
+-43 -43 -43 -43
+CEHK A 0 0
+stand stand male 8900
+AHMV ABCDEF medium unknown
+#9917
+marlene girl~
+Marlene~
+A very young girl looks at you innocently.
+~
+Marlene is the daughter of Dyne, and the adopted daughter of Barret.  
+She is dressed in a pink jumpsuit.  She looks so innocent and sweet.
+~
+unique~
+AB Y 1000 0
+4 0 2d7+46 5d5+50 1d5+1 slap
+6 6 6 6
+FK AB 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK small unknown
+#9918
+dyne man nervous~
+Dyne~
+A nervous-looking man with a gun for a left hand stands here.
+~
+Dyne was once a respected citizen of Corel, until Shinra troops destroyed the 
+village.  A Shinra officer shot him in the arm, which he had to have amputated.  
+He replaced it with a gun to have his revenge upon the world.
+~
+unique~
+ABF H -500 0
+50 0 50d10+4500 10d10+100 5d8+19 blast
+-20 -20 -20 -20
+DFIK A 0 0
+stand stand male 6000
+AHMV ABCDEF medium unknown
+#9919
+reno man~
+Reno~
+Reno stands here, looking at you cooly.
+~
+Reno is a member of the Turks, a top secret agency that works for the Shinra, Inc.  
+Reno is known to be deadly with an electric baton.
+~
+unique~
+AB H -100 0
+80 0 10d50+15000 10d10+1000 8d11+30 punch
+-64 -64 -64 -64
+FHJK AB H 0
+stand stand male 4950
+AHMV ABCDEF medium unknown
+#9920
+rude man~
+Rude~
+Rude glares at you through his shades, ready to pummel you.
+~
+Rude is a Turk who detests the use of weapons, save that of his own body.  
+His fists are as deadly as any gun, and you would do well not to anger him.
+~
+unique~
+AB H -100 0
+80 0 10d50+15000 10d10+1000 8d11+30 punch
+-64 -64 -64 -64
+FHJK AB 0 0
+stand stand male 7589
+AHMV ABCDEF medium unknown
+#9921
+tseng man~
+Tseng~
+Tseng looks at you, then turns his back.
+~
+Tseng is the leader of the Turks, a group of assassins working for the 
+Shinra, Inc.  He has no qualms about kidnapping, torture, or murder.  
+You have no idea how many weapons he has concealed on his person.
+~
+unique~
+AB H -200 0
+81 0 10d50+15000 10d10+1000 8d11+35 thwack
+-65 -65 -65 -65
+FHJK AB 0 0
+stand stand male 8950
+AHMV ABCDEF medium unknown
+#9922
+elena woman~
+Elena~
+Elena, the newest member of the Turks, is here.
+~
+Elena is a rookie to the group known as the Turks, but she has already proved
+her worth.  She will do anything to prove she is worthy of her status as a Turk.
+.. Anything.
+~
+unique~
+AB H -100 0
+80 0 10d50+15000 10d10+1000 8d11+30 punch
+-64 -64 -64 -64
+FHJK AB 0 0
+stand stand female 7589
+AHMV ABCDEF medium unknown
+#9923
+hojo man doctor scientist~
+Hojo~
+Hojo is here, staring at you insanely.
+~
+Hojo is a brilliant but misguided scientist who works for the Shinra, Inc.  
+He manages all research and experiments for the corporation, and specializes 
+in biochemistry.
+~
+unique~
+AB H -800 0
+80 0 10d50+15000 10d10+1000 9d10+25 slime
+-66 -65 -67 -59
+AEFHK AB 0 0
+stand stand male 50000
+AHMV ABCDEF medium unknown
+#9924
+scarlet woman~
+Scarlet~
+Scarlet is here, cackling.
+~
+Scarlet is head of Shinra Weapon Development.  She harnesses the power of Mako 
+energy and fuses it into machines, creating powerful robotic constructs.  She 
+is a deadly shot with a gun.
+~
+unique~
+AB H -400 0
+80 0 10d50+15000 10d10+1000 8d11+30 slap
+-65 -65 -65 -65
+DFHKN AB 0 0
+stand stand female 7853
+AHMV ABCDEF medium unknown
+#9925
+heidegger man~
+Heidegger~
+A very large man sees you, and starts a bull charge in your direction.
+~
+Heidegger is in charge of much of the military power for Shinra, Inc.  He has a 
+quick and violent temper that he has often used against even his own men.  He has 
+no friends and an abundance of enemies.
+~
+unique~
+ABF H -400 0
+80 0 10d50+15000 10d10+1000 10d9+29 charge
+-69 -69 -69 -69
+EHIKN AB 0 0
+stand stand male 6969
+AHMV ABCDEF medium unknown
+#9926
+bugenhagen mystic~
+Bugenhagen~
+An ancient mystic floats in the air.
+~
+Bugenhagen is an elder of Cosmo Canyon, the oldest in the tribe.  He grasps the 
+foreign mysteries of nature and the Lifestream with his seemingly endless wisdom.  
+You know that he would be more than willing to help you.
+~
+unique~
+ABJKQa HNOTZ 600 0
+85 0 10d50+20000 100d10+1000 10d10+50 divine
+-99 -99 -99 -99
+ABCDEFHIJKN ABCDEFGHIJKLMNOPQS 0 0
+stand stand male 0
+AHMV ABCDEF medium unknown
+#9927
+marine soldier~
+the marine~
+A marine is here, preparing for combat.
+~
+This soldier works for Shinra, Inc.  He wields a wicked-looking blade as well as a 
+brass knuckle.  You recall hearing that Shinra's marines are trained in several 
+forms of martial arts.
+~
+unique~
+AB H -200 0
+65 0 50d10+9500 10d10+1000 8d9+28 thrust
+-35 -35 -35 -35
+FJ A 0 0
+stand stand male 4865
+AHMV ABCDEF medium unknown
+#9928
+jenova monster death~
+Jenova~
+A monstrosity out of your deepest nightmares looms over you.
+~
+A calamity from the skies...its name is Jenova.  Wreaking havoc since the day it 
+arrived on the planet, Jenova is imbued with powerful alien abilities which it 
+uses to destroy all it can find.  It is from Jenova that Sephiroth was spawned.  
+Jenova has morphed into its most powerful form.
+~
+unique~
+ABF BDFHJT -1000 0
+90 0 50d10+18000 10d10+1000 12d11+30 wrath
+-75 -75 -75 -74
+ADHK ABL EKQ 0
+stand stand female 20000
+ABCGHQSVZ ABCDEFKLMNQUVWXY huge unknown
+#9929
+tifa lockheart~
+Tifa~
+Tifa stands here, aware of her surroundings.
+~
+Bright and optimistic, Tifa is a student of the martial arts.  She and Cloud 
+were childhood friends, and although she has strong feelings for him, she 
+would never admit it.  You notice she is exceptionally fit, physically.
+~
+unique~
+AB H 1000 0
+90 0 300d1+25000 10d10+1000 12d11+25 slap
+-75 -75 -75 -75
+ACFHIK AB 0 0
+stand stand female 15000
+AHMV ABCDEFGHIJK medium unknown
+#9930
+yuffie kisaragi~
+Yuffie~
+Yuffie is here, hiding.
+~
+Although you'd never know it by looking at her, Yuffie comes from a long 
+line of Ninja.  She is known for her sneaky ways and flashy techniques.  
+She is deadly with shuriken.
+~
+unique~
+AB HQ 0 0
+90 0 300d1+25000 10d10+1000 12d11+25 chop
+-76 -75 -73 -79
+AEFHIK AB 0 0
+stand stand female 15000
+AHMV ABCDEFGHIJK medium unknown
+#9931
+vincent valentine~
+Vincent~
+Vincent is here, hovering an inch above the floor.
+~
+A mystical man, stern and upright while at the same time dark and mysterious.  
+He once was a member of the Turks and worked for Shinra, Inc., but some inexplicable 
+event has made him end his career with the Shinra.  Although he may seem frail at first
+glance, a fearsome power lurks within his body.
+~
+unique~
+AB HQT 0 0
+90 0 300d1+25000 10d10+1000 12d11+30 bite
+-80 -80 -80 -80
+ADFHIM ABQ L S
+stand stand male 0
+AHIJMV ABCDEFK medium unknown
+#9932
+rufus shinra~
+Rufus~
+Rufus is here, gun in hand.
+~
+Rufus is the son of the late president Shinra, thus making him the new president.  
+He is arrogant but shrewd, a worthy opponent.
+~
+unique~
+AB H -600 0
+85 0 300d1+23000 10d10+1000 12d11+35 blast
+-80 -80 -80 -80
+AFHK AB 0 0
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+#9933
+palmer fat man~
+Palmer~
+Palmer is here, chewing on some lard.
+~
+Palmer's body is immense.  He is so obese you don't know how he can see his shoes 
+to tie them.  He is wearing a heavy, buttoned-up coat and wielding a new Mako Gun.
+~
+unique~
+AB H -400 0
+70 0 300d1+18000 10d10+1000 10d10+20 blast
+-55 -55 -55 -55
+DEHI AB 0 0
+stand stand male 15690
+AHMV ABCDEF medium unknown
+#9934
+jenova monster birth~
+Jenova's Birth~
+Jenova is here, looking for food.
+~
+A calamity from the skies...its name is Jenova.  Wreaking havoc since the day it 
+arrived on the planet, Jenova is imbued with powerful alien abilities which it uses 
+to destroy all it can find.  It is from Jenova that Sephiroth was spawned.  This is 
+Jenova in her weakest form.
+~
+unique~
+AB HIT -1000 0
+70 0 50d10+15000 10d10+1000 11d8+35 chomp
+-60 -60 -60 -60
+AFH A 0 0
+stand stand female 9000
+ABHMV ABCDEFLMNOQ small unknown
+#9935
+jenova monster life~
+Jenova~
+Jenova is here, ready to devour you.
+~
+A calamity from the skies...its name is Jenova.  Wreaking havoc since the day it 
+arrived on the planet, Jenova is imbued with powerful alien abilities which it 
+uses to destroy all it can find.  It is from Jenova that Sephiroth was spawned.  
+Jenova has grown since your last encounter.
+~
+unique~
+AB BDF -1000 0
+80 0 300d1+25000 10d10+1000 12d11+35 crush
+-80 -80 -80 -80
+AFHIKN 0 L 0
+stand stand female 13000
+AHMV ABCDEF medium unknown
+#9936
+jenova monster synthesis~
+Jenova's Synthesis~
+A giant beast prepares to feast upon your soul.
+~
+A calamity from the skies...its name is Jenova.  Wreaking havoc since the day it 
+arrived on the planet, Jenova is imbued with powerful alien abilities which it 
+uses to destroy all it can find.  It is from Jenova that Sephiroth was spawned.  
+You caught her while trying to morph.
+~
+unique~
+ABG BDFH -1000 0
+85 0 50d10+16000 10d10+1000 9d11+37 digestion
+-70 -70 -70 -70
+CEHK A L 0
+stand stand female 4560
+ABCHMV ABCDEFGHKLMNOQ large unknown
+#9937
+president shinra~
+President Shinra~
+The president of Shinra Corp. is here.
+~
+An extremely greedy and ambitious man, the president of Shinra will stop at no 
+means to get the job done.  He sees you as you enter, and prepares to call the 
+guards.
+~
+unique~
+ABH H -400 0
+75 0 50d10+13000 10d10+1000 10d7+40 punch
+-59 -59 -59 -59
+CHK A 0 0
+stand stand male 9852
+AHMV ABCDEF medium unknown
+#9938
+broom~
+the hideous possessed broom~
+A broom doesn't like the way you're looking at it.
+~
+It's just a wooden broom.  Or is it?
+~
+unique~
+ABFT 0 0 0
+50 0 50d10+4500 10d10+1000 5d8+19 smash
+-20 -20 -20 -20
+FH A 0 0
+stand stand none 0
+EJ 0 medium unknown
+#9939
+don corneo~
+Don Corneo~
+Don Corneo is here, looking at you lustfully.
+~
+Don Corneo owns the large mansion at Wall Market.  He is well known in the various local 
+brothels for his exotic taste in women.  You would do well to avoid this dubious character.
+~
+unique~
+ABH 0 -300 0
+69 0 50d10+11000 10d10+1000 9d7+35 grep
+-40 -40 -40 -40
+CDHK A B 0
+stand stand male 9843
+AHMV ABCDEF medium unknown
+#9940
+weapon ruby~
+Ruby Weapon~
+You notice a red glimmer out of the corner of your eye.
+~
+Its origin is mysterious, its power undeniable.  The Ruby Weapon's glistening red scales 
+reflect the blinding light of the desert.  You cannot repress a shudder as you gaze at its 
+awesome might.
+~
+unique~
+AB BHQU 0 0
+150 0 1d1+30000 10d10+1000 12d12+40 pound
+-99 -99 -99 -99
+ACEFHKN AB CD 0
+stand stand none 20000
+ACHMQV ABCDEFGHKNQ medium unknown
+#9941
+unknown monster creature~
+the Unknown~
+A creature with a twisted and disfigured body lumbers toward you.
+~
+This must have been an experiment gone dreadfully wrong...and dreadful it is.  A gaunt,
+haggard face rests on inhuman limbs in no particular symmetry.  It looks as if God was 
+in a humorous mood when this monster was spawned.
+~
+school monster~
+ABU J -100 0
+80 0 50d10+15000 10d10+1000 8d11+40 pound
+-64 -64 -64 -64
+FHK AB 0 C
+stand stand none 0
+AGHJMPQSVYZ ABCDEFGHIJKLMNOPQUVWXY large unknown
+#9942
+monster unknown creature~
+the Unknown~
+A creature with a twisted and disfigured body lumbers toward you.
+~
+This must have been an experiment gone dreadfully wrong...and dreadful it is.  A gaunt, 
+haggard face rests on inhuman limbs in no particular symmetry.  It looks as if God was 
+in a humorous mood when this monster was spawned.
+~
+unique~
+AB J -100 0
+70 0 50d10+13000 10d10+1000 7d10+35 pound
+-56 -56 -56 -56
+FHK AB 0 0
+stand stand none 0
+ABGHJNOPRVWXYZab ABCDEFGHIJKLMNOPQUVWXY large unknown
+#9943
+secretary woman~
+the secretary~
+The secretary is here, trying to get the fax machine to work.
+~
+The secretary has curly brown hair and is wearing glasses.  She doesn't notice you, intent 
+as she is on completing her boss' assignment.  As she bends over to feed the paper shredder 
+you realize that she is well endowed...
+~
+unique~
+ABH 0 100 0
+60 0 50d10+9500 10d10+1000 8d6+28 pound
+-30 -30 -30 -30
+EHJN A 0 0
+stand stand female 6483
+AHMV ABCDEF medium unknown
+#9944
+programmer nerd system analyst~
+the systems analyst~
+A systems analyst is here, drinking Jolt cola.
+~
+He pushes his glasses back up his nose and takes another swig of Jolt, then places his small 
+hands back on the keyboard.  He types at about 140 words a minute.
+~
+unique~
+AB 0 50 0
+60 0 50d10+9500 10d10+1000 8d6+28 none
+-30 -30 -30 -30
+AHK A 0 0
+stand stand male 4986
+AHMV ABCDEF medium unknown
+#9945
+plant~
+the carnivorous plant~
+A cute little seedling is here, trying to grow.
+~
+It's just a small sapling, nothing interesting.
+~
+unique~
+AB 0 0 0
+60 0 50d10+10000 10d10+1000 8d6+28 pound
+-30 -30 -30 -30
+EHK A 0 0
+stand stand none 0
+ACGM 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#9900
+white materia stone~
+a white materia stone~
+A crystal of the purest white is embedded in a platinum casing.~
+etherealness~
+armor ABGKLY AO
+ABCD ABCD ABCD ABCD 0
+100 1 20000 100
+A
+24 -6
+A
+12 30
+A
+13 30
+#9901
+megaphone~
+a megaphone~
+A funny shaped tube is lying on the ground.~
+plastic~
+weapon B AN
+exotic 9 9 shock G
+90 5 18000 100
+A
+19 3
+A
+18 3
+A
+13 25
+#9902
+masamune~
+the Masamune~
+A long, slender blade protrudes from a dead body.~
+etherealness~
+weapon BEGHJLMZ AN
+sword 10 9 slash A
+100 6 40000 100
+A
+12 30
+A
+13 30
+A
+19 4
+A
+18 4
+#9903
+broken materia~
+a broken materia~
+You see what looks like a broken piece of glass lying on the ground.~
+etherealness~
+trash 0 AO
+0 0 0 0 0
+0 1 0 100
+#9904
+ribbon red~
+a red ribbon~
+A ribbon lies on the ground.~
+silk~
+armor GY AE
+ABCD BD BD ADE 0
+100 1 20000 100
+A
+12 30
+A
+24 -12
+#9905
+chocobo feather~
+a chocobo feather~
+The large feather of a Chocobo lies on the earth.~
+etherealness~
+armor H AO
+CD CD CD CD 0
+75 3 15000 100
+A
+14 60
+#9906
+genji gloves~
+a pair of genji gloves~
+Gloves of exquisite quality are here.~
+etherealness~
+armor GLY AH
+ABCD ABCD ABCD ABCD 0
+100 5 20000 100
+A
+19 4
+A
+18 4
+#9907
+steel spear~
+a steel spear~
+You notice a spear made of steel lying on the ground.~
+etherealness~
+weapon 0 AN
+staff 8 9 pierce F
+60 5 16000 100
+A
+2 4
+A
+19 3
+A
+18 3
+#9908
+escort guard armlet~
+an escort guard~
+A piece of armor designed to protect the arms lies on the ground.~
+etherealness~
+armor BGLY AI
+ABCD CE BD BD 0
+100 5 20000 100
+A
+19 4
+A
+18 4
+#9909
+fire shield~
+a fire shield~
+You cannot help but notice the shield of writhing flames.~
+etherealness~
+armor ABGY AJ
+ADE ADE AC AC 0
+100 5 20000 100
+A
+1 4
+A
+24 -8
+#9910
+sword buster~
+a buster sword~
+An enormous sword is embedded in the dirt here.~
+etherealness~
+weapon B AN
+sword 4 10 slice E
+45 7 9000 100
+A
+18 2
+A
+5 2
+#9911
+apocalypse sword~
+an apocalypse sword~
+A sword of totally unique design lies here.~
+etherealness~
+weapon ABGY AN
+sword 10 9 shock A
+100 7 20000 100
+A
+19 4
+A
+12 30
+#9912
+gun death penalty rifle~
+the Death Penalty~
+A long barrelled rifle sits here.~
+etherealness~
+weapon BGJY AN
+exotic 10 9 blast AH
+100 4 20000 100
+A
+17 -12
+A
+18 4
+#9913
+huge materia red~
+a Huge Materia~
+A materia of incredible size floats here.~
+etherealness~
+furniture ABGSTY 0
+A EHI BEHK 0 0
+0 100 0 100
+E
+materia huge red~
+This materia is blood red and is one of the biggest you've ever seen.  It must have taken decades in 
+a Mako reactor to forge such an object.  It seems as if you can hear voices calling out to you when 
+you touch it.
+~
+#9914
+materia huge green~
+a Huge Materia~
+A green materia of incredible size floats here.~
+etherealness~
+furniture ABGSTY 0
+A EHI BEHKN 0 0
+100 100 0 100
+E
+materia huge green~
+This materia is of a deep green color, and is gigantic.  As you touch it, you can feel immense magical 
+power coursing through it.  It practically vibrates with this power.  You wonder where it came from...
+~
+#9915
+materia huge yellow~
+a Huge Materia~
+A very large materia of amber color reflects the light in the room.~
+etherealness~
+furniture ABGSTY 0
+B EHI CFILO 0 0
+0 100 0 100
+E
+materia huge yellow~
+This monsterous materia is yellow-colored.  When you try to touch it, your hand seems to pass right 
+through the solid enamel.  It is big enough for you to climb in.
+~
+#9916
+fountain~
+a fountain of ice~
+A fountain made of pure ice is here.~
+etherealness~
+fountain STY 0
+0 0 'icewine' 0 0
+100 20 0 100
+#9917
+coffin tube case pod~
+a strange pod~
+A strangely designed pod or case of some sort is here.~
+etherealness~
+container B 0
+0 ACD 0 0 0
+100 50 20000 100
+E
+pod case~
+This strange container is about seven feet high.  Tubes are protruding from many different areas of the 
+pod.  You cannot quite reach the viewing window at the top of the pod...
+~
+#9918
+gun arm-graft armgraft~
+an arm-graft gun~
+A gun that could be attached to one's arm sits here.~
+etherealness~
+weapon M AN
+exotic 7 9 blast A
+70 6 14000 100
+A
+3 3
+A
+18 3
+#9919
+baton electric~
+an electric baton~
+An electric baton lies on the ground.~
+etherealness~
+weapon ABY AN
+exotic 10 9 shock G
+100 1 20000 100
+A
+17 -6
+A
+5 4
+A
+19 4
+#9920
+gun aguni~
+an AGUNi-CP1~
+A gun labeled 'AGUNi-CP1' is here.~
+etherealness~
+weapon Y AN
+exotic 10 9 blast A
+100 3 20000 100
+#9921
+shuriken boomerang star~
+a four-point shuriken~
+A very large ninja star lies here.~
+etherealness~
+weapon Y AN
+exotic 10 9 slash D
+100 4 20000 100
+A
+19 1
+#9922
+materia black~
+a black materia stone~
+A crystal of the deepest black is embedded in a titanium casing.~
+etherealness~
+armor EGJSTY AO
+ABCD ABCD ABCD ABCD 0
+101 1 20200 100
+A
+12 30
+A
+13 30
+#9923
+gun aguni~
+an AGUNi-FFS~
+A machinegun labeled 'AGUNi-FFS' lies here.~
+etherealness~
+weapon BY AN
+exotic 10 9 blast A
+100 4 20000 100
+A
+19 3
+A
+18 3
+#9925
+tattoo red thirteen xiii~
+a tattoo: XIII~
+A wierd glimmer is on the ground.~
+etherealness~
+armor GY AC
+ABCD ABCD ABCD ABCD 0
+100 1 20000 100
+A
+13 30
+A
+18 2
+#9926
+wig blonde~
+a blonde wig~
+A pile of hair rests on the floor.~
+etherealness~
+armor GHY AE
+CE CE BD BD 0
+100 5 20000 100
+A
+24 -12
+A
+13 30
+#9927
+toilet commode~
+a toilet~
+A toilet is here.~
+etherealness~
+container 0 0
+0 A 0 0 0
+0 25 0 100
+#9928
+poop crap turd dung feces~
+a turd~
+There is a piece of crap in the toilet.~
+etherealness~
+food S A
+0 0 0 A 0
+0 2 0 100
+#9929
+Red Keycard~
+a red keycard~
+A red card made of plastic is on the ground.~
+etherealness~
+key A AO
+0 0 0 0 0
+50 5 0 100
+#9930
+Blue Keycard~
+a blue keycard~
+A blue card made of plastic is on the ground.~
+etherealness~
+key A AO
+0 0 0 0 0
+50 5 0 100
+#9931
+tetra elemental accessory~
+a tetra-elemental~
+A medallion with four intertwined snakes lies on the ground.~
+etherealness~
+armor AGY AM
+ADE ADE AC AC 0
+100 4 20000 100
+A
+14 30
+A
+13 30
+A
+12 30
+#9932
+band minerva~
+a minerva Band~
+A band showing the symbol of Minerva.~
+etherealness~
+armor AGKY AI
+BD ACD AD ABD 0
+100 3 20000 100
+A
+20 -5
+A
+12 45
+A
+19 1
+A
+18 1
+#9933
+splinter wood~
+a splinter~
+You are stepping on a sliver of wood...better get out the tweezers.~
+etherealness~
+trash H A
+0 0 0 0 0
+0 1 0 100
+#9934
+gun mako~
+a mako gun~
+A gun that fires mako-enhanced shells sits here.~
+etherealness~
+weapon ABGY AN
+exotic 10 9 none G
+100 5 20000 100
+A
+18 4
+A
+23 -6
+A
+17 -6
+#9935
+ruby aura~
+a Ruby Aura~
+A flowing aura of ruby color lies here.~
+unknown~
+armor AHMQY AQ
+ABC BD BD ABC 0
+100 0 0 100
+A
+1 4
+A
+4 3
+A
+5 4
+#0
+
+
+
+#ROOMS
+#9900
+End of Hallway~
+You are traveling along a long corridor.  You notice that you have reached end
+of the hallway, which extends to the south.  You see a doorway leading into an
+office room to the east.  This hallway is lined with ceramic tiles and has 
+florescent lights projecting a blue glimmer.
+~
+0 8 0
+D1
+~
+~
+1 -1 9907
+D2
+~
+~
+0 -1 9901
+S
+#9901
+Hallway~
+You are traveling along a long corridor.  You notice that this hallway extends
+to the north and south.  You see a doorway leading into an office room to the 
+east. This hallway is lined with ceramic tiles and has florescent lights 
+projecting a blue glimmer.
+~
+0 8 0
+D0
+~
+~
+0 -1 9900
+D1
+~
+~
+1 -1 9908
+D2
+~
+~
+0 -1 9902
+S
+#9902
+Hallway~
+You are traveling along a long corridor.  You notice that you have come to a
+corner of the hallway, which extends to the north and east.  You see a doorway 
+leading into an office room to the west. This hallway is lined with ceramic 
+tiles and has florescent lights projecting a blue glimmer.
+~
+0 8 0
+D0
+~
+~
+0 -1 9901
+D1
+~
+~
+0 -1 9904
+D2
+~
+~
+0 -1 9903
+D3
+~
+~
+1 -1 9910
+S
+#9903
+Stairwell~
+You enter the stair well of the first floor which leads to the second floor.
+Like the hallway the walls are made of ceramic tiles, but there is a yellow 
+glow given off by the lights stationed on the wall.
+~
+0 8 0
+D0
+~
+~
+0 -1 9902
+D4
+~
+~
+0 -1 9912
+S
+#9904
+Hallway~
+You are traveling along a long corridor which extends to the east and west.
+You see a doorway leading into an office room to the north.  This hallway is
+lined with ceramic tiles and has florescent lights projecting a blue glimmer.
+~
+0 8 0
+D0
+~
+~
+1 -1 9908
+D1
+~
+~
+0 -1 9905
+D3
+~
+~
+0 -1 9902
+S
+#9905
+Hallway~
+You are traveling along a long corridor which extends to the east and west.
+You see a doorway leading into an office room to the north, and to the south
+lies the lobby.  This hallway is lined with ceramic tiles and has florescent 
+lights projecting a blue glimmer.
+~
+0 8 0
+D0
+~
+~
+1 -1 9909
+D2
+~
+~
+0 -1 9906
+D3
+~
+~
+0 -1 9904
+S
+#9906
+Lobby~
+You enter the lobby of a gigantic building lying in the heart of Midgar.  This
+is the home of the Shinra Corporation, the biggest business in the world. 
+There is a receptionist behind a counter in the corner of the room.  Also a 
+there is a directory hanging from the wall.
+~
+0 8 0
+E
+Directory, dir, map, sign~
+Shinura Building
+
+1st Floor - Offices
+
+2nd Floor - Confrence Room
+
+3rd Floor - Shinura Labs
+
+4th Floor - Presidents Office
+~
+D0
+~
+~
+0 -1 9905
+D2
+~
+~
+0 -1 9954
+S
+#9907
+Office Room~
+You stand in a cubicle that seems to be someone's work area.  You see a 
+swivelling chair, and an oak paneled desk in the middle of the room.  On the
+desk is a workstation cluttered with paper and office supplies. Also there is
+carpet on the floor.
+~
+0 8 0
+D1
+~
+~
+1 -1 9911
+D2
+~
+~
+0 -1 9908
+D3
+~
+~
+1 -1 9900
+S
+#9908
+Office Room~
+You stand in a cubicle that seems to be someone's work area.  You see a 
+swivelling chair, and an oak paneled desk in the middle of the room.  On the
+desk is a workstation cluttered with paper and office supplies. Also there is
+carpet on the floor.
+~
+0 8 0
+D0
+~
+~
+0 -1 9907
+D1
+~
+~
+0 -1 9909
+D2
+~
+~
+1 -1 9904
+D3
+~
+~
+1 -1 9901
+S
+#9909
+Office Room~
+You stand in a cubicle that seems to be someone's work area.  You see a 
+swivelling chair, and an oak paneled desk in the middle of the room.  On the
+desk is a workstation cluttered with paper and office supplies. Also there is
+carpet on the floor.
+~
+0 8 0
+D2
+~
+~
+1 -1 9905
+D3
+~
+~
+0 -1 9908
+S
+#9910
+Office Room~
+You stand in a cubicle that seems to be someone's work area.  You see a 
+swivelling chair, and an oak paneled desk in the middle of the room.  On the
+desk is a workstation cluttered with paper and office supplies. Also there is
+carpet on the floor.
+~
+0 8 0
+D1
+~
+~
+1 -1 9902
+S
+#9911
+Storage Closet~
+You enter in a room with a solitary light bulb swinging from the ceiling.
+There is a pugnant stench permiating from an unknown source.  You notice 
+brooms, mops, and buckets in the corners of the room.  The shelves are filled
+with canisters and cleaning fluids.
+~
+0 8 0
+D3
+~
+~
+1 9929 9907
+S
+#9912
+Stairwell~
+You enter the stair well of the second floor which leads to the first floor.
+Like the hallway the walls are made of ceramic tiles, but there is a yellow
+glow given off by the lights stationed on the wall.
+~
+0 8 0
+D1
+~
+~
+0 -1 9915
+D5
+~
+~
+0 -1 9903
+S
+#9913
+Office Room~
+You stand in a cubicle that seems to be someone's work area.  You see a 
+swivelling chair, and an oak paneled desk in the middle of the room.  On the
+desk is a workstation cluttered with paper and office supplies. Also there is
+carpet on the floor.
+~
+0 8 0
+D1
+~
+~
+1 -1 9914
+S
+#9914
+Hallway~
+You are traveling along a long corridor, which extends to the north and south.
+You see a doorway leading into an office room to the west. This hallway is
+lined with ceramic tiles and has florescent lights projecting a blue glimmer.
+~
+0 8 0
+D0
+~
+~
+0 -1 9918
+D2
+~
+~
+0 -1 9915
+D3
+~
+~
+1 -1 9913
+S
+#9915
+Hallway~
+You are traveling along a long corridor, which extends to the north and east.
+You see a doorway leading into the stairwell to the west. This hallway is 
+lined with ceramic tiles and has florescent lights projecting a blue glimmer.
+~
+0 8 0
+D0
+~
+~
+0 -1 9914
+D1
+~
+~
+0 -1 9916
+D3
+~
+~
+0 -1 9912
+S
+#9916
+End of Hallway~
+You are traveling along a long corridor.  You notice that you have reached end
+of the hallway, which extends to the west.  You see a doorway leading into an
+elevator to the east.  This hallway is lined with ceramic tiles and has
+florescent lights projecting a blue glimmer.
+~
+0 8 0
+D0
+~
+~
+2 -1 9931
+D1
+~
+~
+1 -1 9917
+D3
+~
+~
+0 -1 9915
+S
+#9917
+Elevator~
+You enter an elevator which leads to the upper levels of this building.  There
+are many buttons scattered on the wall, and there is writing beneath them. The
+access panals to the phone and alarm have been sealed shut.  There is a lone
+speaker protuding from a ceiling panel, which is accomanied by an air duct.  
+Above the door you can see the floors that this elevator reaches.
+~
+0 520 0
+D3
+~
+~
+1 -1 9916
+D4
+~
+~
+0 -1 9932
+S
+#9918
+Hallway~
+You are traveling along a long corridor, which extends to the north and south.
+You see a doorway leading into an office room to the west. This hallway is 
+lined with ceramic tiles and has florescent lights projecting a blue glimmer.
+~
+0 8 0
+D0
+~
+~
+0 -1 9919
+D2
+~
+~
+0 -1 9914
+D3
+~
+~
+1 -1 9920
+S
+#9919
+End of Hallway~
+You are traveling along a long corridor.  You notice that you have reached end
+of the hallway, which extends to the south.  You see a doorway leading into a 
+restroom to the west.  This hallway is lined with ceramic tiles and has
+florescent lights projecting a blue glimmer.
+~
+0 8 0
+D2
+~
+~
+0 -1 9918
+D3
+~
+~
+0 -1 9921
+S
+#9920
+Office Room~
+You stand in a cubicle that seems to be someone's work area.  You see a 
+swivelling chair, and an oak paneled desk in the middle of the room.  On the
+desk is a workstation cluttered with paper and office supplies. Also there is
+carpet on the floor.
+~
+0 8 0
+D1
+~
+~
+1 -1 9918
+S
+#9921
+Restroom~
+You are looking into a huge mirror that covers half of the wall.  Below this 
+mirror are several sinks and soap dispensers.  There is a trash can in the 
+corner of the room near the door.  Above the trash can is a container full of 
+paper towels.  Behind you are urinals which seem to be unoccupied, and to the
+left you see a row of bathroom stalls.
+~
+0 8 0
+D1
+~
+~
+0 -1 9919
+D3
+~
+~
+1 -1 9922
+S
+#9922
+Restroom Stall~
+You are occuping one of many stalls located in this restroom. You see a toilet
+sitting in front of you with the lid up.  Inside of the bowl you see yellowish
+water and a big brown turd.  The person who used this toilet before you forgot
+to flush, how rude.  You notice some scriblings on the wall, and there is an
+air conditioner vent in the ceiling.
+~
+0 524 0
+E
+air conditioner vent, vent, air,  air conditioner, conditioner~
+You examine the air conditioner vent and find that it is held attached to the
+ceiling by four screws. You hear some voices throught the vent, which are 
+barely audible.  You think to youself that only if you had a screw driver you
+could remove it and see where the voices are coming from.
+~
+D1
+~
+~
+1 -1 9921
+D4
+~
+~
+2 -1 9923
+S
+#9923
+Air Conditioner Duct~
+You find yourself in a maze of passages running in all different directions.
+Again you here the voices and you get the notion to investigate.  You feel a 
+draft coming from the south. This duct is made of aluminum, and you are hoping
+that it will support your weight.
+~
+0 10761 0
+D2
+~
+~
+0 -1 9924
+D5
+~
+~
+2 9929 9922
+S
+#9924
+Air Conditioner Duct~
+You find yourself in a maze of passages running in all different directions. 
+Again you here the voices and you get the notion to investigate.  You feel a 
+draft coming from the south.  This duct is made of aluminum, and you are 
+hoping that it will support your weight.
+~
+0 10761 0
+D0
+~
+~
+0 -1 9923
+D2
+~
+~
+0 -1 9925
+S
+#9925
+Air Conditioner Duct~
+You find yourself in a maze of passages running in all different directions.
+Again you here the voices and you get the notion to investigate.  You feel a
+draft coming from the east.  This duct is made of aluminum, and you are hoping
+that it will support your weight.
+~
+0 10761 0
+D0
+~
+~
+0 -1 9924
+D1
+~
+~
+0 -1 9926
+S
+#9926
+Air Conditioner Duct~
+You find yourself in a maze of passages running in all different directions.
+Again you here the voices and you get the notion to investigate.  You feel a 
+draft coming from the east.  This duct is made of aluminum, and you are hoping
+that it will support your weight.
+~
+0 10761 0
+D1
+~
+~
+0 -1 9927
+D3
+~
+~
+0 -1 9925
+S
+#9927
+Air Conditioner Duct~
+You find yourself in a maze of passages running in all different directions.
+Again you here the voices and you get the notion to investigate.  You feel a
+draft coming from the east.  This duct is made of aluminum, and you are hoping
+that it will support your weight.
+~
+0 10761 0
+D1
+~
+~
+0 -1 9928
+D3
+~
+~
+0 -1 9926
+S
+#9928
+Air Conditioner Duct~
+You find yourself in a maze of passages running in all different directions.  Again you here the voices 
+and you get the notion to investigate.  You feel a draft coming from the east.  This duct is made of 
+aluminum, and you are hoping that it will support your weight.
+~
+0 10761 0
+D0
+~
+~
+0 -1 9929
+D3
+~
+~
+0 -1 9927
+S
+#9929
+End of Air Conditioner Duct~
+You find yourself at the end of a maze of passages running in all different 
+directions. Again you hear the voices, but this time they are right below you.
+You feel a draft coming from below you.  In the floor of the duct you see 
+another vent, but this one you can just push open. This duct is made of 
+aluminum, and you are hoping that it will support your weight.
+~
+0 10761 0
+D2
+~
+~
+0 -1 9928
+D5
+~
+~
+0 -1 9930
+S
+#9930
+Conference Room~
+You are standing a long room that stretches to the south.  There is a huge 
+wooden table with many chairs around it.  You get the impression that this is
+an important meeting place.  There are business executives seated around the
+table and the one at the head of the table spies you.
+~
+0 8 0
+D2
+~
+~
+0 -1 9931
+D4
+~
+~
+0 -1 9929
+S
+#9931
+Conference Room~
+You are standing a long room that stretches to the north.  There is a huge 
+wooden table with many chairs around it.  You get the impression that this is
+an important meeting place.  There are business executives seated around the
+table. You notice a secretary typing away recording the conversation.
+~
+0 8 0
+D0
+~
+~
+0 -1 9930
+D2
+~
+~
+2 -1 9916
+S
+#9932
+Elevator~
+You enter an elevator which leads to the upper levels of this building.
+There are many buttons scattered on the wall, and there is writing beneath
+them.  The access panels to the phone and alarm have been sealed shut.  There
+is a lone speaker protuding from a ceiling panel, which is accompanied by an
+air duct.  Above the door you can see the floors that this elevator reaches.
+~
+0 520 0
+D3
+~
+~
+1 9930 9933
+D5
+~
+~
+0 -1 9917
+S
+#9933
+Hallway~
+You are traveling along a long corridor.  You notice that you come to the end
+of the hallway, which extends to the west.  You see a doorway leading into an
+elevator to the east. This hallway is lined with ceramic tiles and has 
+florescent lights projecting a blue glimmer.
+~
+0 8 0
+D1
+~
+~
+1 -1 9932
+D3
+~
+~
+0 -1 9934
+S
+#9934
+Hallway Intersection~
+You are traveling along a long corridor.  You notice that you havecome to and
+intersection in the hallway, which extends to the north, west and east.  This
+hallway is lined with ceramic tiles and has florescent lights projecting a
+blue glimmer.
+~
+0 8 0
+D0
+~
+~
+0 -1 9935
+D1
+~
+~
+0 -1 9933
+D3
+~
+~
+0 -1 9940
+S
+#9935
+Hallway~
+You are traveling along a long corridor which extends to the north and south.
+You notice that this hallway seems to be traveled regularly by an hourly
+watchman. This hallway is lined with ceramic tiles and has florescent lights
+projecting a blue glimmer.
+~
+0 8 0
+D0
+~
+~
+0 -1 9936
+D2
+~
+~
+0 -1 9934
+S
+#9936
+Hallway~
+You are traveling along a long corridor which extends to the north and south.
+You notice that this hallway seems to be traveled regularly by an hourly
+watchman. This hallway is lined with ceramic tiles and has florescent lights
+projecting a blue glimmer.
+~
+0 8 0
+D0
+~
+~
+0 -1 9937
+D2
+~
+~
+0 -1 9935
+S
+#9937
+Hallway ~
+You are traveling along a long corridor.  You notice that you have come to a
+corner of the hallway, which extends to the east and south. This hallway seems
+to be traveled regularly by an hourly watchman. This hallway is lined with 
+ceramic tiles and has florescent lights projecting a blue glimmer.
+~
+0 8 0
+D1
+~
+~
+0 -1 9938
+D2
+~
+~
+0 -1 9936
+S
+#9938
+End of Hallway~
+You are traveling along a long corridor.  You notice that you have come to the
+end of the hallway, which extends to the west.  This hallway seems to be 
+traveled regularly by an hourly watchman. This hallway is lined with ceramic 
+tiles and has florescent lights projecting a blue glimmer.
+~
+0 8 0
+D2
+~
+~
+1 -1 9939
+D3
+~
+~
+0 -1 9937
+S
+#9939
+Cell A~
+This appears to be a cramped square jail cell.  There is a small old ratty cot
+mounted to the wall by rusty bolts and chains. There are cracks running through
+the floor and on the wall. At a closer inspection you find a mouse hole in the
+base of the wall.  This room is dimly lit and you see something stir near the
+cot.
+~
+0 532489 0
+D0
+~
+~
+1 -1 9938
+M 200 H 200
+S
+#9940
+End of Hallway~
+You are traveling along a long corridor. You notice that you have come to then
+end of the hallway, which extends to the east.  There is a door to the north
+that is closed.  This hallway is lined with ceramic tiles and has florescent
+lights projecting a blue glimmer.
+~
+0 524296 0
+E
+Door~
+There is a sign on the door. It reads: Dr. Hojo's Labratory
+~
+D0
+~
+~
+1 -1 9941
+D1
+~
+~
+0 -1 9934
+S
+#9941
+Laboratory~
+You are standing a huge domed room.  There are boxes scattered around filled
+with unknown material.  You smell a strange odor come from the north.  Off to
+the right you spy a holding tank that is radiating an orange spectrum.  You
+feel intense engery pouring through you veins as you approach this chamber.
+~
+0 532488 0
+D0
+~
+~
+0 -1 9942
+D2
+~
+~
+1 -1 9940
+S
+#9942
+Laboratory~
+You are standing a huge domed room. There is a raised platform above your head
+which looks to hold a scientific research facility.  There is a small plank
+heading into the next room.  Standing on this plank is a disheveled-looking
+man in a white lab coat.  You smell a strange odor come from the west.
+~
+0 532488 0
+D2
+~
+~
+0 -1 9941
+D3
+~
+~
+0 -1 9943
+S
+#9943
+Laboratory~
+You enter into large enclosed tubular chamber.  The stench coming from this
+room is almost unbearable.  It smells of death and decay.  Inside this chamber
+you see an huge red animal that looks like a wolf. This beast is pacing around
+inside of the chamber appearing ready to attack anyone who gets too close.  In
+the corner of the room you notice a pile of bones.
+~
+0 532488 0
+D0
+~
+~
+2 -1 9944
+D1
+~
+~
+0 -1 9942
+S
+#9944
+Freight Elevator~
+This room is very dark and you barely can make out the details of it.  This is
+a small freight elevator hidden in the back of the laboratory.  You judge that
+only one person at a time could fit in here without it collapsing.  There are
+blood stains on the floor probably caused by the movement of dead animals from
+one floor to the next.
+~
+0 533001 0
+D2
+~
+~
+2 9929 9943
+D4
+~
+~
+1 -1 9945
+S
+#9945
+Freight Elevator~
+This room is very dark and you barely can make out the details of it.  This is
+a small freight elevator hidden in the back of the laboratory.  You judge that
+only one person at a time could fit in here without it collapsing.  There are
+blood stains on the floor probably caused by the movement of dead animals from
+one floor to the next. There is a light beckoning you to approach to the south.
+~
+0 534537 0
+D2
+~
+~
+2 9930 9946
+D5
+~
+~
+1 -1 9944
+S
+#9946
+Hallway~
+You are walking through an elaborate hallway, which extends to the south. This
+hallway is brightly lit as to illuminate the pictures and tapastries hanging
+from the walls.  All of these pictures appear to be the executives of this
+company.  The floor is carpeted with a soft red material with a embroidered 
+gold edge.  To the east you notice a set of spiralled stairs leading to an
+upper level.
+~
+0 524296 0
+D0
+~
+~
+2 -1 9945
+D1
+~
+~
+0 -1 9949
+D2
+~
+~
+0 -1 9947
+S
+#9947
+Hallway~
+You are walking through an elaborate hallway, which extends to the north and
+south.  This hallway is brightly lit as to aluminate the pictures and 
+tapastries hanging from the walls.  Unlike the hallway to the north and south
+the ceiling of this room extends to the upper level. 
+
+There are crystal chandleirs hanging from the ceiling as to portray a great
+importance of this floor.  All of these pictures appear to be the executives
+of this company.  The floor is carpeted with a soft red material with an
+embroidered gold edge.
+~
+0 524296 0
+D0
+~
+~
+0 -1 9946
+D2
+~
+~
+0 -1 9948
+S
+#9948
+End of Hallway~
+You have come to the end of an elaborate hallway, which extends to the south.
+This hallway is brightly lit as to aluminate the pictures and tapastries
+hanging from the walls.  All of these pictures appear to be the executives of
+this company.  The floor is carpeted with a soft red material with an
+embroidered gold edge.  To the east you notice a set of spiralled stairs
+leading to an upper level.
+~
+0 524296 0
+D0
+~
+~
+0 -1 9947
+D1
+~
+~
+0 -1 9950
+S
+#9949
+Grand Staircase~
+This staircase looks as though it has come from a palace. From the elaborately
+carved railings to the elegantly designed wallpaper, the room stretches on.
+You are shocked by the amount of time and money one can waste on appearance.
+This staircase curves to the center of the room, apparently adjoining with
+the other staircase to give the impression of a never-ending circle.
+~
+0 524296 0
+D2
+~
+~
+0 -1 9951
+D3
+~
+~
+0 -1 9946
+S
+#9950
+Grand Staircase~
+This staircase looks as though it had come from a palace. From the elaborately
+carved railings to the elegantly designed wallpaper, the room stretches on.
+You are shocked by the amount of time and money one can waste on appearance.
+This stair case curves to the center of the room, apparently adjoining with
+the other staircase to give the impression of a never-ending circle.
+~
+0 524296 0
+D0
+~
+~
+0 -1 9951
+D3
+~
+~
+0 -1 9948
+S
+#9951
+Upper Meeting Hall~
+This room was designed as a meeting place outside of the president's office.
+Behind you there is a railing overlooking the hallway.  A smooth leather couch
+is sitting in front of the railing with a plant to either side.  You are
+standing before a huge wooden entry way into what appears to be the most
+elaborate office in this building.
+~
+0 524296 0
+D0
+~
+~
+0 -1 9949
+D1
+~
+~
+2 -1 9952
+D2
+~
+~
+0 -1 9950
+S
+#9952
+President's Office~
+You enter a enormous room which is filled with exotic items.  In front of you
+lies a desk that is piled with paper work.  Behind the desk is a man seated in
+a plush leather swivel chair.  In the back of the room is a glass wall
+stretching halfway across the building.  In the middle of the wall are two
+sliding doors leading to a balcony.
+~
+0 532488 0
+D1
+~
+~
+1 -1 9953
+D3
+~
+~
+2 -1 9951
+S
+#9953
+Marble Balcony~
+This is an elaborate marble balcony. There is a magnificent rail acompanied by
+statues of lions. As you look past the rail you have a spectacular view of the
+city of Midgar.  To the left you see a helicopter that has just landes. Out of
+the helicopter approaches a young man.
+~
+0 532481 0
+D3
+~
+~
+1 -1 9952
+S
+#9954
+Streets of Midgar~
+You stroll down the streets of midgar.  Before you stand a building of 
+monumental porportions. This could be none other that the infamous Shinra
+building.  On these streets people walk scavange around for products or jobs.
+You can hear the passage of the underground sewage system coming from the
+Shinra building.  Also you may have to leap out of the way of an occasional
+vehicle.
+~
+0 0 1
+D0
+~
+~
+0 -1 9906
+D2
+~
+~
+0 -1 9955
+S
+#9955
+Streets of Midgar~
+You stroll down the streets of Midgar.  On these streets people walk scavange
+around for products or jobs.  You notice that you have entered the poorer part
+of midgar.  Also you may have to leap out of the way of an occasional vehicle.
+This street appears to need some maintenance. The street continues to the east
+and west.
+~
+0 0 1
+D0
+~
+~
+0 -1 9954
+D2
+~
+~
+0 -1 9956
+D3
+~
+~
+0 -1 10011
+S
+#9956
+Streets of Midgar~
+You stroll down the streets of Midgar.  On these streets people walk scavange
+around for products or jobs.  You notice that you have entered the poorer part
+of midgar.  Also you may have to leap out of the way of an occasional vehicle.
+This street is in need of some maintenance. The street continues to the east
+and west.
+~
+0 0 1
+D0
+~
+~
+0 -1 9955
+D1
+~
+~
+0 -1 9957
+S
+#9957
+Streets of Midgar~
+You stroll down the streets of Midgar.  On these streets people walk scavange
+around for products or jobs.  You notice that you have entered the poorer part
+of midgar.  Also you may have to leap out of the way of an occasional vehicle.
+This street is in need of some maintenance. The street continues to the east
+and west.
+~
+0 0 1
+D1
+~
+~
+0 -1 9972
+D2
+~
+~
+0 -1 9958
+D3
+~
+~
+0 -1 9956
+S
+#9958
+Streets of Midgar~
+You stroll down the streets of Midgar.  On these streets people walk scavange
+around for products or jobs.  You notice that you have entered the poorer part
+of midgar.  Also you may have to leap out of the way of an occasional vehicle.
+This street is in need of some maintenance. The street continues to the east
+and west.
+~
+0 0 1
+D0
+~
+~
+0 -1 9957
+D1
+~
+~
+0 -1 9977
+D2
+~
+~
+0 -1 9959
+S
+#9959
+Streets of Midgar~
+You stroll down the streets of Midgar.  On these streets people walk scavange
+around for products or jobs.  You notice that you have entered the poorer part
+of midgar.  Also you may have to leap out of the way of an occasional vehicle.
+This street is in need of some maintenance. The street continues to the east
+and west.
+~
+0 0 1
+D0
+~
+~
+0 -1 9958
+D2
+~
+~
+0 -1 9960
+S
+#9960
+Streets of Midgar~
+You stroll down the streets of Midgar.  On these streets people walk scavange
+around for products or jobs.  You notice that you have entered the poorer part
+of midgar.  Also you may have to leap out of the way of an occasional vehicle.
+This street is in need of some maintenance. The street continues to the east
+and west.
+~
+0 0 1
+D0
+~
+~
+0 -1 9959
+D2
+~
+~
+0 -1 9967
+D3
+~
+~
+0 -1 9961
+S
+#9961
+Streets of Midgar~
+You stroll down the streets of Midgar.  On these streets people walk scavange
+around for products or jobs.  You notice that you have entered the poorer part
+of midgar.  Also you may have to leap out of the way of an occasional vehicle.
+This street is in need of some maintenance. The street continues to the east
+and west.
+~
+0 0 1
+D1
+~
+~
+0 -1 9960
+D3
+~
+~
+0 -1 9962
+S
+#9962
+End of Street~
+You stroll down the streets of Midgar.  On these streets people walk scavange
+around for products or jobs.  You notice that you have entered the poorer part
+of midgar.  This street appears to need some matenance.  To the north lies a
+building with a sign on it saying: `@B`2AR``. The street continues to the east.
+~
+0 0 1
+D0
+~
+~
+1 -1 9963
+D1
+~
+~
+0 -1 9961
+S
+#9963
+Front Porch~
+You walk up the steps of this building.  This looks like it was once a house
+and now renovated in to an alcoholic establishment.  A banister and railing
+encloses the porch.  There is a door to the north which leads to the bar.
+~
+0 0 1
+D0
+~
+~
+1 -1 9964
+D2
+~
+~
+1 -1 9962
+S
+#9964
+`@B`2ar`` Room~
+This room is dimly lighted to add to the bar atmosphere.  There are a few
+tables each having four chairs around them.  On the tables are empty beer
+glasses and bowls of peanut shells.  To the north you notice the bar.  There
+is a soft music coming from the east.
+~
+0 9 0
+D0
+~
+~
+0 -1 9965
+D1
+~
+~
+0 -1 9966
+D2
+~
+~
+1 -1 9963
+S
+#9965
+`@B`2ar``~
+You are leaning on the counter of the bar.  Behind the counter there are
+shelves upon shelves full of liquors.  There is a mirror on the back wall and
+you spy the image of a beautiful woman bending over looking for something. She
+must be the bartender.
+~
+0 9 0
+D2
+~
+~
+0 -1 9964
+S
+#9966
+`@B`2ar`` Room~
+This is a smaller room than the others. In the northern corner there is a juke
+box playing the music that you heard in the other rooms.  Next to the juke box
+is a pin ball machine.  This machine is standing on a metallic platform unlike
+the wooden floor around it.
+~
+0 9 0
+D3
+~
+~
+0 -1 9964
+D5
+~
+~
+0 -1 9968
+S
+#9967
+Entrance to Midgar~
+You have entered a magnificent city, which is built around the the Shinra
+Building.  To the north lies the city streets.  This was once the greatest city
+on this planet until its hostile treatment by a certain group of people.  This
+city is run by a group that has its headquarters in the Shinra Building.
+~
+0 8 0
+D0
+~
+~
+0 -1 9960
+D2
+~
+~
+0 -1 6106
+S
+#9968
+Entrance to Avalanche Hideout~
+By pulling the lever on the pinball machine you have reached the safe haven of
+the freedom fighters, Avalanche.  This is the entrance to their headquarters
+and all of its plans are contrived here.  You notice a cage surrounding the
+shaft that you just came from.  To the north is a man studing a computer
+screen, and to the west a table blocks your way.
+~
+0 8 0
+D0
+~
+~
+0 -1 9969
+D4
+~
+~
+0 -1 9966
+S
+#9969
+Data Center~
+An immense computer screen covers the wall.  There is a huge database and
+technological system here.  On the screen you see a news update, which shows
+the latest actions of the Avalanche.  There is a man sitting in front of the
+screen watching the news and commenting on how preposterous it is made to be
+by the Shinra Corporation.
+~
+0 8 0
+D2
+~
+~
+0 -1 9968
+D3
+~
+~
+0 -1 9970
+S
+#9970
+HideOut Room~
+You enter a section of this sub-basement that has a long wooden table and
+chairs surrounding it.  This must be the planning center for all of the
+Avalanche activities.  There are some maps and reports haphazardly lying on
+the table.  Judging by the dates on these documents this must be the plans for
+the next Avalanche raid.
+~
+0 8 0
+D1
+~
+~
+0 -1 9969
+D2
+~
+~
+0 -1 9971
+S
+#9971
+Safe Room~
+This room has a couple of easy chairs, which are perfect for relaxation. There
+is a bright light shining from above. This room appears to have a dual purpose
+other than relaxation.  It must be a place where the Avalanche question there
+captives.  Even though intense questioning has taken place in this room you
+feel a sense of safety from enemies.
+~
+0 9228 0
+D0
+~
+~
+0 -1 9970
+S
+#9972
+Church Ruins~
+A ray of sunlight shines down on you from a gaping hole in the ceiling of this
+building.  There are pieces of broken pews strewn about this room in disarray.
+There is rubble from the ceiling lying all over.  Who or what could have done
+something so terrible to such a peaceful place?
+~
+0 8 0
+D1
+~
+~
+0 -1 9973
+D3
+~
+~
+0 -1 9957
+S
+#9973
+Church Ruins~
+A ray of sunlight shines down on you from a gaping hole in the ceiling of this
+building.  There are pieces of broken pews strewn about this room in disarray.
+There is rubble from the ceiling lying all over.  Who or what could have done
+something so terrible to such a peaceful place?
+~
+0 8 0
+D0
+~
+~
+0 -1 9974
+D3
+~
+~
+0 -1 9972
+S
+#9974
+Church Ruins~
+A ray of sunlight shines down on you from a gaping hole in the ceiling of this
+building.  There are pieces of broken pews strewn about this room in disarray.
+There is rubble from the ceiling lying all over.  Who or what could have done
+something so terrible to such a peaceful place?
+~
+0 8 0
+D2
+~
+~
+0 -1 9973
+D3
+~
+~
+0 -1 9975
+S
+#9975
+Flower Garden~
+A beam of sunlight shines down on you from a gaping hole in the ceiling of
+this building.  In front of you is a spectacular patch of breath taking
+flowers.  You spy a solitary flower lying in the back of the room.  There
+is rubble from the ceiling lying all over.  Who or what could have done
+something so terrible to such a peaceful place?
+~
+0 8 0
+D1
+~
+~
+0 -1 9974
+D3
+~
+~
+1 -1 9976
+S
+#9976
+Confession Room~
+This is the most sacred place in the whole church.  Even the most evilest
+beings cannot commit thier henius deeds while standing in this room.  It
+seems to be smiled down upon by the gods. Yet again you notice a flower on the
+floor.  As you examine it closer you feel a presence of someone in the room.
+~
+0 1032 0
+D1
+~
+~
+1 -1 9975
+M 150 H 150
+S
+#9977
+Dirt Road~
+This a small dirt road that leads into the country.  You are taken in with the
+beautiful scenery as you take a deep breath of fresh air.  You smell a much
+stonger stench of what you believe to be coming from a farm.  There is a sign
+on the side of the road. The road continues to the east and leads back west to 
+the city.
+~
+0 0 2
+D1
+~
+~
+0 -1 9978
+D3
+~
+~
+0 -1 9958
+S
+#9978
+Dirt Road~
+This a small dirt road that leads into the country.  You are taken in with the
+beautiful scenery as you take a deep breath of fresh air.  You smell a much
+stonger stench of what you believe to be coming from a farm.  There is a sign
+on the side of the road. The road continues to the north and leads back to the
+city to the west.
+~
+0 0 2
+E
+sign, billboard~
+You have reached the `5Ch`%o`5c`%o`5b`%o`` Farm.  Here you can buy and rent chocobos for
+daily use.  They come in all colors,shapes and sizes.  For futher information
+about these creatures visit the farm.
+~
+D0
+~
+~
+0 -1 9979
+D3
+~
+~
+0 -1 9977
+S
+#9979
+Entrance to `5Ch`%o`5c`%o`5b`%o`` Farm~
+There is a huge sign above you head that reads: WELCOME TO THE `5CH`%O`5C`%O`5B`%O`` FARM.
+This looks like an ordinary ranch with a grazing pen. The farm house is to the
+northwest and a barn is to the northeast.
+~
+0 0 2
+D0
+~
+~
+0 -1 9980
+D2
+~
+~
+0 -1 9978
+S
+#9980
+`5Ch`%o`5c`%o`5b`%o`` Farm~
+This is the end of the dirt road.  To your west you see an inviting old house
+with a steady stream of smoke flowing from its chimney. To the east lies the
+barn and the entrance to the `5Ch`%o`5c`%o`5b`%o`` Pens.  On the door of the house there is
+an emblem in the shape of a chocobo feather.
+~
+0 0 2
+D1
+~
+~
+0 -1 9984
+D2
+~
+~
+0 -1 9979
+D3
+~
+~
+1 -1 9981
+S
+#9981
+Farm House~
+You enter a quaint little house that belongs to the owner of this
+establishment.  There is a couch and a nice chair around a small pine table.
+From its appearence you guess this to be the living room.  To the north is
+another room that looks like the dining room.  To the east is the exit of this
+house.
+~
+0 8 0
+D0
+~
+~
+0 -1 9982
+D1
+~
+~
+1 -1 9980
+S
+#9982
+Kitchen~
+There is a pleasant aroma drifting to you nose as you enter this room.  This
+room serves as both a kitchen and a dining room.  There is a moderately sized
+table setting in the middle of the room with and old wood stove in the corner.
+To the east you see a closed door, and to the south lies the living room.
+~
+0 8 0
+D1
+~
+~
+1 -1 9983
+D2
+~
+~
+0 -1 9981
+S
+#9983
+Bedroom~
+You enter the lone bedroom of this joint. There is a single bed covered with a
+flower type patterned sheets.  Next to the bed is a small night stand.  There
+are two dressers up against the far wall and a single window that looks out
+into the country side.
+~
+0 8 0
+D3
+~
+~
+1 -1 9982
+S
+#9984
+Path to the Barn~
+You walk along a well troden path to the barn.  There are stange sets of foot
+prints on this path.  On your right you see a huge pen with strange animals
+running rampant in it.  The pen is enclosed by a wooden fence about 6 feet
+hight.  To the left you see the barn walls.
+~
+0 0 2
+D1
+~
+~
+0 -1 9985
+D3
+~
+~
+0 -1 9980
+S
+#9985
+Path to the Barn~
+You walk along a well troden path to the barn.  There are stange sets of foot
+prints on this path.  On your right you see a huge pen with strange animals
+running rampant in it. The pen is bounded by a wooden fence about 6 feet high.
+To the south is the gate to the pen. It is closed and secured tightly. To the
+left you see the barn walls.
+~
+0 0 2
+D1
+~
+~
+0 -1 9986
+D2
+~
+~
+1 -1 10002
+D3
+~
+~
+0 -1 9984
+S
+#9986
+End of Path~
+You walk along a well troden path to the barn.  There are stange sets of foot
+prints on this path.  On your right you see a huge pen with strange animals
+running rampant in it. The pen is bounded by a wooden fence about 6 feet high.
+To the left you see the entrance to the barn.
+~
+0 0 2
+D0
+~
+~
+0 -1 9987
+D3
+~
+~
+0 -1 9985
+S
+#9987
+Entrance to the Barn~
+This is the entranceway to the barn.  You smell the pugnant aroma of bird dung
+and musty hay.  There are stalls containing strange animals to the left and
+right of you.  Straight ahead lies a walkway to reach these very stalls.  The
+floor of this building is hard packed dirt.  There is no man made light source;
+only the light from the sun illuminates this building.
+~
+0 8 0
+D0
+~
+~
+0 -1 9988
+D2
+~
+~
+0 -1 9986
+S
+#9988
+Barn Walkway~
+This is a stone walkway.  You smell the pugnant odor of aged dung and musty
+hay.  There are workers scurrying around to the left and right of you.  To the
+north and south are stalls containing chocobos.  The floor of this building is
+hard packed dirt.  There is no man made light source; only the light from the
+sun illuminates this building.
+~
+0 8 0
+D0
+~
+~
+0 -1 10001
+D1
+~
+~
+0 -1 9991
+D2
+~
+~
+0 -1 9987
+D3
+~
+~
+0 -1 9989
+S
+#9989
+Barn Walkway~
+This is a stone walkway.  You smell the pugnant odor of aged dung and musty
+hay.  There are workers scurrying around to the left and right of you.  To the
+north and south are stalls containing chocobos.  The floor of this building is
+hard packed dirt.  There is no man made light source; only the light from the
+sun illuminates this building.
+~
+0 8 0
+D0
+~
+~
+1 -1 9995
+D1
+~
+~
+0 -1 9988
+D2
+~
+~
+1 -1 9996
+D3
+~
+~
+0 -1 9990
+S
+#9990
+End of Barn Walkway~
+This is a stone walkway.  You smell the pugnant odor of aged dung and musty
+hay.  To the north and south are stalls containing chocobos.  The floor of
+this building is hard packed dirt.  There is no man made light source; only
+the light from the sun illuminates this building.
+~
+0 8 0
+D0
+~
+~
+1 -1 9993
+D1
+~
+~
+0 -1 9989
+D2
+~
+~
+1 -1 9994
+S
+#9991
+Barn Walkway~
+This is a stone walkway.  You smell the pugnant odor of aged dung and musty
+hay.  There are workers scurrying around to the left and right of you.  To the
+north and south are stalls containing chocobos.  The floor of this building is
+hard packed dirt.  There is no man made light source; only the light from the
+sun illuminates this building.
+~
+0 8 0
+D0
+~
+~
+1 -1 9997
+D1
+~
+~
+0 -1 9992
+D2
+~
+~
+1 -1 9998
+D3
+~
+~
+0 -1 9988
+S
+#9992
+End of Barn Walkway~
+This is a stone walkway.  You smell the pugnant odor of aged dung and musty
+hay.  To the north and south are stalls containing chocobos.  The floor of
+this building is hard packed dirt.  There is no man made light source; only
+the light from the sun illuminates this building.
+~
+0 8 0
+D0
+~
+~
+1 -1 9999
+D2
+~
+~
+1 -1 10000
+D3
+~
+~
+0 -1 9991
+S
+#9993
+Chocobo Stall~
+This stall is lined with hay.  It is enclosed on either side by wooden walls.
+In the front is a door that can be opened on the top and bottom. The occupants
+of this stall are munching away on fresh greens.  These magnificent creatures
+are known as chocobos.
+~
+0 8 0
+D2
+~
+~
+1 -1 9990
+S
+#9994
+Chocobo Stall~
+This stall is lined with hay.  It is enclosed on either side by wooden walls.
+In the front is a door that can be opened on the top and bottom. The occupants
+of this stall are munching away on fresh greens.  These magnificent creatures
+are known as chocobos.
+~
+0 8 0
+D0
+~
+~
+1 -1 9990
+S
+#9995
+Chocobo Stall~
+This stall is lined with hay.  It is enclosed on either side by wooden walls.
+In the front is a door that can be opened on the top and bottom. The occupants
+of this stall are munching away on fresh greens.  These magnificent creatures
+are known as chocobos.
+~
+0 8 0
+D2
+~
+~
+1 -1 9989
+S
+#9996
+Chocobo Stall~
+This stall is lined with hay.  It is enclosed on either side by wooden walls.
+In the front is a door that can be opened on the top and bottom. The occupants
+of this stall are munching away on fresh greens.  These magnificent creatures
+are known as chocobos.
+~
+0 8 0
+D0
+~
+~
+1 -1 9989
+S
+#9997
+Chocobo Stall~
+This stall is lined with hay.  It is enclosed on either side by wooden walls.
+In the front is a door that can be opened on the top and bottom. The occupants
+of this stall are munching away on fresh greens.  These magnificent creatures
+are known as chocobos.
+~
+0 8 0
+D2
+~
+~
+1 -1 9991
+S
+#9998
+Chocobo Stall~
+This stall is lined with hay.  It is enclosed on either side by wooden walls.
+In the front is a door that can be opened on the top and bottom. The occupants
+of this stall are munching away on fresh greens.  These magnificent creatures
+are known as chocobos.
+~
+0 8 0
+D0
+~
+~
+1 -1 9991
+S
+#9999
+Chocobo Stall~
+This stall is lined with hay.  It is enclosed on either side by wooden walls.
+In the front is a door that can be opened on the top and bottom. The occupants
+of this stall are munching away on fresh greens.  These magnificent creatures
+are known as chocobos.
+~
+0 8 0
+D2
+~
+~
+1 -1 9992
+S
+#10000
+Chocobo Stall~
+This stall is lined with hay.  It is enclosed on either side by wooden walls.
+In the front is a door that can be opened on the top and bottom. The occupants
+of this stall are munching away on fresh greens.  These magnificent creatures
+are known as chocobos.
+~
+0 8 0
+D0
+~
+~
+1 -1 9992
+S
+#10001
+Storage Area~
+This room is filled with stacks of hay and other supplies.  There are barrels
+of water, harnesses and tacts on the wall.  There is a man with a clipboard
+talking to some of the workers.  He must control the show around here.
+~
+0 8 0
+D2
+~
+~
+0 -1 9988
+S
+#10002
+Northern Chocobo Pen~
+You are standing a enormous grass field.  There is a fence enclosing this
+meadow on all sides with a gate to the north.  Huge bird-like creatures roam
+about happily basking in the sun. You start to move around and you take a step
+and feel something mushy below you foot.  `@G`#r`@o`#ss``.  You just stepped in chocobo
+dung.  The grazing area stretches to the east, west, and south.
+~
+0 0 2
+D0
+~
+~
+1 -1 9985
+D1
+~
+~
+0 -1 10009
+D2
+~
+~
+0 -1 10010
+D3
+~
+~
+0 -1 10003
+S
+#10003
+Northwestern Chocobo Pen~
+You are standing a enormous grass field.  There is a fence enclosing this
+meadow on all sides with a gate to the north.  Huge bird-like creatures roam
+about happily basking in the sun. You start to move around and you take a step
+and feel something mushy below you foot.  `@G`#r`@o`#ss``.  You just stepped in chocobo
+dung.  The grazing area stretches to the east and south.
+~
+0 0 2
+D1
+~
+~
+0 -1 10002
+D2
+~
+~
+0 -1 10004
+S
+#10004
+Western Chocobo Pen~
+You are standing a enormous grass field.  There is a fence enclosing this
+meadow on all sides with a gate to the north.  Huge bird-like creatures roam
+about happily basking in the sun. You start to move around and you take a step
+and feel something mushy below you foot.  `@G`#r`@o`#ss``.  You just stepped in chocobo 
+dung.  The grazing area stretches to the north, east and south.
+~
+0 0 2
+D0
+~
+~
+0 -1 10003
+D1
+~
+~
+0 -1 10010
+D2
+~
+~
+0 -1 10005
+S
+#10005
+Southwestern Chocobo Pen~
+You are standing a enormous grass field.  There is a fence enclosing this
+meadow on all sides with a gate to the north.  Huge bird-like creatures roam
+about happily basking in the sun. You start to move around and you take a step
+and feel something mushy below you foot.  `@G`#r`@o`#ss``.  You just stepped in chocobo 
+dung.  The grazing area stretches to the north and east.
+~
+0 0 2
+D0
+~
+~
+0 -1 10004
+D1
+~
+~
+0 -1 10006
+S
+#10006
+Southern Chocobo Pen~
+You are standing a enormous grass field.  There is a fence enclosing this
+meadow on all sides with a gate to the north.  Huge bird-like creatures roam
+about happily basking in the sun. You start to move around and you take a step
+and feel something mushy below you foot.  `@G`#r`@o`#ss``.  You just stepped in chocobo
+dung.  The grazing area stretches to the north, east and west.
+~
+0 0 2
+D0
+~
+~
+0 -1 10010
+D1
+~
+~
+0 -1 10007
+D3
+~
+~
+0 -1 10005
+S
+#10007
+Southeastern Chocobo Pen~
+You are standing a enormous grass field.  There is a fence enclosing this
+meadow on all sides with a gate to the north.  Huge bird-like creatures roam
+about happily basking in the sun. You start to move around and you take a step
+and feel something mushy below you foot.  `@G`#r`@o`#ss``.  You just stepped in chocobo 
+dung.  The grazing area stretches to the north and west.
+~
+0 0 2
+D0
+~
+~
+0 -1 10008
+D3
+~
+~
+0 -1 10006
+S
+#10008
+Eastern Chocobo Pen~
+You are standing a enormous grass field.  There is a fence enclosing this
+meadow on all sides with a gate to the north.  Huge bird-like creatures roam
+about happily basking in the sun. You start to move around and you take a step
+and feel something mushy below you foot.  `@G`#r`@o`#ss``.  You just stepped in chocobo 
+dung.  The grazing area stretches to the north, west and south.
+~
+0 0 2
+D0
+~
+~
+0 -1 10009
+D2
+~
+~
+0 -1 10007
+D3
+~
+~
+0 -1 10010
+S
+#10009
+Northeastern Chocobo Pen~
+You are standing a enormous grass field.  There is a fence enclosing this
+meadow on all sides with a gate to the north.  Huge bird-like creatures roam
+about happily basking in the sun. You start to move around and you take a step
+and feel something mushy below you foot.  `@G`#r`@o`#ss``.  You just stepped in chocobo 
+dung.  The grazing area stretches to the west and south.
+~
+0 0 2
+D2
+~
+~
+0 -1 10008
+D3
+~
+~
+0 -1 10002
+S
+#10010
+Centeral Chocobo Pen~
+You are standing a enormous grass field.  There is a fence enclosing this
+meadow on all sides with a gate to the north.  Huge bird-like creatures roam
+about happily basking in the sun. You start to move around and you take a step
+and feel something mushy below you foot.  `@G`#r`@o`#ss``.  You just stepped in chocobo 
+dung.  The grazing area stretches to the north, east, west and south.
+~
+0 0 2
+D0
+~
+~
+0 -1 10002
+D1
+~
+~
+0 -1 10008
+D2
+~
+~
+0 -1 10006
+D3
+~
+~
+0 -1 10004
+S
+#10011
+Alley~
+You enter a small alley way which leads away from the city. This alley extends
+a vast distance to the west.  Boxes and trash lies strewn about the street that
+you walk on.  The smell of smoke and oil slowly drift towards you in a black
+cloud which is coming from the end of the alley.  The alley is dark and there
+are no street lights illuminating it.
+~
+0 1 1
+D1
+~
+~
+0 -1 9955
+D3
+~
+~
+0 -1 10012
+S
+#10012
+Alley~
+You enter a small alley way which leads away from the city. This alley extends
+a vast distance to the west.  Boxes and trash lies strewn about the street that
+you walk on.  The smell of smoke and oil slowly drift towards you in a black
+cloud which is coming from the end of the alley.  The alley is dark and there
+are no street lights illuminating it.  Back to the east is the main city.
+~
+0 1 1
+D1
+~
+~
+0 -1 10011
+D3
+~
+~
+0 -1 10013
+S
+#10013
+End of Alley~
+You enter a small alley way which leads away from the city. This alley extends
+a vast distance to the west.  Boxes and trash lies strewn about the street that
+you walk on.  The smell of smoke and oil slowly drift towards you in a black
+cloud which is coming from the end of the alley.  The alley is dark and there
+are no street lights illuminating it.  There is a small grate near the rear of
+the alley.  Back to the east is the main city.
+~
+0 1 1
+E
+grate~
+This is a small rust covered grate.  As you examine it closer you see that the
+cement is chipped around its edges as if it has been pryed opened.
+~
+D1
+~
+~
+0 -1 10012
+D5
+~
+~
+1 -1 10014
+S
+#10014
+Entrance to Tunnel~
+You are standing a small tunnel that has track lighting running down its sides.
+There are footprints in the dirt at your feet indicating its frequent use.
+There is a soft humming coming from somewhere far away.  As you examine the
+walls you notice that these walls are fairly new.  Why would someone build a
+tunnel in the middle of nowhere?  The tunnel continues to the south.
+~
+0 9 0
+D2
+~
+~
+0 -1 10015
+D4
+~
+~
+1 -1 10013
+S
+#10015
+End of Tunnel~
+You are standing at the end of a small tunnel that has track lighting running
+down its sides.  There are footprints in the dirt at your feet indicating its
+frequent use.   There is a soft humming coming from somewhere far away.  As
+you examine the walls you notice that these walls are fairly new.  To the east
+you see a huge ravine that streches out of sight.  There is a bridge crossing
+the ravine extending to a huge building.
+~
+0 9 0
+D0
+~
+~
+0 -1 10014
+D1
+~
+~
+0 -1 10016
+S
+#10016
+Bridge~
+You are standing on a bridge made of concrete.  As you look over the side you
+see a dark chasm extending for miles.  Now as you approach the building on the
+other side of the ravine the humming sound grows louder.  You see a scant sign
+of movement on the other side of the bridge near the entrance of the building.
+Along with the movement you hear some soft voices seeming to be drowned out by
+the humming noise.
+~
+0 0 0
+D1
+~
+~
+0 -1 10017
+D3
+~
+~
+0 -1 10015
+S
+#10017
+Bridge~
+You are standing on a bridge made of concrete.  As you look over the side you
+see a dark chasm extending for miles.  Now as you approach the building on the
+other side of the ravine the humming sound grows louder.  You see a scant sign
+of movement on the other side of the bridge near the entrance of the building.
+Along with the movement you hear some soft voices seeming to be drowned out by
+the humming noise.
+~
+0 0 0
+D1
+~
+~
+0 -1 10018
+D3
+~
+~
+0 -1 10016
+S
+#10018
+Entrance to Building~
+This is a mountain summit with a large building blocking your path. Before you
+are gigantic double doors made out of steel which lead into the building.  The
+humming noise is very loud now and you realize what this building is.  It is a
+Shinra Corporation Mako Reactor hidden in this concealed land.
+~
+0 0 0
+D1
+~
+~
+1 -1 10019
+D3
+~
+~
+0 -1 10017
+S
+#10019
+Mako Reactor~
+This is a huge building used to funnel the planet's energy into a generator.
+You are surrounded by huge tanks in every direction, but cannot out what is in
+the tanks.  There are walkways to the north and south.  There is a set of
+stairs that reach to the end of the building to the east.
+~
+0 8 0
+D0
+~
+~
+0 -1 10020
+D1
+~
+~
+0 -1 10026
+D2
+~
+~
+0 -1 10023
+D3
+~
+~
+1 -1 10018
+S
+#10020
+Walkway~
+This is the end of a walkway made of solid steel.  There is a aluminum rail
+along the outside of this walkway.  You see an enormous tank filling the room.
+It is filled with a pale yellow liquid and something that appears to be
+moving.  This tank is connected to a tube that runs along the ceiling of the
+building. The walkway extends to the north and south.
+~
+0 8 0
+D0
+~
+~
+0 -1 10021
+D2
+~
+~
+0 -1 10019
+S
+#10021
+Walkway~
+This is the end of a walkway made of solid steel.  There is a aluminum rail
+along the outside of this walkway.  You see an enormous tank filling the room.
+It is filled with a pale yellow liquid and something that appears to be moving.
+This tank is connected to a tube that runs along the ceiling of the building.
+The walkway extends to the north and south.
+~
+0 8 0
+D0
+~
+~
+0 -1 10022
+D2
+~
+~
+0 -1 10020
+S
+#10022
+End of Walkway~
+This is the end of a  walkway made of steel.  There is a aluminum rail along
+the outside of this walkway.  You see an enormous tank filling the room. It is
+filled with a yellowish liquid and abomination that appears to be moving. This
+tank is being fed by a tube that runs along the ceiling of the building.  The
+walkway extends to the south.
+~
+0 8 0
+D2
+~
+~
+0 -1 10021
+S
+#10023
+Walkway~
+This is the end of a walkway made of solid steel.  There is a aluminum rail
+along the outside of this walkway.  You see an enormous tank filling the room.
+It is filled with a pale yellow liquid and something that appears to be moving.
+This tank is connected to a tube that runs along the ceiling of the building.
+The walkway extends to the north and south.
+~
+0 8 0
+D0
+~
+~
+0 -1 10019
+D2
+~
+~
+0 -1 10024
+S
+#10024
+Walkway~
+This is the end of a walkway made of solid steel.  There is a aluminum rail
+along the outside of this walkway.  You see an enormous tank filling the room.
+It is filled with a pale yellow liquid and something that appears to be moving.
+This tank is connected to a tube that runs along the ceiling of the building.
+The walkway extends to the north and south.
+~
+0 8 0
+D0
+~
+~
+0 -1 10023
+D2
+~
+~
+0 -1 10025
+S
+#10025
+End of Walkway~
+This is the end of a walkway made of steel. There is a aluminum rail along the
+outside of this walkway. You can't help but notice an enormous pod, filled
+with a yellowish liquid.  This tank is being fed by a tube that runs along the
+ceiling of the building. The walkway extends to the north.
+~
+0 8 0
+D0
+~
+~
+0 -1 10024
+S
+#10026
+Stairs of Mako Reactor~
+You are climbing stair and find yourself on the second level of walkways and
+tanks.  This apparently isn't just an Mako compression facility, but an
+experimentation buried deep underground.  On the third level you see a tank
+bigger than any in the whole building.  It is radiating a green light.  This
+stairway like the walkways is made of pure steel.  More walkways stretch to
+the north and south.
+~
+0 8 0
+D0
+~
+~
+0 -1 10027
+D1
+~
+~
+0 -1 10033
+D2
+~
+~
+0 -1 10030
+D3
+~
+~
+0 -1 10019
+S
+#10027
+Walkway~
+This is the end of a walkway made of solid steel.  There is a aluminum rail
+along the outside of this walkway.  You see an enormous tank filling the room.
+It is filled with a pale yellow liquid and something that appears to be moving.
+This tank is connected to a tube that runs along the ceiling of the building.
+The walkway extends to the north and south.
+~
+0 8 0
+D0
+~
+~
+0 -1 10028
+D2
+~
+~
+0 -1 10026
+S
+#10028
+Walkway~
+This is the end of a walkway made of solid steel.  There is a aluminum rail
+along the outside of this walkway.  You see an enormous tank filling the room.
+It is filled with a pale yellow liquid and something that appears to be moving.
+This tank is connected to a tube that runs along the ceiling of the building.
+The walkway extends to the north and south.
+~
+0 8 0
+D0
+~
+~
+0 -1 10029
+D2
+~
+~
+0 -1 10027
+S
+#10029
+End of Walkway~
+This is the end of a walkway made of steel. There is a aluminum rail along the
+outside of this walkway. You can't help but notice an enormous pod, filled
+with a yellowish liquid.  This tank is being fed by a tube that runs along the
+ceiling of the building. The walkway extends to the south.
+~
+0 8 0
+D2
+~
+~
+0 -1 10028
+S
+#10030
+Walkway~
+This is the end of a walkway made of solid steel.  There is a aluminum rail
+along the outside of this walkway.  You see an enormous tank filling the room.
+It is filled with a pale yellow liquid and something that appears to be moving.
+This tank is connected to a tube that runs along the ceiling of the building.
+The walkway extends to the north and south.
+~
+0 8 0
+D0
+~
+~
+0 -1 10026
+D2
+~
+~
+0 -1 10031
+S
+#10031
+Walkway~
+This is the end of a walkway made of solid steel.  There is a aluminum rail
+along the outside of this walkway.  You see an enormous tank filling the room.
+It is filled with a pale yellow liquid and something that appears to be moving.
+This tank is connected to a tube that runs along the ceiling of the building.
+The walkway extends to the north and south.
+~
+0 8 0
+D0
+~
+~
+0 -1 10030
+D2
+~
+~
+0 -1 10032
+S
+#10032
+End of Walkway~
+This is the end of a walkway made of steel. There is a aluminum rail along the
+outside of this walkway. You can't help but notice an enormous pod, filled
+with a yellowish liquid.  This tank is being fed by a tube that runs along the
+ceiling of the building. The walkway extends to the north.
+~
+0 8 0
+D0
+~
+~
+0 -1 10031
+S
+#10033
+Jenova Project~
+You reached the top of the Mako Reactor. This platform is re-enforced by steel
+girders to secure the heavy load it bares. Here you see the tank that radiates
+the green light. Inside this tank you see an abhorrent creature that must have
+been created from an experiment gone wrong. To the north and south you see the
+final row of tanks.
+~
+0 8 0
+D0
+~
+~
+0 -1 10034
+D1
+~
+~
+2 -1 10041
+D2
+~
+~
+0 -1 10038
+D3
+~
+~
+0 -1 10026
+S
+#10034
+Walkway~
+This is the end of a walkway made of solid steel.  There is a aluminum rail
+along the outside of this walkway.  You see an enormous tank filling the room.
+It is filled with a pale yellow liquid and something that appears to be
+moving.  This tank is connected to a tube that runs along the ceiling of the
+building. The walkway extends to the north and south.AA dangerous creature
+blocks your path.
+~
+0 8 0
+D0
+~
+~
+0 -1 10035
+D2
+~
+~
+0 -1 10033
+S
+#10035
+Walkway~
+This is the end of a walkway made of solid steel.  There is a aluminum rail
+along the outside of this walkway.  You see an enormous tank filling the room.
+It is filled with a pale yellow liquid and something that appears to be
+moving.  This tank is connected to a tube that runs along the ceiling of the
+building. The walkway extends to the north and south.
+~
+0 8 0
+D0
+~
+~
+0 -1 10036
+D2
+~
+~
+0 -1 10034
+S
+#10036
+Walkway~
+This is the end of a walkway made of solid steel.  There is a aluminum rail
+along the outside of this walkway.  You see an enormous tank filling the room.
+It is filled with a pale yellow liquid and something that appears to be
+moving.  This tank is connected to a tube that runs along the ceiling of the
+building. The walkway extends to the north and south.
+~
+0 8 0
+D0
+~
+~
+0 -1 10037
+D2
+~
+~
+0 -1 10035
+S
+#10037
+End of Walkway~
+This is the end of a walkway made of steel. There is a aluminum rail along the
+outside of this walkway.  You can't help but notice an enormous pod, filled
+with a yellowish liquid.  This tank is being fed by a tube that runs along the 
+ceiling of the building. The walkway extends to the south.
+~
+0 8 0
+D2
+~
+~
+0 -1 10036
+S
+#10038
+Walkway~
+This is the end of a walkway made of solid steel.  There is a aluminum rail
+along the outside of this walkway.  You see an enormous tank filling the room.
+It is filled with a pale yellow liquid and something that appears to be moving.
+This tank is connected to a tube that runs along the ceiling of the building.
+The walkway extends to the north and south.
+~
+0 8 0
+D0
+~
+~
+0 -1 10033
+D2
+~
+~
+0 -1 10039
+S
+#10039
+Walkway~
+This is the end of a walkway made of solid steel.  There is a aluminum rail
+along the outside of this walkway.  You see an enormous tank filling the room.
+It is filled with a pale yellow liquid and something that appears to be moving.
+This tank is connected to a tube that runs along the ceiling of the building.
+The walkway extends to the north and south.
+~
+0 8 0
+D0
+~
+~
+0 -1 10038
+D2
+~
+~
+0 -1 10040
+S
+#10040
+End of Walkway~
+This is the end of a walkway made of steel. There is a aluminum rail along the
+outside of this walkway.  You can't help but notice an enormous pod, filled
+with a yellowish liquid.  This tank is being fed by a tube that runs along the
+ceiling of the building. The walkway extends to the north.
+~
+0 8 0
+D0
+~
+~
+0 -1 10039
+S
+#10041
+Secret Hallway~
+You have entered the secret hallway of the Mako Reactor.  This is a well
+furnished hallway with a comortable aura.  You notice a lone occupant at the
+end of this room.  This means you must have beaten Jenova.   Now to test your
+abilities as a fighter you may choose to fight Cloud. Cloud lies at the end of
+the room to the east.
+~
+0 8 0
+D1
+~
+~
+2 9929 10043
+D3
+~
+~
+2 -1 10033
+S
+#10042
+Emerald Weapon Lair~
+You travel into an unknown domain.  You are now standing in an underwater
+cavern.  This is the lair of the incredible Emerald Weapon.  There is a
+hoard of treasure and weapons filling the room collected over the decades
+from the Weapon's meals.
+~
+0 8 0
+D1
+~
+~
+2 9930 10044
+D3
+~
+~
+2 9929 10043
+S
+#10043
+Ruby Weapon Lair~
+You are traveling in a realm of sand.  You are now standing in a vast barren
+desert.  This is the home of the elusive Ruby Weapon.  The Ruby weapon is
+towering over you and you are engulfed by its shadow.  Bones litter the sands
+as a testament to the Weapon's numerous victims.
+~
+0 8192 0
+D1
+~
+~
+2 9930 10042
+D3
+~
+~
+2 9929 10041
+S
+#10044
+Cloud's Room~
+Finally you have reached the end of you quest as you step in to Cloud's
+chamber.  On the walls you see a vast assortment of weapons collected over the
+years by Cloud in his numorous quests.  There is some furniture in this room:
+a desk, a chair and a couch.  You notice there are no lights and all you can
+see are two glowing green-blue eyes staring at you.  Are you sure it was a
+good idea to come here?
+~
+0 1 0
+D3
+~
+~
+2 9930 10042
+D5
+You have discovered the Lifestream!~
+lifestream~
+1 -1 10045
+S
+#10045
+Final Dungeon~
+You descend to a pit of energy and evil, realizing that once inside, there is
+no escape. Looking ahead of you, you see two electric-blue eyes blazing out of
+the darkness.
+~
+0 532493 0
+M 1 H 1
+S
+#0
+
+
+
+#SPECIALS
+M 9906 spec_breath_any
+M 9907 spec_cast_mage
+M 9913 spec_cast_mage
+M 9915 spec_breath_lightning
+M 9916 spec_guard
+M 9926 spec_cast_cleric
+M 9927 spec_guard
+M 9928 spec_breath_acid
+M 9936 spec_breath_gas
+S
+
+
+
+#RESETS
+D 0 9907 3 1
+D 0 9908 2 1
+D 0 9908 3 1
+D 0 9911 3 2
+D 0 9913 1 1
+D 0 9914 3 1
+D 0 9916 0 1
+D 0 9917 3 1
+D 0 9918 3 1
+D 0 9920 1 1
+D 0 9921 3 1
+D 0 9922 1 1
+D 0 9922 4 1
+D 0 9923 5 2
+D 0 9931 2 2
+D 0 9932 3 2
+D 0 9939 0 1
+D 0 9944 2 2
+D 0 9945 2 2
+D 0 9946 0 1
+D 0 9982 1 1
+D 0 9983 3 1
+D 0 9985 2 1
+D 0 9989 0 1
+D 0 9989 2 1
+D 0 9990 0 1
+D 0 9990 2 1
+D 0 9991 0 1
+D 0 9991 2 1
+D 0 9992 0 1
+D 0 9992 2 1
+D 0 9993 2 1
+D 0 9994 0 1
+D 0 9995 2 1
+D 0 9996 0 1
+D 0 9997 2 1
+D 0 9998 0 1
+D 0 9999 2 1
+D 0 10000 0 1
+D 0 10002 0 1
+D 0 10033 1 1
+D 0 10041 1 2
+D 0 10041 3 2
+D 0 10042 1 2
+D 0 10042 3 1
+D 0 10043 1 2
+D 0 10043 3 2
+D 0 10044 3 2
+D 0 10044 5 1
+M 0 9916 24 9900 2
+E 0 9910 0 16
+M 0 9916 24 9901 1
+E 0 9910 0 16
+M 0 9916 24 9902 3
+E 0 9910 0 16
+M 0 9927 3 9903 2
+E 0 9920 0 16
+M 0 9916 24 9905 1
+E 0 9910 0 16
+M 0 9943 8 9906 1
+M 0 9916 24 9906 1
+E 0 9910 0 16
+M 0 9943 8 9907 2
+M 0 9943 8 9908 2
+M 0 9943 8 9909 1
+M 0 9943 8 9910 1
+E 0 9929 0 17
+M 0 9938 1 9911 1
+E 0 9930 0 17
+G 0 9933 0
+M 0 9943 8 9913 1
+M 0 9916 24 9914 1
+E 0 9910 0 16
+M 0 9916 24 9915 2
+E 0 9910 0 16
+M 0 9927 3 9916 1
+E 0 9920 0 16
+M 0 9943 8 9920 1
+M 0 9943 8 9921 1
+E 0 9929 0 17
+E 0 9910 0 16
+O 0 9927 0 9922
+M 0 9924 1 9930 1
+M 0 9925 1 9931 1
+E 0 9929 0 17
+M 0 9900 1 9934 1
+E 0 9907 0 16
+E 0 9908 0 10
+M 0 9930 1 9937 1
+E 0 9921 0 16
+E 0 9903 0 17
+M 0 9931 1 9939 1
+E 0 9912 0 16
+M 0 9934 1 9941 1
+M 0 9923 1 9942 1
+M 0 9901 1 9943 1
+E 0 9925 0 4
+M 0 9921 1 9949 1
+E 0 9923 0 16
+M 0 9922 1 9950 1
+E 0 9923 0 16
+M 0 9905 1 9951 1
+E 0 9901 0 16
+M 0 9937 1 9952 1
+E 0 9923 0 16
+M 0 9932 1 9953 1
+E 0 9923 0 16
+E 0 9909 0 11
+M 0 9916 24 9954 1
+E 0 9910 0 16
+M 0 9916 24 9955 1
+E 0 9910 0 16
+M 0 9939 1 9956 1
+G 0 9926 0
+M 0 9916 24 9958 1
+E 0 9910 0 16
+M 0 9916 24 9959 1
+E 0 9910 0 16
+M 0 9929 1 9965 1
+E 0 9932 0 1
+E 0 9906 0 9
+M 0 9917 1 9966 1
+E 0 9903 0 17
+M 0 9944 1 9969 1
+M 0 9902 1 9970 1
+E 0 9918 0 16
+M 0 9918 1 9970 1
+E 0 9918 0 16
+M 0 9919 1 9972 1
+E 0 9919 0 16
+M 0 9920 1 9974 1
+M 0 9903 1 9975 1
+E 0 9904 0 6
+E 0 9900 0 17
+M 0 9926 1 9976 1
+M 0 9945 6 9977 1
+M 0 9945 6 9978 1
+M 0 9945 6 9979 1
+M 0 9945 6 9980 1
+M 0 9945 6 9984 1
+M 0 9945 6 9985 1
+M 0 9909 4 9993 1
+M 0 9910 3 9994 1
+M 0 9912 3 9995 1
+M 0 9911 2 9996 1
+M 0 9913 3 9997 1
+M 0 9914 2 9998 1
+M 0 9908 16 9999 1
+M 0 9915 2 10000 1
+M 0 9933 1 10001 1
+E 0 9934 0 16
+M 0 9908 16 10002 3
+G 0 9905 0
+M 0 9909 4 10002 1
+G 0 9905 0
+M 0 9908 16 10003 2
+G 0 9905 0
+M 0 9910 3 10003 1
+G 0 9905 0
+M 0 9908 16 10004 1
+G 0 9905 0
+M 0 9911 2 10004 1
+G 0 9905 0
+M 0 9909 4 10004 1
+G 0 9905 0
+M 0 9908 16 10005 2
+G 0 9905 0
+M 0 9912 3 10005 1
+G 0 9905 0
+M 0 9915 2 10006 1
+G 0 9905 0
+M 0 9914 2 10007 1
+G 0 9905 0
+M 0 9908 16 10007 3
+G 0 9905 0
+M 0 9908 16 10008 1
+G 0 9905 0
+M 0 9913 3 10008 1
+G 0 9905 0
+M 0 9910 3 10008 1
+G 0 9905 0
+M 0 9908 16 10009 1
+G 0 9905 0
+M 0 9912 3 10009 1
+G 0 9905 0
+M 0 9913 3 10010 1
+G 0 9905 0
+M 0 9908 16 10010 2
+G 0 9905 0
+M 0 9909 4 10010 1
+G 0 9905 0
+M 0 9916 24 10011 1
+E 0 9910 0 16
+M 0 9916 24 10011 1
+E 0 9910 0 16
+M 0 9916 24 10012 1
+E 0 9910 0 16
+M 0 9916 24 10013 1
+E 0 9910 0 16
+M 0 9916 24 10014 1
+E 0 9910 0 16
+M 0 9916 24 10015 1
+E 0 9910 0 16
+M 0 9916 24 10016 1
+E 0 9910 0 16
+O 0 9913 0 10019
+O 0 9917 0 10020
+M 0 9941 10 10020 1
+O 0 9917 0 10021
+M 0 9942 8 10021 1
+O 0 9917 0 10022
+M 0 9941 10 10022 1
+O 0 9917 0 10023
+M 0 9941 10 10023 1
+O 0 9917 0 10024
+M 0 9942 8 10024 1
+O 0 9917 0 10025
+M 0 9942 8 10025 1
+O 0 9914 0 10026
+O 0 9917 0 10027
+M 0 9941 10 10027 1
+O 0 9917 0 10028
+M 0 9942 8 10028 1
+O 0 9917 0 10029
+M 0 9941 10 10029 1
+O 0 9917 0 10030
+M 0 9942 8 10030 1
+O 0 9917 0 10031
+M 0 9941 10 10031 1
+O 0 9917 0 10032
+M 0 9942 8 10032 1
+M 0 9935 1 10033 1
+O 0 9915 0 10033
+M 0 9936 1 10034 1
+O 0 9917 0 10034
+O 0 9917 0 10035
+M 0 9941 10 10035 1
+O 0 9917 0 10036
+M 0 9942 8 10036 1
+O 0 9917 0 10037
+M 0 9941 10 10037 1
+M 0 9941 10 10038 1
+O 0 9917 0 10038
+O 0 9917 0 10039
+M 0 9942 8 10039 1
+O 0 9917 0 10040
+M 0 9941 10 10040 1
+M 0 9928 1 10041 1
+M 0 9906 1 10042 1
+M 0 9940 1 10043 1
+E 0 9935 0 17
+M 0 9904 1 10044 1
+E 0 9911 0 16
+E 0 9931 0 15
+M 0 9907 1 10045 1
+E 0 9902 0 16
+E 0 9922 0 17
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

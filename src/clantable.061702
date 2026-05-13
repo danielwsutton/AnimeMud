@@ -1,0 +1,634 @@
+#CLAN
+Cnxt 0
+Name placeholder~
+Lnam [P.Holder] ~
+Flgs 0
+Mnlv 0
+Ldr  ~
+Intr ~
+Info ~
+Hall 3001
+Drm  3054
+Bank 0
+Ctj  100
+Cnxt 0
+Name invid~
+Lnam `8[`5I`%N`&V`%I`5D`8]`7 ``~
+Flgs 4
+Mnlv 0
+Ldr  zeitgeist~
+Intr ~
+Info ~
+Hall 12110
+Drm  12110
+Bank 0
+Ctj  100
+Mnxt 0
+Mnam Zeitgeist~
+Mrnk 1
+Mflg 0
+Mnxt 0
+Mnam janus~
+Mrnk 2
+Mflg 0
+Mnxt 0
+Mnam sanali~
+Mrnk 1
+Mflg 0
+Mnxt 0
+Mnam makie~
+Mrnk 2
+Mflg 0
+Mnxt 0
+Mnam tetsment~
+Mrnk 3
+Mflg 0
+Mnxt 0
+Mnam cerg~
+Mrnk 2
+Mflg 0
+Mnxt 0
+Mnam Kazujin~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam Fatetaf~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam Khamel~
+Mrnk 0
+Mflg 0
+Enxt 0
+Enam claws~
+Evnm 12113
+Enxt 0
+Enam number~
+Evnm 12114
+Enxt 0
+Enam armor~
+Evnm 12115
+Rnxt 0
+Rtxt `&...`6S`^e`6xy`^!`&...``~
+Rnxt 0
+Rtxt `7A`&l`7most`#-`6S`^e`6xy``~
+Rnxt 0
+Rtxt `6M`^i`6ght`&B`7e`6S`^e`6xy``~
+Rnxt 0
+Rtxt `7Sl`&u`7t``~
+Cnxt 0
+Name vampire~
+Lnam `8[`!V`1ampire `&H`8unter]`7 ``~
+Flgs 4
+Mnlv 0
+Ldr  Fascreth~
+Intr ~
+Info ~
+Hall 12160
+Drm  12160
+Bank 0
+Ctj  100
+Mnxt 0
+Mnam agreor~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam kiji~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam fasc~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam fascreth~
+Mrnk 7
+Mflg 0
+Mnxt 0
+Mnam xanretsu~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam ernst~
+Mrnk 0
+Mflg 0
+Enxt 0
+Enam cross~
+Evnm 12128
+Enxt 0
+Enam symbiant~
+Evnm 12129
+Enxt 0
+Enam amestyst~
+Evnm 12130
+Rnxt 0
+Rtxt `&dr`8.`&agon``~
+Rnxt 0
+Rtxt `&DR.AGON``~
+Rnxt 0
+Rtxt `2D`@r`&ag`@o`2n's``-`3R`#e`&ven`#g`3e``~
+Rnxt 0
+Rtxt blank~
+Cnxt 0
+Name dragons~
+Lnam `8[`&1`70`&8 `2D`@r`7a`&g`7o`@n`2s`8]`7 ``~
+Flgs 4
+Mnlv 0
+Ldr  kryth~
+Intr ~
+Info ~
+Hall 12100
+Drm  12100
+Bank 0
+Ctj  100
+Mnxt 0
+Mnam Kryth~
+Mrnk 1
+Mflg 0
+Mnxt 0
+Mnam kaav~
+Mrnk 4
+Mflg 0
+Mnxt 0
+Mnam shintaro~
+Mrnk 5
+Mflg 0
+Mnxt 0
+Mnam mordicanous~
+Mrnk 2
+Mflg 0
+Mnxt 0
+Mnam abrel~
+Mrnk 6
+Mflg 0
+Mnxt 0
+Mnam unikane~
+Mrnk 2
+Mflg 1
+Mnxt 0
+Mnam anao~
+Mrnk 0
+Mflg 0
+Enxt 0
+Enam head~
+Evnm 12110
+Enxt 0
+Enam torso~
+Evnm 12111
+Enxt 0
+Enam tail~
+Evnm 12112
+Rnxt 0
+Rtxt `8<`&Ldr`8>`7_Absolute_`8Darkness`7~
+Rnxt 0
+Rtxt `8<`&Co-Ldr`8>`7_`8Darkness`7~
+Rnxt 0
+Rtxt `8<`&Rank-3`8>`7_`2D`@e`2f`@i`2l`@e`2r`7~
+Rnxt 0
+Rtxt `8<`&Rank-4`8>`7_`1D`!e`1r`!e`1l`!i`1c`!t`7~
+Rnxt 0
+Rtxt `8<`&Rank-5`8>`7_`4F`$o`4l`$l`4o`$w`4e`$r`7~
+Rnxt 0
+Rtxt `8<`&Rank-6`8>`7_`6I`^n`6s`^e`6c`^t`7~
+Rnxt 0
+Rtxt `8<`&Rank-7`8>`7_`3M`#a`3g`#g`3o`#t`7~
+Rnxt 0
+Rtxt Rank-7_Maggot~
+Rnxt 0
+Rtxt Rank-7_Maggot~
+Rnxt 0
+Rtxt Rank-7_Maggot~
+Cnxt 0
+Name judge~
+Lnam `8[`4J`$u`6d`$g`4e`8]`7 ``~
+Flgs 4
+Mnlv 0
+Ldr  vinsetta~
+Intr ~
+Info 
+`8[`4J`$u`6d`$g`4e`8]`7
+
+Judges have been known throughout time as the Judges of Darkness.  
+When mortal justice isn't enough for a victim they seek another 
+spiritual justice. The Judges of Darkness only seek out to destroy  
+those who have done the innocent wrong. Only when someone has  
+fallen, and are a spirit, may they call the power of a Judge to 
+settle the situation. Senseless killing is not part of the Judges  
+of Darkness. Although they do must look out for the Mediums; those  
+which feel that the person being judged should have a fair trial  
+in front of the Ten Demon Kings. They have been seen to wear a  
+long flowing cloaks along with magical golden jewelry and black  
+lipstick. They definately pose a threat to all those that defy  
+the power of the spritual world and those who dishonor the  
+living with their selfish ways. 
+~
+Hall 12120
+Drm  12120
+Bank 0
+Ctj  100
+Mnxt 0
+Mnam ~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam Vinsetta~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam kyusho~
+Mrnk 0
+Mflg 0
+Enxt 0
+Enam guide~
+Evnm 12116
+Enxt 0
+Enam band~
+Evnm 12117
+Enxt 0
+Enam ring~
+Evnm 12118
+Cnxt 0
+Name hunter~
+Lnam `7[`AHu``n`&t``e`Ar`#-`!W`1arr```!i```1or``] ~
+Flgs 4
+Mnlv 0
+Ldr  edge~
+Intr ~
+Info [`8Hu`7n`&t`7e`8r`#-`!W`1arr`!i`1or`7] 
+
+Hunter-Warrior is a band of bounty hunters doing the thing they do best. No
+sense of justice is known between the members of this deadly clan of killers.
+Some do it for the reputation, some for the rewards, and some do it for the
+pure enjoyment of the hunt. Many of them are looked upon as fallen angels
+with no intention of mercy. But their true intentions lie within themselves
+as some of them hunt for good and some for evil. Many of them are seen with
+cybernetic enhancements that were said to improve their profiency in the arts
+of combat. Although there is a huge discreptancy between each member's view,
+they all share one thing in common that they repeatedly ask themselves time
+after time... "Should I kill you?"...
+~
+Hall 12190
+Drm  12190
+Bank 0
+Ctj  100
+Mnxt 0
+Mnam Edge~
+Mrnk 1
+Mflg 0
+Mnxt 0
+Mnam ~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam kreno~
+Mrnk 8
+Mflg 0
+Mnxt 0
+Mnam moxi~
+Mrnk 8
+Mflg 0
+Mnxt 0
+Mnam erik~
+Mrnk 2
+Mflg 0
+Mnxt 0
+Mnam yuffy~
+Mrnk 8
+Mflg 0
+Mnxt 0
+Mnam loki~
+Mrnk 3
+Mflg 0
+Mnxt 0
+Mnam serith~
+Mrnk 4
+Mflg 0
+Mnxt 0
+Mnam hideka~
+Mrnk 8
+Mflg 0
+Mnxt 0
+Mnam iceman~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam zefi~
+Mrnk 8
+Mflg 0
+Mnxt 0
+Mnam ziradane~
+Mrnk 4
+Mflg 0
+Mnxt 0
+Mnam darm~
+Mrnk 8
+Mflg 0
+Enxt 0
+Enam barcode~
+Evnm 12154
+Enxt 0
+Enam implants~
+Evnm 12155
+Enxt 0
+Enam greaves~
+Evnm 12156
+Rnxt 0
+Rtxt `&Leader``~
+Rnxt 0
+Rtxt `8Jugg`7erna`&ut``~
+Rnxt 0
+Rtxt `@3rd``~
+Rnxt 0
+Rtxt `@4th``~
+Rnxt 0
+Rtxt `@5th``~
+Rnxt 0
+Rtxt `@6th``~
+Rnxt 0
+Rtxt `@7th``~
+Rnxt 0
+Rtxt `@KP``~
+Cnxt 0
+Name mds~
+Lnam `8[`3M`#.`3D`#.`3S`#.`8]`7 ``~
+Flgs 4
+Mnlv 0
+Ldr  myra~
+Intr ~
+Info ~
+Hall 12130
+Drm  12130
+Bank 0
+Ctj  100
+Mnxt 0
+Mnam ~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam maelsyyn~
+Mrnk 2
+Mflg 0
+Enxt 0
+Enam neck~
+Evnm 12119
+Enxt 0
+Enam greaves~
+Evnm 12120
+Enxt 0
+Enam tags~
+Evnm 12121
+Cnxt 0
+Name slayers~
+Lnam `8[`2Dr`@ag`2on `&Sl`7a`&yers`8]`7 ~
+Flgs 4
+Mnlv 0
+Ldr  Koren~
+Intr ~
+Info ~
+Hall 12194
+Drm  12194
+Bank 0
+Ctj  100
+Mnxt 0
+Mnam ~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam Koren~
+Mrnk 1
+Mflg 0
+Mnxt 0
+Mnam ~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam Hentaro~
+Mrnk 0
+Mflg 0
+Enxt 0
+Enam stealth~
+Evnm 12160
+Enxt 0
+Enam officer~
+Evnm 12161
+Enxt 0
+Enam scabbard~
+Evnm 12162
+Cnxt 0
+Name empire~
+Lnam `&[`1E`!m`&pi`!r`1e`&]`7 ``~
+Flgs 0
+Mnlv 0
+Ldr  sidious~
+Intr ~
+Info ~
+Hall 3001
+Drm  3054
+Bank 0
+Ctj  100
+Cnxt 0
+Name builder~
+Lnam `&[`8Bu`7i`&l`7d`8er`&]`7~
+Flgs 0
+Mnlv 0
+Ldr  ~
+Intr ~
+Info ~
+Hall 3001
+Drm  3054
+Bank 0
+Ctj  100
+Cnxt 0
+Name admin~
+Lnam `&[`3A`#d`&m`#i`3n`&]`7 ``~
+Flgs 0
+Mnlv 0
+Ldr  ~
+Intr ~
+Info ~
+Hall 3001
+Drm  3054
+Bank 0
+Ctj  100
+Cnxt 0
+Name senshi~
+Lnam [`&Sa`7i`&lor `$S`4ensh`$i``] ~
+Flgs 4
+Mnlv 0
+Ldr  althena~
+Intr ~
+Info ~
+Hall 12180
+Drm  12180
+Bank 0
+Ctj  100
+Mnxt 0
+Mnam Suzuran~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam ~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam Althena~
+Mrnk 0
+Mflg 0
+Enxt 0
+Enam skirt~
+Evnm 12151
+Enxt 0
+Enam vest~
+Evnm 12152
+Enxt 0
+Enam panties~
+Evnm 12153
+Cnxt 0
+Name shinobi~
+Lnam [`1S```!h```7i```&n```7o```!b```1i``] ~
+Flgs 0
+Mnlv 0
+Ldr  ~
+Intr ~
+Info ~
+Hall 12140
+Drm  12140
+Bank 0
+Ctj  100
+Enxt 0
+Enam sandals~
+Evnm 12122
+Enxt 0
+Enam headwrap~
+Evnm 12123
+Enxt 0
+Enam shirt~
+Evnm 12124
+Cnxt 0
+Name shogun~
+Lnam `8[`6S`^h`&og`^u`6n`8]`7 ~
+Flgs 0
+Mnlv 0
+Ldr  fatetaf~
+Intr ~
+Info ~
+Hall 12150
+Drm  12150
+Bank 0
+Ctj  100
+Enxt 0
+Enam sandals~
+Evnm 12125
+Enxt 0
+Enam hakama~
+Evnm 12126
+Enxt 0
+Enam gi~
+Evnm 12127
+Cnxt 0
+Name d-hunter~
+Lnam `7[`!Dev`1i`!l `8H`7u`&nt`7e`8r`7] ~
+Flgs 0
+Mnlv 0
+Ldr  ~
+Intr ~
+Info ~
+Hall 12170
+Drm  12170
+Bank 0
+Ctj  100
+Enxt 0
+Enam dress~
+Evnm 12158
+Enxt 0
+Enam bracelet~
+Evnm 12159
+Enxt 0
+Enam barettes~
+Evnm 12163
+Cnxt 0
+Name quest~
+Lnam `7[`8Q`7u`&e`7s`8t`7]`7 ~
+Flgs 4
+Mnlv 0
+Ldr  ~
+Intr ~
+Info ~
+Hall 3001
+Drm  3054
+Bank 0
+Ctj  100
+Mnxt 0
+Mnam ~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam Eidos~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam Braesun~
+Mrnk 0
+Mflg 0
+Cnxt 0
+Name spamdead~
+Lnam ~
+Flgs 0
+Mnlv 0
+Ldr  ~
+Intr ~
+Info ~
+Hall 3001
+Drm  16172
+Bank 0
+Ctj  100
+Cnxt 0
+Name elite~
+Lnam `&[`3S`#a`&iy`#a`3n `6E`^l`&i`^t`6e`&]`7 ~
+Flgs 4
+Mnlv 0
+Ldr  rolly~
+Intr ~
+Info ~
+Hall 12198
+Drm  3054
+Bank 0
+Ctj  100
+Mnxt 0
+Mnam Rolly~
+Mrnk 1
+Mflg 0
+Mnxt 0
+Mnam ~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam Taskye~
+Mrnk 2
+Mflg 0
+Enxt 0
+Enam armor~
+Evnm 12164
+Enxt 0
+Enam scouter~
+Evnm 12166
+Enxt 0
+Enam boots~
+Evnm 12165
+Rnxt 0
+Rtxt Leader~
+Rnxt 0
+Rtxt JiGgAmAn~
+Cnxt 0
+Name spamdead~
+Lnam ~
+Flgs 0
+Mnlv 0
+Ldr  ~
+Intr ~
+Info ~
+Hall 3001
+Drm  3054
+Bank 0
+Ctj  100
+End

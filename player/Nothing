@@ -1,0 +1,449 @@
+#PLAYER
+Name Nothing~
+Id   975963017
+Sock dhcp26133067.columbus.rr.com~
+LogO 1043177508
+Vers 6
+Prom <`1%h`!/%H``><`&%R``><`@%z``>%c~
+Race Vampire~
+Sex  1
+Cla  3
+Levl 99
+Sec  9
+Plyd 804346
+Not  1043171556 1043174280 1043174423 1042432725 1042941153 1043174370
+Scro 48
+Room 1209
+HMV  2708 2708 1194 1194 1127 1127
+Gold 704
+Silv 59
+Exp  282150
+Act  CDEFGHNb
+AfBy CEF
+Comm LNO
+Wizn ACDEFIJLNOPQRT
+Pos  8
+Prac 265
+Save  -47
+Alig  0
+Hit   50
+Dam   78
+ACs -350 -350 -350 -350
+Attr 25 25 25 25 25
+AMod 7 12 12 7 12
+Pkset 1
+Btitle `8...Nothing...``~
+GLvl 'linkdrop' -1
+GLvl 'linkload' -1
+GLvl 'admint' -1
+GLvl 'snoop' -1
+GLvl 'invis' -1
+GLvl 'slay' -1
+GLvl 'sla' -1
+GLvl 'pardon' -1
+GLvl 'reboot' -1
+GLvl 'reboo' -1
+GLvl 'disconnect' -1
+GLvl 'dump' -1
+GLvl 'ban' -1
+GLvl 'validate' -1
+GLvl 'wiztalk' -1
+GLvl 'notell' -1
+GLvl 'noshout' -1
+GLvl 'noemote' -1
+GLvl 'qecho' -1
+GLvl 'vnum' -1
+GLvl 'switch' -1
+GLvl 'string' -1
+GLvl 'return' -1
+GLvl 'incognito' -1
+GLvl 'purge' -1
+GLvl 'load' -1
+GLvl 'force' -1
+GLvl 'set' -1
+GLvl 'flag' -1
+GLvl 'violate' -1
+GLvl 'char_fry' -1
+GLvl 'seize' -1
+GLvl 'clone' -1
+GLvl 'rename' -1
+GLvl 'jail' -1
+GLvl 'noreply' -1
+GLvl 'review' -1
+GLvl 'necho' -1
+GLvl 'smote' -1
+GLvl 'imotd' -1
+GLvl 'immtalk' -1
+GLvl 'wiznet' -1
+GLvl 'zecho' -1
+GLvl 'stat' -1
+GLvl 'echo' -1
+GLvl 'penalty' -1
+GLvl 'peace' -1
+GLvl 'owhere' -1
+GLvl 'mwhere' -1
+GLvl 'holylight' -1
+GLvl 'gecho' -1
+GLvl 'poofout' -1
+GLvl 'poofin' -1
+GLvl 'teleport' -1
+GLvl 'restore' -1
+GLvl 'pecho' -1
+GLvl 'nochannels' -1
+GLvl 'world' -1
+GLvl 'freeze' -1
+GLvl 'btitle' -1
+GLvl 'wizhelp' -1
+GLvl 'sockets' -1
+GLvl 'goto' -1
+GLvl 'at' -1
+GLvl 'imptalk' -1
+RPoints 9
+QuestPnts 593
+Pass NoUZ9crTear5I~
+Bin  `8Nothing to see here, move along.``~
+Bout `8Nothing more to see here, move along.``~
+Titl  but an `8Evil Bastid`` ~
+Pnts 58
+TSex 1
+LLev 64
+HMVP 2173 944 1042
+Cnd  0 0 28 20
+Dhngr 0
+Dthrst 0
+Color 1 5 10 11 2 7 1 6 3 4 8 9 12 0 1 2
+Bank 1994229
+Alias blink emote blinks.~
+Alias talk gecho `8Nothing`!>``~
+Alias soc socket check~
+Alias ntoe note~
+Alias notenote note~
+Alias titl1 title but an `8Evil Bastid``~
+Alias titl2 title is building, leave a message.~
+Sk 100 'acid blast'
+Sk 100 'anger'
+Sk 100 'armor'
+Sk 100 'black hole'
+Sk 100 'bless'
+Sk 100 'blindness'
+Sk 100 'burning hands'
+Sk 100 'call lightning'
+Sk 100 'calm'
+Sk 100 'cancellation'
+Sk 100 'cause critical'
+Sk 100 'cause light'
+Sk 100 'cause serious'
+Sk 100 'chain lightning'
+Sk 100 'change sex'
+Sk 100 'charm person'
+Sk 100 'chill touch'
+Sk 100 'colour spray'
+Sk 100 'concentration'
+Sk 100 'continual light'
+Sk 100 'control weather'
+Sk 100 'create food'
+Sk 100 'create rose'
+Sk 100 'create spring'
+Sk 100 'create water'
+Sk 100 'cry'
+Sk 100 'cure blindness'
+Sk 100 'cure critical'
+Sk 100 'cure disease'
+Sk 100 'cure light'
+Sk 100 'cure poison'
+Sk 100 'cure serious'
+Sk 100 'curse'
+Sk 100 'demi'
+Sk 100 'chibichibification'
+Sk 100 'demonfire'
+Sk 100 'detect evil'
+Sk 100 'detect good'
+Sk 100 'detect hidden'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 100 'detect poison'
+Sk 100 'dispel evil'
+Sk 100 'dispel good'
+Sk 100 'dispel magic'
+Sk 100 'earthquake'
+Sk 100 'enchant armor'
+Sk 100 'enchant weapon'
+Sk 100 'energy drain'
+Sk 100 'faerie fire'
+Sk 100 'faerie fog'
+Sk 100 'farsight'
+Sk 100 'fear'
+Sk 100 'fireball'
+Sk 100 'fireproof'
+Sk 100 'flamestrike'
+Sk 100 'floating disc'
+Sk 100 'freefall'
+Sk 100 'frenzy'
+Sk 100 'giant strength'
+Sk 100 'gravija'
+Sk 100 'harm'
+Sk 100 'haste'
+Sk 100 'heal'
+Sk 100 'heavy blow'
+Sk 100 'mana'
+Sk 100 'heat metal'
+Sk 100 'hellbender'
+Sk 100 'holy word'
+Sk 100 'identify'
+Sk 100 'infravision'
+Sk 100 'invisibility'
+Sk 100 'know alignment'
+Sk 100 'light'
+Sk 100 'lightning bolt'
+Sk 100 'locate person'
+Sk 100 'locate object'
+Sk 100 'magic missile'
+Sk 100 'mass healing'
+Sk 100 'mass invis'
+Sk 100 'plague'
+Sk 100 'poison'
+Sk 100 'protection evil'
+Sk 100 'protection good'
+Sk 100 'psionic blast'
+Sk 100 'ray of frost'
+Sk 100 'ray of truth'
+Sk 100 'recharge'
+Sk 100 'refresh'
+Sk 100 'remove curse'
+Sk 100 'resistance'
+Sk 100 'sanctuary'
+Sk 100 'shield'
+Sk 100 'shocking grasp'
+Sk 100 'sleep'
+Sk 100 'slow'
+Sk 100 'stone skin'
+Sk 100 'true sight'
+Sk 100 'ventriloquate'
+Sk 100 'weaken'
+Sk 100 'acid breath'
+Sk 100 'fire breath'
+Sk 100 'frost breath'
+Sk 100 'gas breath'
+Sk 100 'lightning breath'
+Sk 100 'general purpose'
+Sk 100 'high explosive'
+Sk 100 'energizer'
+Sk 100 'doragu sureibu'
+Sk 100 'ra tiruto'
+Sk 100 'raguna bureedo'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'gun'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 100 'shield block'
+Sk 100 'counter attack'
+Sk 100 'phase body'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 100 'bash'
+Sk 100 'berserk'
+Sk 100 'battle rage'
+Sk 100 'heighten senses'
+Sk 100 'critical strike'
+Sk 100 'demon rage'
+Sk 100 'dirt kicking'
+Sk 100 'smoke bomb'
+Sk 100 'disarm'
+Sk 100 'dual wield'
+Sk 100 'dodge'
+Sk 100 'enhanced damage'
+Sk 100 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 100 'rescue'
+Sk 100 't-port'
+Sk 100 'trip'
+Sk 100 'dragon punch'
+Sk 100 'hurricane kick'
+Sk 100 'footsweep'
+Sk 100 'circle'
+Sk 100 'roundhouse'
+Sk 100 'flashkick'
+Sk 100 'vanishing shadow'
+Sk 100 'optic blast'
+Sk 100 'kamehameha wave'
+Sk 100 'feed'
+Sk 100 'pounce'
+Sk 100 'throw'
+Sk 100 'forge'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 100 'fifth attack'
+Sk 100 'sixth attack'
+Sk 100 'fast healing'
+Sk 100 'regeneration'
+Sk 100 'haggle'
+Sk 100 'healing touch'
+Sk 100 'hide'
+Sk 100 'lore'
+Sk 100 'meditation'
+Sk 100 'body recovery'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'rapid strike'
+Sk 100 'sneak'
+Sk 100 'steal'
+Sk 100 'scrolls'
+Sk 100 'staves'
+Sk 100 'wands'
+Sk 100 'recall'
+Sk 100 'brew'
+Sk 100 'scribe'
+Gr 'rom basics'
+Gr 'monk basics'
+Gr 'monk default'
+Gr 'detection'
+Gr 'protective'
+End
+
+#O
+Vnum 12165
+Nest 0
+Cond 0
+Wear 8
+Cost 1
+End
+
+#O
+Vnum 12166
+Nest 0
+Cond 0
+Wear 6
+Cost 1
+End
+
+#O
+Vnum 12164
+Nest 0
+Cond 0
+Wear 5
+Cost 1
+End
+
+#O
+Vnum 12114
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 12113
+Nest 0
+Cond 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 12128
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 12128
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 12113
+Nest 0
+Cond 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 12120
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 12131
+Nest 0
+Ldby Nothing~
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 12132
+Nest 0
+Ldby Nothing~
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 12162
+Nest 0
+Ldby Nothing~
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 12105
+Nest 0
+Ldby Nothing~
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 3723
+Nest 0
+Ldby Nothing~
+Cond 0
+Wear 19
+Cost 120
+End
+
+#O
+Vnum 15041
+Nest 0
+Ldby Nothing~
+ExtF 654839939
+Cond 0
+Wear 18
+Cost 0
+Val  0 10 11 18 25 2 2
+End
+
+#O
+Vnum 15041
+Nest 0
+Ldby Nothing~
+ExtF 654839939
+Cond 0
+Wear 16
+Cost 0
+Val  0 10 11 20 25 2 2
+End
+
+#END

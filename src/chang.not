@@ -1,0 +1,1191 @@
+Sender  Belldandy~
+Date    Sun Feb 27 18:14:29 2000~
+Stamp   951696869
+To      all~
+Subject `#C`2ode `#F`2ixes`8...``~
+Text
+Okay all, here is a list of fixes that have been made to the code.
+
+`!F`1ix`!e`1s`&:``
+`@    -`` Esper/Demon/Saiyan voices fixed.
+`@    -`` Saiyan race now shows up in creation.
+`@    -`` Help CUSS updated.
+`@    -`` Hunter-warrior clan should now be functional (minus cskill).
+`@    -`` (`!IMM``) Sock IP now works again. (And Sockets is normal again).
+`@    -`` (`6Code``) Fixed up a few more mem leaks, and also streamlined clan code.
+`@    -`` `@G`2ood `@L`2uck`` Trying to crash us ... fixed up a few more crash bugs.
+
+-`@B`2elldandy``
+~
+Sender  Folken~
+Date    Sat Mar  4 21:59:35 2000~
+Stamp   952228775
+To      all~
+Subject Area changes~
+Text
+We've been busy again, here's a quick rundown on the changes:
+
+`@*     `&RP-Bar`` has had type-o's fixed.``
+
+`@*     `&Section 9`` has been tweaked.  See Vorlin's note for details.``
+
+
+Any major problems?  Note them to `&Folken`` and `&Vorlin``.
+
+
+Folken, the `^angel`` with `8black w`7i`&n`7g`8s``
+~
+Sender  Belldandy~
+Date    Wed Apr 19 21:12:08 2000~
+Stamp   956196728
+To      all~
+Subject `3R`#ecen`3t `#C`3ode `#C`3hanges``...~
+Text
+Some of you might have been noticing problems with passwords and other
+assorted strings. Since these have only started since the afk message
+was put in, all changes since then have been removed until it is figured
+out what is causing these problems. I am sorry for this, but it is necessary.
+
+-`@B`2elldandy``
+~
+Sender  Batanen~
+Date    Thu Aug 10 08:50:40 2000~
+Stamp   965915440
+To      all~
+Subject `!R`1emoval `8of `&A`7T`&M`8s``~
+Text
+We've taken out the banking ability from a few of your
+favorite MOBs.  You'll have to use the bank from now on.
+
+`#Have a nice day!``
+
+
+Batanen Fujioka
+~
+Sender  Vorlin~
+Date    Sun Aug 13 22:09:18 2000~
+Stamp   966222558
+To      immortal~
+Subject New labels~
+Text
+There are now two labels added to stat:
+load and clone
+
+What this means generally is that if you load an item, it'll flag
+the item 'Loaded by: imm_name'.
+
+This also applies for cloning an item, by adding 'Cloned by: imm_name'.
+
+This way, we can track anything loaded and/or cloned and it's not a
+flag so it's not able to be modified by set or any other means.
+
+Also, two minor spelling errors have been fixed. One for stopping pkquests
+and the other for 'Admin don't have access to passwords.' on the intro.
+
+Usagi's room added, complete with a botch on my part which will be fixed
+upon next reboot.
+
+--Vorlin
+~
+Sender  Vorlin~
+Date    Thu Aug 31 19:51:37 2000~
+Stamp   967769497
+To      all~
+Subject NEW STUFF!~
+Text
+After a long and overdue wait, we've got a TON of changes that deserve
+mentioning. Of course, some idiot declared more than allowed ranks in the
+clan information and that's why we failed to reboot for so long.
+
+`&1``: Feed - revamped, complete with day/night damage difference.
+`&2``: Optic blast - revamped
+`&2``: Throw - revamped
+`&3``: Kamehameha wave - revamped
+`&4``: Slayer spells - revamped, if you have them, you should like them more
+`&5:`` Scribe/brew - spell/object levels are now more even, more for espers
+`&6``: Possess - revamped completely, more evened out
+`&7``: Hurricane kick - revamped
+`&8``: Dragon punch - revamped
+`&9``: Added '`^rsay``, `^dtoggle``, and new prompt info (see helps for these)
+`&10``: Added '`^who np``' to show non-pkers
+`&11``: Counter will not work against backstab attacks or anything that
+`     you're not immediately fighting (multiple players/mobs/etc)
+
+`!Revamped`` means that lag is random for successful hits or fails, damage
+is more evened out (if it was fubared), and overall well-balanced.
+
+These changes have been in effect for at least 5 days and tested by
+multiple players on port 9010 (my test port I have running with my
+changes specifically). Comments/complaints are most welcome but remember
+that we're really working on things here to better this place and it's a
+`%LOT`` more productive for you to complain in a CIVIL tone and with a
+reason, not just because you think your player now sucks because it's
+evened out. 
+Thanks go out to the entire ACTIVE imm staff as well as the entire 'pbase'
+on port 9010 that have provided me with ideas and suggestions.
+Without these people, I definitely wouldn't have attempted this.
+
+--Vorlin/Todd, one imm who really DOES try, just ask his gf...
+~
+Sender  Super Sailor Saturn~
+Date    Mon Oct 23 14:41:19 2000~
+Stamp   972330079
+To      all~
+Subject RE: Code Changes~
+Text
+Questmaster now rejects the following targets:
+Mobs above level 150
+Mobs that are pets
+Mobs that are shopkeepers
+I'll get rid of mobs in safe/newbie rooms later, the code to do that
+got a little hairy.
+
+The crash bug in world was (hopefully) fixed.
+
+As for the feline race:  They are VULN_DROWNING and RES_CHARM.
+
+That's all.  I think.
+
+Suzuran Majere - What, Me Worry?
+~
+Sender  Super Sailor Saturn~
+Date    Mon Oct 23 14:42:55 2000~
+Stamp   972330175
+To      all~
+Subject Oh, I forgot...~
+Text
+I unlinked and removed Old Tokyo and Old Thalos.
+~
+Sender  Kyrn~
+Date    Sun Nov 26 18:57:20 2000~
+Stamp   975286640
+To      all~
+Subject Areas/Equipment~
+Text
+As I stated in the last news posted, there were some upcoming changes
+that would affect the mud in a large scale. The first change has been
+completed and implemented when Vorlin takes notice to this change.
+
+Change is as follows: All area equipment, excluding stock areas, have been
+revamped to more acceptable levels. This change will personally effect
+every character here that logs on the MUD. Here is the list of the changes
+that will reduce questions about equipment and certain mobiles:
+
+`&**`` All AVG_DAM on all weapons have been readjusted to 1/2 of eq level.
+(ie. Max is no longer 60avg.. its 50avg) (Max weapon is level 100)
+
+`&**`` Certain modifiers will no longer be loaded together.. aka Hit/Dam.
+
+`&**`` Jim, Holly, and Satan are immune to weapon and magic attacks. *Sorry*
+
+`&**`` All EQ greater than level 90 is now flagged rot_death. This will change.
+
+`&**`` There are currently no weapons above 50 that are flagged 'Sharp' or 'Vorpal'
+
+Here is the good news: No changes to shimmys.. Jim/Holly/Satan eq is not
+flagged rot_death. Sub issue equipment still contain +stat modifiers.
+
+All concerns or comments, please note ME personally..not the mud. Also, I will
+be taking a temportary leave of absence until Friday. I will log back on to verify
+the changes were made..and will not return until Friday.
+
+Again, these changes do NOT take into effect until Vorlin makes the *.are
+swap and reboots the mud. Please give me concerns or ideas, otherwise things
+don't change.
+
+Kyrn, Bash-O-Matic
+~
+Sender  Kyrn~
+Date    Sat Dec  2 21:48:45 2000~
+Stamp   975815325
+To      all~
+Subject Shimmering Stones.~
+Text
+All shimmerings have been removed. The thing was a test item anyways.
+This one item was preventing me to update or add ANY of the AQEQ. Please
+take this change with a grain of salt, its not one i'm very proud of. 8(
+
+Bottom line: They needed to be removed a LONG TIME AGO. Im just going to
+be the one to take the hit for removing them.
+
+Kyrn, Bash-o-Matic
+~
+Sender  Kyrn~
+Date    Sun Dec  3 15:32:30 2000~
+Stamp   975879150
+To      all~
+Subject AQEQ/Clan Info.~
+Text
+Autoquest equipment has been revamped and now all autoquest equipment is available.
+This is the last change on equipment for the entire mud. Promise! I'm
+finally done with eq and now we can press forward.
+
+Im interested in establishing ClanEQ for those that are clanned now..and are
+interested in joining a clan. Here is what I need:
+
+We currently have 3 clans available, I want input to clans that you would appeal
+to, clan skills, clan EQ, clan rooms.. The whole 9 yards. New leaders who would
+like to establish a clan will have to provide this information to myself, Vorlin
+and Batanen. Please note me with suggestions or offer new ideas for a new clan or
+improve on an existing clan.
+
+This is your chance to establish something you want... and I'll work on the
+rest. 8) Gimme ideas.
+
+Kyrn, Bash-o-Matic
+~
+Sender  Kyrn~
+Date    Sun Dec 10 18:22:34 2000~
+Stamp   976494154
+To      all~
+Subject EQ.. again.~
+Text
+The following changes will occur after reboot:
+
+* All level 90+ eq is now unflagged rot_death, they are obtainable.
+* Figurine is wear location floating.
+* All add-on areas equipment have cost values, means you can auction/donate.
+* Resets have been modified for equipment and a few mobs. Meaning, EQ will not pop everytime.
+* All AQEQ has been unflagged no_drop and no_uncurse. Owner flags are still implemented.
+* Auction minbid works.. syntax is 'auction item (item) (min amount) ..
+* (ie. auction item mask 1000)
+* Obviously, the number specified is amount in gold, not silver.
+
+Still working on the Owner flag deal.. will have a solution by next week.
+Please thank Vorlin for his time in help my implement these changes!!
+
+Enjoy! Should be alot better now.
+Kyrn, Bash-o-Matic with assistance from Vorlin, The Chode!
+~
+Sender  Suzuran~
+Date    Thu Mar 14 14:12:26 2002~
+Stamp   1016136746
+To      all~
+Subject Changes.~
+Text
+Removed Fukubuster from the code, as well as the vestiges of Chibichibify.
+Clan Pledge has been removed.  clanldr can now clan anyone.
+There are still pledge-related things in the clanldr commands, but
+they're only there until I clean that list up.
+~
+Sender  Suzuran~
+Date    Thu Mar 14 15:09:18 2002~
+Stamp   1016140158
+To      all~
+Subject Re: Sigh...~
+Text
+Kevin found bug in xp_compute() again, stomped it.
+Should un-nerf high levels.
+~
+Sender  Kevin~
+Date    Mon Mar 25 02:31:52 2002~
+Stamp   1017045112
+To      all~
+Subject Spells/skills, AQEQ prices.~
+Text
+For those of you who missed my earlier note in the note board, here they are as of now.
+
+1) Demonfire changed from DAM_FIRE to DAM_NEGATIVE, ray of truth changed from DAM_LIGHT to DAM_HOLY. They still force saving throws against the old damage types, however..
+2) Slayers spells now cost 40 mana.
+3) Black Hole should be working now.
+4) Freefall's base damage has been altered. Also, it will ground flying victims.
+5) Felines now have a racial skill: pounce. The existing players will need to have it set.
+6) Draconian breath spells, previously based on mana, are now based on HP.
+
+(New things)
+7) Saving throws have been revamped, previously based on a level 50 MUD.
+8) AQEQ prices have been lowered.
+
+- Kevin.
+~
+Sender  Kevin~
+Date    Mon Mar 25 20:12:56 2002~
+Stamp   1017108776
+To      all~
+Subject A few more things.~
+Text
+1) Flee lag has been cut in half.
+2) Pounce's hits are fixed.
+3) Levels 6+ shouldn't get a quest to the mud school. (If on the chance someone does, note me.)
+4) Fiddled with Black Hole again.
+5) Fear spell now forces its victim to make a saving throw, if the victim's not immortal. If it fails, they flee.
+
+- Kevin.
+~
+Sender  Suzuran~
+Date    Tue Mar 26 06:21:06 2002~
+Stamp   1017145266
+To      all~
+Subject TICK TIMER CHANGES~
+Text
+Ticks change to 60 seconds (roughly) instead of 30 on next reboot.
+~
+Sender  Kevin~
+Date    Mon Apr  8 03:56:43 2002~
+Stamp   1018256203
+To      all~
+Subject New area~
+Text
+I've added in Iceman's danger room.
+
+Kevin, who is now going to sleep.
+~
+Sender  Suzuran~
+Date    Tue Apr 16 06:40:31 2002~
+Stamp   1018957231
+To      all~
+Subject Changes...~
+Text
+These are for imms really, but I guess I'll send this to all for the
+hell of it.
+
+1) act() works for mobiles again.  Switching should work normally.
+
+2) We have a signal handler now; It catches on SIGSEGV at the moment.
+Upon catching SEGV, it takes a snapshot-coredump of ROM.  This is done
+by fork()ing a second copy of ROM and calling abort().  When you loook
+at the stack backtrace in the corefile, the frame that caused the crash
+will be the one immediately before the call to sigaction().  Here's an
+example backtrace:
+
+#0  0x400624c1 in kill () from /lib/libc.so.6
+#1  0x4006212a in raise () from /lib/libc.so.6
+#2  0x400636ff in abort () from /lib/libc.so.6
+#3  0x806e4b3 in segv_handler (svx=11, siginfo=0x0, fnord=0xbfffc250)
+at comm.c:3298
+#4  0x400623d0 in sigaction () from /lib/libc.so.6
+#5  0x40095a7b in vsprintf () from /lib/libc.so.6
+*** THE CRASH HAPPENED HERE IN VSPRINTF ***
+(rest of stack backtrace snipped)
+
+After dropping core, the handler goes into a loop handling players
+one at a time.  First it sends them a message explaining what has
+happened, then tries to save their pfile in ../crash/Character.
+If this works, it saves normally, and goes to the next character,
+until it causes another SIGSEGV or saves all connected players.
+On a double-SEGV rom will exit immediately.  Otherwise, once all
+players have been saved, ROM will reboot.
+
+What I would *LIKE* to do is cause the function that caused the crash
+to return() from the signal handler and thus continue the MUD and avoid
+the reboot entirely.  This involves having your program manipulate it's
+own stack frames; Does anyone know how to do this?
+I know how to do it in assembly but I don't know how to do it in C.
+
+Suzuran Majere
+~
+Sender  Kevin~
+Date    Thu Apr 18 01:50:54 2002~
+Stamp   1019112654
+To      all~
+Subject Phew.~
+Text
+Alright, here we go.
+
+Saving throws less dependant on level difference.
+Bless and curse are both a bit more potent.
+Fixed a minor spelling error in comm.c.
+
+Laid the foundation for guns. By no means are they complete yet; I plan to
+split them up into separate categories, much like Fallout does. I also want
+to add OLC support for these weapons.
+
+PK damage modifier is now in. A 25% reduction to damage is applied whenever
+a pker attacks another pker. This does `!n`1ot`` apply to PKQuests.
+
+Rapid Strike has been fixed.
+
+Send a note/tell if anything goes awry...I would hope that it does not.
+
+-- `&K`7evin
+~
+Sender  Kevin~
+Date    Thu Apr 18 02:31:37 2002~
+Stamp   1019115097
+To      all~
+Subject Rapidstrike~
+Text
+I'll probably end up reworking this skill.
+
+I wanted to allow this skill to be used up to three times, but the mud's
+memory structure didn't agree with my plans. :/
+
+Oh well, I'll come up with something. In the meantime, it's disabled.
+~
+Sender  Sidious~
+Date    Sat Apr 20 13:47:07 2002~
+Stamp   1019328427
+To      all~
+Subject PK_Rules~
+Text
+Ignorance to these rules will NOT be an excuse. So read up.
+Duels:
+When you agree to a duel you make the word of duel law.
+Meaning if you get a buddy to jump in or you see a duel
+going on and you shoose to interfear, your busted.
+
+Clans:
+1) You can NOT attack another claned person in their turf.
+2) You can invade and attack only when an offical clan war has started
+3) Clan wars will last 2 weeks. Most kills at the end of the war gets stuff.
+4) If you are in a fight and someone gates to their own turf
+`7   you can give chase. You cant flee to avoid death.
+5) Only clan members may start a fight in their own area. This goes
+`7   for unclanned people as well. You cant attack someone when
+`7   you are in a clan area.
+6) All fighting taking place outside of clan areas are free for all.
+`7   So watch your back when not in a clan area.
+
+So basically use common sence. Make PK a stratagy and war thing. Not a
+"He has good eq so I will loot it" thing. Also looting will be changed.
+That and more rules to come soon.
+~
+Sender  Kevin~
+Date    Sat Apr 20 22:50:32 2002~
+Stamp   1019361032
+To      all~
+Subject Movement training~
+Text
+Players now gain 10 points of movement per train. Monks should get 15.
+
+- `&K`7evin
+~
+Sender  Kevin~
+Date    Tue Apr 23 14:29:26 2002~
+Stamp   1019590166
+To      all~
+Subject Tick healing~
+Text
+I'm positively doubling the position modifiers for hit/mana/move recovery per tick.
+This should accurately reflect the lengthened tick time. Other modifiers(plague/poison/haste/slow) are unchanged.
+
+More stuff coming up, as soon as I finish moving out of my apartment.
+~
+Sender  Suzuran~
+Date    Fri Apr 26 15:34:51 2002~
+Stamp   1019853291
+To      all~
+Subject Guess what?~
+Text
+POSSESS DISABLED.
+
+Suzuran Majere.
+~
+Sender  Kevin~
+Date    Sat Apr 27 20:14:06 2002~
+Stamp   1019956446
+To      all~
+Subject Auction~
+Text
+Increments for current bids have been changed to 10%, rather than 10 gold.
+(Ex. Bid is at 200, the next person must bid at least 220.)
+
+Also, min bids should work correctly. If the bidding starts at 4000,
+then you can expect to bid at least 4000 as opposed to 4010 or 4400.
+
+Takes effect upon next reboot.
+~
+Sender  Suzuran~
+Date    Wed May  1 11:58:05 2002~
+Stamp   1020272285
+To      all~
+Subject Transportation~
+Text
+Non-Casting-Clases no longer have Transportation group.
+God gave you legs - Use them!
+(Only Mages and Clerics have transportation spells now)
+~
+Sender  Kevin~
+Date    Wed May  1 12:59:15 2002~
+Stamp   1020275955
+To      all~
+Subject Fear~
+Text
+Fear is now based on Intelligence.
+
+If the victim has less Int than the caster, then the spell will work.
+(Doesn't affect immortals.)
+~
+Sender  Validious~
+Date    Wed May  1 22:20:59 2002~
+Stamp   1020309659
+To      all~
+Subject bracer of power/section 9~
+Text
+Small, minor things, one you may notice is the "bracer" (key word there)
+is now a bracer. Sorry I didnt post the change earlier, but yeah.
+Secondly, per suggestion from player/imm alike, cloaked section 9 agents
+are no longer aggressive. Small things and more to come, just be patient.
+
+Josh
+~
+Sender  Validious~
+Date    Wed May  1 23:18:10 2002~
+Stamp   1020313090
+To      all ~
+Subject small update~
+Text
+Fixed buged mobile in the marsh area that was an aggro banker (boggle)
+and couldnt be killed. He is no longer a banker and will update accordingly.
+
+Josh
+~
+Sender  Murasame~
+Date    Thu May  2 00:35:07 2002~
+Stamp   1020317707
+To      all~
+Subject Some minor weapon changes/armor changes for now~
+Text
+Some weapons have changed to make them more desirable, I suggest checking out
+dantes, the statues and some other final fantasy type areas, and well maybe
+you can find the rest.
+
+Josh
+
+Also, grab some friends, give ruby a talkin too.
+~
+Sender  Murasame~
+Date    Thu May  2 00:52:14 2002~
+Stamp   1020318734
+To      all~
+Subject townswomen~
+Text
+Townswomen will now hit and do damage equal to there male counterparts
+theres some equal rights for ya!
+
+Josh
+~
+Sender  Sidious~
+Date    Wed May 15 13:36:03 2002~
+Stamp   1021487763
+To      all~
+Subject PK~
+Text
+Guess what. Old pkers that like to loot hate the rule.
+
+Old PK ways are back again. You can get jumped, ganged
+raped in the ass and the drug around. I dont even care
+if you are in a clan area. Someone will bitch about that too.
+
+All PK rules/changes that have been posted, nulled. So
+there is no more honor or word. Go back to safe sitting.
+
+Sid
+~
+Sender  Suzuran~
+Date    Wed May 15 19:20:33 2002~
+Stamp   1021508433
+To      all~
+Subject Re: Sidious~
+Text
+<Insert lame Sailor Scouts = Safe Sitterz joke here>
+~
+Sender  Kevin~
+Date    Thu May 16 11:03:22 2002~
+Stamp   1021565002
+To      all~
+Subject Stuff.~
+Text
+I messed around with the races; too much to summarize there so just read their helpfiles.
+
+HK, DP, circle, and pounce now lag the victim one half a round. Pounce's movement costs have been made to reflect those of feed.
+DP costs zero movement to use. HK still uses movement, but you can count that number on your fingers. (At least I HOPE you can...)
+Healing touch movement cost has been slashed to 2/3rds of the old amount.
+Roundhouse is now working the way it was meant to work.
+Hellbender now deals poison damage, and its lower end has been raised a bit.
+Newly-created dwarves get third attack, and newly-made giants get berserk.
+
+Autoquesting:
+Added perks for PKers who autoquest.
+PKsetting now costs 2/3rds of your AQ points, if you have any.
+
+~
+Sender  Kevin~
+Date    Thu May 16 11:03:58 2002~
+Stamp   1021565038
+To      all~
+Subject Addenum~
+Text
+Demons now receive demon rage as their racial skill.
+~
+Sender  Kevin~
+Date    Thu May 16 19:59:41 2002~
+Stamp   1021597181
+To      all~
+Subject Sashes, herons~
+Text
+Herons no longer give RES_MAGIC.
+Sashes no longer give RES_WEAPON.
+
+Effective immediately.
+~
+Sender  Kevin~
+Date    Sun May 26 00:45:22 2002~
+Stamp   1022391922
+To      all~
+Subject Changes.~
+Text
+Tport:
+Lags 1 round.
+Movement costs dropped, to reflect that of gate.
+Prevents pkers with active timers from getting into a safe room.
+
+Rapidstrike:
+Reenabled again, though not exactly the same as I intended it to be.
+
+HK/DP:
+Messed with the algorithms controlling the 'to-hit' chance of these skills.
+
+Note any problems to me.
+~
+Sender  Kevin~
+Date    Tue May 28 17:02:40 2002~
+Stamp   1022623360
+To      all~
+Subject Stuff.~
+Text
+Esper healing spells now restore 150 hp, instead of 200.
+Increased scroll lag, which is now dependent on the number of spells on a given scroll.
+Changed res/vuln damage modifiers.
+Espers are back to being VULN_NEGATIVE.
+Hellbender is also back to being VULN_NEGATIVE.
+The sleep bug, associated with 'sit', has been fixed.
+Messed with saving throws again, so spells should have full effect more often.
+(Hint: Break out the -saves eq.)
+Changed the esper level scribe modifier; no more 12-hit doragu/ratilt scrolls.
+
+To counter sleep, people with the poison spell may now target themselves with it. Note that, if you choose to cast it this way, you will fail the saving throw automatically.
+
+Takes effect upon reboot.
+- `&K`7evin.
+~
+Sender  Kevin~
+Date    Tue May 28 17:42:38 2002~
+Stamp   1022625758
+To      all~
+Subject Oh yeah, forgot to mention one thing.~
+Text
+Lowered dragonkin exp somewhat. Should take them less experience to level.
+~
+Sender  Kevin~
+Date    Thu May 30 20:22:56 2002~
+Stamp   1022808176
+To      all~
+Subject Saving throws~
+Text
+Of all things in ROM, this has got to be the most asinine function around.
+
+I'm setting it back to the way it was before, and leaving it until a better
+system can be implemented.
+~
+Sender  Kevin~
+Date    Sat Jun  1 15:18:42 2002~
+Stamp   1022962722
+To      all~
+Subject Rapid strike~
+Text
+Made this warrior skill usuable at level 40. Enjoy.
+~
+Sender  Kevin~
+Date    Sat Jun  1 21:52:20 2002~
+Stamp   1022986340
+To      all~
+Subject Stuff.~
+Text
+To recap what I've changed:
+
+Raised the lower end of HK/DP damage.
+Altered freefall's damage, and it doesn't do as much if the victim fails a save.
+Adjusted black hole to give a chance for a 3rd hit at level 90.
+Cry now affects intelligence in addition to dexterity and strength.
+Draconian spells now lag 1 round.
+~
+Sender  Kevin~
+Date    Sat Jun  1 23:52:54 2002~
+Stamp   1022993574
+To      all~
+Subject Addenum~
+Text
+Hellbender damage is no longer penalized due to alignment.
+~
+Sender  Kevin~
+Date    Sun Jun  2 16:38:12 2002~
+Stamp   1023053892
+To      all~
+Subject Today's changes. Whee!~
+Text
+Psiblast lag reduced from 28 pulses to 21.
+
+The damage on the combat spells(other than acid blast, ray of frost and chain
+lightning) has been changed. No, really. Go check it out for yourselves.
+
+P.S. This includes psiblast as well.
+~
+Sender  Kevin~
+Date    Mon Jun  3 11:57:20 2002~
+Stamp   1023123440
+To      all~
+Subject Auction.~
+Text
+Reworked the increment code.
+Now, if an item is put up for auction without a minimum bid, the first amount will be 10.
+The 10% will kick in afterwards.
+Minimum bids should work normally. If the min bid and subsequent bet is between 1 and 9 coins, then the next amount to come after that is 10.
+
+Also, I Lowered rapid strike's movement cost a bit.
+~
+Sender  Kevin~
+Date    Mon Jun  3 22:05:30 2002~
+Stamp   1023159930
+To      all~
+Subject Running stuff off as I remember them..~
+Text
+1) Recall, t-port, and gate now reset the violence timer if it's active.
+2) Psiblast and the combat spells have been tinkered with again, though not
+``   as heavily. Psiblast = 2 rounds lag.
+3) T-port will not work if you're cursed.
+4) Derandomized slayers spells damage.
+5) Esper spell mod is now 120%. Booyaka!
+6) Trip and footsweep can be used while flying, again. Footsweep lag altered.
+
+Takes effect on reboot.
+~
+Sender  Kevin~
+Date    Wed Jun  5 18:34:24 2002~
+Stamp   1023320064
+To      all~
+Subject Gains.~
+Text
+Lately, a lot of people have shown displeasure for the current gains.
+Mana and movement were based on stats, and further modified by class.
+
+First of all, a more or less obvious change.
+Amulet of the Ancients now adds 30 hp/mana/movement.
+
+I have centralized HP/Mana/Movement gains to be based on class, and then modified by Con/Wis/Dex.
+Demons now get double HP at level-up, like it says in the helpfile.
+The existing HP ranges have been adjusted upwards, some classes getting a larger boost than others.
+
+"What does it all mean, uncle Kevin?"
+It means you will see greater mana gains, ESPECIALLY in clerics and mages.
+It means you will see greater move gains, ESPECIALLY in ninjas and monks.
+It means you will see greater HP gains, ESPECIALLY in demons.
+
+The actual modifiers I used for mana and movement are close to what I had planned for the new stats system.
+
+- `&K`7evin, who keeps an eye on those who remake.
+P.S. Those of you who helped test the gains, I commented out the extra code from score.
+~
+Sender  Kevin~
+Date    Mon Jun 10 10:13:04 2002~
+Stamp   1023721984
+To      all~
+Subject Hoo-ray for changes!~
+Text
+1) Acid blast adjusted upwards, slightly.
+2) Chain lightning made more potent.
+3) Psiblast toned down a bit.
+4) Tweaked the random room function of teleport and t-port. You shouldn't land in Iceman's realm anymore.
+
+Takes effect upon reboot.
+~
+Sender  Kevin~
+Date    Mon Jun 10 22:57:36 2002~
+Stamp   1023767856
+To      all~
+Subject CP~
+Text
+I went through the skills/spell groups table, tweaking the CP values.
+
+In other news...
+Tport may now be used while fighting.
+The login timer has been shortened to 4 minutes.
+Brage/berserk now consumes movement based on level. Berserk's AC penalty has also dropped.
+
+More to come later.
+~
+Sender  Kevin~
+Date    Mon Jun 10 23:04:24 2002~
+Stamp   1023768264
+To      all~
+Subject Addenum~
+Text
+Apparently, mages were not meant to have weather to begin with.
+I took the weather group out of their default spells and replaced it with emotions.
+~
+Sender  Kevin~
+Date    Thu Jun 13 21:54:20 2002~
+Stamp   1024023260
+To      all~
+Subject Skills, spells, etc.~
+Text
+Skill changes:
+1) Pounce - upper end of bonus movement damage lowered.
+2) Kick - damage raised.
+3) Roundhouse - damage raised slightly, user lag lowered.
+4) Bash - Tweaked 'to hit' chance. (Looking at the code for this hurts.. ;_;)
+5) Rapidstrike strengthened.
+6) Dirt kick, backstab, disarm - user lag decreased.
+7) Second to sixth attack - Warriors get a bonus to these skills.
+8) Dual wield - Dark elves are now a bit more adept at landing blows with secondary weapons.
+9) Tport - Fails if you attempt to go to a private room or if the target is level 91 or higher.
+
+Spell changes:
+1) Flamestrike damage changed.
+2) Harmful spells have been reworked totally.
+
+There's a new line in the stats function, but it's useless at this time.
+It is for testing purposes, and will be useful to players later on.
+~
+Sender  Suzuran~
+Date    Mon Jun 17 10:56:53 2002~
+Stamp   1024329413
+To      all~
+Subject Minor hack...~
+Text
+Immmortals in pkquests are killable now.
+~
+Sender  Kevin~
+Date    Sat Jun 22 17:07:49 2002~
+Stamp   1024783669
+To      all~
+Subject A few things.~
+Text
+Mages get to use flail at level 1.
+Hellbender does its old damage range.
+Messed with rapidstrike's damage..the modifier was a little too much like circle's.
+Scroll lag is down.
+
+Kevin - '`^Thank you, drive through!``
+~
+Sender  Murasame~
+Date    Mon Jun 24 14:06:20 2002~
+Stamp   1024945580
+To      all~
+Subject A few teasers~
+Text
+Random changes will be taking place over the next few weeks to this world.
+Here is a small look at what is to come, but not to give it all away :)
+
+1) Weapons will not be what they used to be. You may want to look into
+different weapon types in the future, as certian aspects may change.
+
+2) NPC's have become smarter, and stronger than before. Some boss-type
+encounters may become harder, where groups are needed.
+
+Armor and Items will be more useful, and no, dont send me tells about
+how and what effects will be on them, just go and explore and find out.
+
+These changes will be happening at random over the world, some of your old
+items may take new forms, may become more/less powerful, or grant new abilities.
+
+In any case, enjoy, and dont whine if your ubah dagger aint what it used
+to be. We are attempting to make this place better, and if you have suggestions
+they are more than welcome.
+
+Murasame, booya grandma
+~
+Sender  Suzuran~
+Date    Thu Jun 27 15:38:36 2002~
+Stamp   1025210316
+To      all~
+Subject ...~
+Text
+Can't rage when berserking, and vice versa.
+~
+Sender  Murasame~
+Date    Thu Jun 27 23:53:31 2002~
+Stamp   1025240011
+To      all~
+Subject Reworked area, part 1~
+Text
+Due to the lack of interest with older areas, I am in the process
+reworking some underused, or not used at all, areas.
+
+Tonight, you have a new lvl 70-90 killing zone, Valley of the elves.
+Reworked eq there, and all npcs, and added new areas along the way as well.
+So, hope you enjoy, if ya notice any querks in there, lemme know!
+
+Murasame
+~
+Sender  Murasame~
+Date    Fri Jun 28 00:20:07 2002~
+Stamp   1025241607
+To      all~
+Subject moon kingdom~
+Text
+Fixed ave damage on some of the weapons that were out of whack
+i.e. cmw, and powers.
+
+Also fixed bugs with elven area.
+
+Murasame
+~
+Sender  Kevin~
+Date    Fri Jun 28 15:53:37 2002~
+Stamp   1025297617
+To      all~
+Subject Guess what..~
+Text
+Monks no longer get 15 movement when training; just the normal 10.
+Rapid strike damage reduced a bit...no plans on changing that any further at this time.
+Altered some of the CP costs for the secondary gun skills, in preparation for the release of firearms.
+Cleaned up the gun code a little, though it's still not quite ready.
+
+- Kevin, debating whether to finish guns or to test the new stat system..
+~
+Sender  Suzuran~
+Date    Thu Jul  4 06:53:01 2002~
+Stamp   1025783581
+To      all~
+Subject You people are so uncreative.~
+Text
+Since all of the clever complaints went away, the line
+
+xp = xp * gch->level/( UMAX(1,total_levels -1)
+
+has been commented out of fight.c
+~
+Sender  Murasame~
+Date    Wed Jul 10 00:29:20 2002~
+Stamp   1026278960
+To      all~
+Subject New stuff~
+Text
+In effect next reboot.
+
+Changed a few items in valley o elves, and mobs as well.
+
+Due to the uprising of the holy elven community, it has been
+brought to the attention of the drow. They have been training and
+have grown in power. A new stronghold has become of the 
+Drow City. Be careful where you roam.
+
+Murasame
+~
+Sender  Kevin~
+Date    Sun Jul 14 23:26:35 2002~
+Stamp   1026707195
+To      all~
+Subject Gun issues~
+Text
+Thanks to Malus, I was able to undo a potentially nasty bug which caused 9mm bullets to be
+unloaded from a gun or clip no matter what caliber/ammotype they had.
+
+I also took care of a bug which would have allowed a clip to hold more bullets than its
+maximum capacity.
+
+New gun helpfiles available:
+help shoot, help unload, help reload, help guntoggle,
+help gun/pistols/rifles/energy_guns/heavy_guns/gun_skills. (The latter has six keywords.)
+
+Note any wierd stuff to me and/or the other immortals.
+~
+Sender  Kevin~
+Date    Mon Jul 15 15:45:15 2002~
+Stamp   1026765915
+To      all~
+Subject Demons and other things~
+Text
+Demons have lost their RES_WEAPON flag.
+Hellbender will now only work for demons whose align <= -350.
+
+Clerics should be able to cast refresh now.
+Demonfire and ray of truth have been modified.
+
+These changes will be active after the next two reboots. (One of them's not mine.)
+~
+Sender  Kevin~
+Date    Fri Jul 19 19:49:59 2002~
+Stamp   1027126199
+To      all~
+Subject Group EXP~
+Text
+Here's how the new system works.
+
+A group of two will get full experience.
+Every person beyond the second will reduce the award by 15%, to a minimum of 40%.
+3-member group: 85% experience
+4-member group: 70% experience
+5-member group: 55% experience
+6+ member group: 40% experience
+
+This should promote grouping, on a small scale (5 members, tops).
+Leaving group xp unchecked is like leaving your house unlocked
+in a big city; both are ripe for exploitation.
+~
+Sender  Kevin~
+Date    Thu Jul 25 18:54:30 2002~
+Stamp   1027641270
+To      all~
+Subject Autoquesting, monks~
+Text
+Completing a mob kill autoquest will restore your hp, movement, and mana.
+Healing touch's movement cost has been fixed. (Parentheses DO make a difference!)
+DP/HK's random lag on a successful hit has been removed. It is now half a round for every hit.
+DP damage increased(dynamic), HK damage increased(static).
+
+Takes effect on reboot.
+~
+Sender  Kevin~
+Date    Tue Jul 30 04:35:10 2002~
+Stamp   1028021710
+To      all~
+Subject Stuff~
+Text
+I'll run through these quick, since I need to go to work in like 10 minutes.
+
+Spell lag on the gravity group has been reduced, along with their damage.
+Demi and gravija work differently now: if the save is successful, no damage is incurred at all.
+If it fails, then the target loses the appropriate proportion of HP; only sanctuary can reduce this loss.
+
+Low end cleric spells (save heat metal) have been updated. Give earthquake, dispel good/evil, flamestrike,
+and the harmful spells a try.
+
+Healing spells have been made more potent.
+
+Demon ninjas/thieves cannot be made anymore, and gunshot AC damage reduction has been adjusted(downwards).
+
+All of these remain subject to change.
+~
+Sender  Kevin~
+Date    Tue Jul 30 04:37:27 2002~
+Stamp   1028021847
+To      all~
+Subject Addenum~
+Text
+Felines resist the harmful spells.
+Esper monks are also barred.
+
+Note conceptual errors or any other wierdness to me.
+~
+Sender  Kevin~
+Date    Tue Jul 30 19:01:40 2002~
+Stamp   1028073700
+To      all~
+Subject Demi/gravija~
+Text
+These spells will do reduced damage on a successful save; enjoy.
+
+Immortals: I have added an ammunition help file.
+This will reveal the vital statistics of the current ammunition.
+~
+Sender  Kevin~
+Date    Wed Jul 31 14:07:45 2002~
+Stamp   1028142465
+To      all~
+Subject Acupuncturist~
+Text
+Lowered his prices somewhat, and lowered the cost of the fading potion.
+To those of you having problems with bash: use that potion.
+
+That is all.
+~
+Sender  Kevin~
+Date    Fri Aug  2 21:09:36 2002~
+Stamp   1028340576
+To      all~
+Subject An update of yesterday's change~
+Text
+Olds:
+Demons and espers are back to the way they were.
+Demon HP gains are different. 1.3x for thieves/ninjas, 1.6x for warriors.
+
+News:
+Res/vuln plays a less important role in saving throws.
+The 'diminishing returns' on saves has been changed as well.
+Res/vuln damage mods in spells have been lowered to those of physical
+attacks: 80/120 percent, respectively.
+High Elves get a 10% damage bonus with their spells.
+Ra-tilt alternates between HOLY and LIGHT damage, with equal chances of either type being used per hit.
+
+These changes were tested on 9010 with Fatetaf and 6-7 players, who gave me the go-ahead.
+~
+Sender  Kevin~
+Date    Mon Aug 19 22:46:36 2002~
+Stamp   1029815196
+To      all~
+Subject Stuff as of 8/19/02~
+Text
+Gun magazines have been removed from the code.
+A new gun caliber has been added: 12 gauge, in buckshot/slug flavors.
+Anyone with a DEAD flag will lose it when completing an autoquest.
+Demi/gravija have returned to their old damage calls, and can be scribed no more than once on a scroll.
+Black hole damage has been lowered, and will now hit 3 times at 90.
+Changed how OLC writes an object's condition value to area files.
+Changed how the mud reads an object's condition value into memory.
+Added an NPC check to Tport. They can't use it anymore.
+Toyed with RoT/Demonfire's damage a bit, more changes pending.
+Fixed an issue with unload.
+Esper clerics and mages get the 120% spell bonus, monks only get 110%.
+
+I'm tired, so I'm going to sleep soon.
+~
+Sender  Kevin~
+Date    Tue Aug 20 21:46:15 2002~
+Stamp   1029897975
+To      all~
+Subject Valley of the Elves~
+Text
+The level on the valley elf scouts was mistakenly set to 1000 instead of 100.
+This made it practically impossible for anyone but mages/clerics to kill them.
+
+Effective immediately, they are now 100.
+~
+Sender  Fatetaf~
+Date    Fri Oct  4 16:17:11 2002~
+Stamp   1033766231
+To      all~
+Subject Whips~
+Text
+The whips out there, should be more useful.
+They were all looked at and tweaked a bit.
+
+You can now gain whips and have a few whips to rely on.
+Nothing's too powerful, but now whips are comparable to swords and daggers.
+~
+Sender  Fatetaf~
+Date    Fri Oct  4 17:59:27 2002~
+Stamp   1033772367
+To      all~
+Subject Stuff.~
+Text
+Might as well make the month worth it. heh
+
+Shimmies can be bought at the grocer.
+Chocobo figurine just got +8 hit/dam
+Dimensional shield = +50 hp and mana.
+
+~
+Sender  Fatetaf~
+Date    Sat Oct  5 08:11:06 2002~
+Stamp   1033823466
+To      all~
+Subject spears~
+Text
+Spears were rather lacking in thier number.
+They still are.
+
+But now you should be able to level with one, if you can figure out which spear is better than the next.
+
+I went through and tried to bring up what spears we do have, into acceptable bounds.
+I'm basing average damage of them on swords and daggers.
+
+I may just skip doing polearms because I'm not a builder.
+There's like.... 3 or 4 of them
+~
+Sender  Fatetaf~
+Date    Sat Oct  5 09:25:14 2002~
+Stamp   1033827914
+To      all~
+Subject ammendment~
+Text
+Satan, jim and holly are killable.
+
+Satan will no longer load batwings. At all.
+This gives me thinking time.
+Also, if I don't want to think, I can just leave it and wings'll probably just fade away, much like old quest equipment.
+
+If not, oh well. They're rarer. And you'll always have something to strive to get.
+There you go. So you don't get to level 90 and vegetate.
+~

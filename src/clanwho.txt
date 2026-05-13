@@ -1,0 +1,18 @@
+
+
+OK, here's what it should look like:
+
+
+
+[Clan Name]
+------------------------------------------------------------------
+Active Members:
+
+[Rank]	{Sex}	(S|H|I)	Name of Character
+
+
+
+
+I think clan rank should be limited to 10 letters.  S|H|I is sneak, hiddden, invis.
+Sex was there before.  Mind as well keep it.  We'll worry about color when everything is ready.
+

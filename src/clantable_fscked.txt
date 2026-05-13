@@ -1,0 +1,293 @@
+#CLAN
+Cnxt 0
+Name p-holder~
+Lnam [PLACEHOLDER] ~
+Flgs 0
+Mnlv 0
+Ldr  XYZZY~
+Intr XYZZY~
+Info ~
+Hall 3001
+Drm  3054
+Bank 0
+Ctj  0
+Cnxt 0
+Name admin~
+Lnam [`3A`#dm`&i`3n`7] ~
+Flgs 0
+Mnlv 0
+Ldr  batanen~
+Intr ~
+Info ~
+Hall 3001
+Drm  3054
+Bank 0
+Ctj  100
+Mnxt 0
+Mnam Batanen~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam Valorath~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam Noxas~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam Eidos~
+Mrnk 0
+Mflg 0
+Pnxt 0
+Pnam Tetsment~
+Pcst 0
+Pflg 1
+Cnxt 0
+Name megamisama~
+Lnam [Megamisama!] ~
+Flgs 0
+Mnlv 0
+Ldr  Belldandy~
+Intr ~
+Info ~
+Hall 3001
+Drm  3054
+Bank 0
+Ctj  100
+Mnxt 0
+Mnam Belldandy~
+Mrnk 0
+Mflg 0
+Cnxt 0
+Name senshi~
+Lnam `&[Sa`7i`&lor `$S`4ensh`$i`&]`` ~
+Flgs 0
+Mnlv 0
+Ldr  Althena~
+Intr ~
+Info ~
+Hall 3001
+Drm  3054
+Bank 0
+Ctj  100
+Mnxt 0
+Mnam Suzuran~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam Usagi~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam Althena~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam Super Sailor Saturn~
+Mrnk 0
+Mflg 0
+Cnxt 0
+Name hakkyokuseiken~
+Lnam `7[`1H`!a`7k`&k`7y`!o`1ku`7`!s`7e`&i`7k`!e`1n```7] ~
+Flgs 4
+Mnlv 15
+Ldr  Erik~
+Intr Erik~
+Info `7`` 
+One of several schools of martial arts, Hakkyokuseiken is one of
+the lesser known disciplines, taught only to those of strong physical
+and mental upbringing.  Passed on by Master Tung Fu Rue and Master 
+Jubei, their only locale a small dojo in rural Japan.  The masters
+often travel throughout Japan and surrounding areas to seek out
+potential students, to bring them back to Japan and learn the art.
+Consisting not only of basic martial arts, students of Hakkyokuseiken
+are taught the ability of chi focusing, used to aid themselves in
+battle, whether to enhance offense or aid defense.  When a promising
+student proves themself, they, too, may be asked to aid in the teaching
+of their art, when a previous master is unable to teach.  Such masters of the
+art include the King of Fighters, Terry Bogard, as well as his 
+brother, Andy Bogard.
+~
+Hall 25024
+Drm  3054
+Bank 0
+Ctj  2500
+Mnxt 0
+Mnam Erik~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam Nothing~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam syodokai~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam kiji~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam fuma~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam vimes~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam phask~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam shintaro~
+Mrnk 0
+Mflg 0
+Pnxt 0
+Pnam Shintaro~
+Pcst 0
+Pflg 1
+Pnxt 0
+Pnam Tetsment~
+Pcst 0
+Pflg 1
+Pnxt 0
+Pnam Cosmic~
+Pcst 0
+Pflg 1
+Pnxt 0
+Pnam Adayn~
+Pcst 0
+Pflg 1
+Pnxt 0
+Pnam Zoicite~
+Pcst 0
+Pflg 1
+Rnxt 0
+Rtxt Sensei~
+Rnxt 0
+Rtxt Master~
+Rnxt 0
+Rtxt Adept~
+Rnxt 0
+Rtxt Student~
+Rnxt 0
+Rtxt Neophyte~
+Rnxt 0
+Rtxt Disgraced~
+Cnxt 0
+Name mahotai~
+Lnam [`8M`*a`&g`8i `&o`*f `3V`#a`&l`#i`3s``] ~
+Flgs 4
+Mnlv 25
+Ldr  Murasame~
+Intr Murasame~
+Info Powerful warriors of King Farn of Valis, Magi of valis are
+are some of the most powerful magic users in all
+the lands. With the death of there great king, they
+swore unity and divine rapture against all who oppose
+great lands of Valis. Taking in the greatest
+of spellcasters, as well as the beginning 
+spell weavers, they all serve the common goal of
+protecting now these lands which they call there new
+home.
+
+Race required: Any.
+Class required: Mage/Monk/Cleric
+Extra info: Must be willing to rp your character when
+it is necessary (Not every second of the day, dont worry)
+and must be willing to pk, and come to clan meetings.
+
+~
+Hall 3001
+Drm  3054
+Bank 0
+Ctj  100
+Mnxt 0
+Mnam Murasame~
+Mrnk 1
+Mflg 0
+Mnxt 0
+Mnam shragon~
+Mrnk 2
+Mflg 0
+Mnxt 0
+Mnam sacha~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam denica~
+Mrnk 0
+Mflg 0
+Mnxt 0
+Mnam kaediin~
+Mrnk 3
+Mflg 0
+Pnxt 0
+Pnam Karnage~
+Pcst 0
+Pflg 1
+Rnxt 0
+Rtxt Etheral~
+Rnxt 0
+Rtxt Magi-Lord~
+Rnxt 0
+Rtxt Gigas~
+Rnxt 0
+Rtxt Firebrand~
+Rnxt 0
+Rtxt Heraldric~
+Rnxt 0
+Rtxt Ethos~
+Rnxt 0
+Rtxt Follower~
+Rnxt 0
+Rtxt Heretic~
+Rnxt 0
+Rtxt Believer~
+Rnxt 0
+Rtxt Follower~
+Rnxt 0
+Rtxt Apprentice~
+Rnxt 0
+Rtxt Apprentice~
+Rnxt 0
+Cnxt 0
+Name quest~
+Lnam ~
+Flgs 0
+Mnlv 0
+Ldr  ~
+Intr ~
+Info ~
+Hall 3001
+Drm  3054
+Bank 0
+Ctj  100
+Cnxt 0
+Name quest~
+Lnam ~
+Flgs 0
+Mnlv 0
+Ldr  ~
+Intr ~
+Info ~
+Hall 3001
+Drm  3054
+Bank 0
+Ctj  100
+Cnxt 0
+Name blah~
+Lnam ~
+Flgs 0
+Mnlv 0
+Ldr  ~
+Intr ~
+Info ~
+Hall 3001
+Drm  3054
+Bank 0
+Ctj  100
+End
