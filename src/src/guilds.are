@@ -1,0 +1,2610 @@
+#AREADATA
+Name Guild Areas~
+Builders $fatetaf $suzuran $braesun~
+VNUMs 12100 12199
+Credits {GUILD} Various Guild Areas~
+Security 5
+End
+
+
+
+#MOBILES
+#12100
+doctor 108~
+108 Doctor~
+A doctor stands here, ready to treat your wounds.
+~
+This man is a professionally trained doctor.  He works for the 108 Dragons
+in the submarine to treat them for injuries they receive in combat.  He
+wears glasses, and has green surgical scrubs on.  He cares little about
+battles and other such things, but only about treating his patients, and
+their survival.
+~
+Human~
+ABGa DFH 0 0
+110 100 100d100+10000 1000d10+1000 100d100+1 pound
+-30 -30 -30 -30
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12101
+Invid spirit guide healer~
+the INVID spirit guide~
+The INVID spirit guide floats here, ready to heal your wounds.
+~
+This woman hovers here with a sparkiling raidence that illuminates the 
+room. She has a beautiful smile on her face that seems to make all of 
+your worries disapear.
+~
+Human~
+ABGa DFH 0 0
+110 100 100d100+10000 1000d10+1000 100d100+1 pound
+-30 -30 -30 -30
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#12102
+7th Emperor~
+7th Emperor~
+7th Emperor of the Damned is ready to hell all memebers of Judge.
+~
+This man is one of the seven Emporers of the damned, brought here to
+help with Judgement on this plane of existance.  He floats here with
+blue cloud-like material all around him.  His minions, The Judges, may
+be healed by him for a small price and their devotion to the seeking
+out of and punishment of Justice.
+~
+unique~
+ABGa DFH 0 0
+110 100 100d100+10000 1000d10+1000 100d100+1 pound
+-30 -30 -30 -30
+0 ABCD 0 0
+stand stand male 0
+AHMV AELM medium unknown
+#12103
+breaston MDS healer~
+Dr. Breaston~
+Dr. Breaston stands here patiently.
+~
+Dr. Breaston stands quietly here. He is dressed in a dirty lab coat and
+wears a pair of small round glasses. The look in his eyes behind these
+lenses is that of one quite mad, having been on an infernal long quest
+to make the perfect killing machine.
+~
+Human~
+ABGa DFH 0 0
+110 100 100d100+10000 1000d10+1000 100d100+1 pound
+-30 -30 -30 -30
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12104
+old man shinobi~
+Old Man~
+An old man sits here cross legged waiting to help injured Shinobi.
+~
+This man is ancient indeed.  His head is almost completely bald, and
+is bowed in complete meditation.  He is thouroughly a humble man, with
+meager clothes and only necessary possesions.  He sits here waiting to
+tend the wounds of all Shinobi who have been injured in combat.
+~
+Human~
+ABGa DFH 0 0
+150 100 100d100+10000 1000d10+1000 100d100+1 pound
+-30 -30 -30 -30
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12105
+old Monk shogun healer~
+The Old Monk~
+The Old Monk meditates quietly here.
+~
+The old monk's wizened face seems peaceful. His eyes are closed
+and the corners of his mouth seem to be tweaked into a smile, but
+that might just be his wrinkled face giving that impression.
+~
+Human~
+ABGa DFH 0 0
+110 100 100d10+10000 100d100+1000 10d10+100 smash
+-60 -60 -60 -60
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12106
+Vampire Hunter D "d" healer~
+Vampire Hunter D~
+Vampire Hunter D stands here, using his powers for healing.
+~
+His long black cloak and large hat cover most of his body,
+cloaking his apperance in darkness.
+~
+Human~
+ABGa DFH 0 0
+110 100 100d10+10000 100d100+1000 10d10+100 smash
+-60 -60 -60 -60
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#12107
+Yohko Mano devil hunter~
+Mano Yohko~
+Mano Yohko stands here, healing the sick.
+~
+Mano Yohko is the 108th generation devil hunter. She's wearing a red dress
+with a yin-yang symbol on her chest. Her hairdo is an odd style, pinned up
+into two large loops on the top of her head and held in place with two red
+magical pins.
+~
+Human~
+ABGa DFH 0 0
+100 100 100d10+10000 100d100+1000 10d10+100 smash
+-60 -60 -60 -60
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#12108
+sailor senshi chibi-usa pink~
+Sailor Chibi-Usa~
+A short, pink-haired Sailor Senshi is hopping around here! 
+~
+You see hopping up and down your fellow friend Chibi-usa. She's quite the
+bounciest thing you've seen. She's very short and has pony-tailed pink
+hair. She's quite helpful when it comes to injuries. Perhaps you'd better
+let her test her healing abilities on your wounds.
+~
+Human~
+ABa 0 0 0
+110 100 10d100+5000 100d100+0 100d100+50 none
+0 0 0 0
+0 ABCD 0 0
+stand stand female 100
+AHKMV ABCDEFGHIJK small unknown
+#12109
+ido healer~
+Ido~
+Ido, the cyborg healer of the Hunter-Warriors, stands here...
+~
+Standing before you is a 60-ish year old cyborg. Having been a part
+of the Hunter-Warrior clan for so long, his knowledge and wisdom of
+the healing arts has benefitted the clan through all times. He regards
+you with a watchful eye and you feel as if he knows your every move.
+~
+Human~
+ABGJKabd DFHNOZ 0 0
+110 0 100d10+10000 100d100+1000 10d10+100 smash
+0 0 0 0
+0 ABCD 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#12110
+crying freeman~
+Crying Freeman~
+Crying Freeman stands here solemnly ready to train others.
+~
+Crying Freeman, the old master of the 108 Dragons stands here ready to
+train all new and present members.  He is a very large man, in execellent
+shape and condition.  He has short cropped black hair, and a stern look
+in his eyes.  A small dagger on his foot, a weapon used to kick his
+opponents with, gleams with a deadly shine.
+~
+Human~
+ABGJKVb DF 0 0
+100 0 100d10+10000 100d100+1000 10d10+100 smash
+-60 -60 -60 -60
+CEFHIKM ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12111
+CLONE project 10-977~
+CLONE project 10-977~
+CLONE project 10-977 stands here, ready to strengthen all clones.
+~
+You see a large, bio-mechanical being, one of the first CLONEs. 
+Project 10-977 was created as a proto-type to all of the others, 
+and is very skilled the the ways of many battle techniques.
+~
+Human~
+ABGJKVb DF 0 0
+100 0 100d10+10000 100d100+1000 10d10+100 smash
+-60 -60 -60 -60
+CEFHIKM ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12112
+nakei~
+Nakei~
+Nakei stands here with a grim look upon his face.
+~
+Standing here in a dark Kimono and a conical hat upon his head, Nakei
+eyes you suspiciously.  His eyes glow a deep red, accented by the asian
+slant in his brow.  He stands with his muscle packed shoulders and arms
+clenched in ready-stance to train those memebers of Judge who are in need
+of their skills to be advanced.  He has a Katana strapped across his back
+in the ancient style of holding it, ready to attack all who have escaped
+their `8Judgement`7.
+~
+Human~
+ABGJKVb DF 0 0
+100 0 100d10+10000 100d100+1000 10d10+100 slice
+-60 -60 -60 -60
+CEFHIKM ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12113
+MDS Geist trainer~
+Geist~
+Geist stands here, watching his Fightech suit move and waiting for battle.
+~
+Geist stands here, donned in a full fighting suit, awaiting the final 
+battle.
+~
+Human~
+ABGJKVb DF 0 0
+100 0 100d10+10000 100d100+1000 10d10+100 smash
+-60 -60 -60 -60
+CEFHIKM ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12114
+large man shinobi trainer~
+The Shinobi Trainer~
+A large man with a conical hat stands here ready to train you.
+~
+This man is the master of all Shinobi training.  He is very large and
+dressed in a traditional kimono.  His face is shaded by a large conical
+hat in the traditional Japanese style.  He wears both a Katana and a
+Wakazashi showing that he was once perhaps Samurai.
+~
+Human~
+ABGJKVb DF 0 0
+100 0 100d10+10000 100d100+1000 10d10+100 smash
+-60 -60 -60 -60
+CEFHIKM ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12115
+Meioh shogun trainer~
+The Meioh~
+The Meioh stands here, waiting to train Shogun.
+~
+The Meioh is a tall man in his mid thirties. He stands here wearing
+a dark gi, made of a tough canvas that seems to accentuate his torso,
+which is heavily muscled from long and intense training.
+~
+Human~
+ABGJKVb DF 0 0
+20 0 100d10+10000 100d100+1000 10d10+100 smash
+-60 -60 -60 -60
+CEFHIKM ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12116
+Vampire Hunter trainer~
+the Vampire Hunter trainer~
+A Vampire Hunter stands here, waiting to train you for battle.
+~
+He wears a cloak and large hat almost identical to D's, obscuring 
+most of his face and body. His face is hidden by shadow, and his
+eyes seem to glow a red color from the shadows.
+~
+Human~
+ABGJKVb DF 0 0
+100 0 100d10+10000 100d100+1000 10d10+100 smash
+-60 -60 -60 -60
+CEFHIKM ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12117
+mano Madoka Devil Hunter trainer~
+Mano Madoka~
+Mano Madoka, 107th generation Devil Hunter stands here, waiting to train you.
+~
+Mano Madoka is a short old woman, since giving the ring which summons the devil
+hunter's power to Yohko, she wears a ninja type outfit when she tries to help
+out Yohko in a fight.
+~
+Human~
+ABGJKVb DF 0 0
+100 0 100d10+10000 100d100+1000 10d10+100 smash
+-60 -60 -60 -60
+CEFHIKM ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12118
+trainer sailor neptune~
+Sailor Neptune~
+Sailor Neptune is standing here, pondering whether she should train you.
+~
+Wow! How attractive it's Sailor Neptune! Hmm, she doesn't seem to friendly
+at the moment. Perhaps this is isn't a good time to ask her to teach you
+a few things or two about fighting... or maybe it is. In any case, she's
+very eager to teach those who wish to learn more. So learn from her and be
+the best Sailor Senshi there is.
+~
+Human~
+ABJKTb 0 1000 0
+100 100 100d100+5000 0d0+0 10d10+50 punch
+0 0 0 0
+0 ABCD 0 0
+stand stand female 0
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+#12119
+rurouni himura kenshin~
+Himura Kenshin~
+Himura Kenshin stands here, ready to train future Battousai.
+~
+You see a man of about 5'10" He has fire-red hair, and 
+a scar in the shape of an "X" on his left cheek. He 
+looks about holding his sakaba sword with his right 
+hand, waiting to train anyone that is pure of heart 
+and willing to undergo it.
+~
+Human~
+ABJKTb 0 1000 0
+100 100 100d100+5000 0d0+0 10d10+50 punch
+0 0 0 0
+0 ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12120
+old man 108 clan shopkeeper~
+A withered old man~
+A withered old man stands here, ready to tattoo your body.
+~
+He's the 108 Dragons' expert tattoo artist, ready to tattoo
+dragon tattoos on your body for a small fee.
+~
+Human~
+AB 0 600 0
+100 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+EFNU ABCD 0 0
+stand stand male 600
+AHMV ABCDEFGHIJK medium unknown
+#12121
+CLONE 190-55 invid clan shopkeeper~
+CLONE 190-55, armorer~
+CLONE 190-55 stands here ready to re-equip the other CLONE projects.
+~
+Fire lights up in the eyes of this person as you walk closer 
+towards it This is the second CLONE project, make number of 
+190-55. He has attained enough battle experiance, that he now 
+owns the ability to regenerate the other CLONE projects equiptment.
+His face is almost forboding, as he seems to look towards you, you 
+get the actual feeling that he is staring deep into your soul.
+~
+Human~
+AB 0 600 0
+100 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+EFNU ABCD 0 0
+stand stand male 600
+AHMV ABCDEFGHIJK medium unknown
+#12122
+mysterious monk judge clan shopkeeper~
+The Mysterious Monk~
+The Mysterious Monk opens his cloak and shows his wares to you.
+~
+This monk is garbed in a large dark colored cloak, which he stores
+the Judge's equipment in.
+~
+Human~
+AB 0 600 0
+100 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+EFNU ABCD 0 0
+stand stand male 600
+AHMV ABCDEFGHIJK medium unknown
+#12123
+cyborg eagle MDS~
+The cyborg eagle~
+The cyborg eagle crouches here tending to the stored arms.
+~
+Crouching here is a mechanical monster, his eyes shining with hatred. Most
+of his body is painted green and constructed of some metal, but his head is
+bald and horrid-looking. He is a servant of `8[`3M`#.`3D`#.`3S`#.`8]`` in the hope that 
+they will rid the world of the humans that made his existence a living hell.
+~
+Human~
+AB 0 600 0
+100 0 4d10+3600 10d9+1000 40d40+50 peck
+-5 -5 -5 7
+EFNU ABCD 0 0
+stand stand male 600
+AHMV ABCDEFGHIJK medium unknown
+#12124
+retired shinobi clan shopkeeper~
+The retired Shinobi~
+The Retired shinobi stands here, still helping by selling ninja accessories.
+~
+The old retired Ninja sits crosslegged in front of his wares, proudly displaying
+wares. He still likes to help out the Shinobi, even tho he can't go on assassination
+missions by himself anymore.
+~
+Human~
+AB 0 600 0
+100 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+EFNU ABCD 0 0
+stand stand male 600
+AHMV ABCDEFGHIJK medium unknown
+#12125
+greedy meioh shogun clan shopkeeper~
+The Greedy Meioh~
+The Greedy Meioh stands here, selling his wares.
+~
+The greedy Meioh is a short, sickly looking man. His sunken eyes glitter
+with greed as he notices you apreciating his wares.
+~
+Human~
+AB 0 600 0
+100 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+EFNU ABCD 0 0
+stand stand male 600
+AHMV ABCDEFGHIJK medium unknown
+#12126
+vampire hunter clan shopkeeper~
+the Vampire Hunter armorer~
+The Vampire Hunter armorer waits here, ready to help outfit his clan.
+~
+The Armor is a large man, accustomed to working over the forge, making
+the equipment that protects the Vampire Hunter in battle. His costs are
+cheap, and his stores plenty.
+~
+Human~
+AB 0 600 0
+100 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+EFNU ABCD 0 0
+stand stand male 600
+AHMV ABCDEFGHIJK medium unknown
+#12127
+devil hunter clan shopkeeper Ogawa Chikako~
+Ogawa Chikako~
+Ogawa Chikako stands here, waiting to sell you Devil Hunting tools.
+~
+She is Yohko's classmate and best friend. Chikako enjoys eating and making money.
+She self-proclaims herself as Yohko's business manager so that only she can decide
+when Yohko can practice her skills and for how much. Chikako even creates posters
+of Yohko to post around the neighborhood in order to make Yohko seem like a
+ghostbuster for hire.
+~
+Human~
+AB 0 600 0
+100 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+EFNU ABCD 0 0
+stand stand female 600
+AHMV ABCDEFGHIJK medium unknown
+#12128
+sailor senshi clan shopkeeper Uranus~
+Sailor Uranus~
+Sailor Uranus stands here, selling Sailor Senshi items.
+~
+Sailor Uranus is a strong willed woman, with short blond hair,
+due to her outer senshi nature, she doesn't cooperate very well
+with the inner senshi, but is always there when they need her.
+~
+Human~
+AB 0 600 0
+100 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+EFNU ABCD 0 0
+stand stand female 600
+AHMV ABCDEFGHIJK medium unknown
+#12129
+chiren~
+Chiren~
+Chiren, the cyborg femme-fatale of Hunter-Warrior sits behind a desk here.
+~
+Casually sitting behind a desk is the beautiful Chiren. Known widely for
+her knowledge in weapons, equipment, and anything else that can be upgraded
+for the Hunter-Warrior clan, she is an immense asset. Although she is worn
+with age and is comparitively short by cyborg standards, her agility and
+experience with battle is by no means anything to underestimate.
+~
+Human~
+AB 0 600 0
+100 0 10d100+10000 10d9+100 10d10+100 slash
+-5 -5 -5 7
+EFNU ABCD 0 0
+stand stand female 600
+AHMV ABCDEFGHIJK medium unknown
+#12130
+jajuka~
+Jajuka~
+Jajuka, the first Dragon Slayer, stands here, waiting to train others.
+~
+Jajuka, unlike the rest of the crew on the flying  fortress, is half-dog, 
+half-human.  Fully outfitted in a Zaibach uniform, he stands here, waiting 
+for his fellow Dragon Slayers to learn from him the skills of the Guymelf.
+~
+Human~
+ABGJKVb DF 0 0
+100 0 100d10+10000 100d100+1000 10d10+100 smash
+-60 -60 -60 -60
+CEFHIKM ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12131
+naria~
+Naria~
+Naria, one of the catgirl Warriors of Fortune, helps to tend to your wounds.
+~
+With her long silver hair, and large black ears, she seems to be a formidable 
+opponent. Her skin seems to be tinted blue. Thankfully, she's on the Dragon 
+Slayers side.  The black tattoos that run her entire body seem to entrance you.
+~
+Human~
+ABGa DFH 0 0
+110 100 100d10+10000 100d100+1000 10d10+100 smash
+-60 -60 -60 -60
+0 ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#12132
+eriya~
+Eriya~
+Eriya, while licking her wounds, offers you a new uniform.
+~
+With her long golden hair, and large black ears, she seems to be a formidable opponent. 
+Her skin seems to be tinted gold, just like her hair. Thankfully, she's on the Dragon 
+Slayers side.  The black tattoos that run her entire body seem to entrance you. Strangely, 
+she's not wearing the same uniform you are, or much at all.
+~
+Human~
+AB 0 600 0
+100 0 4d10+360 10d9+100 4d4+5 none
+-5 -5 -5 7
+EFNU ABCD 0 0
+stand stand male 600
+AHMV ABCDEFGHIJK medium unknown
+#12140
+Guriken healer -clanmob-~
+Guriken~
+Guriken is here, to heal and train saiyan elites.
+~
+A giant of a man stands here. He is adept in healing those in need.
+A large scar crosses out his right eye, signifiying he has seen battle.
+You could probably learn a lot from this man.
+ 
+ 
+~
+Saiyan~
+AGa H 0 0
+110 0 4d4+4 4d4+4 4d4+4 none
+0 0 0 0
+0 CD O 0
+stand stand male 5
+AHMV ABCDEFGHIJL medium unknown
+F vul P
+#12141
+Doctor Equipment pimp -clanmob-~
+Doctor Equipment pimp~
+Doctor Equipment pimp is here, to give you equipment.
+~
+A giant saiyan is here.
+He sells you equipment.
+~
+Saiyan~
+ABGV 0 0 0
+50 5 500d1+1 500d1+1 25d25+2 bite
+0 0 0 0
+0 ABCD 0 0
+stand stand none 2500
+AHMV ABCDEFGHIJL huge unknown
+F res O
+F vul P
+#12168
+Blank mobile 1~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#12169
+Blank mobile 2~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#12105
+light leadership -claneq-~
+`&T`7he `#L`!i`1g`!h`#t`7 of `&L`7eader`&s`7hip~
+`&(``GU`&i``LD EQ`&)`` A mystical `#L`!i`1g`!h`#t`` hovers about.~
+diamond~
+light HPTUYZab A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+100 10 0 100
+A
+1 2
+A
+2 2
+A
+3 2
+A
+4 2
+A
+5 2
+A
+12 60
+A
+13 60
+A
+17 -60
+A
+18 10
+A
+19 10
+#12110
+tattoo dragon head -108 dragons- -claneq-~
+a `&t``a`&tt``oo of a `2d`@r`&ag`@o`2n he`&a`2d``~
+`&(``GU`&i``LD EQ`&)`` A semi-opaq`8u``e `&t``a`&tt``oo is blowing by.~
+oil~
+armor HPTUYZab AI
+ADE ADE ADE ADE 0
+60 5 0 100
+A
+13 35
+A
+18 5
+A
+19 5
+#12111
+tattoo dragon torso -108 dragons- -claneq-~
+a `&t``a`&tt``oo of a `2d`@r`&ag`@o`2n`` t`8o``rs`8o``~
+`&(``GU`&i``LD EQ`&)`` A semi-opaq`8u``e `&t``a`&tt``oo is blowing by.~
+oil~
+armor HPTUYZab AD
+ADE ADE ADE ADE 0
+60 5 0 100
+A
+1 1
+A
+2 1
+A
+20 -2
+A
+13 40
+A
+19 5
+A
+18 5
+#12112
+tattoo dragon tail -108 dragons- -claneq-~
+a `&t``a`&tt``oo of a `2d`@r`&ag`@o`2n `8t`2a`8il``~
+`&(``GU`&i``LD EQ`&)`` A semi-opaq`8u``e `&t``a`&tt``oo is blowing by.~
+oil~
+armor HPTUYZab AF
+ADE ADE ADE ADE 0
+65 5 0 100
+A
+18 5
+A
+19 5
+A
+13 35
+#12113
+wicked claws -invid- -claneq-~
+a pair of `5w`%i`5cked `8c`%l`8aws``~
+`&(``GU`&i``LD EQ`&)`` A pair of `5w`%i`5cked`8-``loo`5k``ing `8c`%l`8aws`` lie here, motionless.~
+diamond~
+armor HPTUYZab AB
+ADE ADE ADE ADE 0
+60 5 0 100
+A
+19 2
+A
+1 2
+A
+13 30
+A
+20 -3
+#12114
+cloning number skin -invid- -claneq-~
+a `5c`%l`8o`&n`8i`%n`5g`` n`&u``mb`8e``r~
+`&(``GU`&i``LD EQ`&)`` A piece of s`3k``in`` lies here... attached to a transparent plastic covered with n`&u``mb`8e``rs.~
+oil~
+armor HPTUYZab AI
+ADE ADE ADE ADE 0
+90 5 0 100
+A
+13 50
+A
+19 3
+A
+18 5
+#12115
+ultrahard body-armor armor -invid- -claneq-~
+`&U`8l`&tra `8b`%o`8dy`&-`5a`8r`5mor``~
+`&(``GU`&i``LD EQ`&)`` A piece of `&u`8l`&tra`8ha`&r`8d`` `5a`8r`5mor`` is sitting here.~
+diamond~
+armor HPTUYZab AD
+ADE ADE ADE ADE 0
+50 5 0 100
+A
+12 15
+A
+1 2
+A
+2 2
+A
+13 30
+A
+19 5
+#12116
+ghostly spirit guide -judge- -claneq-~
+a gh`&o``stly sp`8i``r`8i``t `4g`$u`&i`$d`4e``~
+`&(``GU`&i``LD EQ`&)`` A gh`&o``stly sp`8i``r`8i``t floats eerily by.~
+etherealness~
+armor HPTUYZab AO
+ADE ADE ADE ADE 0
+90 5 0 100
+A
+2 2
+A
+20 -7
+A
+12 50
+#12117
+etched band of silver -judge- -claneq-~
+an e`8tched`` b`&an``d of `&s`8ilve`&r``~
+`&(``Gu`&i``ld EQ`&)`` A gimmering b`&an``d of `&s`8ilve`&r`` lies here on the floor...~
+silver~
+armor HPTUYZab AM
+ADE ADE ADE ADE 0
+60 5 0 100
+A
+3 2
+A
+12 30
+A
+17 -7
+A
+20 -4
+#12118
+fine sapphire ring -judge- -claneq-~
+a f`&i``ne r`&in``g of `4s`$a`4pphire``~
+`&(``GU`&i``LD EQ`&)`` A f`&i``nely crafted r`&in``g of `4s`$a`4pphire`` lies here...~
+obsidian~
+armor HPTUYZab AB
+ADE ADE ADE ADE 0
+60 5 0 100
+A
+4 2
+A
+17 -5
+A
+20 -4
+A
+12 30
+#12119
+bulging neck plate -mds- -claneq-~
+(`3MUSCLE L`#i`3KE``) a `8b``ulging neck`8p``late~
+`&(``GU`&i``LD EQ`&)`` A `8b``ulging neck`8p``late glistens with a strange light.~
+corundum~
+armor HPTUYZab AC
+ADE ADE ADE ADE 0
+90 5 0 100
+A
+20 -3
+A
+19 3
+A
+13 30
+#12120
+adamantite leg greaves -mds- -claneq-~
+a p`8a``ir of `&A`8dam`&a`8ntit`&e`` g`8r`&e``a`&v`8e``s~
+`&(``GU`&i``LD EQ`&)`` A p`8a``ir of `8l``e`8g`` g`8r`&e``a`&v`8e``s lie here.~
+adamantite~
+armor AHPTUYZab AF
+ADE ADE ADE ADE 0
+70 5 0 100
+A
+19 4
+A
+13 25
+A
+18 5
+#12121
+pair dog tags -mds- -claneq-~
+a `8p``a`8ir`` of `&D`8og T`&ags``~
+`&(``GU`&i``LD EQ`&)`` A set of small `8T`&ags`` lies here, br`&i``ght and sh`&i``ny.~
+steel~
+armor AHPTUYZab AC
+ADE ADE ADE ADE 0
+50 5 0 100
+A
+19 4
+A
+18 4
+#12122
+black rope sandals -shinobi- -claneq-~
+a pair of `8b``l`8ack`` r`&o``pe `8sand`&a`8ls``~
+`&(``GU`&i``LD EQ`&)`` A lump of `8b``l`8ack`` r`&o``pe lies here.~
+hemp~
+armor HPTUYZab AG
+ADE ADE ADE ADE 0
+70 5 0 100
+A
+13 25
+A
+18 5
+A
+19 5
+#12123
+black headwrap -shinobi- -claneq-~
+a b`8lac``k `1h`8ea`1d`8w`1ra`8p``~
+`&(``GU`&i``LD EQ`&)`` A `8da``r`8k `1h`8ea`1d`8w`1ra`8p`` lies in the dirt.~
+cloth~
+armor HPTUYZab AE
+ADE ADE ADE ADE 0
+90 5 0 100
+A
+13 50
+A
+14 70
+A
+18 5
+A
+19 5
+#12124
+loose canvas shirt -shinobi- -claneq-~
+a `1l`!oo`1s`!e `8c`1a`8nv`1a`8s`` sh`8i``rt~
+`&(``GU`&i``LD EQ`&)`` A p`&i``ece of `8c`1a`8nv`1a`8s`` billows with the wind.~
+canvas~
+armor HPTUYZab AD
+ADE ADE ADE ADE 0
+50 5 0 100
+A
+18 5
+A
+19 5
+#12125
+pair zoori sandals -shogun- -claneq-~
+a pa`&i``r of `&z`^o`6o`^r`&i``~
+`&(``GU`&i``LD EQ`&)`` A pa`&i``r of sanda`&l``s lie overturned here.~
+hardwood~
+armor HPTUYZab AG
+ADE ADE ADE ADE 0
+50 5 0 100
+A
+18 5
+A
+19 5
+#12126
+grey hakama -shogun- -claneq-~
+a `8g`&re`8y`` `6h`8a`6ka`8m`6a``~
+`&(``GU`&i``LD EQ`&)`` A lump of `8g`&re`8y`` cloth lies here.~
+cloth~
+armor HPTUYZab AF
+ADE ADE ADE ADE 0
+70 5 0 100
+A
+13 25
+A
+19 5
+A
+18 5
+#12127
+grey keiko gi -shogun- -claneq-~
+a `&g`8re`&y `6k`&e`6iko `^g`8i``~
+`&(``GU`&i``LD EQ`&)`` A big lump of `&g`8re`&y`` cloth lies here.~
+diamond~
+armor HPTUYZab AD
+ADE ADE ADE ADE 0
+100 5 0 100
+A
+13 50
+A
+20 -10
+#12128
+cross-shaped ruby necklate -vampire hunter- -claneq-~
+a `&c``ross`&-``shape`&d`` `1r`!u`1by`` `8n``ec`8kl``at`8e``~
+`&(``GU`&i``LD EQ`&)`` A small `1r`!u`1by`` formed into a `&c``ross lies here.~
+coal~
+armor HKPTUYZab AC
+ADE ADE ADE ADE 0
+60 5 0 100
+A
+3 2
+A
+13 30
+A
+19 5
+A
+20 -3
+#12129
+vampyre symbiant -vampire hunter- -claneq-~
+`1v`!a`1mp`!y`1re`` s`&y``mb`&i``ant~
+`&(``GU`&i``LD EQ`&)`` A s`&y``mb`&i``ant arm twiches about.~
+hardwood~
+armor HKPTUYZab AI
+ADE ADE ADE ADE 0
+50 5 0 100
+A
+14 30
+A
+1 3
+A
+20 -5
+A
+13 30
+A
+19 5
+#12130
+silver-etched etched amestyst -vampire hunter- -claneq-~
+`8s`&i`8lver`&-`8etch`&e`8d`` `4a`$m`4est`$y`4st``~
+`&(``GU`&i``LD EQ`&)`` A finely crafted `8s`&i`8lver`` amulet lies here.~
+obsidian~
+armor HKPTUYZab AE
+ADE ADE ADE ADE 0
+60 5 0 100
+A
+13 30
+A
+2 3
+A
+20 -5
+A
+19 5
+#12131
+moonstone bracelet -belldandy- -claneq-~
+a dainty `8m`&oo`8n``s`&t`8o`&ne `^b`&r`6acel`&e`^t``~
+(GU`&i``LD EQ) A small `^b`&r`6acel`&e`^t`` lies here.~
+adamantite~
+armor AGKPTUYab AM
+ADE ADE ADE ADE 0
+50 5 0 100
+A
+18 5
+A
+19 5
+F
+A 0 0 CEF
+#12132
+moonstone bracelet -belldandy- -claneq-~
+a dainty `8m`&oo`8n``s`&t`8o`&ne `^b`&r`6acel`&e`^t``~
+(GU`&i``LD EQ) A small `^b`&r`6acel`&e`^t`` lies here.~
+adamantite~
+armor AGKPTUYab AM
+ADE ADE ADE ADE 0
+70 5 0 100
+A
+20 -3
+A
+19 3
+A
+18 3
+#12133
+birthmark mark -wiseone- -claneq-~
+`#(`^G`6l`&o`8w`&i`6n`^g`#)`` a `4b`$l`4ue`` birthma`4r``k~
+(`8GU`&i`8LD EQ``) A blue birthmark drifts lazily in the wind here.~
+crystal~
+light AGKPTUYab A
+0 0 0 0 0
+90 5 0 100
+A
+18 10
+A
+19 10
+#12151
+sailors skirt -Sailor Scout- -claneq-~
+a n`&i``ce f`&i``tt`&i``ng `4b`$lu`4e`` sk`&i``rt~
+(GUiLD EQ) A nice skirt lies here.. sexy.~
+crystal~
+armor HPTUYZab AF
+ADE ADE ADE ADE 0
+50 5 0 100
+A
+18 5
+A
+19 5
+#12152
+cute sailor vest -Sailor Scout- -claneq-~
+a `&c``u`&te`` form-f`&i``tt`&i``ng `4sa`$i`4lor`` v`&e``st~
+(GUiLD EQ) A cute sailor vest lies here.~
+crystal~
+armor HPTUYZab AD
+ADE ADE ADE ADE 0
+70 5 0 100
+A
+18 5
+A
+19 5
+A
+13 50
+#12153
+white panties -Sailor Scout- -claneq-~
+a pair of `&wh``i`&te`` pant`&i``es~
+(GUiLD EQ) A pair of white panties lies here on the floor..Oh la la.~
+crystal~
+armor HPTUYZab AL
+ADE ADE ADE ADE 0
+90 0 0 100
+A
+18 5
+A
+19 5
+A
+13 50
+#12154
+cranial barcode -hunter-warrior- -claneq-~
+`7a cr`&a`7n`&i`7al`` `1b`!a`1rcode``~
+A `7a cr`&a`7n`&i`7al`` `1b`!a`1rcode`` has been left here.~
+unknown~
+armor HPTUYZab AE
+CD CD CD ABC 0
+60 50 0 100
+A
+12 10
+A
+18 5
+A
+19 5
+A
+20 -4
+#12155
+zalem tech-implants implants -hunter-warrior- -claneq-~
+`7a pair of`` `1Z`!a`1l`!e`1m`` `&T`7ech`&-`8I`7mp`&la`7nt`8s``~
+A pair of `1Z`!a`1l`!e`1m`` `&T`7ech`&-`8I`7mp`&la`7nt`8s`` lie here.~
+unknown~
+armor HPTUYZab AI
+ABCD ABCD ABCD ABCD 0
+70 50 0 100
+A
+19 4
+A
+12 20
+A
+13 20
+#12156
+gunnm steel greaves -hunter-warrior- -claneq-~
+`7a pair of `1G`!u`1n`!n`1m `8S`7t`&ee`8l `7Gr`&e`7av`&es``~
+A pair of `1G`!u`1n`!n`1m `8S`7t`&ee`8l `7Gr`&e`7av`&es`` lie here.~
+unknown~
+armor HPTUYZab AF
+ABCD ABCD ABCD BD 0
+90 50 0 100
+A
+19 5
+A
+13 25
+A
+18 5
+#12157
+dummy object~
+a dummy object~
+Dummy object is used for loading non-existent objects.~
+~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#12158
+yin-yang fashioned red skirt -devil hunter- -claneq-~
+`8a `8Y`&i`8NG `7& `8Y`&a`8NG `8em`7b`&le`7m`8ed `!R`1ed `!F`1uku `8S`7k`&i`7r`8t`7~
+(GU`&i`7LD EQ) A nicely fashioned red skirt rests here.~
+unknown~
+armor AHKPTUYab AD
+ADE ADE ADE ADE 0
+100 5 0 100
+A
+18 5
+A
+13 40
+A
+12 30
+A
+1 3
+A
+2 3
+#12159
+golden wrist band -devil hunter- -claneq-~
+`8a `#G`3old`&-`2D`@r`&ag`@o`2n `8en`7grav`8ed b`7a`8nd`7~
+`&(`7GU`&i`7LD EQ`&)`7 A golden bracelet rests here upon the floor.~
+unknown~
+armor AHKPTUYab AB
+ADE ADE ADE ADE 0
+50 5 0 100
+A
+19 5
+A
+3 3
+A
+4 3
+A
+13 35
+A
+12 20
+A
+14 20
+A
+20 -3
+#12160
+stealth mantaux -dragon slayers- -claneq-~
+`^S`6te`^a`6l`^t`6h `&M`8a`7nt`8au`7x~
+`&(`7GU`&i`7ld EQ`&)`7 A large transparent cloth lays here, hardly visible.~
+unknown~
+armor HPTUYZab AK
+ADE ADE ADE ADE 0
+100 10 0 100
+A
+1 1
+A
+2 1
+A
+13 40
+A
+18 5
+A
+19 5
+#12161
+officer army zaibach -dragon slayers- -claneq-~
+a `8Z`7ai`&b`7ac`8h `!off`1i`!ce`1r`!s `&un`7i`&f`7or`&m`7~
+`&(`7GU`&i`7LD EQ`&)`7 A red uniform of a Zaibach officer sits on the floor, properly folded.~
+unknown~
+armor HPTUZab AD
+ADE ADE ADE ADE 0
+70 10 0 100
+A
+13 25
+A
+18 5
+A
+19 5
+#12162
+blue faded scabbard -dragon slayers- -claneq-~
+a `3f`#a`3ded `Vbl`4u`Ve `3sc`#a`3bb`#a`3rd`7~
+`&(`7GU`&i`7LD EQ`&)`7 A blue scabbard sits here, without a sword.~
+unknown~
+armor HPTUZab AL
+ADE ADE ADE ADE 0
+50 10 0 100
+A
+17 -10
+A
+18 5
+A
+19 5
+#12163
+devil protection aura -devil hunter- -claneq-~
+`8a `!Dev`1i`!l `8Pr`7ot`&ec`7ti`8on `3A`#ura``~
+`&(`7GU`&i`7LD EQ`&)`7 A pair of red gemmed hair baretts.~
+unknown~
+armor AGHPTUYab AQ
+ADE ADE ADE ADE 0
+70 5 0 100
+A
+12 50
+A
+2 2
+A
+3 2
+A
+20 -5
+A
+13 30
+#12164
+Saiyan Battle Armor -claneq- -saiyanelite-~
+`3S`#a`&iy`#a`3n `6B`^a`&tt`^l`6e `3A`#r`&m`#o`3r`7~
+A strange metallic device is here.~
+metal~
+armor HNPTUYZab AD
+ACDF ACDF ACDF ACDF 0
+65 1 1 100
+A
+2 5
+A
+18 5
+A
+19 5
+A
+13 50
+#12165
+saiyan elite battle boots -claneq-~
+`3S`#a`&iy`#a`3n `6B`^a`&tt`^l`6e `3B`#o`&o`#t`3s`7~
+Armored metal boots lay here. (CLANEQ)~
+unknown~
+armor HNPTUYZab AG
+CE CE CE CE 0
+45 0 1 100
+A
+18 4
+A
+19 4
+A
+14 40
+A
+13 35
+A
+1 3
+#12166
+-claneq- -saiyanelite- saiyan scouter~
+`3S`#a`&iy`#a`3n `6E`^l`&i`^t`6e `3S`#c`&out`#e`3r`7~
+An advanced machine used to measure energy readings and also used for communication, worn on head (ClANEQ)~
+unknown~
+trash HNPTUYZab AE
+0 0 0 0 0
+60 0 1 100
+A
+14 35
+A
+18 5
+A
+19 5
+A
+13 45
+#12167
+Shinsen gumi insignia ring -claneq-~
+`&Ins`7i`&gn`7ia `&R`7i`&ng`7~
+A ring bearing the mark of Shinsen is here.~
+unknown~
+armor HPTUYZab AB
+ADE ADE ADE ADE 0
+60 0 0 100
+A
+13 35
+A
+19 3
+A
+20 -3
+#12168
+Immaculate swordsman's armguards shinsen-gumi -claneq-~
+`&Imm`7a`&c`7u`&l`7a`&t`7e `&Sw`7o`&rdsm`7a`&n `7A`&rmg`7ua`&rds`7~
+An extravigant cloak worn by a noble samurai, lies here.~
+unknown~
+armor HPTUYZab AI
+ADE ADE ADE ADE 0
+55 0 1 100
+A
+13 40
+A
+18 4
+A
+19 3
+A
+2 2
+A
+1 2
+#12169
+shinsen samurai body wrap -claneq-~
+`&S`7a`&m`7u`&r`7ai `&B`7o`&dy Wr`7a`&p`7~
+The bodywrap of a samurai warrios is here.~
+unknown~
+armor HPTUYZab AD
+ADE ADE ADE ADE 0
+90 0 1 100
+A
+1 3
+A
+14 50
+A
+20 -7
+A
+19 5
+A
+13 35
+#12170
+kenshin the spirit of the Battousai -claneq-~
+`7T`&h`7e `1S`!p`&ir`!i`1t `7o`&f `&th`7e `1B`!a`7tt`&ou`7s`!a`1i`7~
+The spirit of the battousai floats around here, trying to mack chicks.~
+unknown~
+armor HPTUYZab AQ
+ABCD ABCD ABCD ABCD 0
+60 0 1 100
+A
+13 25
+A
+20 -10
+A
+18 1
+A
+19 1
+#12171
+kenshin Hakama pants samurai -claneq-~
+`1S`!a`&mur`!a`1i `1H`!a`&ka`!m`1a`7~
+Protective legwear is here, that hides the movement of the swordsman.~
+unknown~
+armor HPTUYZab AF
+ADE ADE ADE ADE 0
+60 0 1 100
+A
+2 2
+A
+18 5
+A
+13 30
+A
+19 5
+#12172
+Kenshin Samurai Kote -claneq-~
+`1S`!a`&mur`!a`1i `1K`!o`1te`7~
+A small glove is here, to protect your hands.~
+unknown~
+armor HPTUYZab AH
+ABF ABF ABF ABF 0
+65 0 0 100
+A
+13 4
+A
+19 3
+A
+13 50
+#0
+
+
+
+#ROOMS
+#12100
+On the top of a submarine~
+You stand on the top of a submarine, floating in the river. There is a
+hatch at your feet which might be openable.  The submarine itself is long
+and black with many ports for sea to air missles.
+~
+0 8389634 1
+D4
+~
+~
+0 0 9775
+D5
+The hatch has a large wheel on the top of it.~
+hatch~
+1 -1 12101
+C dragons~
+S
+#12101
+In the submarine~
+You stand inside the 108 Dragon's submarine.  The only light in here is
+dull and red, making all intruders feel very unwelcome.  The floor is made
+from steel grating, as are the walls and ceilings. Southwards appears to be
+the entrance to the Bridge.  All other directions appear to lead in unknown
+parts of the sub.
+~
+0 8389642 0
+D0
+~
+~
+0 -1 12102
+D1
+~
+~
+0 -1 12103
+D2
+~
+~
+0 -1 12105
+D3
+~
+~
+0 -1 12104
+D4
+~
+hatch ~
+1 -1 12100
+D5
+~
+~
+1 0 202
+C dragons~
+S
+#12102
+The Bridge~
+This appears to be the main command center of the Submarine.  You can see
+all sorts of dials and buttons, used to move the sub through the water and
+to attack any foes.  There is an exit to the south to the main corridor of
+the sub.
+~
+0 8389642 0
+D2
+~
+~
+0 -1 12101
+C dragons~
+S
+#12103
+In Sick Bay~
+You are in the room in which all injuries from combat are looked upon.
+There is a large operating table in the center of the room for more serious
+injuries.  The lights in this room are bright for the doctor to see all
+wounds.  There is a smell in the air of disinfectants and other such
+chemicals.
+~
+0 8389646 0
+D3
+~
+~
+0 -1 12101
+C dragons~
+S
+#12104
+The barracks~
+You stand in the crew's barracks.  The room is rather messy and looks as
+though the 108 Dragons do not reply on sleep much anyway.  It appears as
+though memebers may leave their equipment in here for other members to use,
+and vice versa.  There is a rather disturbing smell of acrid foot odor.
+~
+0 12583946 0
+D1
+~
+~
+0 -1 12101
+C dragons~
+S
+#12105
+The training room~
+You stand in an odd room within the Submarine.  The walls are made
+completely from titanium and are maked heavily with scratchs, dents and
+burns.  This appears to be were members of the 108 Dragons do any sparring
+or practicing of any sort, so that they may hone thier skills for battle.
+~
+0 8389646 0
+D0
+~
+~
+0 -1 12101
+C dragons~
+S
+#12110
+Main laboratory~
+Large Vials of an unknown substances are strewn across the cold stone floor.
+Machines from an unknown origin are packed together in a collage of metal and gears.
+Large florescent lights keep the room very well lit.
+~
+0 268436494 0
+D0
+~
+~
+0 -1 12112
+D3
+~
+~
+0 -1 12111
+D5
+~
+~
+1 0 201
+C invid~
+S
+#12111
+Cloning chambers~
+The air is moist all around you. Large machines cover the dark, 
+forboding walls as you scan the area for any sign of life. In 
+the middle of this room lies a great structure, about 15 feet 
+in the air, that looms above you. It seems that this is where 
+the cloning process takes place. In the background, you notice 
+shadows moving all around, seeming to be waiting your arrival.
+~
+0 268436494 0
+D1
+~
+~
+0 -1 12110
+C invid~
+S
+#12112
+The armory~
+Large boxes line the walls in asemetrical patterns here in 
+the dark recesses of the armory. Large experimental weaponry 
+is lying sprawled out in piles across the floor. Only one 
+half-light bulb hangs above your head..slowly dimming untill 
+it almost compleatly fades out.
+~
+0 268436494 0
+D1
+~
+~
+0 -1 12113
+D2
+~
+~
+0 -1 12111
+D3
+~
+~
+0 -1 12114
+C invid~
+S
+#12113
+Back of the compound~
+Large spot-lights flare vibrant shades of white across the 
+nights sky. Large machines are ever-present here as you step 
+onto the back of the compound. Hugh light fixtures fill the 
+lining outside wall and create a pluthora of color against 
+the damp, foggy night air.
+~
+0 268436494 0
+D2
+~
+~
+0 0 12242
+D3
+~
+~
+0 -1 12112
+C invid~
+S
+#12114
+Storage Facility~
+Fine armorments and fueling devices clutter the space in this 
+room. Near the ceiling are windows, not much more than a couple 
+feet across, with broken glass shards purtruding from each metal 
+clasp. near the middle of the room lie giant devices coverd by 
+huge white cloths that are torn and coverd with dust from the 
+years of unuse. Only a little light comes from the ceiling, where 
+a small fixture of lights hang.. Shining down on what used to be 
+a nice and organized place.
+~
+0 272630798 0
+D1
+~
+~
+0 -1 12112
+C invid~
+S
+#12120
+Before a cloud covered Courthouse~
+You stand on a large flight of steps leading up to the Astral Courthouse.
+Only those within the ranks of Judge may enter this haven of Justice.
+There are strong stone pillars holding up the roof and all other parts of
+the courthouse.  You can see only blue sky above this amazing building, but
+you know that within it, all Truth comes out; which can sometimes be the
+deepest black.
+~
+0 16778242 1
+D4
+~
+~
+0 -1 12121
+D5
+~
+~
+0 0 7706
+C judge~
+S
+#12121
+Entrance to the Astral Courthouse~
+You stand at the Entrance to the halls in the Astral Courthouse
+All along the side of this hall, there large marble pillars holding
+the building up.  Clouds fill every other part of this building, making
+it seem comfortable and safe.  The floor is made from black and white
+checkered marble tiles, and continues on North to the courtroom.
+~
+0 16778250 0
+D0
+~
+~
+0 -1 12122
+D5
+~
+~
+0 -1 12120
+C judge~
+S
+#12122
+Halls of Justice~
+**Halls of Justice, Pain and Grief .. Money talking**
+**Power Wolves besset your door, hear them stalking**
+Strange music fills your head as you wander throught these halls.
+All injustices that have come and gone throughout the ages have been
+avenged by the members of Judge.  The halls continue on towards the
+Courtroom.
+~
+0 21234698 0
+D0
+~
+~
+0 -1 12123
+D2
+~
+~
+0 -1 12121
+C judge~
+S
+#12123
+The Courtroom~
+Before you stand the Courtroom.  Sometimes a case is presented here for
+all Judge members to watch and learn from, but this rarely happens.
+There is a small black smear in the center of the room, you can only guess
+that this was the victim of the last case tried here.  There is an entrance
+to the Judges' chambers behind the bench to the north, and a small confrence
+room to the east.
+~
+0 16778250 0
+D0
+~
+~
+0 -1 12124
+D1
+~
+~
+0 -1 12125
+D2
+~
+~
+0 -1 12122
+C judge~
+S
+#12124
+The Judges' Chambers~
+This is a sacred place to all members of Judge, their chambers.  Here they 
+meet to dicuss things of great importance to them all.  There are rows upon 
+rows of bookshelves, hold books of Judgements from the past and present.  
+The floor and walls in here are a deep black obsidain, unlike the marble in 
+the rest of the Astral Courthouse.
+~
+0 16778254 0
+D0
+~
+~
+1 0 202
+D2
+~
+~
+0 -1 12123
+C judge~
+S
+#12125
+Confrence room~
+This room is inlain with rows of what appear to be church pews.  At the
+ front of the room, there is a large podium, on which a teacher would
+ stand.  This room is where all members of Judge can learn to enhance
+ their skills and attributes from a master Judge.  An exit to the west leads
+ back into the courtroom.
+~
+0 16778254 0
+D3
+~
+~
+0 -1 12123
+C judge~
+S
+#12130
+A gap in the rubble~
+You are in a gap in the rubble with chunks of the ceiling of the Underdark
+scattered about you. The gap is just large enough for one person to pass, the
+stone footholds worn with use. Looking around, you notice a sealed door and 
+upon closer inspection, it appears to be an airlock. The door was welded shut 
+at one point in time, but pried open to restore working condition as of late.
+~
+0 33555462 0
+D4
+Written on this door is a tattered sign reading 'Bioweapons'.
+~
+door~
+1 -1 12131
+D5
+~
+~
+0 0 16694
+C mds~
+S
+#12131
+Main Chamber of the Satellite~
+This is a large chamber with panels flickering off and on around 
+the room. A few of them show signs of repair while others, cracked
+screens and all, are covered with dusty spiderwebs and abandoned 
+parts. One lone working panel displays the area around the entrance
+to the satellite. The floor is smooth with the travels of many
+warriors, paths having been laid out by them between the piles of 
+old equipment. There is an ancient symbol on the floor depicting
+the Regular Army.
+~
+0 33817610 0
+D0
+~
+~
+0 -1 12134
+D3
+~
+~
+0 -1 12132
+D5
+The door leads down towards the rubble of Underdark.
+~
+door~
+1 -1 12130
+C mds~
+S
+#12132
+MDS Healer's Room~
+You are in the lab of Dr. Breaston, the creator of Most Dangerous Soldier.
+The lab is a bit run down with all forms of equipment lining the walls,
+charts and graphs on the wall depicting the doctor's progress on perfecting
+the Most Dangerous Soldier. These solid walls that hold the lab together
+are made of onyx and oddly, you feel at home here.
+~
+0 33817610 0
+D0
+~
+~
+0 -1 12133
+D1
+~
+~
+0 -1 12131
+C mds~
+S
+#12133
+The main Stasis chamber~
+This is a cold room, your breath steaming in the brisk air. Stasis tubes
+line the walls with a few of them having been opened, releasing their
+contents to the world, and the rest sealed and waiting for their right
+time for use.
+~
+0 33817610 0
+D2
+~
+~
+0 -1 12132
+C mds~
+S
+#12134
+`7[`3M`#.`3D`#.`3S`7]`` `7Armory``~
+The flickering of light that radiates off the walls gently reveal a
+room that is neatly organized. Some sort of creature is working on the
+Fightech parts, efficiently adding full suits to the powerful armor 
+that line the walls, completely assembled and waiting a user to bring
+them into battle. The creature seems more metal than flesh, with his
+cyborg body humming as he works.
+~
+0 38011914 0
+D1
+~
+~
+1 0 201
+D2
+~
+~
+0 -1 12131
+C mds~
+S
+#12140
+Entrance to a Japanese village~
+To the north, you see many small huts made from wood and paper.  Smoke
+wafts through the air in this serene landscape. But all is not as it seems.
+This village is home to the fiercest assassins ever known, the Shinobi.
+Only one of them could truely feel safe here.
+~
+0 536871938 1
+D0
+~
+~
+0 -1 12141
+D2
+~
+~
+0 0 7804
+C shinobi~
+S
+#12141
+In a Japanese village~
+You walk along the small and seemingly quiet village.  There are
+small wooden huts to the east and west of you, while the pathway carries
+on to the north and the exit to the south.  Out of the corner of your eye,
+you can make out movement in the shadows.  Perhaps it is the Shinobi members
+spying upon you.
+~
+0 536871938 1
+D0
+~
+~
+0 -1 12144
+D1
+~
+~
+0 -1 12142
+D2
+~
+~
+0 -1 12140
+D3
+~
+~
+0 -1 12143
+C shinobi~
+S
+#12142
+In the Dojo~
+You stand inside one of the small huts.  It appears to be a Dojo of sorts.
+There are weapons and other insterments of death tacked upon the walls all
+around you.  There is a small shrine in one end of the room with inscense
+burning around it. There is a doorway to the south, perhaps leading to a
+storage room. To the west there is an exit out of the dojo, back onto the
+village's streets.
+~
+0 536871950 0
+D2
+~
+~
+0 -1 12145
+D3
+~
+~
+0 -1 12141
+C shinobi~
+S
+#12143
+In a small temple~
+You stand inside a small Temple where the village healer resides.  There
+are many small peices of inscence burning around the entire room.  The
+floor is made from traditional tatami, and the lighting is simple candles.
+There are wooden beams holding the interior of the roof and walls up, with
+only paper as substance in between them.  This room gives off an aura of
+complete tranquility and peace.
+~
+0 536871950 0
+D1
+~
+~
+0 -1 12141
+D2
+~
+~
+1 0 201
+C shinobi~
+S
+#12144
+In the Japanese village~
+There are huts scattered about this small village in an unusual orderly
+fashion.  Perhaps their being so organized is for some type of tactical
+advantage.  The inhabitants of this town appear to be totally unaware of
+anyone's presence, except their own.  You know that the Shinobi are a well
+kept secret in this place.
+~
+0 536871938 1
+D2
+~
+~
+0 -1 12141
+C shinobi~
+S
+#12145
+Storage room~
+You stand in the storage room of the Shinobi Dojo.  There are a very
+wide array of different weapons and armour hung upon the walls and stacked
+neatly in piles upon the floor.  There is also a small sign upon one the
+walls, but you would have to look closer to see what is says.  All that are
+not Shinobi should be very cautious in these parts.
+~
+0 541066250 1
+E
+sign shinobi~
+This room is for Shinobi memebers only. ~
+D0
+~
+~
+0 -1 12142
+S
+#12150
+Shinto Shrine~
+A large statue of Buddha is Positioned against the north wall, it's
+bottom surrounded by burning candels and incense. The rest of the room
+is undecorated, aside from a few mats that the monks meditate upon.
+It's a peaceful room, quiet, and calming.
+~
+0 1073742858 0
+D2
+~
+~
+0 -1 12152
+C shogun~
+S
+#12151
+Eastern Shrine~
+Armor of various types rests on the floors of the eastern shrine. Strange types
+of armor of all shapes and sizes catch your eye and hold it, making you wonder 
+about some of them that seem to have no use. There is a set of old Japanese armor
+against the east wall, lined with candels and burning incense.
+~
+0 1077937154 0
+D3
+~
+~
+0 -1 12152
+C shogun~
+S
+#12152
+Hallway between shrines~
+The clean swept floors lead off in all the cardinal directions. To the north, the
+hallway leads to the Shinto Shrine. To the west, the Western Shrine, also known as
+the battle shrine. To the east lies another shrine, which houses this Shogun's armory.
+~
+0 1073742858 0
+D0
+~
+~
+0 -1 12150
+D1
+~
+~
+0 -1 12151
+D2
+~
+~
+0 -1 12154
+D3
+~
+~
+0 -1 12153
+D4
+~
+~
+1 0 201
+C shogun~
+S
+#12153
+Western shrine~
+The western shrine's walls are covered with weapons of all types, from
+swords to modern handguns. The floor has a large circular ring for sparring
+and training. There are a few dark stains on the floor that shows just how
+violent the training of the Shogun can be.
+~
+0 1073742858 0
+D1
+~
+~
+0 -1 12152
+C shogun~
+S
+#12154
+Before the Shinto Temple~
+A good sized Shinto Temple lies north of here, it's well manicured grounds
+speak of it's well kept state. A stone walkway worn smooth leads to the wooden
+steps of the temple.
+~
+0 1073742858 0
+D0
+~
+~
+0 -1 12152
+D2
+~
+~
+0 0 327
+C shogun~
+S
+#12160
+Entrance to the Manequin Factory~
+Directly in front of you is the doors into an abandoned Manequin Factory.
+~
+0 134480902 0
+D2
+~
+~
+0 0 6503
+D3
+~
+~
+0 0 12161
+C vampire~
+S
+#12161
+Inside a Manequin Factory~
+Standing inside this factory, you get a serious chill. Seems this factory
+is the residence of the Clan Vampire Hunter.
+~
+0 134480906 0
+D0
+~
+~
+0 -1 12162
+D1
+~
+~
+0 -1 12160
+D3
+~
+~
+0 -1 12163
+C vampire~
+S
+#12162
+A worn-down office.~
+This room has been cleared of rubbish, and the walls scrubbed to make for a
+clean infirmary.
+~
+0 134480906 0
+D2
+~
+~
+0 -1 12161
+D3
+~
+~
+1 0 201
+C vampire~
+S
+#12163
+On the Factory Floor~
+All about you lies boxes filled with various parts of mannequins... Looks like
+a room full of half-dead bodies... without the stench.
+~
+0 138675210 0
+D1
+~
+~
+0 -1 12161
+D4
+~
+~
+0 -1 12164
+C vampire~
+S
+#12164
+Above the Factory Floor~
+You are walking along a precarious catwalk, hopping that it doesn't fall. Seems
+a good place to test the will of those who would call align themselves with
+Vampire Hunters.
+~
+0 134480906 0
+D5
+~
+~
+0 -1 12163
+C vampire~
+S
+#12170
+Yohko's room~
+Posters of famous japanese bands, anime and movies line the walls of this
+brightly colored pastel room. Miscellaneous video game consoles rest on
+the floor next to the television set. A few sporting tools like around,
+such as a baseball bat, and tennis racket, useful for waking Yohko up in
+the morning.
+~
+0 1050 0
+D3
+~
+~
+0 -1 12171
+C d-hunter~
+S
+#12171
+Central hallway in the Mano home~
+The hardwood floors bare a few skuff marks and nicks from the constant fighting
+between Madoka and her daughter, Yohko's mother. A few dents in the walls, a few
+pieces of cracked plaster, and some minor structural damage show exactly how 
+hard those two go at it. Most people probably wouldn't see the tale and be 
+mobile enough afterwards to repeat it.
+~
+0 1050 0
+D0
+~
+~
+0 -1 12172
+D1
+~
+~
+0 -1 12170
+D2
+~
+~
+0 -1 12175
+D3
+~
+~
+0 -1 12173
+C d-hunter~
+S
+#12172
+Bathroom~
+Soft blue tiles completely cover the floor of the bathroom, and extend up
+the walls about three feet. A bucket lies next to a faucet for washing your
+back, and the bath is semi-full if luke warm water. Harsh flourescent lighting
+fills the room, creating an strange atmosphere.
+~
+0 1050 0
+D2
+~
+~
+0 -1 12171
+C d-hunter~
+S
+#12173
+Mano Study~
+Massive amounts of books resting on shelves at least six feet high seem
+to completely encompass the room. Sitting against the north wall is a 
+good sized computer workstation, it's presence practically demanding
+attention.
+~
+0 4195354 0
+E
+computer~
+The monitor has the words "Login:" printed on the screen, and nothing else.
+
+It seems to be waiting for the correct login and password.
+~
+D1
+~
+~
+0 -1 12171
+D5
+~
+~
+0 -1 12174
+C d-hunter~
+S
+#12174
+Mamono Hunter Secret room~
+Large boxes and piles of strange objects lie strewn about everywhere, it's
+almost impossible to find a walking path across it. Some of the artifacts
+that lie forgotten here seem quite ancient, very fragile, and full of some
+mysterious magical power.
+~
+0 1050 0
+D1
+~
+~
+4 202 200
+D4
+~
+~
+0 -1 12173
+C d-hunter~
+S
+#12175
+Walkway to the Mano home~
+A small walkway leads to a fairly large house, well, large for rural Tokyo.
+The house is seemingly non descript, if it weren't for the fact that there's
+a tiny bit of structural damage. A house with structural damage in rural Tokyo
+can only mean one thing, tho. Some sort of superhero must live there!
+~
+0 1042 0
+D0
+~
+~
+0 -1 12171
+D3
+~
+~
+0 0 3118
+C d-hunter~
+S
+#12180
+A Secured Entrance~
+Following the stairs down you seem to have discovered an underground
+house of some sort. There is a steel door to the north. The outlining
+walls which frame the door in its place are a delicate shade of white.
+Resting a couple of feet above the door handle and to the right is
+a small cresent shaped moon.
+~
+0 67109902 0
+E
+door~
+It's a 2-inch thick steel door.  Someone has written a note on the back.
+It reads:
+ 
+The Sailor Scouts are dead!  Long Live the Sailor Scouts!
+ 
+Althena, Aylea, Carlie, Jutara, Raye, Organa, Renala, Schala,
+Shiela, Soleka, and Me.
+ 
+Suzuran Majere, August 4th, 2000.  SailorMoon to Eternity!
+ 
+~
+D0
+~
+~
+1 0 12181
+D3
+~
+~
+1 0 12199
+D4
+~
+~
+0 0 12502
+C senshi~
+S
+#12181
+Inside the Home of the Sailor Senshi~
+The hallway into and out of the Sailor Senshi home. You are standing
+in a beautifully decorated hallway. The floor is made of checkered
+black and white shining marble. There are solid oak pillars with a
+remarkable gloss which hold up the ceiling of the hallway. Glass
+tables hold up perfectly grown plants along each side of walls. To
+the north is the center of the Sailor Senshi home.
+~
+0 71304202 0
+D0
+~
+~
+0 0 12182
+D2
+~
+~
+1 0 12180
+C senshi~
+S
+#12182
+Center of Sailor Senshi Home~
+The center place for all the activity that goes on in the Sailor
+Senshi home. In the center of the room there is a huge, yellow,
+cresent shaped moon table. The walls are painted a bright pinkish
+tone which seems to highlight the entire room. On the walls rest
+elaborate paintings of each of the Sailor Senshi, the artist who
+drew them must have been really talented.
+~
+0 71304202 0
+D1
+~
+~
+0 0 12184
+D2
+~
+~
+0 0 12181
+D3
+~
+~
+0 0 12183
+C senshi~
+S
+#12183
+The Senshi Resting Area~
+This part of the underground dwelling doesn't seem like the rest. There
+are all sorts of gadgets laying about on the floor and hanging from the
+walls. This room seems more technical in fashion than the rest of the
+place. In the center of this room rests a huge glowing projection of
+the moon. It seems to have a presence of its own.
+~
+0 67109898 0
+D1
+~
+~
+0 0 12182
+C senshi~
+S
+#12184
+An Enormous Kitchen~
+As you first enter the kitchen, you notice the fine aroma of freshly
+baked bread. Along the walls are dazzling glossed cabinets. There's
+a marble sink against the eastern wall of the kitchen. It seems to
+have a certain sparkle to it. A thought comes across your mind when
+looking at the stove, is this where Usagi burns her fruit cakes?
+~
+0 67109894 0
+D3
+~
+~
+0 -1 12182
+C senshi~
+S
+#12190
+An abandoned factory~
+Stepping inside this factory, you first notice the glass shards that
+crunch underneath your footsteps. Other than the darkness that shrouds
+the interior of this building, there isn't much to it. The damp air
+flows easily through the broken windows and a little further ahead is
+a group is seated around a posted bounty list.
+~
+0 1066 0
+E
+broken window~
+The silouhette of the city of Zalem can be seen out of these broken windows.~
+E
+seated group~
+Some of the biggest looking Hunter-Warriors you've ever seen are seated here.~
+D1
+~
+~
+0 -1 12191
+D3
+~
+~
+0 -1 12192
+C hunter~
+S
+#12191
+A secluded corner~
+After meandering through the small hole in the wall to your west, 
+you finally arrive inside this secluded corner of the factory. Pipes
+that drip constantly surround you, the water pooling on the floor in
+some areas and being absorbed by the crumbling walls in others. A 
+large portion of this room is dedicated to boxes of ammunition, weapons,
+equipment, and other miscellaneous items, along with several tables 
+covered with nuts, bolts, and other parts. Overall, it looks like a 
+heavily-used workshop.
+~
+0 4195370 0
+D1
+~
+~
+1 0 202
+D3
+~
+~
+0 -1 12190
+C hunter~
+S
+#12192
+Walking along a walkway~
+The walkway that extends further north and east is really the only
+clear path that you can see here. Piles of parts, garbage, and other
+useless items are scattered about in tumultuous amounts, barring the
+vision of the city of Zalem in some areas. The only positive thing
+you can note is the clear sky seen above the piles of trash.
+~
+0 1066 1
+D0
+~
+~
+0 0 12193
+D1
+~
+~
+0 -1 12190
+C hunter~
+S
+#12193
+Exit tubes to Zalem and Kansas~
+This small room is nothing more than a collection of pipes that
+all travel northward and down, giving the impression of a centralized
+sewage system. The walls are made of a solid rock, and there is a 
+doorway leading north.
+~
+0 1066 0
+D0
+~
+~
+0 0 14150
+D2
+~
+~
+0 0 12192
+C hunter~
+S
+#12194
+The hangar of a Zaibach flying fortress~
+All in a row stand the pinnacle of Guymelf design,the Zaibach Guymelfs, 
+created by Folken himself.  With the large bay doors open in the hangar, 
+the wind  makes any conversation deafening.
+~
+0 1098 0
+D1
+~
+~
+0 -1 12195
+D4
+~
+~
+0 0 3001
+C slayers~
+S
+#12195
+The repair area of a Zaibach flying fortress~
+The loud clangs and crashes of hammers and other tools rings 
+loudly off the walls. With all of the fighting going on in Gaia, 
+this area seems to be the busiest. A large Guymelf lays on the 
+ground, being tended to.
+~
+0 1098 0
+D0
+~
+~
+0 -1 12196
+D2
+~
+~
+0 -1 12197
+D3
+~
+~
+0 -1 12194
+C slayers~
+S
+#12196
+A small training room~
+Strayed all about the room are various punching bags, wooden poles, 
+and other such training equipement. On one side of the room, a large 
+mirror sits,probably for Dilandau to admire himself in.
+~
+0 1098 0
+D2
+~
+~
+0 -1 12195
+D3
+~
+~
+1 0 202
+C slayers~
+S
+#12197
+A laundry room~
+Somehow,this room actually smells good, despite being a laundry room.  
+Must be the hard working people of the Zaibach army.  Everything seems 
+neat and tidy, and a lot quieter than in the repair bay.
+~
+0 4195402 0
+D0
+~
+~
+0 -1 12195
+C slayers~
+S
+#12198
+Inside a Large Saiyan Spacepod~
+~
+0 1024 0
+D2
+~
+~
+0 0 12199
+C elite~
+S
+#12199
+Entrance to the spacepod~
+~
+0 1024 0
+D0
+~
+~
+0 0 12198
+D1
+~
+~
+1 0 12180
+C elite~
+S
+#0
+
+
+
+#SPECIALS
+M 12100 spec_cast_adept
+M 12101 spec_cast_adept
+M 12102 spec_cast_adept
+M 12103 spec_cast_adept
+M 12104 spec_cast_adept
+M 12105 spec_cast_adept
+M 12106 spec_cast_adept
+M 12107 spec_cast_adept
+M 12108 spec_cast_adept
+M 12109 spec_cast_adept
+M 12131 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 12100 5 1
+D 0 12101 5 1
+D 0 12110 5 1
+D 0 12124 0 1
+D 0 12130 4 1
+D 0 12131 5 1
+D 0 12134 1 1
+D 0 12143 2 1
+D 0 12152 4 1
+D 0 12162 3 1
+D 0 12174 1 2
+D 0 12180 0 1
+D 0 12180 3 1
+D 0 12181 2 1
+D 0 12191 1 1
+D 0 12196 3 1
+D 0 12199 1 1
+M 0 12100 1 12103 1
+M 0 12120 1 12104 1
+G 0 12110 0
+G 0 12111 0
+G 0 12112 0
+M 0 12110 1 12105 1
+M 0 12101 1 12110 1
+M 0 12111 1 12112 1
+M 0 12121 1 12114 1
+G 0 12113 0
+G 0 12114 0
+G 0 12115 0
+M 0 12122 1 12122 1
+G 0 12116 0
+G 0 12117 0
+G 0 12118 0
+M 0 12102 1 12124 1
+M 0 12112 1 12125 1
+M 0 12103 1 12132 1
+M 0 12113 1 12133 1
+M 0 12123 1 12134 1
+G 0 12119 0
+G 0 12120 0
+G 0 12121 0
+M 0 12114 1 12142 1
+M 0 12104 1 12143 1
+M 0 12124 1 12145 1
+G 0 12122 0
+G 0 12123 0
+G 0 12124 0
+M 0 12105 1 12150 1
+M 0 12125 1 12151 1
+G 0 12125 0
+G 0 12126 0
+G 0 12127 0
+M 0 12115 1 12153 1
+M 0 12106 1 12162 1
+M 0 12126 1 12163 1
+G 0 12128 0
+G 0 12129 0
+G 0 12130 0
+M 0 12116 1 12164 1
+M 0 12107 1 12170 1
+M 0 12127 1 12173 1
+G 0 12158 0
+G 0 12159 0
+G 0 12163 0
+M 0 12117 1 12174 1
+M 0 12128 1 12182 1
+G 0 12151 0
+G 0 12152 0
+G 0 12153 0
+M 0 12108 1 12183 1
+M 0 12118 1 12184 1
+M 0 12109 1 12190 1
+M 0 12129 1 12191 1
+G 0 12154 0
+G 0 12155 0
+G 0 12156 0
+M 0 12131 1 12195 1
+M 0 12130 1 12196 1
+M 0 12132 1 12197 1
+G 0 12160 0
+G 0 12161 0
+G 0 12162 0
+M 0 12140 1 12198 1
+G 0 12164 0
+G 0 12165 0
+G 0 12166 0
+M 0 12141 1 12199 1
+G 0 12164 0
+G 0 12166 0
+G 0 12165 0
+S
+
+
+
+#SHOPS
+12120 13 5 15 1 17 150 50 0 23
+12121 13 5 15 1 17 150 50 0 23
+12122 13 5 15 1 17 150 50 0 23
+12123 13 5 15 1 17 150 50 0 23
+12124 13 5 15 1 17 150 50 0 23
+12125 13 5 15 1 17 150 50 0 23
+12126 13 5 15 1 17 150 50 0 23
+12127 13 5 15 1 17 150 50 0 23
+12128 13 5 15 1 17 150 50 0 23
+12129 13 5 15 1 17 150 50 0 23
+12132 13 5 15 1 17 150 50 0 23
+12140 13 5 15 1 17 150 50 0 23
+12141 13 5 15 1 17 150 50 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

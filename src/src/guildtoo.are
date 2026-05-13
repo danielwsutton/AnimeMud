@@ -1,0 +1,870 @@
+#AREADATA
+Name Guild Area Too~
+Builders $fatetaf~
+VNUMs 200 299
+Credits Fatetaf~
+Security 5
+End
+
+
+
+#MOBILES
+#200
+sexy asian girl~
+A hot asian chick~
+A hot asian chick stands here, fanning off the king.
+~
+A really hot asian chick is here.
+She is wearing almost nothing.
+Her job is to fan off the great Fatetaf and keep him comfortable.
+~
+Human~
+Aa 0 0 0
+100 0 100d50+30000 0d0+0 0d0+0 none
+0 0 0 0
+0 CD 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#201
+The kenshin healer -clanmob-~
+The kenshin healer~
+The kenshin healer is here, tending the wounded.
+~
+~
+Human~
+AJab H 0 0
+110 0 100d1+5 1000d1+10000 0d0+0 none
+0 0 0 0
+0 BCD 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#202
+Yumi shinsen healer -clanmob-~
+Yumi~
+Yumi is here, to heal you.
+~
+The sexiest woman in the world is here.
+She will help you to heal your wounds.
+~
+Human~
+ABJa DF 0 0
+110 0 1000d1+10000 1000d1+10000 1d1+1 none
+0 0 0 0
+0 AB 0 0
+stand stand female 30000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#203
+Sijorou armor -clanmob-~
+Sijorou~
+Sijorou is here, dealing in arms
+~
+~
+Human~
+ABb 0 0 0
+0 0 1000d1+1000 1000d1+1000 0d0+0 none
+0 0 0 0
+0 BCD 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#204
+Kenshin Equipment Man -clanmob-~
+The kenshin equipment guy~
+The kenshin equipment manager is here
+~
+~
+Human~
+AB 0 0 0
+100 0 10d100+50 5d100+1 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#240
+Decayed Bone Warrior [-FQ-] -quest-~
+Decayed Bone Warrior~
+A Decayed Bone warrior stands here, hungering for life.
+~
+A completly rotten skeleton stands with hollowed eyes.
+~
+Demon~
+AGHOT CDEFGHSVXZac -1000 0
+65 100 100d100+100 50d100+100 14d12+5 none
+-27 -27 -27 -10
+ACFHIJKLMNQ ABEO H N
+stand stand none 50
+AHMV ABCDEFGHIJL large unknown
+#0
+
+
+
+#OBJECTS
+#200
+Fatetaf's Awesome Throne~
+`6F`^a`&tet`^a`6f`&'s `6T`^h`&ro`^n`6e`7~
+`6F`^a`&tet`^a`6f`&'s `6A`^we`&so`^m`6e `6T`^h`&ro`^n`6e`7~
+unknown~
+furniture OY 0
+BD EHI BCDEFGHIJKLNO 0 0
+0 0 0 100
+#201
+sexy milk fountain~
+a sexy milk fountain~
+A sexy milk fountain is here.~
+unknown~
+fountain 0 0
+0 0 'milk' 0 0
+0 0 0 100
+#202
+Fatetaf's throne room key~
+fatetaf's throne room key~
+The key to the king's throne room is here.~
+unknown~
+key P A
+0 0 0 0 0
+1 0 0 100
+#210
+ohhh you're in deep trouble now~
+a fag detecter~
+A fag detecter is on the ground here.~
+unknown~
+wand 0 AO
+200 100 100 'chibichibification' 0
+34 0 0 100
+#211
+Zonk~
+-null-~
+-null-~
+unknown~
+weapon Y AN
+staff 2 2 none 0
+0 0 0 100
+#212
+Fatetaf's fishing boat. -quest- Arg!~
+fatetaf's fishing boat~
+`6Fa`^t`&e`^ta`6f's `6f`&i`&shi`^n`6g `6b`^oa`6t`& is here, `6f`^l`&oati`^n`6g `&in the `4W`$a`&t`$e`4r`7~
+unknown~
+furniture O 0
+BEF EIJKN CFILO DFGHIJ DFGHIJ
+200 600 0 100
+#270
+The Crypt's treasure room key~
+treasure room key~
+The key to a secret treasure room, lies here.~
+unknown~
+key Y A
+0 0 0 0 0
+90 0 0 100
+#271
+Zelgi's throne room key~
+zelgi's throne room key~
+An very large complex key rests in the palm of your hand. The design of some kind of creature is embroided on. As you further examine the key,  you realize it's made out of solid gold.~
+unknown~
+key Y A
+0 0 0 0 0
+0 0 100000 100
+#272
+Key to the egg chamber~
+`7Egg Key~
+The key to the door behind the throne room lies here.~
+unknown~
+key Y A
+0 0 0 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#200
+Fatetaf's Office.~
+The room glows a dull yellow, illuminated by the sunlight.
+The roof is made of a canopy of ferns and other tropical plants.
+In the center of the room a large throne rests.
+Two asian women wearing barely anything stand on either side with large hand fans.
+You can tell this room is fit for the greatest man in all the world.
+~
+0 1024 0
+D3
+~
+~
+4 202 12174
+D4
+~
+~
+4 202 203
+S
+#201
+An `6E`^t`&hr`^ea`6l `7Tunnel~
+~
+0 1032 0
+D0
+~
+~
+1 0 12143
+D1
+~
+~
+1 0 12162
+D2
+~
+~
+0 0 202
+D3
+~
+~
+1 0 12134
+D4
+~
+~
+1 0 12110
+D5
+~
+~
+1 0 12152
+S
+#202
+An `6E`^t`&hr`^ea`6l `7Tunnel~
+~
+0 1032 0
+D0
+~
+~
+0 0 201
+D1
+~
+~
+1 0 12196
+D2
+~
+~
+1 0 12124
+D3
+~
+~
+1 0 12191
+D4
+~
+~
+1 0 12101
+D5
+~
+~
+0 0 203
+S
+#203
+Ethreal Battle Ground~
+THIS ROOM IS NOT SAFE
+~
+0 0 0
+D4
+~
+~
+0 0 202
+D5
+~
+~
+4 202 200
+S
+#205
+Kenshin Gumi Headquarters~
+~
+0 1024 0
+D0
+~
+~
+0 0 206
+S
+#206
+~
+~
+0 1024 0
+D0
+~
+~
+0 0 207
+D2
+~
+~
+0 0 205
+S
+#207
+~
+~
+0 1024 0
+D0
+~
+~
+0 0 208
+D2
+~
+~
+0 0 206
+S
+#208
+~
+~
+0 1024 0
+D2
+~
+~
+0 0 207
+S
+#209
+Shinsen Gumi Headquarters~
+This is the place all the jigga men hang out.
+~
+0 1024 0
+D0
+~
+~
+0 0 210
+S
+#210
+Shinsen Gumi Arms shop~
+~
+0 1024 0
+D2
+~
+~
+0 0 209
+S
+#220
+Seitzer's Office~
+This office is for the sexiest of all sexies.
+The man, the myth, the legend.
+~
+0 1028 0
+S
+#240
+Cryptic Entranceway~
+The foul smell of long dead air consumes your senses.
+The stench of long rotten organisms stuffs your lungs full of noxious fumes.
+ 
+The entire crypt seems to made from giant carved stone blocks.
+Incase you haven't noticed, it's very old.
+~
+0 1024 0
+D2
+~
+~
+0 0 241
+S
+#241
+Dark Hallway in a Crypt~
+You stand now in a mouth of a long cavern like hallway.
+The room is illuminated by aghastly still burning torches.
+The dull torchlight would disturb the eyesight of anyone without another source to illuminate thier path.
+~
+0 0 0
+D0
+~
+~
+0 0 240
+D2
+~
+~
+0 0 242
+S
+#242
+Dark Hallway in a Crypt~
+~
+0 0 0
+D0
+~
+~
+0 0 241
+D2
+~
+~
+0 0 243
+S
+#243
+Dark Hallway in a Crypt~
+~
+0 0 0
+D0
+~
+~
+0 0 242
+D2
+~
+~
+0 0 244
+S
+#244
+Dark Hallway in a Crypt~
+~
+0 0 0
+D0
+~
+~
+0 0 243
+D2
+~
+~
+0 0 245
+S
+#245
+Dark Corner~
+~
+0 0 0
+D0
+~
+~
+0 0 244
+D1
+~
+~
+1 0 246
+S
+#246
+Dark Hallway in a Crypt~
+~
+0 0 0
+D1
+~
+~
+0 0 247
+D3
+~
+~
+1 0 245
+S
+#247
+Dark Hallway in a Crypt~
+~
+0 0 0
+D1
+~
+~
+1 0 248
+D3
+~
+~
+0 0 246
+S
+#248
+Wide Passageway in the Crypt~
+~
+0 0 0
+D0
+~
+~
+0 0 272
+D2
+~
+~
+0 0 256
+D3
+~
+~
+1 0 247
+S
+#249
+After the guard outpost~
+~
+0 0 0
+D1
+~
+~
+0 0 250
+D3
+~
+~
+1 0 272
+S
+#250
+An ornate corner~
+~
+0 1 0
+D0
+~
+~
+0 0 251
+D3
+~
+~
+0 0 249
+S
+#251
+An ornate passageway~
+~
+0 0 0
+D0
+~
+~
+0 0 252
+D2
+~
+~
+0 0 250
+S
+#252
+An ornate passageway~
+~
+0 0 0
+D0
+~
+~
+1 0 253
+D2
+~
+~
+0 0 251
+S
+#253
+An ornate passageway~
+~
+0 0 0
+D0
+~
+~
+0 0 254
+D2
+~
+~
+1 0 252
+S
+#254
+An ornate passageway~
+~
+0 0 0
+D0
+~
+~
+1 0 255
+D2
+~
+~
+0 0 253
+S
+#255
+The war chambers~
+~
+0 0 0
+D2
+~
+~
+1 0 254
+S
+#256
+A foul Smelling room~
+~
+0 0 0
+D0
+~
+~
+0 0 248
+D2
+~
+~
+0 0 257
+S
+#257
+A wide Archway~
+~
+0 0 0
+D0
+~
+~
+0 0 256
+D2
+~
+~
+0 0 258
+S
+#258
+A wide hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 257
+D2
+~
+~
+1 0 259
+S
+#259
+A Bottleneck in the Hallway~
+~
+0 520 0
+D0
+~
+~
+1 0 258
+D2
+~
+~
+0 0 260
+S
+#260
+A split in the hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 259
+D1
+~
+~
+0 0 266
+D3
+~
+~
+0 0 261
+D5
+~
+~
+4 0 271
+S
+#261
+A long dark passageway~
+~
+0 0 0
+D1
+~
+~
+0 0 260
+D3
+~
+~
+0 0 262
+S
+#262
+A long dark passageway~
+~
+0 0 0
+D1
+~
+~
+0 0 261
+D3
+~
+~
+0 0 263
+S
+#263
+A long dark passageway~
+~
+0 0 0
+D1
+~
+~
+0 0 262
+D3
+~
+~
+0 0 264
+S
+#264
+A long dark passageway~
+~
+0 0 0
+D1
+~
+~
+0 0 263
+D3
+~
+~
+0 0 265
+S
+#265
+A Dead end~
+~
+0 0 0
+D1
+~
+~
+0 0 264
+S
+#266
+A narrow passage~
+~
+0 0 0
+D1
+~
+~
+0 0 267
+D3
+~
+~
+0 0 260
+S
+#267
+A narrow passage~
+~
+0 0 0
+D1
+~
+~
+0 0 268
+D3
+~
+~
+0 0 266
+S
+#268
+A narrow passage~
+~
+0 0 0
+D1
+~
+~
+0 0 269
+D3
+~
+~
+0 0 267
+S
+#269
+A narrow passage~
+~
+0 0 0
+D1
+~
+~
+0 0 270
+D3
+~
+~
+0 0 268
+S
+#270
+A dead end~
+~
+0 0 0
+D3
+~
+~
+0 0 269
+S
+#271
+A Secret treasure room~
+~
+0 36352 0
+D4
+~
+~
+4 270 260
+S
+#272
+Guard Outpost~
+~
+0 0 0
+D0
+~
+~
+4 271 273
+D1
+~
+~
+1 0 249
+D2
+~
+~
+0 0 248
+S
+#273
+Zalgi's Throne Room~
+~
+0 0 0
+D2
+~
+~
+4 0 272
+D5
+~
+~
+4 0 274
+S
+#274
+The Egg chamber~
+~
+0 0 0
+D4
+~
+~
+4 272 273
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 200 3 2
+D 0 200 4 2
+D 0 201 0 1
+D 0 201 1 1
+D 0 201 3 1
+D 0 201 4 1
+D 0 201 5 1
+D 0 202 1 1
+D 0 202 2 1
+D 0 202 3 1
+D 0 202 4 1
+D 0 203 5 2
+D 0 245 1 1
+D 0 246 3 1
+D 0 247 1 1
+D 0 248 3 1
+D 0 249 3 1
+D 0 252 0 1
+D 0 253 2 1
+D 0 254 0 1
+D 0 255 2 1
+D 0 258 2 1
+D 0 259 0 1
+D 0 260 5 2
+D 0 271 4 2
+D 0 272 0 2
+D 0 272 1 1
+D 0 273 2 2
+D 0 273 5 2
+D 0 274 4 2
+M 0 200 1 200 1
+O 0 200 0 200
+O 0 201 0 200
+M 0 201 1 205 1
+M 0 204 1 208 1
+G 0 12170 0
+G 0 12171 0
+G 0 12172 0
+M 0 202 1 209 1
+M 0 203 1 210 1
+G 0 12167 0
+G 0 12168 0
+G 0 12169 0
+S
+
+
+
+#SHOPS
+203 13 5 15 1 17 100 100 0 23
+204 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$
