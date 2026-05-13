@@ -1,0 +1,172 @@
+#HELPS
+
+-1 'THANKS' THANKS~
+.
+                  `6**`^**`&*`^**`6** `&T``HANK YO`&U `6**`^**`&*`^**`6**``
+
+This helpfile is dedicated to those who helped create the code of this
+MUD. The original rom2.4 code was first modified by Mical. Soon after
+the code was then handed over to Belgarath/Belgarion of which they
+heavily modified the "TW code" into their code for Prophecy! Thanks to
+Belgarath and Belgarion we recieved the Prophecy code of which Biryu and
+Kyrn cosmetically changed into what is known today as Anime MUD! Still
+modifications are being made to this great piece of code which has been
+handed down from one MUD to another. Again with great appreciation, we
+the `&i``MP's/`&i``MMORTALS/MORTALS of Anime MUD, THANK all the coders which
+put their hard work into this code.
+
+`$--`6I`^M`6M `&S``taff
+`@(``If there is anyone left out, we still thank you in spirit!`@)``
+~
+
+-1 ROM~
+ROM started in early February 1993, using Merc 1.0 code. In July of 1993,  
+ROM II was started, eventually replacing the original ROM.  ROM was up for
+a little over a year, after which the code (version 2.3) was released,
+and various other ROM muds were started, including Rivers of Mud under
+a new management (Zump's ROM), at rom.org 9000.
+
+Alander's current project is Tesseract, the latest version of the ROM code.
+It can be found at hypercube.org 9000.
+
+The following people contributed to the ROM flavor of the merc base code:
+
+Socials --
+    Kelsey and Liralen
+
+New, Improved Valhalla --
+    Liralen
+
+Puff's new special proc and improved poofin/poofout code --
+    Seth
+
+Maps and map shop --
+    Ezra, Regnan (Olympus)
+
+Nirvana zone --
+    Forstall (mobiles rewritten by Alander)
+
+Mob Factory --
+    Pinkfloyd (originally written for ROM, mobiles rewritten by Alander)
+
+Geographically correct Midgaard (tm) --
+    Alander
+
+Ideas and playtesting --
+    Thousands of dedicated mudders around the world
+
+Beta testing --
+    Ken Blosser, Doug Araya, and Sherene Neil all helped with bug reports
+    and suggestions, saving a lot of headaches
+
+New Thalos area was donated by Onivel of Jedi, who was also the originator
+of the ASCII flags used in the zone files
+
+ROM 2.4 was developed during my time with Moosehead mud, and the release
+shares many of the features I wrote while I was there.  Additional code
+was written by Seth Scott (the new poofin/poofout), and many contributions
+and ideas from the Merc list were used.  Portions of Rusty's code from
+Moosehead also remain.
+
+The new features of 2.4 were largely produced in bull sessions with
+Gabrielle (my wife) and Brian Moore, without whom this release wouldn't
+have happened.  In particular, the new privacy code, furniture, and
+wiznet are largely the results of Gabrielle's ideas.
+
+Changes to the standard diku mob and object format, as well as the changes
+to Merc 2.1 source code, were done by Alander over many a late night of
+hair-pulling. Hope you enjoy it.
+
+(my apologies if anyone was forgotten in this list)
+~
+
+
+-1 MERC~
+This mud is based on Merc 2.1, created by Furey, Hatchet, and Kahn.  
+Merc 2.1 is available as Merc_21.tar.gz from ftp.tcp.com and 
+ftp.math.okstate.edu.
+E-mail to 'majordomo@webnexus.com' to join the merc mailing list.
+
+Thanks to ...
+  ... Diku Mud for starting it all.
+  ... The Free Software Foundation and DJ Delorie for kick-ass tools.
+  ... Copper Mud and Alfa Mud for releasing their code and worlds.
+  ... Aod of Generic for ... well, everything.  You're a hoopy frood, Aod.
+  ... Alander for many ideas and contributions.
+  ... John Brothers of Silly for permission to use Silly code and worlds.
+  ... Zrin for administering the mailing list.
+  ... Abaddon for proofreading our comm.c.
+  ... Hind, Quin, Vic, Diavolo, Oleg, Trienne, and others for porting help.
+  ... Diavolo, Grodyn, Morgenes, and others for code and bug fixes.
+  ... Raff, Doctor, VampLestat, Nirrad, Tyrst, PinkF, Chris, Glop for worlds.
+  ... the players and imps of Mud Dome, Final Mud, Mud Lite, Vego Mud, Rivers
+      of Mud, Ruhr Mud, and Mystic Realms for bug reports, ideas, new code,
+      and hours of enjoyment.
+
+Also see "help ROM" for information about the Rivers of Mud code base.
+~
+-1 MAP MAPS~
+Thanks to Ezra for drawing the originals of several maps on ROM.
+~
+
+
+-1 DIKU~
+.                    Original game idea, concept, and design:
+
+          Katja Nyboe               [Superwoman] (katz@freja.diku.dk)
+          Tom Madsen              [Stormbringer] (noop@freja.diku.dk)
+          Hans Henrik Staerfeldt           [God] (bombman@freja.diku.dk)
+          Michael Seifert                 [Papi] (seifert@freja.diku.dk)
+          Sebastian Hammer               [Quinn] (quinn@freja.diku.dk)
+
+
+Developed at: DIKU -- The Department of Computer Science
+                      at the University of Copenhagen.
+
+
+~
+
+-1 PUNISHMENTS~
+Multiplaying:
+  Each character multiplaying will be slain, and the corpse eaten.
+Exploiting bugs: 
+  First offense: Slay.
+  Further offenses: Banning.
+Spamming public channels: 
+  Nochanneling.  Frequent offenders will be banned or frozen. 
+Sexual harrasment:
+  On public channels: Punishment may range from nochannel up to deletion
+                      dependent on frequency.
+  Person-to-person: Verbal warning from immortals, then freezing 
+                    up to banning/deletion.
+Cussing on channels other than flame: 
+  Verbal warning, nochanneling for frequent offenders. 
+NonPK assisting in a pk-event: 
+  NonPKer slain/munched, then forced pk.
+Dispelling in safe: 
+  Verbal warning, possible slay or another punishment for frequent offenders.
+Bots: 
+  1st Offense: slay  2nd Offense: deny
+Bringing an agressive mob to a player:
+  Slay/munch.
+Bringing a player to an agressive mob:
+  Slay/munch.  
+
+PK-Specific Rules:
+
+Ordering your opponent to kill a sure-kill mob: 
+  Slay/munch.
+SpamWhining about losing: 
+  Nochanneling
+Killing a truly link-dead character: 
+  Slay/munch.
+Stealing eq from a corpse:
+  Slay/munch.
+~
+
+0 $~
+
+
+
+#$
+

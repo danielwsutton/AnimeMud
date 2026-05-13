@@ -1,0 +1,4055 @@
+#AREADATA
+Name The Moon Kingdom~
+Builders None~
+VNUMs 12500 12699
+Credits {30 90} Alexis  Moon Kingdom~
+Security 9
+End
+
+
+
+#MOBILES
+#12500
+serenity queen moon~
+Queen Serenity~
+Queen Serenity is here mulling over the fate of her kingdom.
+~
+Normally, nothing short of beautiful would describe Queen Serenity, but
+as she stands now looking so worked up and uncertain, not even the
+shimmering gown she wears can shed light onto the gloom that surrounds her.
+~
+Human~
+ABGQR DHNVZ 1000 9800
+100 1 50d10+29500 1d1+10000 12d10+15 slap
+-108 -108 -108 -108
+EFJKN ABMQ CLNS G
+stand stand female 1012
+AHMV ABCDEFGHIJK medium unknown
+#12501
+sailor moon serena moon princess~
+Princess Serena~
+Princess Serena is here enjoying her mother's ball.
+~
+Serena is a young girl, not looking to be over 16 years of age. She is the
+daughter of Queen Serenity which makes her the Moon Princess, and next in
+line for her mother's throne. And despite all her coming royal
+responsibilities Serena seems to not have a care in the world.
+~
+Human~
+AGHQ HNZ 1000 9800
+80 0 50d10+19500 1d1+4999 11d8+35 slap
+-63 -63 -63 -63
+EFIK BQ CLN 0
+stand stand female 986
+AHMV ABCDEFGHIJK medium unknown
+#12502
+prince darian tuxedo mask~
+Prince Darian~
+A handsome figure is here awaiting his next dance with the Moon Princess.
+~
+This man is quite a stunning figure indeed, dressed for the ball in a
+black tuxedo, top hat, and a mask covering his eyes which only adds to
+the mystery surrounding him.
+~
+Human~
+ABGT DFHNVZ 1000 9800
+90 0 50d10+24500 1d1+999 11d10+10 punch
+-94 -94 -94 -94
+CDEFJKT BQ ACLN MP
+stand stand male 199
+AHMV ABCDEFGHIJK medium unknown
+#12503
+sailor scout rei mars~
+Sailor Mars~
+Sailor Mars is here ready to scorch any demons that try to invade.
+~
+Mars has always been referred to as the most intense of the Sailor Scouts
+and now you can see why. An inner fire burns in her eyes the likes of which
+you have never seen before, and her long black hair which drapes down just
+past the skirt of her fuku only accents her deep purple eyes further. As she
+scans the area around the palace for any minions of the Negaverse that may
+try to attack, you have no doubt that she would be ready.
+~
+Human~
+ABGQT DFHNZ 1000 9800
+90 0 50d10+24500 1d1+1499 11d10+10 wrath
+-94 -94 -94 -94
+DEFKS BHQ ACLN 0
+stand stand female 532
+AHMV ABCDEFGHIJK medium unknown
+#12504
+sailor mercury scout~
+Sailor Mercury~
+Sailor Mercury is here doing something with her computer visor.
+~
+With her exotic blue hair shining in the twilight, Sailor Mercury sits here
+pressing buttons on her computer visor and after the proper settings have
+been adjusted, she goes back with a sigh to watching the landscape for
+minions of the Negaverse.
+~
+Human~
+ABGQT DFHNZ 1000 9800
+90 0 50d10+24500 1d1+1499 11d10+10 divine
+-94 -94 -94 -94
+EFKNS BIQ ACLN 0
+stand stand female 426
+AHMV ABCDEFGHIJK medium unknown
+#12505
+sailor jupiter lita scout~
+Sailor Jupiter~
+Sailor Jupiter is here awaiting the next battle with the Negaverse.
+~
+Jupiter stands here with her hair pulled back into a ponytail and dressed
+in the typical Sailor Scout garb and looks somewhat out of place, she looks
+as though she'd much rather be out doing something other than being stuck on
+guard duty, and the fact that she has to wear that "goofy" suit doesn't
+appear to make matters any better.
+~
+Human~
+ABGT DFHNVZ 1000 9800
+90 0 50d10+24500 1d1+1499 11d10+10 beating
+-94 -94 -94 -94
+CDEFIJKNS BJQ ACLN 0
+stand stand female 214
+AHMV ABCDEFGHIJK medium unknown
+#12506
+sailor venus mina scout~
+Sailor Venus~
+Sailor Venus is here with a cheery smile on her face, ready for anything.
+~
+Venus looks so cheerful just watching her helps raise your spirits, with
+her glowing blonde hair adorned with a large red bow and radiant blue eyes,
+she looks ready to take just about anything with a smile on her face.
+~
+Human~
+ABGQRT DFHNZ 1000 9800
+90 0 50d10+24500 1d1+1499 12d10+10 magic
+-94 -94 -94 -94
+EFKNS BQS ACLN 0
+stand stand female 769
+AHMV ABCDEFGHIJK medium unknown
+#12507
+artemis cat white~
+Artemis~
+Venus's cat, Artemis is here avoiding all the hub-bub of the ball.
+~
+At first glance Artemis appears to be nothing more than a normal house
+cat, but under closer inspection his true nature becomes more apparent, on
+his forehead is the mark of the moon and in his eyes shines a light of
+intelligence. There is no doubt that he is more than a normal cat, he is
+one of the advisors of the Sailor Scouts.
+~
+cat~
+AGR Z 1000 9801
+45 0 25d10+3000 1d1+149 8d4+16 scratch
+-15 -15 -15 -10
+FHI Q LN 0
+stand stand male 823
+AGV ACDEFHJKQUV small unknown
+#12508
+lun cat black~
+Luna~
+A small black cat lingers here looking for something to do.
+~
+Luna, Serena's cat, looks up at you with a playful meow and that is when
+you notice that she, like Artemis bears the mark of the moon, so no doubt
+she is just as intelligent and important as he among the Scouts.
+~
+cat~
+ABGQ Z 1000 9801
+45 0 25d10+3000 1d1+149 8d4+16 scratch
+-15 -15 -15 -10
+FHI Q LN 0
+stand stand female 768
+AGV ACDEFHJKQUV small unknown
+#12509
+male party guest~
+a party guest~
+One of the guests, of unrecognizable origin dances here.
+~
+Although this guest may not stand out as much as some of the others he
+truly is handsome in his own right as he dances here enjoying the ball.
+~
+Human~
+AGQW Z 1000 0
+30 0 6d12+853 1d1+99 4d6+8 punch
+-9 -9 -9 1
+CEFIKN Q L 0
+stand stand male 698
+AHMV ABCDEFGHIJK medium unknown
+#12510
+female party guest~
+female party guest~
+An invitee of the ball, dances here in a beautiful full length gown.
+~
+Although this guest may not be royalty, tonight she surely looks like it,
+with her evening gown shimmering in the light shed by the chandeliers this
+woman looks as though she is an angel from the heavens.
+~
+Human~
+AGQW Z 1000 0
+32 0 10d10+1000 1d1+99 6d4+9 slap
+-10 -10 -10 1
+EFIKN Q L 0
+stand stand female 723
+AHMV ABCDEFGHIJK medium unknown
+#12511
+young man venus noble venusian~
+a young Venutian noble~
+A young man of the court of Venus is here representing his planet at the ball.
+~
+This young noble appears quite handsome and seems to exemplify the
+characteristics his planet is known for he is: cheery, outgoing, and quite
+optimistic, definetly a "people person".
+~
+Human~
+AGQRY Z 1000 0
+40 0 15d10+1850 1d1+99 4d8+13 punch
+-13 -13 -13 -3
+CEFIK Q LS 0
+stand stand male 823
+AHMV ABCDEFGHIJK medium unknown
+#12512
+young woman venus noble venusian~
+a young Venusian woman~
+A young woman of the court of Venus is here enjoying Serenity's ball.
+~
+This young woman with her golden blonde hair and sparkling blue eyes
+reminds you very much of Sailor Venus. She like most of the other Venusians
+also shares the same cheery, outgoing attitude the planet is know for.
+~
+Human~
+AGQRY Z 1000 0
+36 0 10d10+1400 1d1+99 3d10+11 slap
+-12 -12 -12 -3
+EFIKN Q LS 0
+stand stand female 768
+AHMV ABCDEFGHIJK medium unknown
+#12513
+young man noble mercury~
+a young noble from Mercury~
+A young man from Mercury is here discussing politics.
+~
+This noble although he appears to be fairly young looks and acts wise
+beyond his years, this is common among the people of Mercury and they are
+thought of as the thinkers of the solar system.
+~
+Human~
+AGQRY Z 1000 0
+38 0 10d10+1600 1d1+99 5d6+12 punch
+-13 -13 -13 -3
+CEFIK Q IL 0
+stand stand male 578
+AHMV ABCDEFGHIJK medium unknown
+#12514
+young woman mars martian noble~
+a young woman from Mars~
+A young woman from Mars dances with all eyes on her.
+~
+Even from a distance you can tell this woman must definetly be from Mars,
+she is on the center of the dance floor with all eyes on her, making sure
+she is the center of attention.
+~
+Human~
+AGQRY Z 1000 0
+43 0 50d10+2000 1d1+149 3d12+15 slap
+-15 -15 -15 -5
+DEFIKN Q HL 0
+stand stand female 1046
+AHMV ABCDEFGHIJK medium unknown
+#12515
+young man mars martian noble~
+a young man from Mars~
+A nobleman from Mars argues his side against a man from Mercury.
+~
+This man looks to be a very intense person just from watching him
+discussing, or more suitably arguing his politcal views with another man.
+Watching him go at it so intensely makes you wonder how no fights have
+broken out yet.
+~
+Human~
+AGQRY Z 1000 0
+47 0 25d10+3500 1d1+149 6d6+17 punch
+-17 -17 -17 -5
+CDEFIKN Q HL 0
+stand stand male 1213
+AHMV ABCDEFGHIJK medium unknown
+#12516
+young man jupiter noble~
+a nobleman from Jupiter~
+A man from Jupiter tries to impress the Venusians with his war stories.
+~
+This man although he is a noble tends to look more like a soldier in stuck
+into a nobleman's body. All he can talk about is his stories of battles he
+fought and of great victories his armies had.
+~
+Human~
+AGTY VZ 1000 0
+50 0 50d10+4500 1d1+99 5d8+20 beating
+-20 -20 -20 -5
+CDEFIJKN Q JL 0
+stand stand male 978
+AHMV ABCDEFGHIJK medium unknown
+#12517
+young woman jupiter noble~
+a young woman from Jupiter~
+A woman from Jupiter is here scanning the guests for a suitable dance partner.
+~
+Judging from the way she appears to be searching for a date this woman
+looks like the type to take charge. She has a look on her face that gives
+you the feeling that when she finds someone she sees as fitting she'll have
+no hesitation in getting up and letting them know.
+~
+Human~
+AGTY Z 1000 0
+45 0 25d10+3000 1d1+99 8d4+16 punch
+-15 -15 -15 -5
+CDEFIJKN Q JL 0
+stand stand female 876
+AHMV ABCDEFGHIJK medium unknown
+#12518
+warrior moon kingdom~
+a warrior of the Moon Kingdom~
+A warrior of the Moon stands ready to give his life to protect the Palace.
+~
+This warrior is part of Queen Serenity's elite palace guards and will
+fight, to the death if necessary, to protect the Moon Kingdom and keep all
+of the Palace occupants safe.
+~
+Human~
+ABGT DFNVZ 1000 9800
+55 0 50d10+7000 1d1+99 10d4+23 slice
+-25 -25 -25 -10
+CDEFIJKNTU ABQ LN P
+stand stand either 512
+AHMV ABCDEFGHIJK medium unknown
+#12519
+party guest~
+a tired guest~
+One of the guests enjoys a quiet moment away from the ball.
+~
+Sitting down gazing up at the starry sky, this guest looks at peace with
+theirself and the world, momentarily away from the noise and splendor of
+the ball they can just take a moment to stop and admire the stars.
+~
+Human~
+ABGY Z 1000 0
+33 0 10d10+1100 1d1+99 6d4+10 punch
+-11 -11 -11 1
+EFIK Q L C
+sit sit either 782
+AHMV ABCDEFGHIJK medium unknown
+#12520
+young woman mercury noble~
+a young woman from Mercury~
+A young noblewoman of Mercury is here trying to enjoy herself.
+~
+This woman appears to be the typical wallflower. Standing off to the side
+of the dance floor looking around shyly and looking somewhat out of place
+in this ballroom setting.
+~
+Human~
+AGQR Z 1000 0
+34 0 10d10+1200 1d1+99 4d7+12 slap
+-11 -11 -11 -3
+EFIKN Q IL 0
+stand stand female 678
+AHMV ABCDEFGHIJK medium unknown
+#12521
+cook castle servant moon~
+one of the castle cooks~
+A cook almost tramples you as he hustles about trying to get things done.
+~
+This cook, just like all the others seems to be in a frenzy right now, they
+have to work their tails off to keep up with the demand for food the ball
+is giving, how they manage to keep up you can only wonder.
+~
+Human~
+AGR Z 1000 0
+35 0 10d10+1300 1d1+99 4d7+12 punch
+-11 -11 -11 -3
+DEFIKNU Q L 0
+stand stand either 112
+AHMV ABCDEFGHIJK medium unknown
+#12522
+guest male older~
+a somewhat older guest~
+A guest that looks somewhat older then most here rests in his room.
+~
+Apparently he can no longer keep up with the young blood on the dance floor
+some this older man has retired to his room early to take a rest and ponder
+whether or not he should try enjoying the party again.
+~
+Human~
+AGQ Z 1000 0
+35 0 10d10+1300 1d1+99 4d7+12 punch
+-11 -11 -11 -3
+DEFIKNU Q L 0
+stand stand male 112
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#12500
+cresent moon wand~
+the Cresent Moon Wand~
+A cresent with a silver crystal set in it lies here forgotten.~
+mithril~
+weapon AGIKLTY AN
+exotic 10 9 magic AD
+100 0 0 100
+A
+18 3
+A
+19 3
+A
+20 -2
+#12501
+golden tiara~
+a golden tiara inset with a red jewel~
+A curved piece of gold lies here, it looks very valuable!~
+gold~
+armor GHKLTY AE
+E E E D 0
+90 0 0 100
+A
+18 2
+#12502
+shimmering full length evening gown~
+a shimmering full length evening gown~
+A beautfully made gown lies here getting dirty, what a pity!~
+etherealness~
+armor KLMPTY AK
+CE CE CE CE 0
+100 0 0 100
+A
+20 -3
+#12503
+visor computer mercury~
+a transparent computer visor~
+A piece of thin blue plastic sits here glowing softly.~
+crystal~
+armor AGKLY AE
+E E E BD 0
+90 0 0 100
+A
+18 2
+A
+19 3
+A
+12 25
+#12504
+power mars sailor planet~
+the Power of the planet Mars~
+A small wand floats here engraved with the symbol of Mars.~
+energy~
+weapon AGKLMY AN
+exotic 9 10 flame AD
+80 0 0 100
+A
+18 2
+A
+19 2
+#12505
+power mercury sailor planet~
+the Power of the planet Mercury~
+A small wand floats here engraved with the symbol of Mercury.~
+energy~
+weapon AGKLMY AN
+exotic 9 10 chill BD
+80 0 0 100
+A
+18 2
+A
+19 2
+#12506
+power jupiter sailor planet~
+the Power of the planet Jupiter~
+A small wand floats here engraved with the symbol of Jupiter.~
+energy~
+weapon AGKLMY AN
+exotic 9 10 shock DG
+80 0 0 100
+A
+18 2
+A
+19 2
+#12507
+power venus sailor planet~
+the Power of the planet Venus~
+A small wand floats here engraved with the symbol of Venus.~
+energy~
+weapon AGKLMY AN
+exotic 9 10 magic DE
+80 0 0 100
+A
+18 2
+A
+19 2
+#12508
+red bow hair ribbon~
+a red hair ribbon tied into a bow~
+A thick red ribbon lies her starting to fray at one end.~
+satin~
+armor GKLY AE
+BCD BCD BCD ABC 0
+70 0 5000 100
+A
+18 2
+A
+12 50
+#12509
+scroll parchment~
+an scroll with 'Akuryou Taisan' written on it~
+A piece of parchment lies here with several Japanese symbols written on it.~
+parchment~
+scroll GI AO
+90 'remove curse' 'bless' '' ''
+70 0 6000 100
+#12510
+mark moon~
+the mark of the Moon~
+A shimmer is on the ground here shaped like a cresent moon.~
+energy~
+armor AGKLMY AE
+CD CD CD BC 0
+50 0 0 100
+A
+18 1
+A
+19 1
+A
+20 -1
+#12511
+red rose single~
+a single red rose~
+A red rose is stuck here stem first into the ground.~
+crystal~
+armor GHKQY AO
+CD CD CD BC 0
+45 0 0 100
+A
+18 2
+A
+19 1
+#12512
+black dress pants~
+black dress pants~
+A pair of black dress pants are here neatly folded into a pile.~
+cloth~
+clothing 0 AF
+0 0 0 0 0
+20 1 500 100
+A
+17 -3
+#12513
+white dress shirt~
+a white dress shirt~
+A white dress shirt is here folded into a neat pile.~
+cloth~
+clothing 0 AD
+0 0 0 0 0
+20 1 750 100
+A
+17 -4
+#12514
+flowing black cape~
+a flowing black cape~
+A pile of black fabric is here heaped up and wrinkled.~
+satin~
+armor GK AK
+E E E D 0
+65 0 1500 100
+A
+18 3
+A
+13 30
+#12515
+beautiful evening gown~
+a beautifully made evening gown~
+An evening gown lies here barely sparkling from all the dust on it.~
+cloth~
+clothing W AK
+0 0 0 0 0
+20 1 5000 100
+A
+17 -4
+#12516
+fountain marble~
+an intricately carved marble fountain~
+An intricately carved marble fountain sparkles in the twilight.~
+marble~
+fountain TY 0
+5 5 'water' 0 0
+1 0 0 100
+#12517
+punch bowl~
+a beautiful crystal punch bowl~
+A large crystalline punch bowl sits on the table ready to fill your glass.~
+crystal~
+fountain TY 0
+5 5 'absinthe' 0 0
+1 0 0 100
+E
+punch bowl~
+Under closer examination this punch appears to have a strange greenish tint
+to it. A sniff confirms it, the punch has been spiked! Uh-oh!
+~
+#12518
+glass champagne~
+a glass of the finest champagne~
+A sparkling glass of champagne sits on the table here for the guests.~
+crystal~
+drink 0 AO
+3 3 'champagne' 0 0
+1 1 0 100
+#12519
+slice cake~
+a slice of cake~
+A slice of cake has been cut and placed here on the table for the guests.~
+meat~
+food 0 AO
+BCDE DE 0 0 0
+0 5 0 100
+#12520
+plush love seat couch~
+a plush love seat~
+A incredibly soft love seat has been placed here for watching the stars.~
+hardwood~
+furniture 0 0
+B EGHIJK EHK BCDFG BCDFG
+1 0 0 100
+#12521
+leather couch large~
+a large leather couch~
+A large leather couch is here.~
+hardwood~
+furniture 0 0
+C DHIJM EHK BCDFG BCDFG
+1 0 0 100
+#12522
+chair balcony~
+a balcony chair~
+A balcony chair is here.~
+hardwood~
+furniture 0 0
+A EGHIJK EH ACDEFG ACDEFG
+1 0 0 100
+#12523
+vial absinthe~
+a vial of absinthe~
+A small vial filled with a greenish liquid rolls around on the floor.~
+glass~
+drink Y AO
+2 1 'absinthe' 0 0
+20 1 25000 100
+E
+vial absinthe~
+So, you appear to have found the culprit of the spiked punch. Those
+Venusians, always looking for a quick thrill! *eyeroll*
+~
+#12524
+body plate moon~
+a body plate marked with a Cresent Moon~
+A steel body plate with the sigil of the Moon Kingdom on it lies here.~
+steel~
+armor GKLY AD
+ABCD ABCD ABCD D 0
+80 10 5000 100
+#12525
+key moon cresent gold~
+a tiny gold key engraved with a cresent moon~
+A tiny key on a chain sits here on Serenity's nightstand.~
+gold~
+key FPTUY ACO
+0 0 0 0 0
+1 1 0 100
+#12526
+shield solid energy~
+a shield of solid electrical energy~
+A sizziling, sparking mass of electricity burns the ground here.~
+energy~
+armor ABGKLMY AJ
+CE CE CE ABCD 0
+90 0 5000 100
+A
+13 35
+A
+19 3
+A
+20 -4
+#12527
+large bed canopied~
+a large canopied bed~
+A large exceptionally made canopied bed rests in the center of the room.~
+hardwood~
+furniture 0 0
+B EGHIJK EHK ACDEFG ACDEFG
+1 0 0 100
+#12528
+sailor scout fuku mars~
+a red and white Sailor Scout fuku~
+An elaborate schoolgirl's fuku sits here getting dirty.~
+cloth~
+armor GIKLMY AD
+CE BE ABE ABCE 0
+90 2 3500 100
+A
+14 40
+A
+18 2
+A
+19 3
+#12529
+sailor scout fuku mercury~
+an aqua and white Sailor Scout fuku~
+An elaborate schoolgirl's fuku sits here getting dirty.~
+cloth~
+armor GIKLMY AD
+CE BE ABE ABCE 0
+90 2 3500 100
+A
+12 25
+A
+18 3
+A
+19 3
+#12530
+sailor scout fuku venus~
+an orange and white Sailor Scout fuku~
+An elaborate schoolgirl's fuku sits here getting dirty.~
+cloth~
+armor GIKLMY AD
+CE BE ABE ABCE 0
+90 2 3500 100
+A
+18 3
+A
+19 2
+A
+20 -3
+#12531
+sailor scout fuku jupiter~
+a green and white Sailor Scout fuku~
+An elaborate schoolgirl's fuku sits here getting dirty.~
+cloth~
+armor GIKLMY AD
+CE BE ABE ABCE 0
+90 2 3500 100
+A
+13 20
+A
+18 3
+A
+19 3
+#12532
+sword moon~
+a sword marked with a Cresent Moon~
+A large sword with the sigil of the Moon Kingdom etched into it lies here.~
+steel~
+weapon BGKLY AN
+sword 7 10 slice DFH
+75 10 5000 100
+#12533
+shoes black dress~
+a pair of black dress shoes~
+A pair of black dress shoes are here, so shiny you can see yourself in them!~
+leather~
+armor GHLY AG
+CE CE CE ABCD 0
+90 0 2000 100
+A
+18 2
+A
+19 3
+A
+14 20
+#0
+
+
+
+#ROOMS
+#12500
+Falling into a Void~
+As you climb down into the hole in the ground, a sense of vertigo washes
+over you and you feel as if time and space are melting around you. Suddenly,
+there is nothing but blackness around you, although below there seems to
+be a faint light in the distance.
+~
+0 8205 0
+D5
+The blackness continues in this direction as well, although a small hint of
+light appears to be shining in this direction.
+~
+~
+0 -1 12501
+S
+#12501
+Passing into the Light~
+After continuing on for what seems like ages towards the light you finally
+reach it only to be once again blasted by vertigo and into the light with
+a swirling vortex in front of you, leaving no choice but to proced.
+~
+0 8205 0
+D0
+In this direction the blackness seems to end in a swirling vortex of light,
+you have no choice but to procede in this direction.
+~
+~
+0 -1 12502
+S
+#12502
+Before the Moon Palace~
+From this here atop a high point on the Moon's rugged surface you can
+finally get a good view of the fabled Moon Palace. In person it looks
+much more wonderous then any of the stories could have described it or
+you could have ever imagined.
+~
+0 0 0
+D0
+To the north lies the gates of Queen Serenity's Moon Palace.
+~
+~
+0 -1 12503
+D2
+~
+~
+0 -1 12641
+D5
+~
+~
+0 0 12180
+S
+#12503
+At the Gates of the Moon Palace~
+The wooden gates of the palace tower above your head at this point
+extending at least 20 feet above you, and as if that weren't enough
+defense for the castle there are guardhouses on either side of you ready
+to empty at the first sign of trouble.
+~
+0 1 1
+D0
+The gates look to be quite solid and are reinforced by steel beams, so
+breaking down this door would not be an easy task.
+~
+large wooden gates~
+1 0 12504
+D1
+The east guardhouse lies to the east, where gate guards can take a break
+when not on active duty.
+~
+~
+0 -1 12645
+D2
+~
+~
+0 -1 12502
+D3
+In this direction lies the west guardhouse, for the guards to rest in when
+not on active duty.
+~
+~
+0 -1 12643
+S
+#12504
+A Grand Entrace Hall~
+On the inside this palace is even more spectacular than it looked from
+the outside, the high arched ceiling reaches up what looks like miles
+above you and appears to be of exceptional architectural workmanship,
+while the walls are decorated with a wide variety of art forms all of
+which are very pleasing to the eye, and to top it all off a thick red
+carpet traces a path north into the main hall of the palace.
+~
+0 12 0
+D0
+~
+~
+0 -1 12505
+D2
+~
+large wooden gates~
+1 0 12503
+S
+#12505
+The Southern Wall of a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12526
+D1
+~
+~
+0 -1 12520
+D2
+~
+~
+0 -1 12504
+D3
+~
+~
+0 -1 12506
+S
+#12506
+The Southern Wall of a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12521
+D1
+~
+~
+0 -1 12505
+D3
+~
+~
+0 -1 12507
+S
+#12507
+The South-West Corner of a Large Ballroom~
+Although you would expect the corner of the room to be less crowed then
+the other areas, this corner is the exception, people are constantly
+going in and out of the refreshment area east of you in droves, and
+common sense tells you to get out of the way before you get trampled.
+~
+0 8 0
+D0
+~
+~
+0 -1 12508
+D1
+~
+~
+0 -1 12506
+D3
+~
+~
+0 -1 12530
+S
+#12508
+The Western Wall of a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12509
+D1
+~
+~
+0 -1 12521
+D2
+~
+~
+0 -1 12507
+S
+#12509
+The Western Wall of a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12510
+D1
+~
+~
+0 -1 12522
+D2
+~
+~
+0 -1 12508
+D3
+~
+~
+0 -1 12573
+S
+#12510
+The Western Wall of a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12511
+D1
+~
+~
+0 -1 12523
+D2
+~
+~
+0 -1 12509
+S
+#12511
+The North-west Corner of a Large Ballroom~
+This corner of the room is just as alive with chatter as anywhere else
+in the ballroom but one section of it does appear to provide a possible
+way out of it all, a large staircase curves up to the second floor where
+the bedrooms are located, surely there it is calmer up there.
+~
+0 8 0
+D1
+~
+~
+0 -1 12512
+D2
+~
+~
+0 -1 12510
+D4
+~
+~
+0 -1 12532
+S
+#12512
+The Northern Wall of a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+storage closet door~
+1 -1 12555
+D1
+~
+~
+0 -1 12513
+D2
+~
+~
+0 -1 12523
+D3
+~
+~
+0 -1 12511
+S
+#12513
+The Northern Wall of a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12557
+D1
+~
+~
+0 -1 12514
+D2
+~
+~
+0 -1 12524
+D3
+~
+~
+0 -1 12512
+S
+#12514
+The Northern Wall of a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+swinging door~
+1 -1 12552
+D1
+~
+~
+0 -1 12515
+D2
+~
+~
+0 -1 12527
+D3
+~
+~
+0 -1 12513
+S
+#12515
+The North-East Corner of a Large Ballroom~
+This corner of the room is just as alive with chatter as anywhere else
+in the ballroom but one section of it does appear to provide a possible
+way out of it all, a large staircase curves up to the second floor where
+the bedrooms are located, surely there it is calmer up there.
+~
+0 8 0
+D2
+~
+~
+0 -1 12515
+D3
+~
+~
+0 -1 12514
+D4
+~
+~
+0 -1 12533
+S
+#12516
+The Eastern Wall of a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12515
+D2
+~
+~
+0 -1 12517
+D3
+~
+~
+0 -1 12527
+S
+#12517
+The Eastern Wall of a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12516
+D1
+~
+~
+0 -1 12583
+D2
+~
+~
+0 -1 12518
+D3
+~
+~
+0 -1 12528
+S
+#12518
+The Eastern Wall of a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12517
+D2
+~
+~
+0 -1 12519
+D3
+~
+~
+0 -1 12529
+S
+#12519
+The South-Eastern Corner of a Large Ballroom~
+Trying to keep from getting caught up in the crowds on the dance floor
+you move towards the corner of the room, but unfortunetly this area of
+the room is just as packed, if not moreso then the rest of the ballroom,
+although to the east there is a small alcove where you could proabably
+hide out.
+~
+0 8 0
+D0
+~
+~
+0 -1 12518
+D1
+~
+~
+0 -1 12640
+D3
+~
+~
+0 -1 12520
+S
+#12520
+The Southern Wall of a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12529
+D1
+~
+~
+0 -1 12519
+D3
+~
+~
+0 -1 12505
+S
+#12521
+Inside a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12521
+D1
+~
+~
+0 -1 12526
+D2
+~
+~
+0 -1 12506
+D3
+~
+~
+0 -1 12508
+S
+#12522
+Inside a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12523
+D1
+~
+~
+0 -1 12525
+D2
+~
+~
+0 -1 12521
+D3
+~
+~
+0 -1 12509
+S
+#12523
+Inside a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12512
+D1
+~
+~
+0 -1 12524
+D2
+~
+~
+0 -1 12522
+D3
+~
+~
+0 -1 12510
+S
+#12524
+Inside a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12513
+D1
+~
+~
+0 -1 12527
+D2
+~
+~
+0 -1 12525
+D3
+~
+~
+0 -1 12523
+S
+#12525
+Center of a Large Ballroom~
+Up close the fountain that you could see from afar looks even more
+spectacular, the fountain itself must be at least ten or fifteen feet
+high and its jet of water goes up another twenty feet adding another
+impressive sight to everything that is going on all around you.
+~
+0 8 0
+D0
+~
+~
+0 -1 12524
+D1
+~
+~
+0 -1 12528
+D2
+~
+~
+0 -1 12526
+D3
+~
+~
+0 -1 12522
+S
+#12526
+Inside a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12525
+D1
+~
+~
+0 -1 12529
+D2
+~
+~
+0 -1 12505
+D3
+~
+~
+0 -1 12521
+S
+#12527
+Inside a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12514
+D1
+~
+~
+0 -1 12516
+D2
+~
+~
+0 -1 12528
+D3
+~
+~
+0 -1 12524
+S
+#12528
+Inside a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12527
+D1
+~
+~
+0 -1 12517
+D2
+~
+~
+0 -1 12529
+D3
+~
+~
+0 -1 12525
+S
+#12529
+Inside a Large Ballroom~
+This ball room is absouletly flowing with life right now, all around you
+people are dancing, others are chatting, while still others are just
+enjoying the music, and all the while a happy, free-spirited mood prevails
+over it all, helping you forget your troubles and wash your worries away.
+~
+0 8 0
+D0
+~
+~
+0 -1 12528
+D1
+~
+~
+0 -1 12518
+D2
+~
+~
+0 -1 12520
+D3
+~
+~
+0 -1 12526
+S
+#12530
+At One End of the Refreshment Tables~
+A large table has been set up here that runs the length of this alcove
+and is filled with all sorts of food and drink of the guests to enjoy,
+cooks and servants hustle and bustle in and out of this area trying to
+keep everything stocked and in place, better be careful lest you get
+run right over.
+~
+0 8 0
+D0
+~
+~
+0 -1 12531
+D1
+~
+~
+0 -1 12507
+S
+#12531
+At the Far End of the Refreshment Tables~
+A large table has been set up here that runs the length of this alcove
+and is filled with all sorts of food and drink of the guests to enjoy,
+cooks and servants hustle and bustle in and out of this area trying to
+keep everything stocked and in place, better be careful lest you get
+run right over.
+~
+0 8 0
+D2
+~
+~
+0 -1 12530
+S
+#12532
+The Upstairs Landing~
+After reaching the top of the spiral staircase you can get quite a view
+of the ballroom below you, while to the east and west lie private areas
+of the castle, set aside for guests staying the night.
+~
+0 8 0
+D1
+~
+~
+0 -1 12534
+D3
+~
+~
+0 -1 12541
+D5
+~
+~
+0 -1 12511
+S
+#12533
+The Upstairs Landing~
+After reaching the top of the spiral staircase you can get quite a view
+of the ballroom below you, while to the east and west lie private areas
+of the castle, set aside for guests staying the night.
+~
+0 8 0
+D1
+~
+~
+0 -1 12548
+D3
+~
+~
+0 -1 12534
+D5
+~
+~
+0 -1 12515
+S
+#12534
+Overlooking the Ballroom~
+From here you have a complete view of the ballroom and it looks
+spectacular, the crystal chandeliers and shimmering above illuminating
+the room, while below in the center of the room a large marble fountain
+sprays jets of sparkling water up in the air that reflect the light
+off like little rainbows.
+~
+0 8 0
+D0
+~
+~
+0 -1 12539
+D1
+~
+~
+0 -1 12533
+D3
+~
+~
+0 -1 12532
+S
+#12535
+An Upstairs Hallway~
+This lavishly decorated hall connects the upstairs bedrooms with one
+another and the rest of the palace. As you walk down it with the luscious
+red carpet squishing under you feet, you are tempted to take your boots
+off and walk down it barefoot, but remembering where you are, common
+sense overcomes and you decide against it.
+~
+0 8 0
+D0
+~
+~
+0 -1 12536
+D1
+~
+door~
+1 -1 12538
+D2
+~
+~
+0 -1 12539
+D3
+~
+door~
+1 -1 12537
+S
+#12536
+An Upstairs Balcony~
+This small balcony provides the perfect place to sit down and relax away
+from it all, there are two chairs set up here as well giving you a spot
+to sit and watch the starry sky and unwind.
+~
+0 513 1
+D2
+~
+~
+0 -1 12535
+S
+#12537
+Serena's Bedroom~
+Princess Serena's Bedroom looks about what you'd expect of a girl half her
+age, definetly not what you'd expect of a Princess from one of the most
+powerful kingdoms in the Solar System. The room is painted in a gaudy bright
+pink that makes your eyes hurt, and in the center of the room is a large
+canopied bed which is also, *ugh*, pink and has many stuffed animals on it
+including a HUGE white bunny rabbit. This truly does look like a child's room
+and not one of a maturing Princess.
+~
+0 8 0
+D1
+~
+door~
+1 -1 12535
+S
+#12538
+Queen Serenity's Bedroom~
+Surprisingly enough, Queen Serenity's bedroom looks very similar to those
+setup for the guests of the kingdom, except for the fact that it looks a
+bit more lived in, the only other differences are quite minor, like the
+others her room has a canopied feather bed in the center, a bedside table
+and a vanity with a large mirror mounted on the wall above it.
+~
+0 8 0
+D3
+~
+door~
+1 -1 12535
+S
+#12539
+An Upstairs Hallway~
+This lavishly decorated hall connects the upstairs bedrooms with one
+another and the rest of the palace. As you walk down it with the luscious
+red carpet squishing under you feet, you are tempted to take your boots
+off and walk down it barefoot, but remembering where you are, common
+sense overcomes and you decide against it.
+~
+0 8 0
+D0
+~
+~
+0 -1 12535
+D2
+~
+~
+0 -1 12534
+S
+#12540
+An Upstairs Balcony~
+This small balcony provides the perfect place to sit down and relax away
+from it all, there are two chairs set up here as well giving you a spot
+to sit and watch the starry sky and unwind.
+~
+0 513 1
+D3
+~
+~
+0 -1 12549
+S
+#12541
+An Upstairs Hallway~
+This lavishly decorated hall connects the upstairs bedrooms with one
+another and the rest of the palace. As you walk down it with the luscious
+red carpet squishing under you feet, you are tempted to take your boots
+off and walk down it barefoot, but remembering where you are, common
+sense overcomes and you decide against it.
+~
+0 8 0
+D1
+~
+~
+0 -1 12532
+D3
+~
+~
+0 -1 12542
+S
+#12542
+An Upstairs Hallway~
+This lavishly decorated hall connects the upstairs bedrooms with one
+another and the rest of the palace. As you walk down it with the luscious
+red carpet squishing under you feet, you are tempted to take your boots
+off and walk down it barefoot, but remembering where you are, common
+sense overcomes and you decide against it.
+~
+0 8 0
+D0
+~
+door~
+1 -1 12543
+D1
+~
+~
+0 -1 12541
+D2
+~
+door~
+1 -1 12544
+D3
+~
+~
+0 -1 12545
+S
+#12543
+A Guest Bedroom~
+This bedroom seems rather plain for what you'd expect in a palace of
+such grandeur as this, but after all it is only a guest bedroom and
+serves it purpose, giving extended stay guests or those unable to
+make the trip home a place to spend their nights in peace.
+~
+0 8 0
+D2
+~
+door~
+1 -1 12542
+S
+#12544
+A Guest Bedroom~
+This bedroom seems rather plain for what you'd expect in a palace of
+such grandeur as this, but after all it is only a guest bedroom and
+serves it purpose, giving extended stay guests or those unable to
+make the trip home a place to spend their nights in peace.
+~
+0 8 0
+D0
+~
+door~
+1 -1 12542
+S
+#12545
+An Upstairs Balcony~
+This small balcony provides the perfect place to sit down and relax away
+from it all, there are two chairs set up here as well giving you a spot
+to sit and watch the starry sky and unwind.
+~
+0 513 1
+D1
+~
+~
+0 -1 12542
+S
+#12546
+The Council Chamber~
+At this point in the chamber lies the seat engraved with the sign of
+the planet Pluto. From here the leaders discuss their views on many
+different matters and make most of the governing decisions of the solar
+system.
+~
+0 8200 0
+D2
+~
+~
+0 -1 12565
+D3
+~
+~
+0 -1 12566
+S
+#12547
+The Council Chamber~
+At this point in the chamber lies the seat engraved with the sign of
+the planet Saturn. From here the leaders discuss their views on many
+different matters and make most of the governing decisions of the solar
+system.
+~
+0 8200 0
+D1
+~
+~
+0 -1 12566
+D2
+~
+~
+0 -1 12564
+S
+#12548
+An Upstairs Hallway~
+This lavishly decorated hall connects the upstairs bedrooms with one
+another and the rest of the palace. As you walk down it with the luscious
+red carpet squishing under you feet, you are tempted to take your boots
+off and walk down it barefoot, but remembering where you are, common
+sense overcomes and you decide against it.
+~
+0 8 0
+D1
+~
+~
+0 -1 12549
+D3
+~
+~
+0 -1 12533
+S
+#12549
+An Upstairs Hallway~
+This lavishly decorated hall connects the upstairs bedrooms with one
+another and the rest of the palace. As you walk down it with the luscious
+red carpet squishing under you feet, you are tempted to take your boots
+off and walk down it barefoot, but remembering where you are, common
+sense overcomes and you decide against it.
+~
+0 8 0
+D0
+~
+door~
+1 -1 12550
+D1
+~
+~
+0 -1 12540
+D2
+~
+door~
+1 -1 12551
+D3
+~
+~
+0 -1 12548
+S
+#12550
+A Guest Bedroom~
+This bedroom seems rather plain for what you'd expect in a palace of
+such grandeur as this, but after all it is only a guest bedroom and
+serves it purpose, giving extended stay guests or those unable to
+make the trip home a place to spend their nights in peace.
+~
+0 8 0
+D2
+~
+door~
+1 -1 12549
+S
+#12551
+A Guest Bedroom~
+This bedroom seems rather plain for what you'd expect in a palace of
+such grandeur as this, but after all it is only a guest bedroom and
+serves it purpose, giving extended stay guests or those unable to
+make the trip home a place to spend their nights in peace.
+~
+0 8 0
+D0
+~
+door~
+1 -1 12549
+S
+#12552
+Inside the Palace Kitchen~
+Right now this kitchen is in a frenzy, cooks are darting back and forth
+trying to keep the refreshments for the ball fully stocked, everyone
+seems to be doing a thousand different things at once, it makes you
+wonder how can they keep this up.
+~
+0 8 0
+D0
+~
+~
+1 -1 12553
+D2
+~
+swinging door~
+1 -1 12514
+S
+#12553
+Inside the Palace Kitchen~
+Right now this kitchen is in a frenzy, cooks are darting back and forth
+trying to keep the refreshments for the ball fully stocked, everyone
+seems to be doing a thousand different things at once, it makes you
+wonder how can they keep this up.
+~
+0 8 0
+D0
+~
+pantry door~
+1 -1 12554
+D2
+~
+~
+0 -1 12552
+S
+#12554
+The Pantry~
+This pantry is any cooks dream, shelves upon shelves go up around you
+stacked full of anything you could possible need or want to make anything
+from the most exotic to the simplest everyday dishes.
+~
+0 10253 0
+D2
+~
+pantry door~
+1 -1 12553
+S
+#12555
+A Storage Room~
+This closet is pretty much packed as full as it could get, with things
+stacked high on both sides of you, although there is a small space carved
+out down the middle of the storage area leading back into the deeper
+recesses of this closet.
+~
+0 525 0
+D0
+~
+~
+0 -1 12556
+D2
+~
+storage closet door~
+1 -1 12512
+S
+#12556
+The Back of the Storage Room~
+This room is packed full of all sorts of things Queen Serenity had to
+move out of the way to prepare for her ball, although there is little
+space left in here, one could probably find a place to hide if the
+need arose.
+~
+0 2061 0
+D2
+~
+~
+0 -1 12555
+S
+#12557
+A Grand Hallway~
+This beautifully arched hallway truly displays the splendor of the Moon
+Kingdom, it is carpeted in luscious red carpeting, while the walls
+adorned with portraits of leaders past and present, and overhead
+illuminating the room hangs a crystal chandelier sparkling majestically.
+~
+0 12 0
+D0
+~
+~
+0 -1 12558
+D1
+~
+door~
+1 -1 12568
+D2
+~
+~
+0 -1 12513
+D3
+~
+door~
+1 -1 12532
+S
+#12558
+A Grand Hallway~
+This beautifully arched hallway truly displays the splendor of the Moon
+Kingdom, it is carpeted in luscious red carpeting, while the walls
+adorned with portraits of leaders past and present, and overhead
+illuminating the room hangs a crystal chandelier sparkling majestically.
+~
+0 12 0
+D0
+~
+Door emblazoned with a Cresent Moon~
+4 12525 12559
+D2
+~
+~
+0 -1 12557
+S
+#12559
+Entering the Council Chamber~
+One word can describe the Council Chamber and that is amazing, the
+circular room has a high arched ceiling with banners representing
+each of the planets hanging from it, and the table in the center
+looks as though it was cut from a huge single piece of crystal,
+shining like a rare gem both valuable and strong, and at the head of
+the chamber lies Queen Serenity's seat on the panel with a cresent moon
+banner hanging on the wall above her, this room is simply spectacular.
+~
+0 8200 0
+D1
+~
+~
+0 -1 12561
+D2
+~
+door emblazoned with a Cresent Moon~
+4 12525 12558
+D3
+~
+~
+0 -1 12560
+S
+#12560
+The Council Chamber~
+At this point in the chamber lies the seat engraved with the sign of
+the planet Jupiter. From here the leaders discuss their views on many
+different matters and make most of the governing decisions of the solar
+system.
+~
+0 8200 0
+D0
+~
+~
+0 -1 12563
+D1
+~
+~
+0 -1 12559
+S
+#12561
+The Council Chamber~
+At this point in the chamber lies the seat engraved with the sign of
+the planet Venus. From here the leaders discuss their views on many
+different matters and make most of the governing decisions of the solar
+system.
+~
+0 8200 0
+D0
+~
+~
+0 -1 12562
+D3
+~
+~
+0 -1 12559
+S
+#12562
+The Council Chamber~
+At this point in the chamber lies the seat engraved with the sign of
+the planet Mercury. From here the leaders discuss their views on many
+different matters and make most of the governing decisions of the solar
+system.
+~
+0 8200 0
+D0
+~
+~
+0 -1 12565
+D2
+~
+~
+0 -1 12561
+S
+#12563
+The Council Chamber~
+At this point in the chamber lies the seat engraved with the sign of
+the planet Mars. From here the leaders discuss their views on many
+different matters and make most of the governing decisions of the solar
+system.
+~
+0 8200 0
+D0
+~
+~
+0 -1 12564
+D2
+~
+~
+0 -1 12560
+S
+#12564
+The Council Chamber~
+At this point in the chamber lies the seat engraved with the sign of
+the planet Uranus. From here the leaders discuss their views on many
+different matters and make most of the governing decisions of the solar
+system.
+~
+0 8200 0
+D0
+~
+~
+0 -1 12547
+D2
+~
+~
+0 -1 12563
+S
+#12565
+The Council Chamber~
+At this point in the chamber lies the seat engraved with the sign of
+the planet Neptune. From here the leaders discuss their views on many
+different matters and make most of the governing decisions of the solar
+system.
+~
+0 8200 0
+D0
+~
+~
+0 -1 12546
+D2
+~
+~
+0 -1 12562
+S
+#12566
+The Head of the Council Chamber~
+At the head of the Council chamber lies Queen Serenity's seat, from
+here she presides over the meetings between the leaders of the planets
+in both wartime and peace, standing here you can see and hear everything
+that goes on in the circular chamber, which at this time doesn't appear
+to be very much.
+~
+0 8200 0
+D1
+~
+~
+0 -1 12546
+D3
+~
+~
+0 -1 12547
+S
+#12567
+A Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D1
+~
+door~
+1 -1 12557
+D3
+~
+~
+0 -1 12569
+S
+#12568
+A Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D1
+~
+~
+0 -1 12579
+D3
+~
+door~
+1 -1 12557
+S
+#12569
+A Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D1
+~
+~
+0 -1 12567
+D3
+~
+~
+0 -1 12570
+S
+#12570
+A Corner in a Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D1
+~
+~
+0 -1 12569
+D2
+~
+~
+0 -1 12571
+D4
+~
+~
+0 -1 12617
+S
+#12571
+A Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D0
+~
+~
+0 -1 12570
+D2
+~
+~
+0 -1 12572
+S
+#12572
+A Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D0
+~
+~
+0 -1 12571
+D2
+~
+door~
+1 -1 12573
+S
+#12573
+An Intersection of Passageways~
+Here an arched passageway connects the main ballroom with the large
+outdoor balcony which Queen Serenity has converted into an open air
+ball area for this occasion, while plain unmarked doors lie on both the
+north and south walls of this passage.
+~
+0 8 0
+D0
+~
+door~
+1 -1 12572
+D1
+~
+~
+0 -1 12509
+D2
+~
+door~
+1 -1 12574
+D3
+~
+~
+0 -1 12629
+S
+#12574
+A Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D0
+~
+door~
+1 -1 12573
+D2
+~
+~
+0 -1 12575
+S
+#12575
+A Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D0
+~
+~
+0 -1 12574
+D2
+~
+~
+0 -1 12576
+S
+#12576
+A Corner in a Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D0
+~
+~
+0 -1 12575
+D1
+~
+~
+0 -1 12577
+D4
+~
+~
+0 -1 12616
+S
+#12577
+A Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D1
+~
+~
+0 -1 12578
+D3
+~
+~
+0 -1 12576
+S
+#12578
+A Dead End in a Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D3
+~
+~
+0 -1 12577
+S
+#12579
+A Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D1
+~
+~
+0 -1 12580
+D3
+~
+~
+0 -1 12568
+S
+#12580
+A Corner in a Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D2
+~
+~
+0 -1 12581
+D3
+~
+~
+0 -1 12579
+D4
+~
+~
+0 -1 12619
+S
+#12581
+A Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D0
+~
+~
+0 -1 12580
+D2
+~
+~
+0 -1 12582
+S
+#12582
+A Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D0
+~
+~
+0 -1 12581
+D2
+~
+door~
+1 -1 12583
+S
+#12583
+An Intersection of Passageways~
+Here an arched passageway connects the main ballroom with the large
+outdoor balcony which Queen Serenity has converted into an open air
+ball area for this occasion, while plain unmarked doors lie on both the
+north and south walls of this passage.
+~
+0 8 0
+D0
+~
+door~
+1 -1 12582
+D1
+~
+~
+0 -1 12639
+D2
+~
+door~
+1 -1 12584
+D3
+~
+~
+0 -1 12517
+S
+#12584
+A Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D0
+~
+door~
+1 -1 12583
+D2
+~
+~
+0 -1 12585
+S
+#12585
+A Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D0
+~
+~
+0 -1 12584
+D2
+~
+~
+0 -1 12586
+S
+#12586
+A Corner in a Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D0
+~
+~
+0 -1 12585
+D3
+~
+~
+0 -1 12587
+D4
+~
+~
+0 -1 12619
+S
+#12587
+A Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D1
+~
+~
+0 -1 12586
+D3
+~
+~
+0 -1 12588
+S
+#12588
+A Dead End in a Dimly Lit Passageway~
+This corridor of the castle, unlike the other is barely illuminated
+and contains no finishing whatsoever, the floors and walls have been
+left bare stone. This corridor appears to be strictly utilitarian
+in nature.
+~
+0 9 0
+D1
+~
+~
+0 -1 12587
+S
+#12589
+Inside the North-Western Watch Tower~
+Having reached the first landing in the watch tower, the stone that
+has been surrounding you for so long finally opens up giving you access
+to the palace ramparts, while a ladder continues up the tower to its peak,
+for a birds eye view of the area.
+~
+0 525 0
+D1
+~
+~
+0 -1 12647
+D2
+~
+~
+0 -1 12591
+D4
+~
+~
+0 -1 12590
+D5
+~
+~
+0 -1 12617
+S
+#12590
+Atop the North-Western Watch Tower~
+From this point high atop the castle you can see for miles in every
+direction, and gaze at the rocky lunar landscape which seems to have
+a rather bleak and barren appearance as it shines in the twilight.
+~
+0 8193 1
+D5
+~
+~
+0 -1 12589
+S
+#12591
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D0
+~
+~
+0 -1 12589
+D2
+~
+~
+0 -1 12592
+S
+#12592
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D0
+~
+~
+0 -1 12591
+D2
+~
+~
+0 -1 12593
+S
+#12593
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D0
+~
+~
+0 -1 12592
+D2
+~
+~
+0 -1 12594
+S
+#12594
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D0
+~
+~
+0 -1 12593
+D2
+~
+~
+0 -1 12595
+S
+#12595
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D0
+~
+~
+0 -1 12594
+D2
+~
+~
+0 -1 12596
+S
+#12596
+Inside the South-Western Watch Tower~
+Having reached the first landing in the watch tower, the stone that
+has been surrounding you for so long finally opens up giving you access
+to the palace ramparts, while a ladder continues up the tower to its peak,
+for a birds eye view of the area.
+~
+0 525 0
+D0
+~
+~
+0 -1 12595
+D1
+~
+~
+0 -1 12598
+D4
+~
+~
+0 -1 12597
+D5
+~
+~
+0 -1 12616
+S
+#12597
+Atop the South-Western Watch Tower~
+From this point high atop the castle you can see for miles in every
+direction, and gaze at the rocky lunar landscape which seems to have
+a rather bleak and barren appearance as it shines in the twilight.
+~
+0 8193 1
+D5
+~
+~
+0 -1 12596
+S
+#12598
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D1
+~
+~
+0 -1 12599
+D3
+~
+~
+0 -1 12596
+S
+#12599
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D1
+~
+~
+0 -1 12600
+D3
+~
+~
+0 -1 12598
+S
+#12600
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D1
+~
+~
+0 -1 12601
+D3
+~
+~
+0 -1 12599
+S
+#12601
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D1
+~
+~
+0 -1 12602
+D3
+~
+~
+0 -1 12600
+S
+#12602
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D1
+~
+~
+0 -1 12603
+D3
+~
+~
+0 -1 12601
+S
+#12603
+Inside the South-Eastern Watch Tower~
+Having reached the first landing in the watch tower, the stone that
+has been surrounding you for so long finally opens up giving you access
+to the palace ramparts, while a ladder continues up the tower to its peak,
+for a birds eye view of the area.
+~
+0 525 0
+D0
+~
+~
+0 -1 12605
+D3
+~
+~
+0 -1 12602
+D4
+~
+~
+0 -1 12604
+D5
+~
+~
+0 -1 12619
+S
+#12604
+Atop the South-Eastern Watch Tower~
+From this point high atop the castle you can see for miles in every
+direction, and gaze at the rocky lunar landscape which seems to have
+a rather bleak and barren appearance as it shines in the twilight.
+~
+0 8193 1
+D5
+~
+~
+0 -1 12603
+S
+#12605
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D0
+~
+~
+0 -1 12606
+D2
+~
+~
+0 -1 12603
+S
+#12606
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D0
+~
+~
+0 -1 12607
+D2
+~
+~
+0 -1 12605
+S
+#12607
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D0
+~
+~
+0 -1 12608
+D2
+~
+~
+0 -1 12606
+S
+#12608
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D0
+~
+~
+0 -1 12609
+D2
+~
+~
+0 -1 12607
+S
+#12609
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D0
+~
+~
+0 -1 12610
+D2
+~
+~
+0 -1 12608
+S
+#12610
+Inside the North-Eastern Watch Tower~
+Having reached the first landing in the watch tower, the stone that
+has been surrounding you for so long finally opens up giving you access
+to the palace ramparts, while a ladder continues up the tower to its peak,
+for a birds eye view of the area.
+~
+0 525 0
+D2
+~
+~
+0 -1 12609
+D3
+~
+~
+0 -1 12612
+D4
+~
+~
+0 -1 12611
+D5
+~
+~
+0 -1 12610
+S
+#12611
+Atop the South-Eastern Watch Tower~
+From this point high atop the castle you can see for miles in every
+direction, and gaze at the rocky lunar landscape which seems to have
+a rather bleak and barren appearance as it shines in the twilight.
+~
+0 8193 1
+D5
+~
+~
+0 -1 12610
+S
+#12612
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D1
+~
+~
+0 -1 12610
+D3
+~
+~
+0 -1 12613
+S
+#12613
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D1
+~
+~
+0 -1 12612
+D3
+~
+~
+0 -1 12614
+S
+#12614
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D1
+~
+~
+0 -1 12613
+D3
+~
+~
+0 -1 12615
+S
+#12615
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D1
+~
+~
+0 -1 12614
+D3
+~
+~
+0 -1 12647
+S
+#12616
+Ascending the South-West Watch Tower~
+Your steps echo off the solid stone walls breaking the dreadful silence
+as you make your way up the stairs towards the ramparts and top of the
+watch tower in this corner of the palace.
+~
+0 525 0
+D4
+~
+~
+0 -1 12596
+D5
+~
+~
+0 -1 12576
+S
+#12617
+Ascending the North-West Watch Tower~
+Your steps echo off the solid stone walls breaking the dreadful silence
+as you make your way up the stairs towards the ramparts and top of the
+watch tower in this corner of the palace.
+~
+0 525 0
+D4
+~
+~
+0 -1 12589
+D5
+~
+~
+0 -1 12570
+S
+#12618
+Ascending the North-East Watch Tower~
+Your steps echo off the solid stone walls breaking the dreadful silence
+as you make your way up the stairs towards the ramparts and top of the
+watch tower in this corner of the palace.
+~
+0 525 0
+D4
+~
+~
+0 -1 12610
+D5
+~
+~
+0 -1 12580
+S
+#12619
+Ascending the South-East Watch Tower~
+Your steps echo off the solid stone walls breaking the dreadful silence
+as you make your way up the stairs towards the ramparts and top of the
+watch tower in this corner of the palace.
+~
+0 525 0
+D4
+~
+~
+0 -1 12603
+D5
+~
+~
+0 -1 12586
+S
+#12620
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D0
+~
+~
+0 -1 12621
+D1
+~
+~
+0 -1 12627
+D2
+~
+~
+0 -1 12639
+S
+#12621
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D1
+~
+~
+0 -1 12628
+D2
+~
+~
+0 -1 12620
+S
+#12622
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D0
+~
+~
+0 -1 12639
+D1
+~
+~
+0 -1 12625
+D2
+~
+~
+0 -1 12623
+S
+#12623
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D0
+~
+~
+0 -1 12622
+D1
+~
+~
+0 -1 12624
+S
+#12624
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D0
+~
+~
+0 -1 12625
+D3
+~
+~
+0 -1 12623
+S
+#12625
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D0
+~
+~
+0 -1 12626
+D2
+~
+~
+0 -1 12624
+D3
+~
+~
+0 -1 12622
+S
+#12626
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D0
+~
+~
+0 -1 12627
+D2
+~
+~
+0 -1 12625
+D3
+~
+~
+0 -1 12639
+S
+#12627
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D0
+~
+~
+0 -1 12628
+D2
+~
+~
+0 -1 12626
+D3
+~
+~
+0 -1 12620
+S
+#12628
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D2
+~
+~
+0 -1 12627
+D3
+~
+~
+0 -1 12621
+S
+#12629
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D0
+~
+~
+0 -1 12630
+D1
+~
+~
+0 -1 12573
+D2
+~
+~
+0 -1 12638
+D3
+~
+~
+0 -1 12634
+S
+#12630
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D0
+~
+~
+0 -1 12631
+D2
+~
+~
+0 -1 12629
+D3
+~
+~
+0 -1 12633
+S
+#12631
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D2
+~
+~
+0 -1 12630
+D3
+~
+~
+0 -1 12632
+S
+#12632
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D1
+~
+~
+0 -1 12631
+D2
+~
+~
+0 -1 12633
+S
+#12633
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D0
+~
+~
+0 -1 12632
+D1
+~
+~
+0 -1 12630
+D2
+~
+~
+0 -1 12634
+S
+#12634
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D0
+~
+~
+0 -1 12633
+D1
+~
+~
+0 -1 12629
+D2
+~
+~
+0 -1 12635
+S
+#12635
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D0
+~
+~
+0 -1 12634
+D1
+~
+~
+0 -1 12638
+D2
+~
+~
+0 -1 12636
+S
+#12636
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D0
+~
+~
+0 -1 12635
+D1
+~
+~
+0 -1 12637
+S
+#12637
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D0
+~
+~
+0 -1 12638
+D3
+~
+~
+0 -1 12636
+S
+#12638
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D0
+~
+~
+0 -1 12629
+D2
+~
+~
+0 -1 12637
+D3
+~
+~
+0 -1 12635
+S
+#12639
+The Outdoor Ball Area~
+For her ball Queen Serenity has converted the Palace's outdoor balconys
+into an open air dance floor, and it appears to have gone over much to
+the liking of the guests as many are out enjoying their evening with
+the starry sky above them.
+~
+0 1 1
+D0
+~
+~
+0 -1 12620
+D1
+~
+~
+0 -1 12626
+D2
+~
+~
+0 -1 12622
+D3
+~
+~
+0 -1 12583
+S
+#12640
+A Small Alcove~
+This alcove in the corner of the ball room, although still connected
+seems secluded from everything else, and would seem to be the perfect
+place for two lovers to slip away from the party and get a bit more
+personal.
+~
+0 9740 0
+D3
+~
+~
+0 -1 12519
+S
+#12641
+Fading into Darkness~
+As you walk away from the spledor of the Moon Kingdom. the world around
+you slowly begins to blur until once again you are encased in a void of
+darkness.
+~
+0 8205 0
+D0
+~
+~
+0 -1 12642
+D1
+~
+~
+0 -1 12642
+D2
+~
+~
+0 -1 12642
+D3
+~
+~
+0 -1 12642
+D4
+~
+~
+0 -1 12642
+D5
+~
+~
+0 -1 12642
+S
+#12642
+Wandering in the Blackness~
+This pocket of time and space you seem to have been caught in continues
+in all directions with no visual end in sight.
+~
+0 8205 0
+D0
+~
+~
+0 -1 12642
+D1
+~
+~
+0 -1 12642
+D2
+~
+~
+0 -1 12642
+D3
+~
+~
+0 -1 12642
+D4
+~
+~
+0 -1 1214
+D5
+~
+~
+0 -1 12642
+S
+#12643
+The Western Guardhouse~
+This is where the guards who aren't currently on watch go to sit down,
+take a rest and have some fun. A table is set up in the middle of the
+room with dice and cards scattered all over it, while upstairs lie the
+guards' bunks.
+~
+0 8 0
+D1
+~
+~
+0 -1 12503
+D4
+~
+~
+0 -1 12644
+S
+#12644
+The Second Floor of the Guardhouse~
+This room is surprisingly cleaner than you would have expected judging
+from what you saw downstairs, no clothes are tossed around, nothing is
+out of place, all that is here are the bunks lined up against three of
+the walls and the chests containing the guards belongings lined up against
+the fourth wall, simply amazing!
+~
+0 8 0
+D5
+~
+~
+0 -1 12643
+S
+#12645
+The Eastern Guardhouse~
+This is where the guards who aren't currently on watch go to sit down,
+take a rest and have some fun. A table is set up in the middle of the
+room with dice and cards scattered all over it, while upstairs lie the
+guards' bunks.
+~
+0 8 0
+D3
+~
+~
+0 -1 12503
+D4
+~
+~
+0 -1 12646
+S
+#12646
+The Second Floor of the Guardhouse~
+This room is surprisingly cleaner than you would have expected judging
+from what you saw downstairs, no clothes are tossed around, nothing is
+out of place, all that is here are the bunks lined up against three of
+the walls and the chests containing the guards belongings lined up against
+the fourth wall, simply amazing!
+~
+0 8 0
+D5
+~
+~
+0 -1 12645
+S
+#12647
+On the Palace Ramparts~
+Walking along this stoney ledge gives you a good view of the vast lunar
+terrain that rolls out around the palace and seems to continue on
+endlessly, sitting here marvelling at the moon and the stars, it is easy
+to lose track of time and space.
+~
+0 1 1
+D1
+~
+~
+0 -1 12615
+D3
+~
+~
+0 -1 12589
+S
+#12648
+On the Plains~
+A gentle breeze from the sea stirs the grass for miles along the coast, 
+creating a rippling effect that's almost hypnotic. The Salty scent of 
+the sea seems to match the cry of the seagulls perfectly, creating a 
+utopia befitting such an awe inspiring display of nature.
+~
+0 0 2
+D0
+~
+~
+0 -1 12649
+D1
+~
+~
+0 -1 12648
+D2
+~
+~
+0 -1 9791
+D3
+~
+~
+0 -1 12648
+S
+#12649
+On the Plains~
+A gentle breeze from the sea stirs the grass for miles along the coast, 
+creating a rippling effect that's almost hypnotic. The Salty scent of 
+the sea seems to match the cry of the seagulls perfectly, creating a 
+utopia befitting such an awe inspiring display of nature.
+~
+0 0 2
+D0
+~
+~
+0 -1 12650
+D1
+~
+~
+0 -1 12649
+D2
+~
+~
+0 -1 12648
+D3
+~
+~
+0 -1 12649
+S
+#12650
+On the Plains~
+A gentle breeze from the sea stirs the grass for miles along the coast, 
+creating a rippling effect that's almost hypnotic. The Salty scent of 
+the sea seems to match the cry of the seagulls perfectly, creating a 
+utopia befitting such an awe inspiring display of nature. A lone tree 
+grows here, it's roots creating a tunnel down into the ground.
+~
+0 0 2
+D0
+~
+~
+0 -1 12650
+D1
+~
+~
+0 -1 12650
+D2
+~
+~
+0 -1 12649
+D3
+~
+~
+0 -1 12650
+D5
+~
+~
+0 -1 12500
+S
+#12651
+A Ruined Entrance~
+Following a ruined set of stairs down you seem to have discovered the
+remains of an underground house of some sort.  There is a steel door to
+the north, but it is jammed half-open.  Behind the door you see only solid
+earth. The walls which frame the door are painted a delicate shade of
+white, but the paint is beginning to peel.  A couple of feet above the
+door handle and to the right, there is a small emblem of a crescent moon.
+It seems as though a bomb went off here.  It's very still and silent.
+~
+0 4 0
+E
+door steel~
+It's a 2-inch thick steel door.  Someone has written a note on the back.
+It reads:
+
+The Sailor Scouts are dead!  Long Live the Sailor Scouts!
+
+Althena, Aylea, Carlie, Jutara, Raye, Organa, Renala, Schala,
+Shiela, Soleka, and Me.
+
+Suzuran Majere, August 4th, 2000.  SailorMoon to Eternity!
+~
+S
+#12652
+Inside the Home of the Sailor Senshi~
+This was the hallway into and out of the Sailor Senshi home.  It is now a
+dirty, ruined hallway.  The walls have deteriorated, and the marble floor is
+covered in dirt and moldy, stagnant water.  The entrance itself has collapsed
+some time ago.  Two oak pillars are still standing, the other two are buried
+in the remains of the entrance.  Shattered glass covers the floor, and pieces
+of pottery are scattered about as well.  North is the center of the home.
+~
+0 1537 0
+D0
+~
+~
+0 0 12653
+S
+#12653
+Center of the Sailor Senshi Home~
+One the center of activity for the Sailor Senshi, this room has not seen
+a visitor for quite some time.  Bits of yellow wood are scattered around the
+floor, and the walls are covered in peeling pinkish paint. Deteriorating
+paintings hang on wall hooks, but age and decay have eradicated all but the
+frames.
+~
+0 1537 0
+D1
+~
+~
+0 0 12654
+D2
+~
+~
+0 0 12652
+D3
+~
+~
+0 0 12655
+S
+#12654
+The Senshi Resting Area~
+This part of the underground dwelling hasn't stood up very well. Smashed
+items are scattered around the floor, which is made of the decaying remains
+of several large pillows.  The smell is overpowering.  Water is dripping from
+the ceiling, and collects in large puddles on the floor.
+~
+0 1537 0
+D3
+~
+~
+0 0 12653
+S
+#12655
+A Neglected Kitchen~
+As you enter the kitchen, you notice the overpowering aroma of rotten food.
+Along the walls are shattered remains of wooden cabinets, badly burned. The
+marble sink against the eastern wall is the only thing that identifies this
+as a kitchen. A smashed stove is against the south wall. The floor is
+remarkably unscathed here, but scorch marks are all over the place - There
+must have been an intense fire here.
+~
+0 1537 0
+D1
+~
+~
+0 0 12653
+S
+#0
+
+
+
+#SPECIALS
+M 12500 spec_cast_cleric
+M 12501 spec_cast_cleric
+M 12502 spec_guard
+M 12503 spec_cast_cleric
+M 12504 spec_cast_mage
+M 12506 spec_cast_mage
+M 12507 spec_cast_mage
+M 12508 spec_cast_cleric
+M 12509 spec_thief
+M 12510 spec_thief
+M 12511 spec_cast_mage
+M 12512 spec_cast_cleric
+M 12513 spec_cast_mage
+M 12514 spec_cast_cleric
+M 12515 spec_cast_mage
+M 12520 spec_cast_cleric
+M 12521 spec_cast_mage
+M 12522 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 12503 0 1
+D 0 12504 2 1
+D 0 12512 0 1
+D 0 12514 0 1
+D 0 12535 1 1
+D 0 12535 3 1
+D 0 12537 1 1
+D 0 12538 3 1
+D 0 12542 0 1
+D 0 12542 2 1
+D 0 12543 2 1
+D 0 12544 0 1
+D 0 12549 0 1
+D 0 12549 2 1
+D 0 12550 2 1
+D 0 12551 0 1
+D 0 12552 0 1
+D 0 12553 0 1
+D 0 12554 2 1
+D 0 12555 2 1
+D 0 12557 1 1
+D 0 12557 3 1
+D 0 12558 0 2
+D 0 12559 2 2
+D 0 12567 1 1
+D 0 12568 3 1
+D 0 12572 2 1
+D 0 12573 0 1
+D 0 12573 2 1
+D 0 12574 0 1
+D 0 12582 2 1
+D 0 12583 0 1
+D 0 12583 2 1
+D 0 12584 0 1
+M 0 12518 10 12503 2
+E 0 12524 0 5
+E 0 12532 0 16
+M 0 12518 10 12503 2
+E 0 12524 0 5
+E 0 12532 0 16
+M 0 12509 20 12506 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12506 1
+E 0 12515 0 12
+M 0 12509 20 12508 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12508 1
+E 0 12515 0 12
+O 0 12521 0 12508
+M 0 12509 20 12509 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12509 1
+E 0 12515 0 12
+M 0 12509 20 12510 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12510 1
+E 0 12515 0 12
+O 0 12521 0 12510
+M 0 12509 20 12511 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12511 1
+E 0 12515 0 12
+M 0 12509 20 12513 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12513 1
+E 0 12515 0 12
+M 0 12509 20 12515 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12515 1
+E 0 12515 0 12
+M 0 12509 20 12516 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12516 1
+E 0 12515 0 12
+O 0 12521 0 12516
+M 0 12509 20 12517 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12517 1
+E 0 12515 0 12
+M 0 12509 20 12518 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12518 1
+E 0 12515 0 12
+O 0 12521 0 12518
+M 0 12509 20 12519 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12519 1
+E 0 12515 0 12
+M 0 12509 20 12520 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12520 1
+E 0 12515 0 12
+M 0 12509 20 12521 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12521 1
+E 0 12515 0 12
+M 0 12509 20 12522 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12522 1
+E 0 12515 0 12
+M 0 12509 20 12523 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12523 1
+E 0 12515 0 12
+M 0 12501 1 12524 1
+E 0 12501 0 6
+E 0 12515 0 12
+M 0 12509 20 12524 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12524 1
+E 0 12515 0 12
+M 0 12502 1 12525 1
+E 0 12513 0 5
+E 0 12512 0 7
+E 0 12514 0 12
+E 0 12533 0 8
+G 0 12511 0
+O 0 12516 0 12525
+M 0 12509 20 12526 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12526 1
+E 0 12515 0 12
+M 0 12509 20 12527 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12527 1
+E 0 12515 0 12
+M 0 12509 20 12528 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12528 1
+E 0 12515 0 12
+M 0 12509 20 12529 1
+E 0 12512 0 7
+E 0 12513 0 5
+M 0 12510 20 12529 1
+E 0 12515 0 12
+M 0 12521 5 12530 1
+O 0 12519 0 12530
+O 0 12519 0 12530
+O 0 12519 0 12530
+O 0 12519 0 12530
+O 0 12519 0 12530
+M 0 12521 5 12531 1
+O 0 12517 0 12531
+O 0 12518 0 12531
+O 0 12518 0 12531
+O 0 12518 0 12531
+O 0 12518 0 12531
+O 0 12518 0 12531
+O 0 12522 0 12536
+O 0 12522 0 12536
+M 0 12508 1 12537 1
+E 0 12510 0 6
+O 0 12527 0 12537
+M 0 12507 1 12538 1
+E 0 12510 0 6
+O 0 12525 0 12538
+O 0 12527 0 12538
+M 0 12519 2 12540 1
+O 0 12522 0 12540
+M 0 12522 2 12543 1
+O 0 12527 0 12543
+O 0 12527 0 12544
+M 0 12519 2 12545 1
+O 0 12522 0 12545
+O 0 12527 0 12550
+M 0 12522 2 12551 1
+O 0 12527 0 12551
+M 0 12521 5 12552 1
+M 0 12521 5 12553 2
+M 0 12521 5 12553 2
+M 0 12500 1 12566 1
+E 0 12500 0 16
+E 0 12502 0 12
+M 0 12503 1 12590 1
+E 0 12504 0 16
+E 0 12509 0 17
+E 0 12528 0 5
+M 0 12504 1 12597 1
+E 0 12503 0 6
+E 0 12505 0 16
+E 0 12529 0 5
+M 0 12505 1 12604 1
+E 0 12506 0 16
+E 0 12526 0 11
+E 0 12531 0 5
+M 0 12506 1 12611 1
+E 0 12507 0 16
+E 0 12508 0 6
+E 0 12530 0 5
+M 0 12515 3 12620 1
+M 0 12513 3 12620 1
+M 0 12514 3 12621 1
+M 0 12520 3 12621 1
+M 0 12514 3 12622 1
+M 0 12520 3 12623 1
+M 0 12514 3 12624 1
+O 0 12520 0 12624
+M 0 12515 3 12625 1
+M 0 12513 3 12625 1
+M 0 12520 3 12625 1
+M 0 12515 3 12626 1
+M 0 12513 3 12626 1
+O 0 12520 0 12628
+M 0 12512 3 12630 1
+M 0 12516 3 12630 1
+O 0 12520 0 12631
+M 0 12516 3 12632 1
+M 0 12511 3 12633 1
+M 0 12517 3 12633 1
+M 0 12511 3 12634 1
+M 0 12517 3 12634 1
+M 0 12512 3 12635 1
+G 0 12523 0
+M 0 12516 3 12635 1
+M 0 12517 3 12637 1
+O 0 12520 0 12637
+M 0 12511 3 12638 1
+M 0 12512 3 12638 1
+M 0 12518 10 12643 4
+E 0 12524 0 5
+E 0 12532 0 16
+M 0 12518 10 12643 4
+E 0 12524 0 5
+E 0 12532 0 16
+M 0 12518 10 12643 4
+E 0 12524 0 5
+E 0 12532 0 16
+M 0 12518 10 12643 4
+E 0 12524 0 5
+E 0 12532 0 16
+M 0 12518 10 12645 4
+E 0 12524 0 5
+E 0 12532 0 16
+M 0 12518 10 12645 4
+E 0 12524 0 5
+E 0 12532 0 16
+M 0 12518 10 12645 4
+E 0 12524 0 5
+E 0 12532 0 16
+M 0 12518 10 12645 5
+E 0 12524 0 5
+E 0 12532 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

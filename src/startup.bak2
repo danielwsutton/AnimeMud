@@ -1,0 +1,34 @@
+#!/usr/bin/perl
+
+# If you want the port to be different, change it under $port, that way
+# you won't have someone doing 'startup blah' instead of 'startup 9000'.
+# Never trust the end-user, hehe... --Vorlin 5/1/2000
+
+# Name the port...
+$port = "9000";
+$pid = $$;
+
+if (@ARGV > 0) 
+  {
+  print "You think I trust you to obey the rules?\n";
+  exit;
+  } 
+
+# Check the damned port first for connections and if so, die with message.
+use Socket;
+$tcpProto = getprotobyname('tcp');
+socket(SOCKET, PF_INET(), SOCK_STREAM(), $tcpProto) || die "Socket: $!\n";
+$packed = pack('Sna4x8', AF_INET(), $port);
+
+if (connect(SOCKET, $packed)) {
+  print <<END;
+  You *DO* know there's another startup script using port $port, right?
+END
+  exit(1);
+  } 
+
+while (1) {
+  system('tcsh','-cf', "../src/rom $port >&! ../log/`date +%y%m%d-%H%M%S`.log");
+  if ( -e "./shutdown.txt" ) { unlink("./shutdown.txt"); system("kill -9 $pid"); }
+  sleep 5;
+  }

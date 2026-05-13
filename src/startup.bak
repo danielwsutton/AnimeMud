@@ -1,0 +1,64 @@
+#!/bin/tcsh
+# Written by Furey.
+# With additions from Tony and Alander.
+# Modified 960411 by Thierry (L)
+
+# Set the port number.
+set port = 9000
+if ( "$1" != "" ) set port="$1"
+
+# Change to area directory.
+cd ../area
+
+# Set limits.
+if ( -e shutdown.txt ) rm -f shutdown.txt
+
+while( 1 )
+
+    # Thierry 960411 
+    # Filename will be : Date(YearMonthDay).Time(HourMinutesSecons).log
+    set index   = `date +%y%m%d.%H%M%S`
+    set logfile = ../log/$index.log
+
+# hackery here to make the logfiles readable to lower-level losers but
+# not the general public.  Uncomment these to enable please.  3-6-2000, Suzuran
+
+# I enabled this myself, got tired of changing permissions for Folken
+# whenever the game crashed.  Sorry ahead of time if this was overstepping
+# my bounds.  Suzuran, 3-13-2000
+
+# precreate the logfile...
+touch $logfile
+
+# fixup perms/owner for logs and their directory, and players too.
+chmod u=rwx,g=rx,o= $logfile
+
+#./fixperms
+
+#chown anime.anime_www $logfile
+
+# Hackery here.  If a prerun.sh file exists in the current directory,
+# run it, then delete it.  Output is saved to prerun.output and printed
+# on the TTY as well.
+
+if ( -f ./prerun.sh ) then
+	echo Running prerun.sh
+	./prerun.sh | tee prerun.output
+	rm prerun.sh
+endif
+
+    # Run rom.
+
+#    ../src/rom $port >&! $logfile
+# uncomment this too and comment the preceeding line. >> means append.
+
+    ../src/rom $port >>&! $logfile
+
+
+    # Restart, giving old connections a chance to die.
+    if ( -e shutdown.txt ) then
+	rm -f shutdown.txt
+	exit 0
+    endif
+    sleep 15
+end

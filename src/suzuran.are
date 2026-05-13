@@ -1,0 +1,98 @@
+#AREADATA
+Name Suzuran's Stuff~
+Builders $suzuran~
+VNUMs 14160 14200
+Credits Suzuran~
+Security 9
+End
+
+
+
+#MOBILES
+#14160
+Ayu Tsukimiya~
+Ayu Tsukimiya~
+Ayu Tsukimiya is standing here, nervously watching people.
+~
+Ayu Tsukimiya is a medium-sized girl with short hair and brown eyes.  She
+is wearing a raincoat, mittens, and boots as if it is winter.  She also has
+a cute winged backpack and a red hair-band.  She looks cute, but her actions
+indicate that she just did something bad and she's hiding from the result.
+She smiles like the cat that just ate the canary...
+~
+Human~
+ABT HNc -250 0
+32000 10 1d1+28499 1d1+28499 14d20+50 beating
+-95 -95 -95 -95
+EFHIN ABLQR 0 0
+stand stand female 20
+HMV ABCDEFGHIJK medium unknown
+F for A
+#14161
+Nayuki Minase~
+Nayuki Minase~
+Nayuki Minase stands here, watching the sky.
+~
+Nayuki Minsae is a medium-sized girl with long blue hair and deep blue eyes.
+She wears a red and white winter school fuku, long grey socks, and heavy
+winter boots.  She doesn't move much or say anything, she is simply standing
+here watching the sky.  Maybe this is why she's late all the time...
+~
+Human~
+AB HN 1000 0
+100 17 1d1+28499 1d1+28499 14d20+50 beating
+-95 -95 -95 -95
+CEFI ABLQ 0 0
+stand stand female 0
+HM ABCDEFGHIJK medium unknown
+F for AV
+#14162
+Baphomet~
+Baphomet~
+Baphomet is here.  I suggest you run.  NOW.
+~
+Baphomet, the Lord of Demons, is quite an imposing sight.  He looks like a
+14-foot tall goat, standing on it's hind legs.  He's big, he's bad, and he
+likes to kill people.
+~
+Human~
+AB 0 -1000 0
+750 503 1d1+32350 1d1+32000 503d503+420 punch
+-260 -260 -260 -260
+ACEFN ABU CNR 0
+stand stand none 0
+HM ABCDEFGHIJKQW medium unknown
+F for AV
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

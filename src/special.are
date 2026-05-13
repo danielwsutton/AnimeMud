@@ -1,0 +1,409 @@
+#AREADATA
+Name Special Stuff~
+Builders None~
+VNUMs 15006 15062
+Credits {Special} Quest & Assorted~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#15006
+newbie sailormoons protection~
+Sailormoon's Protection~
+A precious mystical light lies here.~
+diamond~
+light ABGIY A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+2 10 640 100
+A
+19 2
+A
+18 2
+A
+17 -30
+A
+13 30
+A
+12 30
+A
+5 2
+A
+4 2
+A
+3 2
+A
+2 2
+A
+1 2
+E
+light~
+This is a newbie item given to starting adventurers.
+But only while the mud is in test mode !!!!!!
+
+  You are allowed to have only ONE of these.
+
+~
+#15007
+orb aldur~
+Aldur's Orb~
+The Orb of Aldur.~
+diamond~
+light ABFGIKLY A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+50 100 6 100
+F
+A 0 0 CDEFGHJNTUV
+A
+17 1500
+A
+5 2
+A
+4 2
+A
+3 2
+A
+2 2
+A
+1 2
+E
+light~
+Only the true hearted may hold this pulsating blue light.  ~
+#15008
+vial~
+An empty vial~
+A vial suitable for preparing potions has been left here~
+glass~
+potion 0 AO
+0 '' '' '' ''
+1 10 200 100
+#15009
+parchment~
+A clean parchment~
+A parchment used for writing spells has been left here.~
+parchement~
+scroll 0 AO
+0 '' '' '' ''
+1 20 3000 100
+#15040
+crimson champion sash -autoquest-~
+A `!C`1r`!i`1m`!s`1o`!n`#-`&c``o`&l``o`&r``e`&d`` `&S``a`&sh`` of `8Champ`&i`8ons``~
+`&(``AutoQuest`&)`` A `!b`1l`!o`1o`!d`` red sash lies upon the floor here...~
+energy~
+armor AGTYad AL
+CE CE CE CE 0
+100 5 0 100
+A
+12 100
+A
+13 300
+A
+14 100
+A
+19 50
+A
+18 50
+#15041
+heron-marked blade -autoquest-~
+A `#H`3eron`A-`&M``arked `ABlade``~
+`&(``AutoQuest`&)`` A well-crafted sword with a beautiful hilt stands before you...~
+energy~
+weapon ABTYad AN
+exotic 8 18 magic ADE
+80 5 0 100
+A
+12 50
+A
+13 150
+A
+14 50
+A
+19 15
+A
+18 15
+#15042
+amulet ancients -autoquest-~
+`&A``mule`&t`` of the `3A`#n``c`&ie``n`#t`3s``~
+`&(``AutoQuest`&)`` An ancient looking gold amulet lies here in the dust...~
+adamantite~
+armor BTYad AC
+ADE ADE ADE ADE 0
+46 5 0 100
+A
+17 -10
+A
+19 10
+A
+18 10
+A
+14 50
+A
+12 50
+A
+13 50
+#15043
+dimensional shield -autoquest-~
+The `4D`$i`4MENS`$i`4ONAL`` `&Sh``i`&eld``~
+`&(``AutoQuest`&)`` A large jet black shield lies here shifing between realities...~
+adamantite~
+armor ABTYad AJ
+ADE ADE ADE ADE 0
+42 5 0 100
+A
+12 50
+A
+13 50
+A
+14 50
+A
+20 -20
+A
+17 -100
+#15044
+decanter endless water -autoquest-~
+Decanter of `AEndless `^W`6a`^t`6e`^r``~
+(AutoQuest) A very small looking container with an endless bottom is here...~
+adamantite~
+fountain ABTYad AO
+-1 -1 'water' 0 0
+30 5 0 100
+A
+1 5
+A
+19 5
+A
+18 5
+#15045
+Batanen power morpher -questrecov-~
+``The `4B`$l`&u`$e `4R`$a`&ng`$e`4r`7's `4M`$o`&rp`$he`4r`7~
+(AutoQuest Recov Item) Batanen must have dropped his power ranger morpher! Better get it back before we have no blue ranger!~
+adamantite~
+treasure KYad A
+0 0 0 0 0
+0 5 0 100
+#15046
+Suzuran's gestapo hat -questrecov-~
+`5Su`%z`&ur`%a`5n's `5Ge`%s`&ta`%p`5o `5w`&a`%r `5h`%a`5t`7~
+(AutoQuest Recov Item) Suzuran's "Masculine" hat musth ave been dropped here. Better return it.~
+adamantite~
+treasure Yad AJ
+0 0 0 0 0
+0 5 0 100
+#15047
+bryson common sense -questrecov-~
+`3Br`#y`&so`#n's `2C`@o`&mm`@o`2n `2S`@e`&n`@s`2e`7~
+(AutoQuest Recov Item) Wow... something of bryson's on the ground? Did this ever exist in the first place? ~
+adamantite~
+treasure Yad AE
+0 0 0 0 0
+0 5 0 100
+#15048
+Sirus's gigantic ego -questrecov-~
+`8S`6i`^r`6u`8s's `8gi`6ga`^nt`6i`9c `6e`^g`6o`7~
+(AutoQuest Recov Item) A strangly tangible substance lies on the ground. It radiates with Sirus's energy.~
+adamantite~
+treasure Yad AO
+0 0 0 0 0
+0 5 0 100
+#15049
+Biryu black phone book of might -questrecov-~
+``Biryu's `8b`7l`&a`7c`8k`7 phonebook of might~
+(AutoQuest Recov Item) a large phonebook radiating with Biryu's mud chick's phone numbers is here. Truely a wonder of the world.~
+adamantite~
+treasure Yad AN
+0 0 0 0 0
+0 5 0 100
+#15050
+warbracer kaiserflare -autoquest-~
+A `8s``i`&lv``e`8r`#-`8sp`&i`8ked`` `&W``arbracer named `8"`&Ka``i`&ser`1f`!l`1a`!r`1e`8"``~
+`&(``AutoQuest`&)`` A fairly large spiked bracer lies here upon the ground...~
+silver~
+armor BGTYad AM
+ADE ADE ADE ADE 0
+58 5 0 100
+A
+12 150
+A
+13 150
+A
+14 150
+A
+19 25
+A
+18 25
+#15055
+band ronin -autoquest-~
+`^R`6o`^nin `6Ba`&n`6d`` of `@W`2isdo`@m``~
+`&(``AutoQuest`&)`` You feel `@W`2isdo`@m`` come to you when you look at this `6ba`&n`6d``.~
+obsidian~
+armor GTYad AB
+CE CE CE CE 0
+36 5 0 100
+F
+A 0 0 EFG
+A
+3 5
+A
+4 5
+A
+12 50
+A
+13 50
+A
+14 50
+A
+18 5
+A
+19 5
+#15056
+ring talpa -autoquest-~
+`8R`&i`8ng `7of `%T`5a`%lp`5a``~
+`&(``AutoQuest`&)`` `&Ev`7i`8l`` thoughts invade your mind as you gaze at this `8r`&i`8ng``.~
+obsidian~
+armor EGTYad AB
+CE CE CE CE 0
+40 5 0 100
+F
+A 0 0 CD
+A
+1 5
+A
+5 5
+A
+12 50
+A
+13 50
+A
+14 50
+A
+18 5
+A
+19 5
+#15057
+golden chocobo figurine -autoquest-~
+A `#G`3o`#lden `&C`8h`&ocobo `3F`#i`3gurine``~
+`&(``AutoQuest`&)`` A small `3F`#i`3gurine`` glows softly.~
+pewter~
+treasure AGTYad AQ
+0 0 0 0 0
+56 5 0 100
+A
+12 50
+A
+13 50
+A
+14 50
+A
+19 15
+A
+18 15
+A
+5 5
+A
+4 5
+A
+3 5
+A
+2 5
+A
+1 5
+#15058
+jug cabbit juice -autoquest-~
+`@J`2ug `7of `^C`6a`&bb`6i`^t `@J`6u`@ice``~
+`&(``AutoQuest`&)`` A big `@J`2ug`` is spilling slowly.~
+adamantite~
+fountain ABHTYad AO
+-1 -1 'milk' 0 0
+30 5 0 100
+A
+19 5
+A
+18 5
+#15059
+gauntlets fury -autoquest-~
+`&Ga`7u`8n`&t`8l`7e`&ts `7of `1F`#ur`1y``~
+`&(``AutoQuest`&)`` A pair of `&ga`7u`8n`&t`8l`7e`&ts`` shine brightly.~
+platinum~
+armor GITYad AH
+ADE ADE ADE ADE 0
+50 50 0 100
+A
+12 50
+A
+13 50
+A
+14 50
+A
+19 15
+A
+18 15
+A
+20 -10
+#15060
+pikachu-hide hide boots -autoquest-~
+`#P`3i`#k`3a`#c`3h`#u`3-`@H`2ide `&B`7o`8o`7t`8s``~
+`&(``AutoQuest`&)`` There is something awfully `@g`2r`@o`2ss`` about these `&B`7o`8o`7t`8s``.~
+hide~
+armor GITYad AG
+CE CE CE CE 0
+60 50 0 100
+F
+A 0 0 V
+A
+2 5
+A
+14 500
+A
+19 15
+A
+18 15
+#15061
+stock round single~
+a stock bullet~
+A plain, nondescript bullet is lying here.~
+metal~
+ammunition 0 A
+0 0 A 0 0
+20 1 10 100
+#15062
+stock round multi~
+a pile of stock bullets~
+A pile of plain, nondescript bullets is here.~
+metal~
+ammunition 0 A
+0 0 B 0 0
+20 1 10 100
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

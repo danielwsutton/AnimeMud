@@ -1,0 +1,126 @@
+[31314] Belldandy: for cry if you cast it on a person that already has the affect, it say balling insted of bawling
+[ 3054] Breetai: charname flys out up.
+[25088] Ilyatha: first room in Yang'tou warrior shrine..shrine is spelled shine :)
+[10519] Wych: typo in the spelling in hurricane kick, it's "Tatsu-Maki-Sen-Pu-Kyaku" not "Tatsu-Maki-Senpu-Kyaku"
+[    2] Dawn: "Your wiggle your bottom."
+[    2] Dawn: hmm these socials REALLY need grammar checks ;).."You slaps him wrist sharply."
+[ 3758] WalkerBoh: in score where it says to next level it says ToLevel shouldnt there be a space?
+[25024] Dredant: help afk line 3 first word
+[ 8867] Mia: Graviton high, thier should be their
+[ 8868] Mia: buisness-business
+[ 8868] Mia: tho-though
+[ 8872] Mia: had-has (I'm sure of it)
+[ 8824] Mia: lunch-lunches
+[10447] Ruka: the demonguards in hell do not have a capital D for their attacks -demonguard dodges your attack.
+[ 3001] Miasma: When anger wears off, it says, 'You lose your temper.'  That term is commonly used for someone who has just become very ANGRY, not for someone who has become calm.
+[ 3054] Miasma: the Slayers spells are totally inconsistant, I'd suggest making everything related to doragu sureibu 'dragu slave' or 'dragon slave', I'm not sure if this was fixed in the recent typo fixing or not, so I'm just sending this
+[13519] Sirus: Freaking fix it so when sneak wears off, it strips the affect bit.
+[23561] Ruka: I won't list them all...take a good look at Shimoda Villiage and the surrounding forests...I have a feeling that if I note two typos in two rooms next to each other, that there is a lot more...
+[ 8801] Ishuko: on the walkway to Graviton High, crowd is spelt croud. No biggy, keep up the good work -Ishuko
+[25024] Booya: look at the last sentence of the ra tiruto help file
+[ 3170] Cornelius: The word perimeter is spelled wrong in the area around Kowloon. It says parameter and should say perimeter.
+[12110] Platcarn: hi! I found typos. Like... Invid hq has alot. The invid spirit guide's description, and the room descriptions too, also one of the vnums is whack. like if you go north then south from clan recall its weird. :)
+[ 9509] Endurielle: new thalos map - the pet store is listed as a bank
+[25024] Mia: A sword rests here. You get a pair of purple gi shoes.
+[11169] Keyser: Narshe; Enterance to Mines
+[ 3019] Celeraya: in the description for the 'ra tiruto', it says 'said to destroy even a pure Demon destroy with a single shot.' Destroy is used incorrectly.
+[ 9410] Celeraya: Mobs that are more powerful than you will say 'Ah, a couple seconds work, for a lots of blood cleaning'. Typo is:for a 'lots' of blood cleaning.
+[13519] Minami: pain
+[11174] Ruka: A mag roader is already balling. this happens when you c cry on a mob that already is cried.
+[ 3001] Shivana: weight
+[25024] Xante: there is a typo on "a portable phone" its says is lieing here, it should lying here or is laying here.
+[25024] Xante: show
+[ 8807] Zhilia: in the room In the classroom, in Graviton High, 'their' is currently 'thier'.
+[12273] Aliris: There is a typo in Ray's description, in Land of the North Star...'ad' is supposed to be 'and'.
+[ 3010] Kreno: typo
+[16596] Gregr: check out the Street of Gods in UD, there are several typos all along it, and some of the stuff in the Descriptions is innacurate (I/E. To the north is the gathering place when the room leads to Slave Square)
+[ 9972] Gregr: In the "help afk" file, it says you type recall to see missed tells instead of replay.
+[ 7016] Mysa: if the lemure blob is supposed to be named after the Amazoness Quartet's lemures, it should be called the lemures blob because lemures is the singular form of the Greek word Naoko used =)
+[11008] Gregr: in A Quiet Meditation Building. It is in line 2 of the description.
+[ 3001] Diaseraph: on the board by tetsuo it says the moon kingdom is 2s30e3n3d2n, but it's really 2s30e3n2d2n
+[ 3374] Invictus: swprd
+[ 3001] Prexus: for
+[ 3170] Devion: osumi
+[ 3007] Xanae: "You are on a quest to slay the dreaded the drunk"
+[ 3170] Xenabu: begins to concentrate and vanishes from existance. its spelt existence
+[ 3734] Keichi: help
+[ 8816] Flowecarn: when you try to circle someone that is higher level than you it says  Attempt that when your a bit older.   It should be you are :p
+[11205] Vaulle: hasl
+[ 9976] Smorlok: someone fix this desc already.
+[25024] Morello: when concentration wears off, it says, 'You loose your train of thought.'...shouldn't it be 'You LOSE your train of thought.'?
+[12273] Elini: "look Ray" "He will stop at nothing to save his sister `!ad`7 to help Ken in his quest to stop his eldest brother Raoh in his madness."
+[12266] Elini: in the lands of shimoda there is an enemy called "rouge ninja" is this supposed to be "rogue ninja"?
+[16929] Vaulle: self
+[ 9421] Miriwen: On the description for gutter punks: "you realize from thier  revolting smell" thier sould be their
+[ 9420] Eluria: description of gutter punk:  "spent the night in a alley" instead of "an alley"
+[ 9420] Eluria: description of a gutter punk: "from thier revolting smell" instead of "from their revolting smell"
+[10427] Aleatha: in High-Elf help file:  "Regeration %100" instead of "Regeneration %100"
+[ 3750] Luccan: in the High-Elf help file: "Regeration %100 " instead of "
+[25024] Atma: barius ahahah
+[12291] Aleatha: descr for "Before the Stronghold" in "Land of the North Star": smell of death raoms here" instead of "smell of death roams here"
+[13519] Kuami: kyt
+[ 3043] Aleatha: "A shotokan prayer band glows a brillant gold!" should be brilliant, not brillant
+[ 8571] Weiling: moto
+[ 7409] Tyrixa: In the hot room down below the dump in all the muddy areas it says "There are also an exit to the west."...This should be read as There IS also an exit to the west.
+[13516] Sohma: neo-Toyko
+[16523] Maegwin: "Item recieved" in auction should be "Item received"
+[ 3054] Kronose: monk
+[ 1313] Weiling: th
+[ 1313] Weiling: th
+[ 3170] Diaseraph: the Social disco, if a male char does it to someone/mob it says soandso grabs soandso#2 and does him best Travolta! (it should say his, not him.)
+[ 3001] Diaseraph: Billboard, moon kingdom says 2s30e3n3dn, should say 2s30e3n2dn
+[ 3001] Diaseraph: billboard, it says Olympus is 2s3w4n2e8n3u2n, i should be 2s3w4n2e8n2u2n
+[ 3001] Diaseraph: billboard, says old thalos is 2s6e4s3e, shouldn't even be on here cuase it's 2s8e2n3e2n(get to other side of random void)s3w4s3w
+[ 3001] Diaseraph: billboard, says thalos is 2s,6e,4,all west, should be 2s6e4s3w
+[ 5100] Diaseraph: billboard, says drow city is 2s6e4s2es2ed,open,2wsd,open,dw, should be 2s6e4s2es2ed,open west,w,open south,sd,op down,dw
+[16946] Gathania: the cself arg for the cheer social says "You cheer for yourself since noone else will" there's no period there.
+[16167] Aleatha: "a tiny gold key engraved with a cresent moon" should be "a tiny gold key engraved with a crescent moon"
+[ 3008] Valius: Race descriptions; the initial stats values and max stat values don't line up. title the Newbie
+[ 3008] Valius: title the Newbie
+[ 3006] Valius: errrrrrr. The init stat/max stat alignment doesn't have a problem with the Saiyan description. only with the rest of them.
+[ 3006] Valius: High-Elf is listed as Elf if you type 'help' at the races select screen. 'help elf' and 'help high-elf' both reference the same help file, though.
+[ 3006] Valius: Dark-Elf is listed as Dark Elf if you type 'help' at the races select screen. This is in conflict with having to type 'help dark-elf' to get a description.
+[ 3006] Valius: The Dragon-Kin race is listed as Dragonkin at the race screen. 'help dragonkin' doesn't do anything, though help dragon-kin does. 
+[ 3006] Valius: The Dragon-kin's description lists it's resists as "charm slashing", instead of "charm, slashing". Vampires also lack commas in their resists and weaknesses.  Capitalization isn't consistant between the race descriptions either; all the other races 
+[ 3006] Valius: In the lists of initial and max strength, Dragonkin have a different spacing between STR and INT than the other races (one space too many). For Dwarves, the spacing between DEX and CON is off by one. 
+[ 3006] Valius: ..and that's it for now. Why do we submit so much? Because We Care! (tm)
+[16815] Ruka: XYZ drains the corpse of it's life blood. It's should be its.
+[ 3170] Auray: demon helpfile states demon gain double hp when its 1.5, please fix that =)
+[ 3050] Ryadel: racial maximums aren't right in the help <race> listings
+[ 3050] Ryadel: ex. saiyans racial max wis is 21 but it stops letting you train at 17
+[ 3170] Kyo: ara
+[12294] Tekki: In before the Stronghold. Land of the North Star, the room description has at least 2 typos in the last sentance.
+[ 3054] Syke: pks for pkstop
+[ 3760] Darrak: In the saferoom, above the newbie arena, the description says "You can rest here, and go up to go back to the Temple of Sendar." might want to fix that -- acraig@prophecy.lu hehe
+[16520] Tharnilon: At the North East corner of Wyrm and Sunrise it still says Midgaard and not Neo-TOkyo..
+[ 3555] Loricus: in "A tunnel in the mountains" in south of Neo-Tokyo, it should be "through" instead of thru
+[16592] Maiyu: this is what I see of the mob.... A weird hooded human stares at your a large glowing red eye.  This mob is from the Underdark, and I encountered it just inside the entrance.
+[16592] Maiyu: sorry...forgot to id the mob..... it is an eye of fear and flame
+[ 9505] Kurokishi: in do_donate, please add a newline after the 'You are rewarded %d silver for your generosity.' message
+[ 5550] Taloran: New Ofcol                                    (2s,3,w,4n,2e,7n,6e,3n)
+[ 9524] Taloran: Daria is standing. Try pushing him.
+[ 9524] Taloran: The Royal Guard says 'Who the hell do you think your pushing around??'
+[ 3121] Kurokishi: This room may have been overlooked when changing 'Emerald Avenue' to '8th Avenue'....
+[ 5216] Kurokishi: do_donate: the message '... rewarded %d silver for your generosity.' needs a \n\r at the end
+[ 3054] Kurokishi: act_obj.c: in wear_obj(), the message "You must wield the lightest of your weapons in your off-hand." needs a \n\r at the end.
+[ 3170] Weiling: testing
+[ 3054] Mathom: wy
+[16597] Toraneko: in the help for floating disc it says caser rather than caster
+[10426] Khyan: Item recieved and put in list. Should be received..when putting up an item on auction when something is already being auctioned.
+[ 3054] Khyan: In help gate, third sentence Monsters recieve..should be receive.
+[13084] Khyan: Along southern parameter fence...shouldn't parameter be perimeter? Kowloon Palace area.
+[ 3001] Facan: "and further modified by my a whole buncha other people..."
+[25024] Kaju: time
+[23575] Aleatha: 'kitana of Kibagami' should be 'Katana of Kibagami'? (Jubei's weapon)
+[ 3170] Zefi: f
+[ 7884] Kydman: A red spirit wold lies here. Wolf not wold
+[ 7835] Tuffer: A red spirit wold lies here. (should be wolf)
+[ 5242] Awah: Neo-Tokyo map says that there is a Pawn Shop next to the Grocer but that is the weaponsmith
+[ 6501] Moeljbcp: you
+[ 3170] Zekim: Directions to the Moon Kingdom on the billboard are wrong.  Should be 2s,30e,3n,2d,n
+[14334] Rem: Ukyo description is 'kawaii younf female' :P
+[ 9409] Aleatha: Gutter punk's desc: 'from thier revolting smell' thier should be their
+[ 9409] Aleatha: 'You faintly hear the today's news' shouldn't have 'the' 'You faintly hear today's news'
+[ 9409] Aleatha: 'today's news, coming' no comma 'today's news coming'
+[ 3170] Aleatha: 'Cresent Moon Wand' should be 'Crescent'
+[ 3054] Lia: list

@@ -1,0 +1,703 @@
+#AREA
+rpbar.are~
+RP-BAR~
+{ All } Kansas (RP-BAR)~
+13500 13599
+
+#MOBILES
+#13500
+julie ann~
+Julie~
+Julie leans over the table, taking a careful shot.
+~
+Julie has mid-length red-brown hair, which is
+currently in braids.  She is wearing, as is usual
+for pool night, a pair of jeans and a red waffle
+shirt.  Her face is intent as she sets up her
+next shot.
+~
+human~
+BG DF 1000 0
+200 170 1d1+29999 10d15+120 10d10+10 punch
+500 500 500 500
+0 AB 0 0
+stand stand female 0
+D 0 medium 0
+#13501
+jenn lynn~
+Jenn~
+Jenn watches the game with a practiced eye.
+~
+Jenn is wearing her short, medium brown hair straight and 
+down.  A comfortable looking pair of Paco jeans, a green 
+soccer shirt with the name Eustace on the back and a pair 
+of Birkenstocks make up her pool-playing clothes.  Holding 
+her cue stick loosely in one hand, she eyes the table, 
+preparing for her next shot.
+~
+unique~
+BG 0 0 0
+200 7 1d1+29999 10d10+10 10d10+10 slap
+30 30 30 30
+0 AB 0 0
+stand stand female 0
+AHMV ABCDEF medium 0
+#13502
+matt hall~
+Matt~
+Matt is here, in a daze of sorts.
+~
+You see a guy about average height staring off into space, 
+holding what seems to be a King Cobra bottle(tm). He is 
+wearing some big blue jeans, and reaks of cigarettes. With 
+his adidas windbreaker jacket, he looks like he's up for a 
+night of partying.
+~
+Human~
+BG DF -1000 0
+200 10 1d1+29999 10d10+10 10d10+10 pound
+30 30 30 30
+0 AB 0 0
+sit stand male 0
+0 0 medium 0
+#13503
+ian gee~
+Ian~
+Ian is here, ignoring you.
+~
+Standing before you is a tall, skinny guy. He looks away 
+from you, and makes an odd comment. Wearing his glasses 
+and a pentacle necklace over his collared shirt, he takes
+shot-after-shot of Jagermeister.
+~
+human~
+BG DF 0 0
+200 5 1d1+29999 10d10+10 10d10+10 pound
+50 50 50 50
+0 AB 0 0
+stand stand male 0
+0 0 medium 0
+#13504
+josh s~
+Josh~
+Josh stands here impatiantly, waiting to serve you.
+~
+Standing before you is a tall, skinny guy, around  5'10", and 
+a good 150 lbs. He is wearing two silver chains around his neck, 
+which complament his white button-up dress shirt. His hair is 
+black, shaved underneath, and pulled back to keep all the food 
+sanitary. he smiles at you and shoots you a glance with his blue 
+eyes, asking you what you would like.
+~
+human~
+BG DF -1000 0
+200 20 1d1+29999 10d100+10 10d10+10 punch
+50 50 50 50
+0 AB 0 0
+stand stand male 0
+0 0 medium 0
+#13505
+luna inverse~
+Luna Inverse~
+Luna Inverse is here, waiting to sell you something nice.
+~
+Blue hair drapes down over her eyes as she stares you down 
+waiting on your drink order. This is Luna Inverse, the infamous 
+sister of Lina Inverse, which Lina is scared of. Wearing a tight 
+waitress's outfit, which defines her body well, she smiles at you 
+and brushes the tufts of hair away from her eyes.
+~
+Human~
+BG DF 1000 0
+200 0 1d1+29999 10d1000+10 30d30+30 pound
+0 0 0 0
+0 AB 0 0
+stand stand female 0
+0 0 medium 0
+#0
+
+
+#OBJECTS
+#13500
+safe~
+a safe~
+A giant `8s`7i`&lv`7e`8r`` safe is here.~
+adamantite~
+container FOTY N
+0 0 0 0 0
+0 5 0 P
+
+#13501
+table~
+A table~
+A large wooden table.~
+wood~
+furniture O N
+0 0 0 0 0
+0 5 0 P
+
+#13502
+chair~
+A chair~
+A comfortable chair is here~
+wood~
+furniture 0 N
+1 1000 FH 0 0
+0 5 0 P
+
+#13503
+black bench~
+A black bench~
+A `8black`` bench.~
+wood~
+furniture 0 N
+6 10000 BEHK 0 0
+0 5 0 P
+
+#13504
+barstool~
+A barstool~
+A barstool.~
+wood~
+furniture 0 N
+1 1000 EH 0 0
+0 5 0 P
+
+#13505
+water fountain~
+a water fountain~
+a water fountain for thirsty dancers ~
+adamantite~
+fountain O N
+-1 -1 water 0 0
+0 5 0 P
+
+#13506
+pool table~
+`#a `@p`2ool `#t`3able``~
+`#a `@p`2ool `#t`3able`` is here, waiting for players.~
+wood~
+furniture TY N
+0 500 0 0 0
+0 5 0 P
+
+#13507
+pool cue~
+a pool cue~
+a pool cue with green and blue markings lies here.~
+wood~
+staff PTU AO
+10 10 10 'burning hands' 0
+0 5 0 P
+
+#13508
+candelbra immortals~
+Candelbra of Immortals~
+The `8Ca`7n`&del`7b`8ra`` of Immortals.~
+adamantite~
+light OT N
+0 0 -1 0 0
+0 5 0 P
+
+#13509
+door key~
+Door key~
+The `8Ma`7s`&ter-`7k`8ey`` for the bar is here.~
+black dragonscale~
+key HMPTYZ AO
+0 0 0 0 0
+0 5 0 P
+
+#13510
+cheese sticks~
+Cheese sticks~
+A basket of cheese sticks.~
+~
+food 0 AO
+2 4 0 0 0
+0 1 0 P
+
+#13511
+slice pizza~
+A slice of pizza~
+A slice of cheese pizza.~
+~
+food 0 AO
+2 4 0 0 0
+0 5 0 P
+
+#13512
+pretzel~
+A pretzel~
+A large pretzel with cheese across it.~
+~
+food 0 AO
+2 3 0 0 0
+0 5 0 P
+#0
+
+
+#ROOMS
+#13500
+Bottom-level stairway.~
+Walking down the creaking stairs, smells of perfumes, mixed in 
+with cigarettes and mild liquor float about the air. All kinds 
+of people are walking around, rangeing from dark elves to espers. 
+In this bar, all are welcome, as long as the place remains 
+peaceful.
+~
+0 DK 0
+D0
+~
+~
+0 -1 13502
+D4
+~
+~
+0 -1 13501
+S
+#13501
+Top of the stairwell.~
+Leading to the lower levels of the bar, the black stairway bends around 
+the corner. On the walls are fliers for many bands, and pictures of great 
+heroes of Neo-Toyko. in the middle is a plaque that reads-
+                    "Monument to those we have served"
+                                 Signed,
+                             The management.
+~
+0 DK 0
+D4
+~
+~
+0 -1 13509
+D5
+~
+~
+0 -1 13500
+S
+#13502
+Near the stairs.~
+People are walking all around, shoving their way through the mobs 
+of others. Sometimes there is an occasional trip-up and a fight 
+breaks loose, but most of the time people here seem relaxed. The 
+ceiling above you is a dark shade of black, and there are posters 
+advertising for local Neo-Tokyo bands all around. The black-lights 
+reflect off of them and it's hard not to stare off into their 
+magnetic haze.
+~
+0 DK 0
+D0
+~
+~
+0 -1 13505
+D2
+~
+~
+0 -1 13500
+D3
+~
+~
+0 -1 13503
+S
+#13503
+A hazy smoke-filled room.~
+Around this bend, there are large tables, filled with chairs around 
+them. Further ahead are bar tables where you can order anything from 
+a martini to a whiskey sour. Lining the bar tables are many ashtrays, 
+filled with cigarette butts, and some even have spilled corn-nuts with 
+burn marks on them. Large clouds of smoke fill this room, enough to 
+make one choke, unless they're used to this kind of atmosphere.
+~
+0 DK 0
+D0
+~
+~
+0 -1 13504
+D1
+~
+~
+0 -1 13502
+S
+#13504
+Near the snack-bar.~
+Smells of pretzels and other assorted goods inter-mingle with the 
+hovering smoke that floods the nostrils of anyone entering this 
+section of the bar. Seats line the walls and leave enough space 
+for a small person to squeeze in line for something to eat here, 
+while people walk around holding there drinks and trying to 
+converse. The black lights from the sides of the room illuminate 
+across faces and light up any bright clothing. Speakers line the 
+walls and seem to blast straight into the face of any passerbys.
+~
+0 DSK 0
+D2
+~
+~
+4 -1 13503
+S
+#13505
+A hazy smoke-filled room.~
+Around this bend, there are large tables, filled with chairs around 
+them. Further ahead are bar tables where you can order anything from 
+a martini to a whiskey sour. Lining the bar tables are many ashtrays, 
+filled with cigarette butts, and some even have spilled corn-nuts 
+with burn marks on them. Large clouds of smoke fill this room, enough 
+to make one choke, unless they're used to this kind of atmosphere.
+~
+0 DK 0
+D0
+~
+~
+0 -1 13506
+D2
+~
+~
+0 -1 13502
+S
+#13506
+Near the kitchen.~
+Wonderful scents emit from just around the corner, filling everyone's 
+noses with good things. There are a few small seats here, enough to 
+relax and hide away from the masses and relax with your drink. This 
+places seems cleaner than the rest, maybe for health reasons, but it 
+is sure enough a choice place to sit and chat with a few other friends.
+~
+0 DK 1
+D0
+~
+~
+0 -1 13518
+D1
+~
+~
+4 13509 13507
+D2
+~
+~
+0 -1 13505
+D3
+~
+~
+0 -1 13520
+S
+#13507
+In the kitchen.~
+Large metal tables line the kitchen walls and hold many various items, 
+either food or for food preperation. Near the back is a sink, used for 
+the washing of hands before any food may be touched or serviced. Music 
+can still be heard playing outside, as well as the idle chat and 
+laughter that fill this bar.
+~
+0 DK 0
+D0
+~
+~
+0 -1 13508
+D3
+~
+~
+4 -1 13506
+S
+#13508
+Bartenders' area.~
+Quantities of liquor and beer of all shapes and tastes are stored here, 
+as well as the safe for the money and other things that the manegment 
+doesnt want the general public to get into. Vast kegs are placed 
+strategicaly for those who need to grab them quickly and take them into 
+the frenzy of customers. Against the left wall is a safe, which holds 
+massive amounts of what you could only imagine.
+~
+0 CDK 0
+D2
+~
+~
+0 -1 13507
+S
+#13509
+Upper-level stairway~
+It's much less smoky up here, but no quieter.  There is music simply oozing 
+from every pore of every person in here.  The dance floor is usually full of 
+people, doing all sorts of dancing. Also, the faint thunk of darts hitting a 
+dartboard and the almost-musical click of one pool ball hitting another can 
+be heard.
+~
+0 DK 0
+D0
+~
+~
+0 -1 13510
+D5
+~
+~
+0 -1 13501
+S
+#13510
+The dance floor~
+Smoothly polished hardwood delineates the dimensions of the dance floor.  
+There is evidence, though, of the occasional nick or cut from high heels 
+and a few scuff marks from heavier boots.  A disco ball and theater lights 
+with gels of many colors illuminate the dancers.
+~
+0 DK 0
+D0
+~
+~
+0 -1 13511
+D2
+~
+~
+0 -1 13509
+D3
+~
+~
+0 -1 13512
+S
+#13511
+The dance floor~
+A mirrored door is set into the north wall, allowing the dancers to watch 
+themselves and others display their skills on the dance floor.  The odors 
+of alcohol, perfume and sweat permeate the room.  Not an altogether unpleasant 
+smell, especially without the reek of stale cigarettes mingling.
+~
+0 DK 0
+D0
+~
+~
+1 -1 13514
+D2
+~
+~
+0 -1 13510
+D3
+~
+~
+0 -1 13513
+S
+#13512
+Near the dance floor~
+For the shy, or for those needing a rest from their exertions on the floor, 
+a bench and a table are in the corner of the room.  Though the bar is
+downstairs, somebody from staff is usually wandering around to offer 
+shots or beer to the thirsty.  If not, there's always the water alternative.
+~
+0 DK 0
+H 150 M 150
+D0
+~
+~
+0 -1 13513
+D1
+~
+~
+0 -1 13510
+S
+#13513
+Near the dance floor~
+This entire room is just full of speakers: above the dance floor, set into 
+the walls at floor level and a few freestanding.  Those are to replace the 
+ones that have been recently blown   out. When a particularly "bass-y" song 
+comes on, the room vibrates and pounds to the rhythm of the music.
+~
+0 DK 0
+D1
+~
+~
+0 -1 13511
+D2
+~
+~
+0 -1 13512
+S
+#13514
+Billards Room~
+Dominated by a tournament size pool table, there is just enough room for 
+a player to fully extend his or her cue stick to the wall.  The pool and 
+darts area is the only part of the upper level of the bar where smoking 
+is allowed.  Large vents in the ceiling keep the smoke from leaking into 
+the dance floor.
+~
+0 DK 0
+D1
+~
+~
+0 -1 13515
+D2
+A door, mirrored on the south side, and clear from the north.~
+door north~
+1 -1 13511
+S
+#13515
+Billards room~
+A dark, smoky room; it's lit only by a pair of dim lanterns on the southern 
+wall.  The scent of cigarettes, cloves and weed alike assault the nose.  Two 
+fairly young humans, dressed in jeans and plain t-shirts currently monopolize 
+the table.
+~
+0 DK 0
+D0
+~
+~
+0 -1 13516
+D3
+~
+~
+0 -1 13514
+S
+#13516
+A lounge~
+On the slightly pock-marked north wall are two sets of dartboards, each with 
+its own matching set of darts.  A chalkboard hangs between them for keeping 
+score, if one is concerned with the outcome of the game.  The east wall is 
+plastered with postered advertising movies soon to be coming out in local 
+theaters. The sounds of billiard balls clicking against one another drift 
+from the south.
+~
+0 DK 0
+D1
+~
+~
+0 -1 13519
+D2
+~
+~
+0 -1 13515
+D3
+~
+~
+1 -1 13517
+S
+#13517
+A unisex bathroom~
+As bar bathrooms go, this one is a good one.  The fixtures, while not 
+gleaming, look fairly clean and well-maintained.  While it does have 
+that peculiar bathroom smell, it doesn't reek, either.  The graffiti 
+is minimal, though one particular bit catches the eye: "For good training, 
+call the Hitokiri Battousai at the Kamiya Dojo."
+~
+0 DK 0
+D1
+~
+~
+1 -1 13516
+S
+#13518
+Shrine of Immortals.~
+`&This room is deticated to all of the past Immortals of this relm.
+
+    `^Bakura     Belldandy  Biryu    Kyrn       Iceman
+    
+    Chalindra  Elandria   Tummy    Erik       Rastlin
+
+    Masaru     Ilana      Folken   Peachez    Kosame  
+ 
+    Natiere    Vedas      Shinma   Murasame   Darkseid
+
+    Ayame      Tsarith    Spunix   Guiken     Noriko``
+
+We thank you all, for however you may have touched our lives, good or bad.
+~
+0 DK 0
+D2
+~
+~
+0 -1 13506
+S
+#13519
+Welcome to `#K`*a`8ns`*a`#s``.~
+Large lights surrond the entrance to the bar. People come from far and wide 
+to relax and enjoy the atmosphear of this place. Differant fragrances dance 
+through the air, and make the place seem warm and inviting. Black lights line 
+the walls and illuminate the beautifuly carved stones that make up the outer 
+edge of the bar. Full of faces and many other things, this place seems to 
+shine out among all of the other sights in the city of neo-Toyko.
+~
+0 DK 0
+D2
+~
+~
+0 -1 3314
+D3
+~
+~
+0 -1 13516
+S
+#13520
+Black-light room.~
+Beautiful black-lights emmit from all the surrounding space in this room. A 
+large disco-ball is stationed above the center of the room, while the music 
+plays softly into this place. Black, leather benches line the walls and fans 
+blow in through vents on opposite sides of the room, keeping the air nice 
+and fresh from the outside.
+~
+0 DK 0
+H 200 M 200
+D1
+~
+~
+0 13509 13506
+S
+#0
+
+
+#RESETS
+O 1 13501 100 13502			a table to Near the stairs.
+O 1 13503 100 13502			a black bench to Near the stairs.
+O 1 13504 100 13503			a barstool to A hazy smoke-filled room.
+O 1 13504 100 13503			a barstool to A hazy smoke-filled room.
+O 1 13504 100 13503			a barstool to A hazy smoke-filled room.
+O 1 13504 100 13503			a barstool to A hazy smoke-filled room.
+O 1 13501 100 13504			a table to Near the snack-bar.
+O 1 13503 100 13504			a black bench to Near the snack-bar.
+O 1 13503 100 13504			a black bench to Near the snack-bar.
+O 1 13501 100 13505			a table to A hazy smoke-filled room.
+O 1 13503 100 13505			a black bench to A hazy smoke-filled room.
+O 1 13502 100 13506			a chair to Near the kitchen.
+O 1 13502 100 13506			a chair to Near the kitchen.
+O 1 13502 100 13506			a chair to Near the kitchen.
+O 1 13501 100 13506			a table to Near the kitchen.
+O 1 13500 100 13508			a safe to Bartenders area.
+O 1 13503 100 13512			a black bench to Near the dance floor
+O 1 13503 100 13512			a black bench to Near the dance floor
+O 1 13505 100 13512			a water fountain to Near the dance floor
+D 1 13511 0 1
+D 1 13514 2 1			; Billiards Room Close South
+O 1 13506 100 13514			`#a `@p`2ool `#t`3able`` to Billiards Room
+M 1 13500 1 13515 1			Julie to Billiards room
+E 1 13507 100 17
+M 1 13501 1 13515 1			Jenn to Billiards room
+E 1 13507 100 17
+O 1 13506 100 13515			`#a `@p`2ool `#t`3able`` to Billiards room
+D 1 13516 3 1
+D 1 13517 1 1			; A unisex bathroom Close East
+O 1 13508 100 13518			candelbra of immortals to Shrine of Immortals.
+M 1 13502 1 13505 1			Matt Hall to A hazy smoke-filled room.
+M 1 13503 1 13503 1			Ian Gee to A hazy smoke-filled room.
+O 1 13502 100 13508			a chair to Bartenders' area.
+O 1 13503 100 13509			a black bench to Upper-level stairway
+O 1 13503 100 13514			a black bench to Billiards Room
+O 1 13503 100 13515			a black bench to Billiards room
+O 1 13504 100 13516			a barstool to A lounge
+O 1 13503 100 13516			a black bench to A lounge
+O 1 13503 100 13519			a black bench to Welcome to the 
+O 1 13501 100 13519			a table to Welcome to the 
+M 1 13504 1 13504 1			Josh S. to Near the snack-bar.
+G 1 13510 100
+G 1 13512 100
+G 1 13511 100
+O 1 13503 100 13520			a black bench to A room
+O 1 13503 100 13520			a black bench to A room
+O 1 13503 100 13520			a black bench to A room
+M 1 13505 1 13506 1			Luna Inverse to Near the kitchen.
+O 1 13504 100 13505			a barstool to A hazy smoke-filled room.
+D 1 13506 1 1
+D 1 13507 3 1
+S
+
+
+#SHOPS
+13504 0 0 0 10 0 105 15 0 23			* Josh, The shopkeeper
+0
+
+
+#$
+

@@ -1,0 +1,664 @@
+#HELPS
+-1 ARMOR~
+Syntax: cast armor <character>
+
+This spell decreases (improves) the armor class of the target character
+by 20 points.
+~
+
+-1 'BLACK HOLE'~
+Syntax: cast 'black hole' <victim>
+
+This powerful spell brings forth an artifical black hole into existence, 
+which swallows the victim and damages them heavily. Other creatures
+fighting the caster are also drawn into the vortex.
+~
+
+-1 BLESS~
+Syntax: cast bless <character>
+Syntax: cast bless <object>
+
+This spell improves the to-hit roll and saving throw versus spell of the
+target character by 1 for every 8 levels of the caster. It may also be
+cast on an object to temporarily bless it (blessed weapons, for example,
+are more effective against demonic beings).
+~
+
+-1 BLINDNESS~
+Syntax: cast blindness <victim>
+
+This spell renders the target character blind.
+~
+
+-1 'ACID BLAST' 'BURNING HANDS' 'COLOUR SPRAY' FIREBALL 'LIGHTNING BOLT'
+  'MAGIC MISSILE' 'SHOCKING GRASP'~
+Syntax: cast 'acid blast'     <victim>
+Syntax: cast 'burning hands'  <victim>
+Syntax: cast 'colour spray'   <victim>
+Syntax: cast 'fireball'       <victim>
+Syntax: cast 'lightning bolt' <victim>
+Syntax: cast 'magic missile'  <victim>
+Syntax: cast 'shocking grasp' <victim>
+
+These spells inflict damage on the victim.  The higher-level spells do
+more damage.
+~
+
+-1 'CALL LIGHTNING'~
+Syntax: cast 'call lightning'
+
+This spell works only out of doors, and only when the weather is bad.
+It calls down lightning bolts from Ul.
+~
+
+-1 'CAUSE LIGHT' 'CAUSE SERIOUS' 'CAUSE CRITICAL' HARM~
+Syntax: cast 'cause light'    <victim>
+Syntax: cast 'cause serious'  <victim>
+Syntax: cast 'cause critical' <victim>
+Syntax: cast harm             <victim>
+
+These spells inflict damage on the victim.  The higher-level spells do
+more damage.
+~
+
+-1 'CHANGE SEX'~
+Syntax: cast 'change sex' <victim>
+
+This spell changes the sex of the victim (temporarily).
+~
+
+-1 'CHARM PERSON'~
+Syntax: cast 'charm person' <victim>
+
+This spell, if successful, causes the victim to follow you and to take orders
+from you.  Use ORDER to order your charmed followers.
+
+You are responsible for the actions of your followers.  Conversely, other
+people who attack your followers will be penalized as if they attacked you.
+~
+
+-1 'CHILL TOUCH'~
+Syntax: cast 'chill touch' <victim>
+
+This spell inflicts damage on the victim and also reduces the victim's
+strength by one.
+~
+
+-1 'CONTINUAL LIGHT'~
+Syntax: cast 'continual light'
+
+Syntax: cast 'continual light' <object>
+
+This spell creates a ball of light, which you can hold as a light source.
+The ball of light will last indefinitely. It may also be used on an object
+to give it an enchanted glow.
+~
+
+-1 'CONTROL WEATHER'~
+Syntax: cast 'control weather' better
+Syntax: cast 'control weather' worse
+
+This spell makes the weather either better or worse.
+~
+
+-1 'CREATE FOOD'~
+Syntax: cast 'create food'
+
+This spell creates a Magic Mushroom, which you or anyone else can eat.
+~
+
+-1 'CREATE SPRING'~
+Syntax: cast 'create spring'
+
+This spell brings forth a magical spring from the ground, which has the
+same properties as a fountain.
+~
+
+-1 'CREATE WATER'~
+Syntax: cast 'create water' <drink-container>
+
+This spell replenishes a drink container with water.
+~
+
+-1 'CURE BLINDNESS'~
+Syntax: cast 'cure blindness' <character>
+
+This spell cures blindness in one so unfortunate.
+~
+
+-1 'CURE POISON'~
+Syntax: cast 'cure poison' <character>
+
+This spell cures poison in one so unfortunate.
+~
+
+-1 'CURE LIGHT' 'CURE SERIOUS' 'CURE CRITICAL' HEAL~
+Syntax: cast 'cure light'    <character>
+Syntax: cast 'cure serious'  <character>
+Syntax: cast 'cure critical' <character>
+Syntax: cast 'heal'          <character>
+
+These spells cure damage on the target character.  The higher-level spells
+heal more damage.
+
+(see 'help healer' for details on the heal command)
+~
+
+-1 CURSE~
+Syntax: cast 'curse' <character>
+
+This spell reduces the character's to-hit roll and save versus spells.
+It also renders the character unclean in the eyes of the Light and
+unable to RECALL. Curse may be used to fill equipment with evil power,
+allowing (for example) weapons to do more damage to particularly holy
+opponents.
+~
+
+-1 DEMI~
+Syntax: cast 'demi' <victim>
+
+A mid-level gravity spell. Demi creates a short-lived gravitational
+anomaly which damages its victim based on their hit points.
+~
+
+-1 'DETECT EVIL'~
+Syntax: cast 'detect evil'
+
+This spell enables the caster to detect evil characters, which will
+reveal a characteristic red aura.
+~
+
+-1 'DETECT HIDDEN'~
+Syntax: cast 'detect hidden'
+
+This spell enables the caster to detect hidden creatures.
+~
+
+-1 'DETECT INVIS'~
+Syntax: cast 'detect invis'
+
+This spell enables the caster to detect invisible objects and characters.
+~
+
+-1 'DETECT MAGIC'~
+Syntax: cast 'detect magic'
+
+This spell enables the caster to detect magical objects.
+~
+
+-1 'DETECT POISON'~
+Syntax: cast 'detect poison' <object>
+
+This spell detects the presence of poison in food or drink.
+~
+
+-1 'DISPEL EVIL'~
+Syntax: cast 'dispel evil' <victim>
+
+This spell invokes the wrath of the Light on an evil victim. It can be very
+dangerous for casters who are not pure of heart.
+~
+
+-1 'DISPEL MAGIC' CANCELLATION~
+Syntax: cast 'dispel magic' <character>
+        cast 'cancellation' <character>
+ 
+Both of these spells remove magical effects from the target.  Dispel magic
+has a reduced chance of working, and is considering an attack spell.
+Cancellation can only be used on allies, but is much more effective and does
+not provoke attack.  Unfortunately, the spells do not discriminate between
+harmful and benign spells.
+ 
+The chance of dispelling is based on the level of the spell. Permanent spells
+(such as mobile sanctuary) are much harder to remove.  Not all spells may
+be dispelled, notable examples are poison and plague.
+~
+
+-1 EARTHQUAKE~
+Syntax: cast 'earthquake'
+
+This spell inflicts damage on every enemy character in the room.
+Beware that other characters who are not yet fighting may attack
+you as a result!
+~
+
+-1 'ENCHANT WEAPON'~
+Syntax: cast 'enchant weapon' <weapon>
+
+This spell magically enchants a weapon, increasing its to-hit and to-dam
+bonuses by one or two points.  Multiple enchants may be cast, but as the
+weapon grows more and more powerful, it is more likely to be drained or
+destroyed by the magic.  Also, every successful enchant increases the level
+of the weapon by one...and there is no turning back.
+~
+
+-1 'ENCHANT ARMOR'~
+The enchant armor spell imbues armor with powerful protective magics. It is
+not nearly as reliable as enchant weapon, being far more prone to destructive
+effects.  Each succesful enchant increases the plus of the armor by 1 or 2
+points, and raises its level by one.
+~
+
+-1 'ENERGY DRAIN'~
+Syntax: cast 'energy drain' <victim>
+
+This spell saps the experience points, mana, and movement points of its
+target.
+~
+
+-1 'FAERIE FIRE'~
+Syntax: cast 'faerie fire' <victim>
+
+This spell increases (makes worse) the armor class of its victim.  For each
+level of the caster, the victim's armor class is increased by two points.
+~
+
+-1 'FAERIE FOG'~
+Syntax: cast 'faerie fog'
+
+This spell reveals all manner of invisible, hidden, and sneaking creatures in
+the same room as you.
+~
+
+-1 FLAMESTRIKE~
+Syntax: cast 'flamestrike' <victim>
+
+This spell inflicts damage on the victim.
+~
+
+-1 FLY~
+Syntax: cast 'fly' <character>
+
+This spell enables the target character to fly.
+~
+
+-1 FREEFALL~
+Syntax: cast 'freefall' <victim>
+
+By manipulating gravitational forces, the caster of this spell hurls a creature
+into the air where upon they are shot towards the earth's surface at supersonic
+speeds.
+~
+
+-1 GRAVIJA~
+Syntax: cast 'gravija' <victim>
+
+A more powerful version of Demi. Reciting this spell calls forth a swirling
+maelstrom of gravity which crushes the victim's body and soul. It is whispered
+that there are dark creatures in the world which can use this spell to its 
+fullest effect...
+~
+
+-1 HEAVY BLOW~
+Syntax: cast 'heavy blow' <victim>
+
+The caster creates a small bolt of compressed supergravity, then launches it
+forward in a fashion similar to a fireball.
+~
+
+-1 IDENTIFY~
+Syntax: cast identify <object>
+
+This spell reveals information about the object.
+~
+
+-1 INFRAVISION~
+Syntax: cast infravision <character>
+
+This spell enables the target character to see warm-blooded creatures even
+while in the dark, and exits of a room as well.
+~
+
+-1 INVIS 'MASS INVIS' INVISIBLITY~
+Syntax: cast 'invisibility' <character>
+Syntax: cast 'invisibility' <object>
+Syntax: cast 'mass invis'
+
+The INVIS spell makes the target character invisible.  Invisible characters
+will become visible when they attack. It may also be cast on an object
+to render the object invisible.
+
+The MASS INVIS spell makes all characters in the caster's group invisible,
+including the caster.
+~
+
+-1 'KNOW ALIGNMENT'~
+Syntax: cast 'know alignment' <character>
+
+This spell reveals the alignment of the target character.
+~
+
+-1 LIGHT~
+Syntax: cast 'light'
+
+This simple spell surrounds the caster in a soft glowing light, enabling
+them to see in darkened areas.
+~
+
+-1 'LOCATE OBJECT'~
+Syntax: cast 'locate object' <name>
+
+This spell reveals the location of all objects with the given name.
+~
+
+-1 'PASS DOOR'~
+Syntax: cast 'pass door'
+
+This spell enables the caster to pass through closed doors.
+~
+
+-1 POISON~
+Syntax: cast poison <victim>
+Syntax: cast poison <object>
+
+This spell reduces the strength of the victim by two, as well as reducing the
+victim's regeneration rate. It may also be used to poison food, drink, or
+a weapon in a fashion similar to envenom ('help envenom'), but with 
+drastically reduced effectiveness.
+~
+
+-1 'RAY OF FROST'~
+Syntax: cast 'ray of frost' <victim>
+
+This spell projects a thin ray of freezing air and ice towards its victim.
+~
+
+-1 RESISTANCE~
+Syntax: cast resistance <character>
+
+This spell imbues its recipient with protective energy, granting a small
+bonus to AC and saving throws.
+~
+
+-1 SANCTUARY~
+Syntax: cast sanctuary  <character>
+
+The SANCTUARY spell reduces the damage taken by the character from any attack
+by one half.
+~
+
+-1 REFRESH~
+Syntax: cast refresh <character>
+
+This spell refreshes the movement points of a character who is out of movement
+points, or adds to one who is running low.
+~
+
+-1 'REMOVE CURSE'~
+Syntax: cast 'remove curse' <character>
+Syntax: cast 'remove curse' <object>
+
+This spell removes a curse from a character, and might possibly uncurse
+a cursed object.  It may also be targeted on an object in the caster's
+inventory, in which case it's chance of success is significantly higher.
+~
+
+-1 SHIELD 'STONE SKIN'~
+Syntax: cast shield
+Syntax: cast 'stone skin'
+
+These spells protect the caster by decreasing (improving) the caster's armor
+class.  SHIELD provides 20 points of armor.  STONE SKIN provides 40 points of
+armor.
+~
+
+-1 SLEEP~
+Syntax: cast sleep <victim>
+
+This spell puts its victim to sleep.
+~
+
+-1 SUMMON~
+Syntax: cast summon <character>
+
+This spell summons a character from anywhere else in the world into your room.
+Characters who are fighting may not be summoned.
+~
+
+-1 TELEPORT~
+Syntax: cast <teleport>
+
+This spell takes you from your current location to a random location somewhere
+in the world.
+~
+
+-1 VENTRILOQUATE~
+Syntax: cast ventriloquate <speaker> <message>
+
+This spell throws your voice, making it appear that some other object or
+character in the room is saying your message.  Victims who make their saving
+throw will know that someone is using ventriloquism, but not who.  Victims who
+fail their saving throw will think that the object or character really did say
+your message.
+~
+
+-1 WEAKEN~
+Syntax: cast weaken <victim>
+
+This spell reduces the strength of the victim by two points.
+~
+
+-1 'ACID BREATH' 'FIRE BREATH' 'FROST BREATH' 'GAS BREATH' 'LIGHTNING BREATH'~
+Syntax: cast 'acid breath'      <victim>
+Syntax: cast 'fire breath'      <victim>
+Syntax: cast 'frost breath'     <victim>
+Syntax: cast 'gas breath'       <victim>
+Syntax: cast 'lightning breath' <victim>
+
+These spells are for the use of dragons.  Acid, gas and lightning
+damage one victim, whereas fire and frost damages every PC in the room.
+Fire and frost can break objects, lightning can melt items, and acid can
+damage armor.
+
+High level mages may learn and cast these spells.
+~
+
+-1 DRAGON PUNCH~
+Syntax: dragon <victim>
+
+This skill, only learned by monks, allows them to channel their will
+directly into their fist causing mass amounts of damage when connected.
+With greater level, the unleashing of the 'Sho-ryu-ken' (Dragon Punch)
+will grant the user a chance to gain a multiple hit. This flying uppercut
+is a great asset in the battleground.
+
+Dragon Punch scales in number of hits based on your level and
+damage based on current health.
+~
+
+-1 COUNTER~
+Syntax: automatic skill
+ 
+This skill is used by the warrior in battle. It allows them to counter
+a blow from their oppenent and damage the oppenent with a hit of their
+own. Very useful when attacking those with large numbers of attacks.
+~
+
+-1 PHASE BODY~
+Syntax: automatic skill
+
+This skill is used by the mage in battle. It allows the mage to phase
+their body in and out of combat, reducing hits taken by an oppenent.
+This magical act allows the mage to have a fighting chance while in
+battle against those with great hits.
+~
+
+-1 HURRICANE 'HURRICANE KICK'~
+Syntax: hurricane <victim>
+
+This skill, only learned by monks, allows the user to hover in the air,
+twisting his body like a mighty hurricane, while repeatedly kicking you.
+With greater level, the unleashing of the 'Tatsu-maki-senpu-kyaku' or
+the Hurricane Kick, will grant the user a chance to gain a multiple hit.
+This violent kick is a great asset in the battleground.
+
+Hurricane Kick scales in number of hits based on your level and
+damage based on current movement.
+~
+
+-1 ROUNDHOUSE 'ROUNDHOUSE KICK'~
+Syntax: roundhouse <victim>
+
+This skill, only learned by Ninjas, allows the user to strike his oppenent
+with a mighty roundhouse kick. This skill is a much better version of the
+more common skill 'kick' and can also stagger (ie. lag) the target.
+
+Roundhouse kick scales in number of hits and damage based on your level.
+~
+
+-1 FOOTSWEEP~
+Syntax: footsweep <victim>
+
+Yet another martial artist skill that can only be accomplished by the monk.
+This allows the user to sweep his victim off of their feet. This is an
+enhanced version of the skill known as 'trip'.
+~
+
+-1 FLASHKICK~
+Syntax: flashkick <victim>
+
+This skill reserved for only warriors, ninjas and monks, gives the character
+the ability to knock someone out of the air thats currently flying. This
+skill is very useful for those that battle combatants that are affected
+by the spell 'fly'. Use wisely, this skill can be the determining factor
+in any pkill battle.
+~
+
+-1 CIRCLE~
+Syntax: circle <victim>
+
+This skill, only learned by the thief and the ninja, allows the character
+to quickly circle and attack their opponents back during battle.
+Circle can be used with any weapon type, or even unarmed, but is most 
+effective with piercing weapons
+
+Ninjas receive special benefits when unarmed, including bonus damage
+and the chance to hit a second time as if dual wielding.
+
+You can increase the number of hits by dual wielding (see 'help dual')
+and by having haste affect (see 'help haste').
+
+The damage inflicted by circle is determined by the attacker's level, his
+weapon skill, his circle skill, and the power of his opponent.
+
+
+Note: Opponenets that have less than 20% health cannot be circled.
+~
+
+-1 'DEMON RAGE'~
+Syntax: demonrage
+
+This skill allows demons to enhance their combat prowess by calling upon
+Hell's wrath to increase damage, armor class, and improve saving throws.
+~
+
+-1 FEED~
+Syntax: feed <victim>
+
+This skill, designed specifically for the undead, allows vampires to
+attempt to inflict damage on an opponent and recieve minor hit point
+replenishment. This skill, although increases hp, will cause all vampires
+to become exhausted if repeated constantly.
+~
+
+-1 FORGE~
+SYNTAX: forge <weapon name>
+
+A skill for Dwarves only, allowing them to enhance weapons.
+There is a risk though, especially for young dwarves, that the item is
+destroyed by the heat.
+~
+
+-1 THROW~
+Syntax: throw <victim>
+
+A giant's natural ability to have the overwhelming power and force to
+throw any opponent onto the floor or out of a room. This command could
+become quite useful if your in a near-death situation or would like to
+inflict some damage on your opponent. Like Feed, this skill will decrease
+your movement just a little, cause throwing people can become quite
+exhausting.
+~
+
+-1 REGENERATION~
+Syntax: (Automatic)
+
+This skill specifically for high-elfs, will increase hp/mana gains while
+resting/sleeping. This skill implements the skills 'fast healing' and
+'meditation' into one skill however the gains are doubled compared to those 
+skills. This skill can work with 'fast healing' and 'meditation.'
+~
+
+-1 TOUCH~
+Syntax: touch <character name>
+
+This skill allows the user to to apply his healing touch to another 
+person. With this, the character can heal a great amount of hit points
+to himself or to another person he touches. This is a great skill that
+will come in handy whenever there isn't a healer around.
+
+Health Touch scales based on the characters current level and movement.
+~
+
+-1 OPTIC BLAST~
+Syntax: optic <target>
+
+This is a powerful skill given to those with cybernetic eyes. It
+gives the user the ability to fire a beam or multiple beams of 
+energy at their oppenent. This skill may come in handy during 
+battle if you wish to baffle your oppenent with a shower of laser
+fire that they cannot handle. The damage inflicted by Optic Blast
+is determined by the characters's level.
+~
+
+-1 POUNCE~
+Syntax: pounce <target>
+
+Felines have the innate ability to spring towards a target,
+pouncing on them and pinning them to the ground. Such is a feline's
+skill that they can even tackle flying insects and birds out of
+the air.
+~
+
+-1 CRITICAL STRIKE~
+Syntax: automatic
+
+This allows the user to gain extra damage with an attack they
+normally use. This skill is very similar if no exactly like the
+skills enhanced damage. This could be very useful during combat
+when the extra damage is needed.
+~
+
+-1 DRAIN~
+Syntax: drain corpse
+
+This ability allows a vampire to drain a corpse of blood, which in turn
+quenches the vampires hunger/thirst. Though the vampire should beware,
+the vampire may become poisoned if feeding too much on a corpse. In
+order to use this ability, there must be a corpse in the room with you.
+~
+
+-1 RAPIDSTRIKE~
+Syntax: rapidstrike <victim>
+
+This powerful ability allows the user to make extra attacks during a
+battle, so swift in that they are harder to avoid than a normal attack.
+These extra attacks also hit harder, at the cost of movement. While
+a skilled fighter can launch up to three of these attacks in a single
+combat round, he/she must rest for at least one round before being able
+to use this chain attack again.
+~
+
+-1 STEAL~
+Syntax: STEAL coins <character>
+Syntax: STEAL <object> <character>
+
+STEAL attempts to steal coins, or an object, from a character.
+In order to STEAL successfully, you must practice the appropriate skill.
+
+There are penalties for using STEAL on other players.
+~
+
+-1 $~
+
+#$

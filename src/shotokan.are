@@ -1,0 +1,3981 @@
+#AREADATA
+Name Shotokan Temple~
+Builders None~
+VNUMs 25000 25199
+Credits {40 90} Kyrn    Shotokan Temple~
+Security 9
+End
+
+
+
+#MOBILES
+#25000
+guard bald monk~
+A bald monk~
+A guard stands before you, guarding his position firmly.
+~
+Dressed in a silk white robe, he stands here, guarding the temple with
+his life. Trained in most forms of combat, this guard seems to be skilled
+in all of them. Although not as skilled as the trainers in the training
+grounds, he seems like a force to be reckoned with.
+~
+Human~
+AGHT DFJNPa 400 0
+40 0 15d10+1850 0d0+0 4d8+13 pound
+-13 -13 -13 -13
+DT AB 0 0
+stand stand male 40
+AHMV ABCDEFGHIJK medium unknown
+#25001
+elite guard monk~
+An elite guard~
+An elite guard is here, scanning for intruders.
+~
+This guard is dressed in exotic battle type armor and his face expresses the
+numerous battles he has faced. Although outfitted a little better than the
+average guard, his skills and training are about the same as the 'average'
+guard. He glares at you and continues his walk down the his assigned post.
+~
+Human~
+ABGT DFJNPa 400 0
+45 0 25d10+3000 0d0+0 8d4+16 thrust
+-15 -15 -15 -15
+CDFJT AB 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK medium unknown
+#25002
+praying monk~
+A praying monk~
+A praying monk is resting here, paying respect to Gouken.
+~
+This man is dressed in a very elaborate type clothing. He's on his hands
+and knees, paying his respects to his god 'Gouken'. He pays no
+attention to your presence, only to his deep meditation of prayer
+to his god, lord and protector. Disturbing this monks meditation might
+not be a good idea.
+~
+Human~
+ABGQ DFHJNa 400 0
+50 0 50d10+4500 0d0+0 5d8+19 punch
+-20 -20 -20 -20
+FJKP AB N 0
+stand stand male 50
+AHMV ABCDEFGHIJK medium unknown
+#25003
+kai'den master prayer~
+Kai'den~
+Kai'den rests before you, praying with his fellow monks.
+~
+Kai'den, master of those that life to worship 'Gouken' is here .. praying
+and guiding his fellow monks. Dressed in ceremonial fashion, he ignores
+your presence and continues to guide his beloved fellow monks to worship
+the protector of all, 'Gouken'.
+~
+Human~
+ABGQ DFHJNa 400 0
+60 0 50d10+9500 0d0+0 8d6+28 crush
+-30 -30 -30 -30
+CDEHJKP AB 0 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+#25004
+passage guard monk~
+The passage guard~
+The passage guard stands before you, accepting your entrance.
+~
+This man resembles the build of a titan. Wearing just a green robe, he
+stands before you, welcoming your entrance to his training ground. Although
+his welcome does look warmly, you would expect that any chaos caused by
+yourself will not be looked at too nicely by this fellow.
+~
+Human~
+ABGT DFHJNa 400 0
+55 0 50d10+7000 0d0+0 10d4+23 wrath
+-25 -25 -25 -25
+CDEFJKT AB 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#25005
+novice student~
+A novice skilled student~
+A novice skilled student stands here, practicing his blocking skills.
+~
+This young warrior stands before you, practicing and improving his blocking
+skills. Although not adequate for combat, he attempts to better himself
+with the aid of his teacher. Your presence does surprise him, but he continues
+his training. Dressed in a white robe, with a white belt, you can tell
+he is the beginnings of a warrior to be.
+~
+Human~
+AGHT DFJNa 500 0
+55 0 50d10+7000 0d0+0 10d4+23 pound
+-25 -25 -25 -25
+CDFHK AB 0 0
+stand stand male 5
+AHMV ABCDEFGHIJK medium unknown
+#25006
+to'kien novice trainer~
+To'kien~
+To'kien is here, training the novice students.
+~
+This veteran of combat is here giving commands to two students of his. Dressed
+in a very comfortable looking blue robe, he notices your presence but
+continues with his training. As he shouts commands towards his peers,
+you notice the students change positions, shout something respectful towards
+the instructor and continue their training.
+~
+Human~
+ABGQ DFHJNa 750 0
+60 0 50d10+9500 0d0+0 8d6+28 smash
+-30 -30 -30 -30
+CDEFHIJKP AB 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK medium unknown
+#25007
+advanced student~
+An advanced student~
+An advanced skilled student is here, practicing offensive strikes.
+~
+This student has completed the novice course and has progressed to the next
+step, advanced training. He's moves are more flowing than the novice but
+lack the precision needed to progress to expert. Determined to advanced to
+the expert training course, he ignores your presence and concentrates
+on what's at hand.
+~
+Human~
+AGT DFJNa 505 0
+60 0 50d10+9500 0d0+0 8d6+28 pound
+-30 -30 -30 -30
+CDEFIJK AB 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK medium unknown
+#25008
+lan'chen advance trainer~
+Lan'chen~
+Lan'chen is here, assisting his advanced students in training.
+~
+This man looks like he's been through hell and back. His techniques he
+displays shows strength, agility and precision. His students pay careful
+attention to his teaching and take them to heart and soul, for they know
+that disobeying their trainer is a 'fatal' mistake.
+~
+Human~
+ABGQ DFHJNa 525 0
+65 0 60d10+10750 0d0+0 10d5+33 punch
+-35 -35 -35 -35
+CDEFHJKP AB 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#25009
+expert student~
+An expert student~
+An expert skilled student is here, practicing his fatal strikes.
+~
+This student has endured years of training to achieve the right to train
+in the expert grounds. He's moves are precise, quick, and possess much
+strength. The student has accomplished more than most can even dream about
+and therefore throws a bit of arrogance into his fighting. Though, he does
+have a reason to do so.
+~
+Human~
+AGT DFJNa 530 0
+65 0 60d10+10750 0d0+0 10d5+33 pound
+-35 -35 -35 -35
+CDEFHIJK AB 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#25010
+mu'chin expert trainer~
+Mu'chin~
+Mu'chin is here, supervising his expert skilled students.
+~
+This man stands with his arms crossed, fully aware of your presence. He
+watches his students with an 'eagle' eye, calling out commands as his students
+train. The students are quick to respond and will adjust to their masters
+commands. He glares at your presence, showing you that you are not 
+welcomed in his training grounds. Better leave or else.
+~
+Human~
+ABGQ DFHJNa 550 0
+70 0 60d10+12000 0d0+0 8d10+36 punch
+-40 -40 -40 -40
+CDEFHIJKP AB 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#25011
+senkai master monk~
+Senkai~
+Senkai, Master of the Monks, lies here worshiping a statue.
+~
+Senkai, dressed in a elaborate robe is on the ground, praying and worship-
+ing a statue he lies in front of. You can tell he is in deep meditation for
+even your presence hasn't drawn him out of meditation. This man seems to
+radiate power and skill and might be best to leave him in his meditation
+state.
+~
+Human~
+ABGQ DFHJNa 600 0
+75 0 70d10+13250 0d0+0 10d7+38 wrath
+-45 -45 -45 -45
+CDEFHIJKP AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#25012
+statue gouken~
+The Statue of Gouken~
+The Statue of Gouken is here, radiating power.
+~
+This statue of the monk's god 'gouken' is glowing with power. Its made of an
+unknown material and has no appearance of the wrath of aging. You know
+of the god 'Gouken' other than that this figure represents the temple's
+god. Anything representing any godly figure should not be disturb for
+legend has it, it will result in certain death.
+~
+Human~
+ABGQR DFHNOPTa 1000 0
+100 0 80d10+17250 0d0+0 9d11+46 shock
+-70 -70 -70 -70
+ACDEFHIJK ABC DEFG 0
+stand stand none 1000
+AHMV ABCDEFGHIJK large unknown
+#25013
+statue life Yang'tou~
+Yang'tou~
+The Statue of Yang'tou, bringer of life, stands here.
+~
+Here stands the bringer of life, Yang'tou. This statue presents a healing
+aura around it as you gaze at it. You notice the tremendous spear in its
+left hand made of a material your not familiar of. The power radiating
+from this statue is enormous, giving you the idea that this statue may
+not be exactly, lifeless.
+~
+unique~
+ABGQ DFHJNOPa 500 0
+100 0 90d10+19750 0d0+0 12d12+50 thrust
+-70 -70 -70 -70
+BCDEFHIJ ABC DEFG 0
+stand stand male 1000
+AHMV ABCDEF giant unknown
+#25014
+statue death ying'to~
+Ying'to~
+The Statue of Ying'to, bringer of death, stands here.
+~
+An aura of sadness and death surround this statue you stand in front of.
+The material is a dark gray color, void of all other exotic colors.
+The gigantic flail in the statue's right hand catches your eye and
+you suddenly stare in wonder at the size and strength it possesses.
+Meanwhile, the statue remains frozen in front of you, emitting its
+radiant sphere of death.
+~
+unique~
+ABGR DFHJNOPa 500 0
+100 0 90d10+19750 0d0+0 12d12+50 pound
+-70 -70 -70 -70
+BCDEFHIJK ABHIJKN CDEFGLMOPQRS 0
+stand stand male 1000
+AHMV ABCDEF giant unknown
+#25015
+statue kitan~
+Kitan~
+A Statue of Kitan, bringer of hope, stands here.
+~
+Kitan, the bringer of all hope, was one of Yang'tou's warriors doing
+He lead the attack on Ying'to and fought bravely in battle. This statue is
+here to represent the courage and honor he brought his god, and this
+temple.
+~
+Human~
+ABGT DFHJNPTa 700 0
+80 0 70d10+14750 0d0+0 10d7+38 whip
+-50 -50 -50 -50
+CDEFGIJKLP AB 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK giant unknown
+#25016
+angthis statue~
+Angthis~
+A Statue of Angthis, bringer of courage, stands before you.
+~
+Angthis led the force that protected Yang'tou when times for the good
+seemed grim. His force paid for their god's protection with their
+lives. Angthis, leader of this group, was the only one that survived.
+He stands here with his trusty axe, showing off all its beauty and strength.
+~
+Human~
+ABGT DFHJNPTa 500 0
+80 0 70d10+14750 0d0+0 8d11+41 chop
+-50 -50 -50 -50
+CEFGIJKP AB 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK giant unknown
+#25017
+lanyta statue~
+Lanyta~
+A Statue of Lanyta, bringer of skill, stands here.
+~
+Lanyta, led the force that forced Ying'to and his forces to flee. She is
+looked on as the favorite by many of the monks that worship here. Her
+skill and cunning has yet to be matched, and will probably never be. She
+stands with her knife in her hands, ready for the attack.
+~
+Human~
+ABGS DFHJNPTa 500 0
+80 0 70d10+14750 0d0+0 8d11+41 stab
+-50 -50 -50 -50
+BCDEFGIJKP AB 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK giant unknown
+#25018
+danthos statue~
+Danthos~
+A Statue of Danthos, bringer of dispair, stands here.
+~
+Danthos, ruler of the lost demons of Targon, stands here awaiting his
+commands from his lord, Ying'to. He carries a strong looking mace able
+to inflict tremendous pain on any person he chooses. Danthos, although
+mighty and strong, was the first to parish in the war of good and evil.
+~
+Human~
+ABGR DFHJNPTa 0 0
+80 0 70d10+14750 0d0+0 8d11+41 pound
+-50 -50 -50 -50
+CDEFGIJKP AB 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK giant unknown
+#25019
+Aaejica statue~
+Aaejica~
+A Statue of Aaejica, bringer of destruction, stands here.
+~
+Aaejica, daughter of Ying'to, fought with her father against Yang'tou's
+forces. She brought much power into the battlefield but her own power 
+ended up destroying her. She stands here poise with a polearm, awaiting
+her father's return.
+~
+Human~
+ABGT DFHJNPTa 0 0
+80 0 70d10+14750 0d0+0 8d11+41 thwack
+-50 -50 -50 -50
+CDEGIJL AB 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK giant unknown
+#25020
+ryn statue~
+Ryn~
+A Statue of Ryn, conquerer of all, stands here.
+~
+Ryn, a skilled warrior in combat. Fought along the side of his lord Ying'to.
+He saved Ying'to's live by sacrificing his own and this allowed Ying'to to
+escape. Ryn carries a large blackened sword with him to protect his master
+if the situation is at hand again. The sword is said to have the  
+possession of the souls he has killed using it.
+~
+Human~
+ABGT DFHJNPTa 0 0
+80 0 70d10+14750 0d0+0 8d11+41 pierce
+-50 -50 -50 -50
+CDEFIJKP AB 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK giant unknown
+#25021
+lurking creature~
+The Da'amion~
+The lurking creature dashes at you as it attacks!
+~
+The creature turns towards you...slobbering all over the place and begins
+his attack! Better run!!!
+~
+unique~
+ABFGT BDFHJNOPQTUZa 0 0
+85 0 80d10+16000 0d0+0 10d9+43 pound
+-55 -55 -55 -55
+ABCDEFHIJKP AB 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJ giant unknown
+#0
+
+
+
+#OBJECTS
+#25000
+shotokan monk dagger~
+a shotokan monk's dagger~
+A dagger with the hilt resembling the figure of the statue of gouken is here.~
+brass~
+weapon K AN
+dagger 4 9 stab 0
+40 25 8000 100
+A
+13 10
+A
+18 2
+#25001
+shotokan prayer band~
+a shotokan prayer band~
+A ring with the image of the temple of Shotokan lies here.~
+copper~
+armor KL AB
+BD AC AC BD 0
+40 10 8000 100
+A
+19 2
+A
+3 2
+#25002
+shotokan elite mace~
+a shotokan elite's mace~
+The mace of an elite monk lies here.~
+adamantite~
+weapon BKL AN
+mace 6 7 smash 0
+45 50 9000 100
+A
+13 15
+A
+4 2
+#25003
+ivory white robe~
+an ivory white robe~
+A robe of ivory color lies here sprawled on the floor.~
+bronze~
+armor KL AK
+CD ABC ABC ABC 0
+45 10 9000 100
+A
+12 15
+A
+4 2
+#25004
+pearl string beads~
+a pearl string of beads~
+A string of prayer beads lies here.~
+~
+armor BKL AC
+BCD ABD BD AC 0
+60 10 12000 100
+A
+12 15
+A
+3 2
+#25005
+pair leather sandals~
+a pair of leather sandals~
+A pair of monk sandals lies here.~
+adamantite~
+armor KL AG
+CD CD CD C 0
+60 15 12000 100
+A
+2 2
+A
+19 2
+#25006
+shotokan great axe~
+a shotokan great axe~
+A finely crafted axe lies here.~
+brass~
+weapon ABKL AN
+axe 7 7 cleave 0
+55 60 11000 100
+A
+1 2
+A
+18 2
+#25007
+shotokan brown belt~
+a shotokan brown belt~
+A shotokan styled belt lies here.~
+~
+armor KL AL
+CD CD BD BC 0
+60 15 12000 100
+A
+5 2
+A
+18 2
+#25008
+emerald saber wounding~
+an emerald saber of wounding~
+An emerald sword lies here admist the dirt and gravel.~
+adamantite~
+weapon AKL AN
+sword 6 9 none 0
+60 30 12000 100
+A
+19 2
+A
+17 -6
+#25009
+gleaming red ward~
+a gleaming red ward~
+A humming red cube is here, emitting a protective aura.~
+~
+armor KL AO
+BD BD BD BD 0
+65 10 13000 100
+A
+18 3
+A
+17 -3
+#25010
+warbracer stoneliness~
+a warbracer of stoneliness~
+A bracer made of solid stone lies here.~
+stone~
+armor AKL AM
+BCD BCD BCD ABC 0
+70 10 14000 100
+A
+13 40
+A
+18 3
+#25011
+exotic polearm training~
+an exotic polearm of training~
+A great polearm lies here, awaiting a new owner.~
+~
+weapon AKL AN
+polearm 7 9 none 0
+70 50 14000 100
+A
+12 20
+A
+18 3
+A
+4 3
+#25012
+topaz leg plates~
+a pair of topaz leg plates~
+A pair of leggings lies here, radiating power.~
+platinum~
+armor KL AF
+ABCD ABCD ABCD ABC 0
+75 20 15000 100
+A
+1 3
+A
+19 3
+#25013
+scaled topaz bodyplate~
+a scaled topaz bodyplate~
+Gouken's massive armor of power lies here.~
+diamond~
+armor BHKLY AD
+CE CE CE BD 0
+100 200 20000 100
+A
+2 4
+A
+13 30
+A
+17 -6
+#25014
+jade spear rejuvenation~
+a jade spear of rejuvenation~
+A large spear lies on the floor, emitting an odd aura.~
+bamboo~
+weapon ABKLZ AN
+staff 10 9 thrust CH
+100 100 20000 100
+A
+13 30
+A
+19 4
+A
+5 4
+#25015
+crimson flail slaying~
+a crimson flail of slaying~
+A large flail lies here, emitting an odd aura.~
+metal~
+weapon ABKLY AN
+flail 10 9 crush CG
+100 100 20000 100
+A
+19 4
+A
+12 30
+A
+1 4
+#25016
+nimble whip fury~
+a nimble whip of fury~
+A large whip lies here on the floor.~
+adamantite~
+weapon ABKL AN
+whip 9 8 whip A
+55 75 16000 100
+A
+19 3
+A
+13 40
+#25017
+structured axe strength~
+a structured axe of strength~
+A enormous axe lies on the floor here.~
+adamantite~
+weapon ABKL AN
+axe 8 9 chop F
+80 75 16000 100
+A
+18 3
+A
+1 3
+A
+17 -5
+#25018
+swift knife cunning~
+a swift knife of cunning~
+A large knife lies here on the floor.~
+adamantite~
+weapon ABKL AN
+dagger 8 9 stab 0
+80 75 16000 100
+A
+12 25
+A
+18 3
+#25019
+chaotic mace despair~
+a chaotic mace of despair~
+A large mace stands against the wall here.~
+adamantite~
+weapon BEJ AN
+mace 8 9 pound H
+80 75 16000 100
+A
+19 3
+A
+24 -4
+#25020
+unbalancing polearm slaying~
+an unbalancing polearm of slaying~
+A large polearm is here, laying on the floor.~
+adamantite~
+weapon AEJ AN
+polearm 8 9 pierce BG
+80 75 16000 100
+A
+18 3
+A
+13 20
+A
+4 3
+#25021
+draining sword of might~
+a draining sword of might~
+A sword emitting an evil aura lies here on the floor.~
+adamantite~
+weapon ABEJ AN
+sword 8 9 slash C
+80 75 16000 100
+A
+13 60
+#25022
+pair topaz arm plates~
+a pair of topaz arm plates~
+A shiny pair of arm plates made from topaz lies here.~
+adamantite~
+armor KL AI
+ABCD ABCD ABCD ABC 0
+75 20 15000 100
+A
+18 3
+A
+14 40
+#25023
+obsidian tower shield~
+an obsidian tower shield~
+A large shield made of obsidian armor lies here.~
+adamantite~
+armor AKL AJ
+ABCD ABCD ABCD ACD 0
+85 50 17000 100
+A
+24 -4
+A
+17 -4
+A
+18 3
+#25024
+silk gloves pair~
+a pair of silk blue gloves~
+A nice pair of silk gloves lie on floor here.~
+adamantite~
+armor KL AH
+ABD AD D CD 0
+70 5 14000 100
+A
+18 4
+#25025
+topaz tower shield~
+a topaz tower shield~
+A large shield made of topaz lies on the floor here.~
+adamantite~
+armor AKLY AJ
+CE CE CE BD 0
+100 5 20000 100
+A
+13 30
+A
+19 4
+A
+4 4
+#25026
+helmet scaled topaz~
+a scaled topaz helmet~
+A nice looking topaz helmet lies here on the floor.~
+adamantite~
+armor KLY AE
+CE CE CE BD 0
+100 5 20000 100
+A
+18 4
+A
+12 30
+A
+13 30
+#0
+
+
+
+#ROOMS
+#25000
+Entrance to the Shotokan Temple~
+You have reached the legendary temple of 'Gouken' and his followers. Here
+you will view his fellow monks in the ritual fashion they engage in
+every day of their lives. The worship of 'Gouken' is very sacred by these
+people and therefore urge those that are here for a more 'chaotic' purpose
+to leave this place at once.
+~
+0 4 1
+D0
+~
+~
+0 -1 25001
+D2
+~
+~
+0 -1 901
+S
+#25001
+The Main Gates of the Shotokan Temple~
+The gates seem to made of solid gold or some substance similar to gold.
+They glisten in the sun reflection and the light from them is almost blinding.
+You stand afoot in front of temple, which you can tell from here, is heavy
+guarded for intruders.
+~
+0 0 1
+D0
+~
+~
+0 -1 25002
+D2
+~
+~
+0 -1 25000
+S
+#25002
+Inside the temple~
+The walls of the temple are decorated in a wide variety of items, symbols,
+and other hand-made objects. You look down the corridor and notice there
+are exits to the north, west, and east of you. Course there is the exit
+to the south, if you wish to exit the temple altogether.
+~
+0 8 1
+D0
+~
+~
+2 -1 25021
+D1
+~
+~
+0 -1 25012
+D2
+~
+~
+0 -1 25001
+D3
+~
+~
+0 -1 25003
+S
+#25003
+Western Hallway~
+Going down the western part of the hallway, you notice rooms to the north
+and south of your position. You can hear the whispers of the guards
+either speaking in a language you don't understand or too quietly for you to
+comprehend their words. The hallway continues to the west and east.
+~
+0 8 0
+D0
+~
+~
+0 -1 25004
+D1
+~
+~
+0 -1 25002
+D2
+~
+~
+0 -1 25011
+D3
+~
+~
+0 -1 25005
+S
+#25004
+Monk Guard's Chamber room~
+You have entered an guard chamber for an elite guard. The room is cluttered
+with object pertaining to combat, like swords, staves, maces, and clubs.
+You notice there is also alot of books and manuals on a bookcase,
+mainly about combat techniques as well.
+~
+0 8 0
+D2
+~
+~
+0 -1 25003
+S
+#25005
+Western Hallway~
+Further down the hallway, you continue to hear the whispers that seem to
+creep from the shadows of this hallway. You can see the decorations on
+the walls here, mainly swords and bows. The hallway continues either
+to the west or east.
+~
+0 8 0
+D0
+~
+~
+0 -1 25006
+D1
+~
+~
+0 -1 25003
+D2
+~
+~
+0 -1 25010
+D3
+~
+~
+0 -1 25007
+S
+#25006
+Monk Guard's Chamber room~
+You have entered the chambers of an elite guard. The room looks like most
+chambers, filled with odd objects and a few recognizable items as well.
+Your attention is drawn to a window in this chamber, which lets you look
+into a training ground of some sort in the distance.
+~
+0 8 0
+D2
+~
+~
+0 -1 25005
+S
+#25007
+Western Hallway~
+Even further down this hallway, you notice that the hallway ends to the west
+with another guard chamber room. You can see a pair of guards conversing
+another room, and therefore attempt to not draw their attention in your
+direction. The hallway ends with a chamber room to the west, or continues
+back towards the east.
+~
+0 8 0
+D0
+~
+~
+0 -1 25008
+D1
+~
+~
+0 -1 25005
+D2
+~
+~
+0 -1 25009
+D3
+~
+~
+2 -1 25076
+S
+#25008
+Monk Guard's Chamber room~
+Yet another chamber room, you notice there is occupants in this room. They
+seem to enjoy your presence and ask you to stay a bit with them. However your
+curiosity would rather go explore this temple some more.
+~
+0 8 0
+D2
+~
+~
+0 -1 25007
+S
+#25009
+Monk Guard's Chamber room~
+This chamber room is filled with weapons of immediate death and destruction.
+All the fun toys for the average warrior no doubt. Other than the presence
+these weapons, you notice a few manuals lying here and there, nothing worth
+taking though.
+~
+0 8 0
+D0
+~
+~
+0 -1 25007
+S
+#25010
+Monk Guard's Chamber room~
+This room seems to be filled with herbs and potions of healing or some
+sorts. Obviously the occupant of this room is into the healing aspect of
+nature rather than the destruction of others. A major change of sorts, 
+compared to the other rooms down this hallway.
+~
+0 8 0
+D0
+~
+~
+0 -1 25005
+S
+#25011
+Monk Guard's Chamber room~
+Again, yet another chamber filled with instruments of destruction.
+Knives, clubs, and even whips are present here. Which would conclude that
+the occupant of this room has a passion for the more torturous methods of
+slaying others.
+~
+0 8 0
+D0
+~
+~
+0 -1 25003
+S
+#25012
+Eastern Hallway~
+Down the eastern hallway, the walls are decorated with peaceful symbols and
+items expressing equality and virtue. You hear many guards down this hallway
+praying and meditation, but you cant seem to understand what exactly is
+being said. The hallway continues to the east and west.
+~
+0 8 0
+D0
+~
+~
+0 -1 25016
+D1
+~
+~
+0 -1 25013
+D2
+~
+~
+0 -1 25017
+D3
+~
+~
+0 -1 25002
+S
+#25013
+Eastern Hallway~
+Further down the hallway, the walls stay unchanged with items of peace
+and virtue. The whispers of meditation have become a bit louder, but still
+uncomprehendable. The hallway continues to the west and the east.
+~
+0 8 0
+D0
+~
+~
+0 -1 25014
+D1
+~
+~
+0 -1 25015
+D2
+~
+~
+0 -1 25018
+D3
+~
+~
+0 -1 25012
+S
+#25014
+Monk Guard's Chamber room~
+This chamber is one of an elite guard, decorated with bookshelves and manual.
+The floor is clean of all dirt and other items. Here lies a nice comfy bed
+that you can rest on, as long as the guard isn't in the room.
+~
+0 8 0
+D2
+~
+~
+0 -1 25013
+S
+#25015
+Eastern Hallway~
+Down the eastern hallway, you can hear guards having a conversation about
+an 'ancient' one, 'protector of all' and other sayings. Obviously referring
+to 'Gouken', god of this temple. The hallway continues east and west.
+~
+0 8 0
+D0
+~
+~
+0 -1 25019
+D1
+~
+~
+2 -1 25077
+D2
+~
+~
+0 -1 25020
+D3
+~
+~
+0 -1 25013
+S
+#25016
+Monk Guard's Chamber room~
+This chamber room seems a bit vacant compared to the other rooms you have
+entered which would mean that a new occupant should be here shortly. There
+is a window on the northern wall, displaying a battle ground of some
+sorts in the distance.
+~
+0 8 0
+D2
+~
+~
+0 -1 25012
+S
+#25017
+Monk Guard's Chamber room~
+The chamber here is filled with potions and manuals and other odds and
+ends. The owner here must be into the healing aspect of the world, or
+just must like chemistry. A window is present here displaying a training
+ground in the distance like the rooms before this one.
+~
+0 8 0
+D0
+~
+~
+0 -1 25012
+S
+#25018
+Monk Guard's Chamber room~
+The guard here isn't too happy that you walked in his room without permission
+and politely asks you to leave. You notice that there is a arsenal of equip-
+ment in the corner and are curious to see what exactly is there.
+~
+0 8 0
+D0
+~
+~
+0 -1 25013
+S
+#25019
+Monk Guard's Chamber room~
+In this chamber you have entered, there seems to be nothing of real interest
+here. Either the guard here hasn't really had time to decorate his room with
+anything worth looking at or he's lacks in imaginative skills.
+~
+0 8 0
+D2
+~
+~
+0 -1 25015
+S
+#25020
+Monk Guard's Chamber room~
+The guard in this room seems pleased to have some company stop by, and offers
+to tell you stories of his god 'Gouken'. However your journey doesn't include
+time for 'stories' and therefore you decide to venture forth without hearing
+what he has to say.
+~
+0 8 0
+D0
+~
+~
+0 -1 25015
+S
+#25021
+Inside the Meditation Chamber~
+You have entered a chamber that seems to be about 2 stories high. The ceiling
+of this chamber is decorate so beautifully that you have a hard time conceiving
+how much work was put into building this room. To the north, you see a mass
+group of monks, praying with a master to their god. Leaving these monks
+undisturbed would be a really good idea. The exits are north to the master,
+east to the eastern part of the chamber, west to the western part of the 
+chamber, or south to leave the chamber.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25024
+D1
+~
+~
+0 -1 25023
+D2
+~
+~
+2 -1 25002
+D3
+~
+~
+0 -1 25022
+M 150 H 150
+S
+#25022
+Southwest Corner of the Chamber~
+The view from the corner of the chamber is just about the same as the
+view from all the other sides from the chamber. You stand in amazement
+at beauty of this chamber.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25025
+D1
+~
+~
+0 -1 25021
+M 150 H 150
+S
+#25023
+Southeast Corner of Chamber~
+The view from the corner of the chamber is just about the same as the
+view from all the other sides from the chamber. You stand in amazement
+at beauty of this chamber.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25029
+D3
+~
+~
+0 -1 25021
+M 150 H 150
+S
+#25024
+Center of Meditation Chamber~
+The Center of the Mediation Chamber seems to calm you, and for some reason,
+you feel at peace here. All your wounds and aches seem to heal faster here
+and you don't feel the need to lift your weapon for any purpose. You feel
+immortal here.
+~
+0 9224 0
+D0
+~
+~
+0 -1 25027
+D1
+~
+~
+0 -1 25029
+D2
+~
+~
+0 -1 25021
+D3
+~
+~
+0 -1 25025
+M 200 H 200
+S
+#25025
+Western Wall of Chamber~
+The view from the site of the chamber is just about the same as the
+view from all the other sides from the chamber. You stand in amazement
+at beauty of this chamber.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25026
+D1
+~
+~
+0 -1 25024
+D2
+~
+~
+0 -1 25022
+M 150 H 150
+S
+#25026
+Northwest Corner of Chamber~
+The view from the corner of the chamber is just about the same as the
+view from all the other sides from the chamber. You stand in amazement
+at beauty of this chamber.
+~
+0 8200 0
+D1
+~
+~
+0 -1 25027
+D2
+~
+~
+0 -1 25025
+M 150 H 150
+S
+#25027
+Northern Wall of the Chamber~
+You see before you the leader of this group of praying monks. You carefully
+examine him with disturbing his meditation. As with the rest of this chamber
+the northern part is just as dazzling and stunning. There is a northern
+passage that leads to the unknown.
+~
+0 8200 0
+D0
+~
+~
+2 -1 25030
+D1
+~
+~
+0 -1 25028
+D2
+~
+~
+0 -1 25024
+D3
+~
+~
+0 -1 25026
+M 150 H 150
+S
+#25028
+Northeast Corner of Chamber~
+The view from the corner of the chamber is just about the same as the
+view from all the other sides from the chamber. You stand in amazement
+at beauty of this chamber.
+~
+0 8200 0
+D2
+~
+~
+0 -1 25029
+D3
+~
+~
+0 -1 25027
+M 150 H 150
+S
+#25029
+Eastern Wall of Chamber~
+The view from the side of the chamber is just about the same as the
+view from all the other sides from the chamber. You stand in amazement
+at beauty of this chamber.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25028
+D2
+~
+~
+0 -1 25023
+D3
+~
+~
+0 -1 25024
+M 150 H 150
+S
+#25030
+Entrance to the Training Grounds~
+This hallway behind the main chamber leads to the training grounds you noticed
+from the windows in the guards' chambers. A main stands here accepting or
+denying passage through the hallway. The hallway is decorated with items of
+combat, from shields and armor, to polearms and sword.
+~
+0 8 0
+D0
+~
+~
+0 -1 25031
+D2
+~
+~
+2 -1 25027
+S
+#25031
+Crossroads of Skill~
+This marks the beginning in the quest for monks that train as warriors in
+this temple. This crossroads determines the skill level of the monks that
+train here. To the west, lies the novice training ground. To the east, lies
+the advanced training grounds. Finally to the north, lies the expert
+training grounds. Choose your path wisely, or it will be at the cost of your
+life.
+~
+0 12 0
+D0
+~
+~
+0 -1 25056
+D1
+~
+~
+0 -1 25044
+D2
+~
+~
+0 -1 25030
+D3
+~
+~
+0 -1 25032
+S
+#25032
+Path to Novice Training Ground~
+On the path to the novice training ground. Not much can be seen from here
+but much can be heard from here. You hear the shouts, yells, and rare
+screams of students in combat. You feel confident that your going to the 
+novice grounds, and not something more difficult.
+~
+0 12 0
+D1
+~
+~
+0 -1 25031
+D3
+~
+~
+0 -1 25033
+S
+#25033
+Path to Novice Training Ground~
+Continuing down the path, the sounds continue to grow in intensity, almost to
+the point of deafing. You hold your ground and continue down the path to
+the entrance of the novice training ground that lies to the west of here.
+~
+0 12 0
+D1
+~
+~
+0 -1 25032
+D3
+~
+~
+0 -1 25034
+S
+#25034
+Entrance to Novice Training Ground~
+The entrance to the training ground is guarded by a fellow of huge stature. 
+From here, you can see a mass group of students attempting to practice with
+each other. You notice the moves they perform aren't the best, but they
+have to start somewhere.
+~
+0 8 0
+D0
+~
+~
+2 -1 25035
+D1
+~
+~
+0 -1 25033
+S
+#25035
+Southern Wall of Training Ground~
+The training ground for the novices is almost completely filled with students.
+Its hard for you to find an open space for you to stand in here. You hear the
+shouts of the trainer in the background as his students continue their daily
+practice of techniques.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25036
+D1
+~
+~
+0 -1 25043
+D2
+~
+~
+2 -1 25034
+D3
+~
+~
+0 -1 25040
+S
+#25036
+Center of Training Ground~
+The center of the training ground is flooded with students. Your standing in
+the mist of a ground of students practicing blocking moves and offensive
+attacks.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25037
+D1
+~
+~
+0 -1 25042
+D2
+~
+~
+0 -1 25035
+D3
+~
+~
+0 -1 25039
+S
+#25037
+Northern Wall of Training Ground~
+The trainer stands here, assisting two students. In the background, you see
+a statue of a god like figure. Its 'Gouken' watching the progress of
+his students. The training ground ends to the north with a raised wall.
+~
+0 8192 1
+D1
+~
+~
+0 -1 25041
+D2
+~
+~
+0 -1 25036
+D3
+~
+~
+0 -1 25038
+S
+#25038
+Northwest Corner of Training Ground~
+Its hard for you to find an open space for you to stand in here. You hear the
+shouts of the trainer in the background as his students continue their daily
+practice of techniques.
+~
+0 8192 1
+D1
+~
+~
+0 -1 25037
+D2
+~
+~
+0 -1 25039
+S
+#25039
+Western Wall of Training Ground~
+Its hard for you to find an open space for you to stand in here. You hear the
+shouts of the trainer in the background as his students continue their daily
+practice of techniques.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25038
+D1
+~
+~
+0 -1 25036
+D2
+~
+~
+0 -1 25040
+S
+#25040
+Southwest Corner of Training Ground~
+Its hard for you to find an open space for you to stand in here. You hear the
+shouts of the trainer in the background as his students continue their daily
+practice of techniques.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25039
+D1
+~
+~
+0 -1 25035
+S
+#25041
+Northeast Corner of Training Ground~
+Its hard for you to find an open space for you to stand in here. You hear the
+shouts of the trainer in the background as his students continue their daily
+practice of techniques.
+~
+0 8192 1
+D2
+~
+~
+0 -1 25042
+D3
+~
+~
+0 -1 25037
+S
+#25042
+Eastern Wall of Training Ground~
+Its hard for you to find an open space for you to stand in here. You hear the
+shouts of the trainer in the background as his students continue their daily
+practice of techniques.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25041
+D2
+~
+~
+0 -1 25043
+D3
+~
+~
+0 -1 25036
+S
+#25043
+Southeast Corner of Training Ground~
+Its hard for you to find an open space for you to stand in here. You hear the
+shouts of the trainer in the background as his students continue their daily
+practice of techniques.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25042
+D3
+~
+~
+0 -1 25035
+S
+#25044
+Path to Advanced Training Ground~
+The path to the advance training ground is made of finely carved stones.
+You can hear the cries of men in training, and they seem a bit more intense
+than the ones from the novice training ground.
+~
+0 12 0
+D1
+~
+~
+0 -1 25045
+D3
+~
+~
+0 -1 25031
+S
+#25045
+Path to Advanced Training Ground~
+Continuing down the path, the shouts and cries get louder, however you
+collect your composure and continue down this pathway to the entrance
+of the advance training ground.
+~
+0 12 0
+D1
+~
+~
+0 -1 25046
+D3
+~
+~
+0 -1 25044
+S
+#25046
+Entrance to Advance Training Ground~
+The entrance to the advance training ground is guarded like the other
+entrances, with a colossal figure standing next to the passage way. You
+can view inside the archway and see a group of student practicing offensive
+strikes with their teacher. The numbers are tremendously less then the
+novice training ground, showing you the difficulty to reach this
+stage in training.
+~
+0 8 0
+D0
+~
+~
+2 -1 25047
+D3
+~
+~
+0 -1 25045
+S
+#25047
+Southern Wall of Training Ground~
+The grounds here have more rooms to move in, due largely to the number of
+students here. Unlike the novice training ground, a selected few make it here.
+And a few from here progress to the expert stage of training. The students
+here are listening to instructions from their instructor and performing
+his every instruction.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25055
+D1
+~
+~
+0 -1 25054
+D2
+~
+~
+2 -1 25046
+D3
+~
+~
+0 -1 25048
+S
+#25048
+Southwest Corner of Training Ground~
+The training ground here is filled with training students, learning from each
+other and improving their combat skills. In case of a conflict with an outside
+force, they are ready to defend the temple with their lives.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25049
+D1
+~
+~
+0 -1 25047
+S
+#25049
+Western Wall of Training Ground~
+The training ground here is filled with training students, learning from each
+other and improving their combat skills. In case of a conflict with an outside
+force, they are ready to defend the temple with their lives.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25050
+D1
+~
+~
+0 -1 25055
+D2
+~
+~
+0 -1 25048
+S
+#25050
+Northwest Corner of Training Ground~
+The training ground here is filled with training students, learning from each
+other and improving their combat skills. In case of a conflict with an outside
+force, they are ready to defend the temple with their lives.
+~
+0 8192 1
+D1
+~
+~
+0 -1 25051
+D2
+~
+~
+0 -1 25049
+S
+#25051
+Northern Wall of Training Ground~
+Here stands the trainer for the advanced skilled students. Behind him stands a
+huge statue of the god 'Gouken'. The statue is posed to seem like its watch
+its students. The statue seems to radiate a power filled with confidence, 
+skill, and determination.
+~
+0 8192 0
+D1
+~
+~
+0 -1 25052
+D2
+~
+~
+0 -1 25055
+D3
+~
+~
+0 -1 25050
+S
+#25052
+Northeast Corner of Training Ground~
+The training ground here is filled with training students, learning from each
+other and improving their combat skills. In case of a conflict with an outside
+force, they are ready to defend the temple with their lives.
+~
+0 8192 1
+D2
+~
+~
+0 -1 25053
+D3
+~
+~
+0 -1 25051
+S
+#25053
+Eastern Wall of Training Ground~
+The training ground here is filled with training students, learning from each
+other and improving their combat skills. In case of a conflict with an outside
+force, they are ready to defend the temple with their lives.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25052
+D2
+~
+~
+0 -1 25054
+D3
+~
+~
+0 -1 25055
+S
+#25054
+Southeast Corner of Training Ground~
+The training ground here is filled with training students, learning from each
+other and improving their combat skills. In case of a conflict with an outside
+force, they are ready to defend the temple with their lives.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25053
+D3
+~
+~
+0 -1 25047
+S
+#25055
+Center of Training Ground~
+The training ground here is filled with training students, learning from each
+other and improving their combat skills. In case of a conflict with an outside
+force, they are ready to defend the temple with their lives.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25051
+D1
+~
+~
+0 -1 25053
+D2
+~
+~
+0 -1 25047
+D3
+~
+~
+0 -1 25049
+S
+#25056
+Entrance to Expert Training Ground~
+The entrance to the expert training ground is guarded well by a huge figure
+of a man besides the archway. As you look through the archway, the man tell
+you to either enter or leave. Obviously, this training ground isn't for
+everyone.
+~
+0 8 0
+D0
+~
+~
+2 -1 25057
+D2
+~
+~
+0 -1 25031
+S
+#25057
+Southern Wall of Training Ground~
+There is only a handful of students here compared to the other two training
+grounds. The teacher here is giving one on one instruction with his students
+due to the numbers here. The students here possess great skill and show 
+it through their practice with their master.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25065
+D1
+~
+~
+0 -1 25064
+D2
+~
+~
+2 -1 25056
+D3
+~
+~
+0 -1 25058
+S
+#25058
+Southwest Corner of Training Ground~
+There is only a handful of students here compared to the other two training
+grounds. The teacher here is giving one on one instruction with his students
+due to the numbers here. The students here possess great skill and show 
+it through their practice with their master.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25059
+D1
+~
+~
+0 -1 25057
+S
+#25059
+Western Wall of Training Ground~
+There is only a handful of students here compared to the other two training
+grounds. The teacher here is giving one on one instruction with his students
+due to the numbers here. The students here possess great skill and show 
+it through their practice with their master.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25060
+D1
+~
+~
+0 -1 25065
+D2
+~
+~
+0 -1 25058
+S
+#25060
+Northwest Corner of Training Ground~
+There is only a handful of students here compared to the other two training
+grounds. The teacher here is giving one on one instruction with his students
+due to the numbers here. The students here possess great skill and show 
+it through their practice with their master.
+~
+0 8192 1
+D1
+~
+~
+0 -1 25061
+D2
+~
+~
+0 -1 25059
+S
+#25061
+Northern Wall of Training Ground~
+In the northern wall lies a small passage way to an unknown place. It seems
+to radiate a tremendous power from the entrance. Perhaps its time to
+investigate. As for the teacher, he's here looking over his students and 
+showing them a few special techniques they have yet to be taught.
+~
+0 8192 1
+D0
+~
+~
+2 -1 25066
+D1
+~
+~
+0 -1 25062
+D2
+~
+~
+0 -1 25065
+D3
+~
+~
+0 -1 25060
+S
+#25062
+Northeast Corner of Training Ground~
+There is only a handful of students here compared to the other two training
+grounds. The teacher here is giving one on one instruction with his students
+due to the numbers here. The students here possess great skill and show 
+it through their practice with their master.
+~
+0 8192 1
+D2
+~
+~
+0 -1 25063
+D3
+~
+~
+0 -1 25061
+S
+#25063
+Eastern Wall of Training Ground~
+There is only a handful of students here compared to the other two training
+grounds. The teacher here is giving one on one instruction with his students
+due to the numbers here. The students here possess great skill and show 
+it through their practice with their master.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25062
+D2
+~
+~
+0 -1 25064
+D3
+~
+~
+0 -1 25065
+S
+#25064
+Southeast Corner of Training Ground~
+There is only a handful of students here compared to the other two training
+grounds. The teacher here is giving one on one instruction with his students
+due to the numbers here. The students here possess great skill and show 
+it through their practice with their master.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25063
+D3
+~
+~
+0 -1 25057
+S
+#25065
+Center of Training Ground~
+A group of students are here, showing each other some special techniques they
+have picked up in other training sessions. They stare at you and laugh. Then
+continue to converse with each other, pointing and laughing at you.
+~
+0 8192 1
+D0
+~
+~
+0 -1 25061
+D1
+~
+~
+0 -1 25063
+D2
+~
+~
+0 -1 25057
+D3
+~
+~
+0 -1 25059
+S
+#25066
+Entrance to Gouken Resting Chamber~
+The power of this chamber can be felt throughout your body. You feel some 
+energy coming from the northern wall of the chamber. Perhaps there, you 
+will find where the energy is originating from. The chamber is decorated 
+with special items that legends says 'Gouken' himself wore when he was a 
+mere mortal. Polished to perfection, these items haven't been held by any 
+one in ages.
+~
+0 532488 0
+D0
+~
+~
+0 -1 25067
+D2
+~
+~
+2 -1 25061
+M 150 H 150
+S
+#25067
+Southern Wall of Resting Chamber~
+The power of this chamber can be felt throughout your body. You feel some 
+energy coming from the northern wall of the chamber. Perhaps there, you 
+will find where the energy is originating from. The chamber is decorated 
+with special items that legends says 'Gouken' himself wore when he was a 
+mere mortal. Polished to perfection, these items haven't been held by any 
+one in ages.
+~
+0 532488 0
+D0
+~
+~
+0 -1 25068
+D1
+~
+~
+0 -1 25073
+D2
+~
+~
+0 -1 25066
+D3
+~
+~
+0 -1 25072
+S
+#25068
+Center of Resting Chamber~
+The master of all the monks is here, praying and worshipping his god 'Gouken'.
+A statue that represents his god lies north of here, and you can safely say
+that the power you feel originates from that statue. The center of the
+chamber contains a pillow like item on the floor which seems to be the master's
+personal worshipping furniture.
+~
+0 532488 0
+D0
+~
+~
+0 -1 25069
+D1
+~
+~
+0 -1 25074
+D2
+~
+~
+0 -1 25067
+D3
+~
+~
+0 -1 25071
+S
+#25069
+Shrine of Gouken~
+The power is strong here...And its hard to concentrate with it surrounding
+you. The statue seems to be life-like, almost moving. You glance at it
+and by looking in its eyes, you can tell this isn't no ordinary statue.
+You feel compelled to stay and daze at this statue, a force greater 
+than yourself is at work here.
+~
+0 532488 0
+D1
+~
+~
+0 -1 25075
+D2
+~
+~
+0 -1 25068
+D3
+~
+~
+0 -1 25070
+S
+#25070
+West of Shrine~
+The power seems to originate from the east, it drawing you to its position
+and you have the urge to find out why. This part of the wall is decorated in
+a dark blue stone, and covered with items that radiate magic.
+~
+0 532488 0
+D1
+~
+~
+0 -1 25069
+D2
+~
+~
+0 -1 25071
+S
+#25071
+Western Wall of Resting Chamber~
+The power of this chamber can be felt throughout your body. You feel some 
+energy coming from the northern wall of the chamber. Perhaps there, you 
+will find where the energy is originating from. The chamber is decorated 
+with special items that legends says 'Gouken' himself wore when he was a 
+mere mortal.  Polished to perfection, these items haven't been held by any 
+one in ages.
+~
+0 532488 0
+D0
+~
+~
+0 -1 25070
+D1
+~
+~
+0 -1 25068
+D2
+~
+~
+0 -1 25072
+S
+#25072
+Southwest Corner of Resting Chamber~
+The power of this chamber can be felt throughout your body. You feel some
+energy coming from the northern wall of the chamber. Perhaps there, you 
+will find where the energy is originating from. The chamber is decorated 
+with special items that legends says 'Gouken' himself wore when he was a 
+mere mortal.  Polished to perfection, these items haven't been held by any 
+one in ages.
+~
+0 532488 0
+D0
+~
+~
+0 -1 25071
+D1
+~
+~
+0 -1 25067
+S
+#25073
+Southeast Corner of Resting Chamber~
+The power of this chamber can be felt throughout your body. You feel some 
+energy coming from the northern wall of the chamber. Perhaps there, you 
+will find where the energy is originating from. The chamber is decorated 
+with special items that legends says 'Gouken' himself wore when he was a 
+mere mortal.  Polished to perfection, these items haven't been held by any 
+one in ages.
+~
+0 532488 0
+D0
+~
+~
+0 -1 25074
+D3
+~
+~
+0 -1 25067
+S
+#25074
+Eastern Wall of Resting Chamber~
+The power of this chamber can be felt throughout your body. You feel some 
+energy coming from the northern wall of the chamber. Perhaps there, you 
+will find where the energy is originating from. The chamber is decorated 
+with special items that legends says 'Gouken' himself wore when he was a 
+mere mortal. Polished to perfection, these items haven't been held by any 
+one in ages.
+~
+0 532488 0
+D0
+~
+~
+0 -1 25075
+D2
+~
+~
+0 -1 25073
+D3
+~
+~
+0 -1 25068
+S
+#25075
+East of Shrine~
+The power seem to be coming from the west. It draws you closer to it, 
+grasping your soul and pulling it towards the statue to the west. You
+notice the fine construction of the blue stones here, and the items that
+are mounted to the walls as well.
+~
+0 532488 0
+D2
+~
+~
+0 -1 25074
+D3
+~
+~
+0 -1 25069
+S
+#25076
+Monk Guard's Chamber room~
+This guard room seems to be vacant of all possessions. There isn't
+much here to look at and its quite boring looking at the bare walls. 
+Maybe you'll discover more by exploring another guard's chamber room.
+~
+0 524296 0
+D1
+~
+~
+2 -1 25007
+D3
+~
+~
+0 -1 25078
+S
+#25077
+Monk Guard's Chamber room~
+This guard room seems to be vacant of all possessions. There isn't
+much here to look at and it's quite boring looking at the bare walls. 
+Maybe you'll discover more by exploring another guard's chamber room.
+~
+0 524296 0
+D1
+~
+~
+0 -1 25119
+D3
+~
+~
+2 -1 25015
+S
+#25078
+Western Hallway to West Wing~
+Further down the hallway, you can see the intersection that lies
+ahead of you. The western wing of the temple is dead ahead and by what
+you have explored already, you can tell this temple is really that
+small in size.
+~
+0 8 0
+D1
+~
+~
+0 -1 25076
+D3
+~
+~
+0 -1 25079
+S
+#25079
+Intersection of West Wing and Southern Hallway~
+You stand at the intersection of the west wing and the southern hallway.
+The walls here are lit with almost blinding torches and made with
+gold torch frames. You peer north and notice a long hallway in front
+of you. To the south lies the temple's southwest tower, where guards
+stand post to defend the temple from invaders.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25084
+D1
+~
+~
+0 -1 25078
+D2
+~
+~
+0 -1 25080
+S
+#25080
+Southwest Tower~
+You stand inside the southwest tower of the temple. Here, the guards
+converse about the return of 'Gouken' and all the glory his return will
+bring to the temple and it's followers. They glare at your presence
+but continue their conversation.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25079
+D2
+~
+~
+0 -1 25081
+D3
+~
+~
+0 -1 25083
+S
+#25081
+Southwest Tower~
+Standing in the tower, you notice the room is furnished with elaborate
+type armor and items. Ready at a moments notice, this gear can be taken
+off the wall and racks quickly for use in combat. You only hope that the
+guards present don't decide to equip these weapons to fend of, you.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25080
+D3
+~
+~
+0 -1 25082
+S
+#25082
+Southwest Tower~
+The ground here is spread finely with an assortment of rugs and
+furniture. Seems like someone went through alot of trouble to make this
+post as comfortable as possible. You hear one of the guards mention your
+presence, however you decide to ignore the rest of his remark.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25083
+D1
+~
+~
+0 -1 25081
+S
+#25083
+Southwest Tower~
+There is a table here occupied with four guards sitting near it. The table
+is decorated with a nice table-spread, resembling markings of symbols and
+a few scriptures. Jugs lay on the table half filled with some substance
+that you can not identify from where you are standing. The tower
+continues south and east.
+~
+0 8200 0
+D1
+~
+~
+0 -1 25080
+D2
+~
+~
+0 -1 25082
+S
+#25084
+Western Wing of Yang'tou~
+This wing of the temple has been designated as the wing of birth, and
+protected by the great Yang'tou. The walls and ceiling are furnished
+with items dealing with the birth of life. Paintings of rose buds,
+small trees, and young animal life, cover the area in your line of
+sight. The hallway continues back to the intersection to the
+south, or continues north down the hallway of yang'tou.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25085
+D2
+~
+~
+0 -1 25079
+S
+#25085
+Western Wing of Yang'tou~
+Continuing down this hallway, you notice the paintings on the walls
+and ceiling seem to depict the progression of some animal and plant life.
+The small tree has been painted a bit larger and the rose buds are just
+beginning to form roots. As you look further north, you can not tell
+when this hallway ends, however to the south, you can still see the
+intersection to the south hallway.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25086
+D2
+~
+~
+0 -1 25084
+S
+#25086
+Western Wing of Yang'tou~
+Here lies a passage to the east, to an unknown place. As you look upon
+the pictures down this part of the hallway, you notice the tree getting
+slightly larger in the painting and the rose bud just starting to break
+the surface of the ground where it was planted. The wing continues north,
+south, or to a new location to the east.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25097
+D1
+~
+~
+0 -1 25087
+D2
+~
+~
+0 -1 25085
+S
+#25087
+Entrance to Yang'tou's Shrine of Warriors~
+This passage way is decorated finely with many assortments of life bringing
+items, such as potions, herbs, and other healing agents. A few weapons lie
+mounted securely on the walls here. The passage way leads east, to the
+entrance of the shrine.
+~
+0 8200 0
+D1
+~
+~
+2 -1 25088
+D3
+~
+~
+0 -1 25086
+S
+#25088
+Shine of Yang'tou's Warriors~
+The walls of this room glow faintly as you enter from the passage way. The
+first thing you notice are the many statues that stand here before you. Each
+holding a different type of weaponry and armor, all seem to be wearing a
+bandanna embedded with a picture of a 'small tree' enclosed in a large wreath.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25089
+D1
+~
+~
+0 -1 25096
+D2
+~
+~
+0 -1 25095
+D3
+~
+~
+2 -1 25087
+S
+#25089
+Northwest Corner of Shrine~
+Standing here, you gasp in astonishment by the life that seems to radiate
+from the statues, pictures, and items located in the vicinity of you. 
+Everything here, for some reason, seems to be filled with more color and 
+substance. You stand in absolute awe from the radiated life that resides 
+here.
+~
+0 8200 0
+D1
+~
+~
+0 -1 25090
+D2
+~
+~
+0 -1 25088
+S
+#25090
+Northern Wall of Shrine~
+Standing here, you gasp in astonishment by the life that seems to radiate
+from the statues, pictures, and items located in the vicinity of you. 
+Everything here, for some reason, seems to be filled with more color and 
+substance. You stand in absolute awe from the radiated life that resides 
+here.
+~
+0 8200 0
+D1
+~
+~
+0 -1 25091
+D2
+~
+~
+0 -1 25096
+D3
+~
+~
+0 -1 25089
+S
+#25091
+Northeast Corner of Shrine~
+Standing here, you gasp in astonishment by the life that seems to radiate
+from the statues, pictures, and items located in the vicinity of you. 
+Everything here, for some reason, seems to be filled with more color and 
+substance. You stand in absolute awe from the radiated life that resides 
+here.
+~
+0 8200 0
+D2
+~
+~
+0 -1 25092
+D3
+~
+~
+0 -1 25090
+S
+#25092
+Eastern Wall of Shrine~
+Standing here, you gasp in astonishment by the life that seems to radiate
+from the statues, pictures, and items located in the vicinity of you. 
+Everything here, for some reason, seems to be filled with more color and 
+substance. You stand in absolute awe from the radiated life that resides 
+here.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25091
+D2
+~
+~
+0 -1 25093
+D3
+~
+~
+0 -1 25096
+S
+#25093
+Southeast Corner of Shrine~
+Standing here, you gasp in astonishment by the life that seems to radiate
+from the statues, pictures, and items located in the vicinity of you. 
+Everything here, for some reason, seems to be filled with more color and 
+substance. You stand in absolute awe from the radiated life that resides 
+here.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25092
+D3
+~
+~
+0 -1 25094
+S
+#25094
+Southern Wall of Shrine~
+Standing here, you gasp in astonishment by the life that seems to radiate
+from the statues, pictures, and items located in the vicinity of you. 
+Everything here, for some reason, seems to be filled with more color and 
+substance. You stand in absolute awe from the radiated life that resides 
+here.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25096
+D1
+~
+~
+0 -1 25093
+D3
+~
+~
+0 -1 25095
+S
+#25095
+Southwest Corner of Shrine~
+Standing here, you gasp in astonishment by the life that seems to radiate
+from the statues, pictures, and items located in the vicinity of you. 
+Everything here, for some reason, seems to be filled with more color and 
+substance. You stand in absolute awe from the radiated life that resides 
+here.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25088
+D1
+~
+~
+0 -1 25094
+S
+#25096
+Center of Yang'tou's Shrine of Warriors~
+Here you are surrounded by statues that have been built to immortalize the
+warriors of Yang'tou during the 'Takenshokan' War. All that you know
+about this war is: It was fought between good and evil and all those that
+stood in the middle ended up perishing. These warriors were the only
+survivors of this war that monks believe will occur again in the near
+future.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25090
+D1
+~
+~
+0 -1 25092
+D2
+~
+~
+0 -1 25094
+D3
+~
+~
+0 -1 25088
+S
+#25097
+Western Wing of Yang'tou~
+Still further down this wing of the temple, the pictures continue to cycle
+through the 'tree' and 'rose' cycle of life. The tree seems to be getting
+pretty large in the painting on your left and the rose stem is exposed a
+bit more from the surface in the painting on your right. The wing continues 
+far to the north and south.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25098
+D2
+~
+~
+0 -1 25086
+S
+#25098
+Western Wing of Yang'tou~
+As you walk down the hallway, the walls seem to emit a faint glow to them.
+The paintings yet again show the tree getting larger and its environment
+changing and the rose continue to grow in size and strength. The hallway
+continues north and to the south.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25099
+D2
+~
+~
+0 -1 25097
+S
+#25099
+Western Wing of Yang'tou~
+As you walk down the hallway, the walls seem to emit a faint glow to them.
+The paintings yet again show the tree getting larger and its environment
+changing and the rose continue to grow in size and strength. The hallway
+continues north and to the south.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25100
+D2
+~
+~
+0 -1 25098
+S
+#25100
+Western Wing of Yang'tou~
+As you walk down the hallway, the walls seem to emit a faint glow to them.
+The paintings yet again show the tree getting larger and its environment
+changing and the rose continue to grow in size and strength. The hallway
+continues north and to the south.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25101
+D2
+~
+~
+0 -1 25099
+S
+#25101
+Western Wing of Yang'tou~
+As you walk down the hallway, the walls seem to emit a faint glow to them.
+The paintings yet again show the tree getting larger and its environment
+changing and the rose continue to grow in size and strength. The hallway
+continues north and to the south.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25102
+D2
+~
+~
+0 -1 25100
+S
+#25102
+Western Wing of Yang'tou~
+The walls here seem to be glowing quite brightly now, and the painting seem
+to start showing some life as well. To the left, you notice that the painting
+of the tree, is actually changing in front of your eyes! You can see a
+breeze hit the now fully grown tree and cause it to sway just slightly to
+the left. On the right of you, you notice a buzzing sound and in the
+painting before you, you can see a tiny bee flying around near the rose. 
+Is there anything that you shouldn't expect in this place?
+~
+0 8200 0
+D0
+~
+~
+0 -1 25103
+D2
+~
+~
+0 -1 25101
+S
+#25103
+Western Wing of Yang'tou~
+Coming near the end of this wing, you can see the tree and the rose develop
+in front of your eyes. The paintings to the right and left of you are now
+moving in real-time motion and it brings the atmosphere like your
+actually there with it. The wing of life continues north and far
+to the south. A passage leading to the unknown lies to the west.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25104
+D2
+~
+~
+0 -1 25102
+S
+#25104
+Intersection of Western Wing and Northern Wing~
+You stand at the end of the western wing of the temple. To the north lies
+the northwest tower of the temple and to the east lies the northern wing.
+Viewing what you just seen down the western wing, not much can surprise you
+in this temple.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25105
+D1
+~
+~
+0 -1 25109
+D2
+~
+~
+0 -1 25103
+S
+#25105
+Northwest Tower~
+There are no guards to be seen in this tower, only the empty furniture
+that awaits to be used. From the information you gather here..not much activity
+has occurred here. In fact, you wonder if anyone actually stands post here.
+The passage south leads to the western wing of yang'tou.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25106
+D2
+~
+~
+0 -1 25104
+D3
+~
+~
+0 -1 25108
+S
+#25106
+Northwest Tower~
+There are no guards to be seen in this tower, only the empty furniture
+that awaits to be used. From the information you gather here..not much activity
+has occurred here. In fact, you wonder if anyone actually stands post here.
+The passage south leads to the western wing of yang'tou.
+~
+0 8200 0
+D2
+~
+~
+0 -1 25105
+D3
+~
+~
+0 -1 25107
+S
+#25107
+Northwest Tower~
+There are no guards to be seen in this tower, only the empty furniture
+that awaits to be used. From the information you gather here..not much activity
+has occurred here. In fact, you wonder if anyone actually stands post here.
+The passage south leads to the western wing of yang'tou.
+~
+0 8200 0
+D1
+~
+~
+0 -1 25106
+D2
+~
+~
+0 -1 25108
+S
+#25108
+Northwest Tower~
+There are no guards to be seen in this tower, only the empty furniture
+that awaits to be used. From the information you gather here..not much activity
+has occurred here. In fact, you wonder if anyone actually stands post here.
+The passage south leads to the western wing of yang'tou.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25107
+D1
+~
+~
+0 -1 25105
+S
+#25109
+Northern Wing of Temple~
+The northern wing of the temple is tainted with a slight red coloring on
+the walls. The articles that hang from the ceiling and walls are
+those of destruction and torture. Mainly whips, knifes, and spears are
+abundant here. The hallway continues east or to the intersection west of
+here.
+~
+0 8200 0
+D1
+~
+~
+0 -1 25110
+D3
+~
+~
+0 -1 25104
+S
+#25110
+Northern Wing of Temple~
+The northern wing of the temple is tainted with a slight red coloring on
+the walls. The articles that hang from the ceiling and walls are
+those of destruction and torture. Mainly whips, knifes, and spears are
+abundant here. A bronze door lies to the north of your position, what its
+containing is unknown.
+~
+0 8200 0
+D0
+~
+~
+2 -1 25113
+D1
+~
+~
+0 -1 25111
+D3
+~
+~
+0 -1 25109
+S
+#25111
+Northern Wing of Temple~
+The northern wing of the temple is tainted with a slight red coloring on
+the walls. The articles that hang from the ceiling and walls are
+those of destruction and torture. Mainly whips, knifes, and spears are
+abundant here. The hall continues west or to a dead-end to the east.
+~
+0 8200 0
+D1
+~
+~
+0 -1 25112
+D3
+~
+~
+0 -1 25110
+S
+#25112
+Northern Wing Dead-End~
+The wing finishes here with a mantle on the eastern wall of this room.
+This little 'praying' furniture contains a miniaturize statue of
+'Gouken' and a little pillow for those to kneel in comfort while paying
+respects to their god. The wing continues back to the west.
+~
+0 8200 0
+D3
+~
+~
+0 -1 25111
+S
+#25113
+A Damp Room~
+This room isn't like any of the other rooms in this temple. The room is
+poorly lighted which makes your visibility in this room quite close to 0.
+You hear a growling noise coming from the other side of the wall that
+divides this room.
+~
+0 8713 0
+D1
+~
+~
+0 -1 25118
+D2
+~
+~
+2 -1 25110
+D3
+~
+~
+0 -1 25114
+S
+#25114
+A Damp Room~
+As you advance slowly to the western part of this room, you notice the 
+growling noise getting closer. Your instinct says there's trouble but your 
+curiosity wants to find out what's making that noise. The room continues 
+north or back to the east.
+~
+0 8713 0
+D0
+~
+~
+0 -1 25115
+D1
+~
+~
+0 -1 25113
+S
+#25115
+A Damp Room~
+You are now at the northwest corner of this room, and the growling seems to
+coming from the east. The room is almost pitch black at this point, which
+makes it hard to actually see what is causing the growling sound. The room
+moves to the east, or you can backtrack to the south.
+~
+0 8713 0
+D1
+~
+~
+0 -1 25116
+D2
+~
+~
+0 -1 25114
+S
+#25116
+The Creature's Den~
+You have stumbled upon something's den. The room is cluttered with skeletons
+and bones of other human shaped creatures. You notice the nice pile of
+treasure lying here, but the creature doesn't give you too much time
+to investigate.
+~
+0 8713 0
+D1
+~
+~
+0 -1 25117
+D3
+~
+~
+0 -1 25115
+S
+#25117
+A Damp Room~
+You are standing at the northeast point of this room, and the growl is
+definitely coming from the west. You stumble on some object laying on
+the floor. As you look down, you notice its a bone, a 'human' bone. The
+continues to the west or south.
+~
+0 8713 0
+D2
+~
+~
+0 -1 25118
+D3
+~
+~
+0 -1 25116
+S
+#25118
+A Damp Room~
+The room seems to dim even darker as you enter this part of the room.
+There are no torches so the only visible light source is the entrance
+to this room. The noise seems to be getting a tad bit louder from here.
+You can continue north .. or exit back to the entrance..which is west.
+~
+0 8713 0
+D0
+~
+~
+0 -1 25117
+D3
+~
+~
+0 -1 25113
+S
+#25119
+Eastern Hallway to Eastern Wing~
+As you walk along this hallway, you feel a sense of sorrow and despair. The
+hall seems to start losing some of its lighting the further you venture
+down to the Eastern Wing of the temple. You see an intersection ahead to
+the eastern wing. The hallway travels to the west or to the east.
+~
+0 8200 0
+D1
+~
+~
+0 -1 25120
+D3
+~
+~
+0 -1 25077
+S
+#25120
+Intersection of East Wing and Southern Hallway~
+The gloom and dreary feeling seems to get stronger as you enter the 
+eastern wing of the temple. The wing is tainted with a black color
+brick and the walls are covered with black weapons and armor. The wing
+of Ying'to continues to the north, south, or back to the west.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25125
+D2
+~
+~
+0 -1 25121
+D3
+~
+~
+0 -1 25119
+S
+#25121
+Southeast Tower~
+You have entered the southeast tower of the temple. Here, the guards
+pay strict attention to your presence and you feel that you're not welcomed
+in this tower. The wing leads back north or south to the southern part of 
+the tower.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25120
+D1
+~
+~
+0 -1 25124
+D2
+~
+~
+0 -1 25122
+S
+#25122
+Southeast Tower~
+This tower is decorated in a very chaotic fashion, no real style present
+here. The floor contains a rug that is coming apart at the seams. The only
+thing that is remotely close to organized is the paintings on the wall,
+depicting a war of some type.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25121
+D1
+~
+~
+0 -1 25123
+S
+#25123
+Southeast Tower~
+As you walk along the tower walls, you can see the construction of this
+tower isn't like the other ones. You conclude that in a few years this tower
+may not be standing due to structural collapse. The guards in the room
+stare at you as you examine the rest of this tower.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25124
+D3
+~
+~
+0 -1 25122
+S
+#25124
+Southeast Tower~
+The painting on the wall here shows two great forces in a brutal war.
+Slain bodies cover the battlefield in this painting and you think
+you can actually feel the essence of death surrounding it. The room
+continues to the west and south.
+~
+0 8200 0
+D2
+~
+~
+0 -1 25123
+D3
+~
+~
+0 -1 25121
+S
+#25125
+Eastern Wing of Ying'to~
+The eastern wing of the temple is filled with pictures of war and death
+and destruction, to put it simply. Portraits of mass slayings are displayed
+all around you. As you continue down the wing, you notice the lighting
+becomes a bit dimmed, making it hard to see further down the wing.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25126
+D2
+~
+~
+0 -1 25120
+S
+#25126
+Eastern Wing of Ying'to~
+From what you know about these habitants of this temple, this hall must be
+designed as the hall of death. Here to praise the god 'Ying'to', the hall
+is filled with objects colored black and filled with blood stains. As
+you progress through this hall, your sense of sanity seems to be questioned,
+for even the greatest adventurers can only take so much showing of these
+brutal slayings and deaths depicted in the portraits of this wing.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25127
+D2
+~
+~
+0 -1 25125
+S
+#25127
+Eastern Wing of Ying'to~
+The hallway continues north and now a passage to the west is present. However,
+a sense of despair engulfs you as you look down the eastern hallway. Unlike
+the other rooms in this temple, this hallway doesn't seem really appealing
+to you.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25138
+D2
+~
+~
+0 -1 25126
+D3
+~
+~
+0 -1 25128
+S
+#25128
+Entrance to Ying'to's Shrine of Warriors~
+As you approach the jet black bronze door to the west, you can see that this
+hallway hasn't been tampered with for ages. Dust and cobwebs seem to hang
+from the objects on the walls of this passage. The hallway stops with
+a door to the west, or goes back to the wing of Yang'to to the east.
+~
+0 8200 0
+D1
+~
+~
+0 -1 25127
+D3
+~
+~
+2 -1 25129
+S
+#25129
+Shrine of Ying'to's Warriors~
+The room is filled with black statues of thieves and those dressed in bandit
+and ninja type clothing. They have different appearances except for a
+bandanna around their heads with the symbol of two swords circled by a chain
+of skulls. The room emits a faint glow from the walls, making the room
+a tad bit darker.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25136
+D1
+~
+~
+2 -1 25128
+D2
+~
+~
+0 -1 25130
+D3
+~
+~
+0 -1 25137
+S
+#25130
+Southeast Corner of Shrine~
+You stand in utter fear as the room engulfs your body with nothing but sadness,
+fear, hopelessness, and despair. All the traits felt during a battle of lost
+causes. The statues seems to be watching you as you attempt to shake off the
+feelings and examine the room.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25129
+D3
+~
+~
+0 -1 25131
+S
+#25131
+Southern Wall of Shrine~
+You stand in utter fear as the room engulfs your body with nothing but sadness,
+fear, hopelessness, and despair. All the traits felt during a battle of lost
+causes. The statues seems to be watching you as you attempt to shake off the
+feelings and examine the room.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25137
+D1
+~
+~
+0 -1 25130
+D3
+~
+~
+0 -1 25132
+S
+#25132
+Southwest Corner of Shrine~
+You stand in utter fear as the room engulfs your body with nothing but sadness,
+fear, hopelessness, and despair. All the traits felt during a battle of lost
+causes. The statues seems to be watching you as you attempt to shake off the
+feelings and examine the room.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25133
+D1
+~
+~
+0 -1 25131
+S
+#25133
+Western Wall of Shrine~
+You stand in utter fear as the room engulfs your body with nothing but sadness,
+fear, hopelessness, and despair. All the traits felt during a battle of lost
+causes. The statues seems to be watching you as you attempt to shake off the
+feelings and examine the room.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25134
+D1
+~
+~
+0 -1 25137
+D2
+~
+~
+0 -1 25132
+S
+#25134
+Northwest Corner of Shrine~
+You stand in utter fear as the room engulfs your body with nothing but sadness,
+fear, hopelessness, and despair. All the traits felt during a battle of lost
+causes. The statues seems to be watching you as you attempt to shake off the
+feelings and examine the room.
+~
+0 8200 0
+D1
+~
+~
+0 -1 25135
+D2
+~
+~
+0 -1 25133
+S
+#25135
+Northern Wall of Shrine~
+You stand in utter fear as the room engulfs your body with nothing but sadness,
+fear, hopelessness, and despair. All the traits felt during a battle of lost
+causes. The statues seems to be watching you as you attempt to shake off the
+feelings and examine the room.
+~
+0 8200 0
+D1
+~
+~
+0 -1 25136
+D2
+~
+~
+0 -1 25137
+D3
+~
+~
+0 -1 25134
+S
+#25136
+Northeast Corner of Shrine~
+You stand in utter fear as the room engulfs your body with nothing but sadness,
+fear, hopelessness, and despair. All the traits felt during a battle of lost
+causes. The statues seems to be watching you as you attempt to shake off the
+feelings and examine the room.
+~
+0 8200 0
+D2
+~
+~
+0 -1 25129
+D3
+~
+~
+0 -1 25135
+S
+#25137
+Center of Ying'to Shrine of Warriors~
+The statues surround you and push a very disturbing presence over you.
+You attempt to avoid it but it seems to get stronger the move you stand
+in the center of this shrine. As you look around, you notice that the shrine
+is covered in paintings and the walls seem to be bleeding some red substance,
+called blood.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25135
+D1
+~
+~
+0 -1 25129
+D2
+~
+~
+0 -1 25131
+D3
+~
+~
+0 -1 25133
+S
+#25138
+Eastern Wing of Ying'to~
+The hallway radiates the power and essence of death as you continue down
+it. You can actually start to hear faint sounds of battlecrys, deathcrys,
+and other war type sounds as you progress down this dark and gloomy
+hallway.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25139
+D2
+~
+~
+0 -1 25127
+S
+#25139
+Eastern Wing of Ying'to~
+The hallway radiates the power and essence of death as you continue down
+it. You can actually start to hear faint sounds of battlecrys, deathcrys,
+and other war type sounds as you progress down this dark and gloomy
+hallway.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25140
+D2
+~
+~
+0 -1 25138
+S
+#25140
+Eastern Wing of Ying'to~
+The hallway radiates the power and essence of death as you continue down
+it. You can actually start to hear faint sounds of battlecrys, deathcrys,
+and other war type sounds as you progress down this dark and gloomy
+hallway.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25141
+D2
+~
+~
+0 -1 25139
+S
+#25141
+Eastern Wing of Ying'to~
+The hallway radiates the power and essence of death as you continue down
+it. You can actually start to hear faint sounds of battlecrys, deathcrys,
+and other war type sounds as you progress down this dark and gloomy
+hallway.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25142
+D2
+~
+~
+0 -1 25140
+S
+#25142
+Eastern Wing of Ying'to~
+The hallway radiates the power and essence of death as you continue down
+it. You can actually start to hear faint sounds of battlecrys, deathcrys,
+and other war type sounds as you progress down this dark and gloomy
+hallway.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25143
+D2
+~
+~
+0 -1 25141
+S
+#25143
+Eastern Wing of Ying'to~
+The further you progress, the louder the sounds become. You speculate that
+by the time you reach the end of this wing, the sounds are going to become
+quite deafing. You only pray that when you reach the end of this hallway,
+better things will be around the corner.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25144
+D2
+~
+~
+0 -1 25142
+S
+#25144
+Eastern Wing of Ying'to~
+The screams now have become like you thought they would become, quite deafing.
+The sounds seem so real that you actually feel like your sitting in the
+middle of a war. The people screams as they are slain, or slaying are
+quite unpleasant. You are use to small conflicts but a conflict in this
+magnitude is very new to you.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25145
+D2
+~
+~
+0 -1 25143
+S
+#25145
+Intersection of Eastern Wing and Northern Wing~
+You have reached the intersection of the eastern and northern wings. To the
+north, lies the northeast tower of the temple, to the west lies the entrance
+to the northern wing, and to the south lies the wing of death.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25146
+D2
+~
+~
+0 -1 25144
+D3
+~
+~
+0 -1 25150
+S
+#25146
+Northeast Tower~
+You are standing in the northeast tower of the temple. They're seems to
+be no one present in this chamber, but from what you gather (from the jugs
+on the northern wall), that someone has been here and might be returning 
+really soon.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25147
+D1
+~
+~
+0 -1 25149
+D2
+~
+~
+0 -1 25145
+S
+#25147
+Northeast Tower~
+Here you see a table with a couple of jugs laying on the table's surface.
+On the northern wall, you can see a nice suit of plate mail, securely clamped
+to the mantle embedded in the wall. On the eastern wall, you can see a nice
+recently polished dagger on a display case. The exits are to your right 
+and south.
+~
+0 8200 0
+D1
+~
+~
+0 -1 25148
+D2
+~
+~
+0 -1 25146
+S
+#25148
+Northeast Tower~
+As you stand here, you notice a well crafted looking rub under your feet.
+You quickly examine it and can tell it took quite a bit of time to create such
+a fine piece of furniture. The exits are to your south and west.
+~
+0 8200 0
+D2
+~
+~
+0 -1 25149
+D3
+~
+~
+0 -1 25147
+S
+#25149
+Northeast Tower~
+The southern wall of this tower contains books and reference material
+dating back quite awhile ago. You gently and briefly scan the books
+and come up that the books mainly explain about the great war between
+good and evil. Needless to say, doesn't say who exactly won.
+~
+0 8200 0
+D0
+~
+~
+0 -1 25148
+D3
+~
+~
+0 -1 25146
+S
+#25150
+Northern Wing of Temple~
+This wing of the temple is colored in a very noticeable reddish color brick.
+As you look down the hallway, you can tell there is a mantle of some sort
+at the end of the hallway. The exits are to your east and west.
+~
+0 8200 0
+D1
+~
+~
+0 -1 25145
+D3
+~
+~
+0 -1 25151
+S
+#25151
+Northern Wing of Temple~
+This wing of the temple is colored in a very noticeable reddish color brick.
+As you look down the hallway, you can tell there is a mantle of some sort
+at the end of the hallway. The exits are to your east and west. There is
+a gold door north of here, leading to the unknown.
+~
+0 8200 0
+D0
+~
+~
+2 -1 25154
+D1
+~
+~
+0 -1 25150
+D3
+~
+~
+0 -1 25152
+S
+#25152
+Northern Wing of Temple~
+The mantle progresses closer as you approach it. The walls here contain
+weapons of high quality, some so exotic that you have no idea how to wield
+them. The lighting in the room begins to increase as you near the end of this
+wing. Continue west to the end of the hallway or back to the east.
+~
+0 8200 0
+D1
+~
+~
+0 -1 25151
+D3
+~
+~
+0 -1 25153
+S
+#25153
+Northern West Wall Dead-End~
+You have reached the end of this hallway. The mantle that stands before
+you has a small statue of 'Gouken' sitting on a stand. There is a small
+praying pillow here so that someone can pay their respects comfortably. The
+only way out is east.
+~
+0 8200 0
+D1
+~
+~
+0 -1 25152
+S
+#25154
+A Golden Room~
+You stand in the mist of treasures...treasures everywhere! You are somewhat
+blinded by the reflection of light off the gold and gems that lie all around
+you! You have stumbled upon the temples donation room!
+~
+0 8200 0
+D0
+~
+~
+0 -1 25155
+D1
+~
+~
+0 -1 25158
+D2
+~
+~
+2 -1 25151
+D3
+~
+~
+0 -1 25157
+S
+#25155
+A Golden Room~
+You stand in the mist of treasures...treasures everywhere! You are somewhat
+blinded by the reflection of light off the gold and gems that lie all around
+you! You have stumbled upon the temples donation room! There is a large
+diamond sitting on a stand in the middle of this room! Quick, grab it!!
+~
+0 8200 0
+D1
+~
+~
+0 -1 25159
+D2
+~
+~
+0 -1 25154
+D3
+~
+~
+0 -1 25156
+S
+#25156
+A Golden Room~
+You stand in the mist of treasures...treasures everywhere! You are somewhat
+blinded by the reflection of light off the gold and gems that lie all around
+you! You have stumbled upon the temples donation room!
+~
+0 8200 0
+D1
+~
+~
+0 -1 25155
+D2
+~
+~
+0 -1 25157
+S
+#25157
+A Golden Room~
+You stand in the mist of treasures...treasures everywhere! You are somewhat
+blinded by the reflection of light off the gold and gems that lie all around
+you! You have stumbled upon the temples donation room!
+~
+0 8200 0
+D0
+~
+~
+0 -1 25156
+D1
+~
+~
+0 -1 25154
+S
+#25158
+A Golden Room~
+You stand in the mist of treasures...treasures everywhere! You are somewhat
+blinded by the reflection of light off the gold and gems that lie all around
+you! You have stumbled upon the temples donation room!
+~
+0 8200 0
+D0
+~
+~
+0 -1 25159
+D3
+~
+~
+0 -1 25154
+S
+#25159
+A Golden Room~
+You stand in the mist of treasures...treasures everywhere! You are somewhat
+blinded by the reflection of light off the gold and gems that lie all around
+you! You have stumbled upon the temples donation room!
+~
+0 8200 0
+D2
+~
+~
+0 -1 25158
+D3
+~
+~
+0 -1 25155
+S
+#0
+
+
+
+#SPECIALS
+M 25000 spec_guard
+M 25001 spec_guard
+M 25002 spec_cast_cleric
+M 25003 spec_cast_cleric
+M 25004 spec_guard
+M 25006 spec_cast_cleric
+M 25008 spec_cast_cleric
+M 25010 spec_cast_cleric
+M 25011 spec_cast_cleric
+M 25012 spec_cast_mage
+M 25013 spec_cast_cleric
+M 25014 spec_cast_mage
+M 25016 spec_breath_gas
+M 25017 spec_breath_frost
+M 25018 spec_cast_mage
+M 25019 spec_breath_lightning
+M 25020 spec_breath_acid
+M 25021 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 25002 0 1
+D 0 25007 3 1
+D 0 25015 1 1
+D 0 25027 0 1
+D 0 25034 0 1
+D 0 25046 0 1
+D 0 25056 0 1
+D 0 25061 0 1
+D 0 25087 1 1
+D 0 25128 3 1
+D 0 25151 0 1
+M 0 25001 64 25001 2
+E 0 25003 0 12
+E 0 25002 0 16
+M 0 25000 32 25002 2
+E 0 25001 0 1
+E 0 25000 0 16
+M 0 25000 32 25003 2
+E 0 25000 0 16
+M 0 25001 64 25004 2
+M 0 25000 32 25005 1
+M 0 25001 64 25006 2
+E 0 25002 0 16
+M 0 25000 32 25007 2
+M 0 25001 64 25008 2
+E 0 25002 0 16
+M 0 25001 64 25009 2
+M 0 25001 64 25010 2
+M 0 25001 64 25011 2
+M 0 25000 32 25012 2
+M 0 25000 32 25013 1
+E 0 25001 0 1
+E 0 25000 0 16
+M 0 25001 64 25014 2
+M 0 25000 32 25015 2
+M 0 25001 64 25016 2
+E 0 25002 0 16
+M 0 25001 64 25017 2
+E 0 25002 0 16
+M 0 25000 32 25019 2
+E 0 25000 0 16
+M 0 25001 64 25020 64
+E 0 25001 0 1
+E 0 25000 0 16
+M 0 25001 64 25021 4
+E 0 25003 0 12
+E 0 25002 0 16
+M 0 25002 14 25022 2
+E 0 25004 0 4
+M 0 25002 14 25023 2
+M 0 25002 14 25024 4
+E 0 25004 0 4
+M 0 25002 14 25026 2
+E 0 25004 0 4
+M 0 25003 1 25027 1
+E 0 25005 0 8
+E 0 25004 0 3
+M 0 25001 64 25027 2
+E 0 25003 0 12
+E 0 25002 0 16
+M 0 25002 14 25028 2
+E 0 25004 0 4
+M 0 25004 4 25030 1
+E 0 25006 0 16
+M 0 25004 4 25034 1
+E 0 25006 0 16
+M 0 25005 18 25035 2
+M 0 25005 18 25036 4
+M 0 25006 1 25037 1
+E 0 25007 0 13
+E 0 25008 0 16
+M 0 25001 64 25037 2
+E 0 25003 0 12
+E 0 25002 0 16
+M 0 25005 18 25038 2
+M 0 25005 18 25039 2
+M 0 25005 18 25040 2
+M 0 25005 18 25041 2
+M 0 25005 18 25042 2
+M 0 25005 18 25043 2
+M 0 25004 4 25046 1
+E 0 25006 0 16
+M 0 25007 13 25047 2
+M 0 25007 13 25048 2
+M 0 25007 13 25049 2
+M 0 25008 1 25051 1
+E 0 25010 0 15
+E 0 25009 0 17
+M 0 25001 64 25051 2
+E 0 25003 0 12
+E 0 25002 0 16
+M 0 25007 13 25053 2
+M 0 25007 13 25054 2
+M 0 25007 13 25055 3
+M 0 25004 4 25056 1
+E 0 25006 0 16
+M 0 25009 5 25057 1
+M 0 25009 5 25059 1
+M 0 25010 1 25061 1
+E 0 25011 0 16
+E 0 25024 0 9
+M 0 25001 64 25061 4
+E 0 25003 0 12
+E 0 25002 0 16
+M 0 25009 5 25063 1
+M 0 25009 5 25065 2
+M 0 25001 64 25066 4
+E 0 25003 0 12
+E 0 25002 0 16
+M 0 25011 1 25068 1
+E 0 25012 0 7
+E 0 25022 0 10
+M 0 25012 1 25069 1
+E 0 25013 0 5
+M 0 25013 1 25070 1
+E 0 25014 0 16
+E 0 25025 0 11
+M 0 25014 1 25075 1
+E 0 25015 0 16
+E 0 25026 0 6
+M 0 25000 32 25079 2
+E 0 25000 0 16
+M 0 25001 64 25081 4
+E 0 25002 0 16
+M 0 25000 32 25083 2
+E 0 25001 0 2
+E 0 25000 0 16
+M 0 25000 32 25086 2
+E 0 25000 0 16
+M 0 25001 64 25087 4
+E 0 25003 0 12
+E 0 25002 0 16
+M 0 25017 1 25090 1
+E 0 25018 0 16
+M 0 25015 1 25092 1
+E 0 25016 0 16
+M 0 25016 1 25094 1
+E 0 25017 0 16
+M 0 25000 32 25099 2
+E 0 25001 0 2
+E 0 25000 0 16
+M 0 25000 32 25101 2
+M 0 25000 32 25102 2
+E 0 25001 0 2
+E 0 25000 0 16
+M 0 25001 64 25104 2
+E 0 25006 0 16
+M 0 25000 32 25105 2
+M 0 25001 64 25107 2
+E 0 25002 0 16
+M 0 25002 14 25112 1
+E 0 25004 0 3
+M 0 25021 1 25116 1
+E 0 25023 0 11
+M 0 25000 32 25120 2
+M 0 25000 32 25121 2
+M 0 25001 64 25123 2
+E 0 25002 0 16
+M 0 25000 32 25127 2
+E 0 25000 0 16
+M 0 25001 64 25128 4
+E 0 25002 0 16
+M 0 25020 1 25131 1
+E 0 25021 0 16
+M 0 25019 1 25133 1
+E 0 25020 0 16
+M 0 25018 1 25135 1
+E 0 25019 0 16
+M 0 25000 32 25140 2
+E 0 25001 0 2
+E 0 25000 0 16
+M 0 25000 32 25143 2
+E 0 25000 0 16
+M 0 25001 64 25145 2
+E 0 25002 0 16
+M 0 25000 32 25146 2
+M 0 25001 64 25148 2
+E 0 25003 0 12
+E 0 25002 0 16
+M 0 25002 14 25153 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

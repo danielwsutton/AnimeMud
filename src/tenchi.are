@@ -1,0 +1,1517 @@
+#AREADATA
+Name Masaki Shrine~
+Builders None~
+VNUMs 14500 14599
+Credits {20 50} Folken  Masaki Shrine~
+Security 9
+End
+
+
+
+#MOBILES
+#14500
+aeka ayeka~
+Aeka~
+Aeka stands here, wondering when Tenchi will get here after school.
+~
+A girl, appearing to be 16 or so, stands here, her sight drawn to the edge 
+of the stairs.  Dressed in brightly colored dress, having plentiful greens, 
+reds and oranges in it. Her purple hair is tied in the back, into two long 
+strands. On her forehead lies a headband, made of some sort of foreign wood.  
+Behind her back she clutches a whip, and chuckles to herself.
+~
+Human~
+ABG H 834 0
+53 5 50d10+6000 0d0+0 6d7+21 whip
+-36 -36 -36 -12
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#14501
+tenchi masaki~
+Tenchi~
+Tenchi stands here, working on his swordsmanship.
+~
+A young man brandishing a practice wooden sword, stands here. He's 
+got short, black hair, with a rat tail on the end. Dressed in all 
+brown, a brown shirt, brown pants, and brown shoes. A small woven
+ring gleams from his finger.  His eyes quickly search from left to 
+right, wondering if one the other girls is searching for him.
+~
+Human~
+AG DFQU 1000 0
+61 14 50d10+10000 0d0+0 8d6+31 slash
+-31 -31 -31 -31
+AK 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#14502
+ryouko ryoko demoness~
+Ryouko~
+Ryouko floats here, in search of Tenchi.
+~
+Ryouko floats in the air, looking left and right for Tenchi.  Her 
+blue-green hair fluttering in the breeze, she has a simple blue and 
+tan striped outfit on.  On her right wrist a sparkling jewel gleams 
+in the sunlight.
+~
+Human~
+AG DFHTU 1000 0
+59 13 50d10+9000 0d0+0 8d6+29 slash
+-30 -30 -30 -30
+DFK 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#14503
+sasami jurai~
+Sasami~
+Sasami stands here, preparing some carrots for supper.
+~
+A younger girl quickly beams a smile at you.  Decked out in a long 
+yellow apron, she'd be more than happy to make something good to eat 
+for ya. Her red hair ties keep her blue hair out of her face, and 
+look very cute on her.
+~
+Human~
+AG DF 1000 0
+49 6 50d10+4000 0d0+0 4d10+18 magic
+-19 -19 -19 -19
+FHK 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#14504
+mihoshi~
+Mihoshi~
+Mihoshi lies here, half-asleep.
+~
+Wearing a pair of blue jeans and a low cut shirt, Mihoshi sits there, 
+as if in a daze. The blond, bubbly hair that just sits there on her 
+head give s the impression that everything isn't OK upstairs.
+~
+Human~
+ABCG DF 750 0
+51 4 50d10+4000 0d0+0 6d7+20 blast
+-18 -19 -18 -20
+EHKN 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#14505
+washu little~
+Washu~
+Washu stands here, waiting to perform an experiment on you!
+~
+Washu's gigantic fob of red hair leaves you in amazement.  How 
+DOES she keep her balance with all of it?  Must be some sort of 
+invention.  Strangely, she's got a nurse's outfit on.  Hat, 
+gloves, white shirt, skirt and shoes.  She takes one good look 
+at you, cackles, and takes a step closer.
+~
+Human~
+AG DFH 500 0
+52 7 50d10+5500 0d0+0 6d7+20 slap
+-22 -22 -22 -22
+FK 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#14506
+yosho~
+Yosho~
+Yosho tends to the various parts of the shrine.
+~
+Yosho, a man who looks to be in his mid 60's or so, dusts out some 
+leaves from the shrine.  His white kimono and grey hair makes him 
+look harmless, but the look in his eyes through his spectacles gives 
+other thoughts.
+~
+unique~
+ABG DFHN 1000 0
+59 12 50d10+9250 0d0+0 8d6+26 pound
+-30 -29 -30 -29
+ADEFIK 0 0 0
+stand stand male 0
+AHMV ABCDEF medium unknown
+#14507
+guardian~
+The Guardian~
+One of Aeka's guardians stands watch over the Masaki residence.
+~
+The Guardian appears to be some sort of wooden cylinder, with a large gem 
+three-fourths of the way up on it, and a large Japanese character written 
+below the gem.  It has four leg, type cylinders coming out of the bottom, 
+supposedly for movement.
+~
+unique~
+ABG DF 1000 0
+50 5 50d10+4500 0d0+0 5d8+19 charge
+-20 -20 -20 -20
+U 0 0 0
+stand stand male 0
+AHMV ABCDEF medium unknown
+#14508
+spirit little~
+a floating spirit~
+A small spirit materialzes floats here in space.
+~
+A small white ball of light flutters and flies around you, oblivous to 
+what is going on in it's surroundings.
+~
+unique~
+AG TU -75 0
+42 6 25d10+2250 0d0+0 3d12+14 pound
+-14 -14 -14 -14
+FK 0 0 0
+stand stand either 0
+AHMV ABCDEF medium unknown
+#14509
+azusa~
+Azusa~
+Azusa stands here, ready to yell at someone
+~
+The king of Jurai doesn't seem too pleased to be here. After three of kids 
+running off on him, he's got a right to be angry. Dressed in the finest of 
+Jurai wear, he turns his head back and forth.
+~
+Human~
+AG H 600 0
+58 11 50d10+8500 0d0+0 5d10+25 slash
+-28 -29 -28 -28
+CDEFKN 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#14510
+large spirit~
+a large spirit~
+A spirit enters the realm through a rift, and howls!
+~
+A large spirit, with visiable, yet translucent limbs, screams and howls in 
+terror, after being ripped from it's previous dimension.
+~
+Human~
+AFG DFTU -750 0
+45 7 25d10+3000 0d0+0 8d4+16 grep
+-15 -15 -15 -15
+FK 0 FG 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#14511
+Tourist japanese~
+a japanese tourist~
+A japanese tourist is here, paying their respects to the shrine.
+~
+With camera in hand, the tourist quickly takes your picture, about 20 times. 
+They seem just the typical plainclothed japanese citizen.
+~
+Human~
+ABG 0 345 0
+40 5 14d10+2000 0d0+0 4d8+13 thwack
+-13 -13 -13 -13
+DFIKLU 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#14512
+Ryo ohki cabbit~
+Ryo-Ohki~
+Ryo-ohki sits here, nibbling on a carrot.
+~
+How CUTE!  It's a cat, or is it a rabbit?  You can't tell.  Whatever it is, 
+it's darn cute.  She's got brown fur, with white fur under her ears.  With 
+a red jewel on her forehead, and a carrot in her mouth, she's just too 
+cute for words.
+~
+unique~
+AG 0 1000 0
+45 6 25d10+3200 0d0+0 8d4+16 pound
+-15 -15 -14 -16
+FK 0 0 0
+stand stand female 0
+AHMV ABCDEF medium unknown
+#14513
+Nobuyuki Masaki~
+Nobuyuki~
+Nobuyuki stands here peeping through the door.
+~
+With a white sheet over his head, and a camcorder in his hands, Nobuyuki 
+tries to catch a glimpse of Tenchi's first love session... for prosparity, 
+of course.
+~
+Human~
+ACG DFQ 350 0
+47 0 25d10+3600 6d6+17 0d0+0 beating
+-17 -17 -17 -17
+CDFK 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#14514
+Funaho~
+Funaho~
+Funaho stands here, watching the sunset.
+~
+Remembering almost 700 years back, Funaho sighs. Her long black hair 
+flows down to her ankles, as per Jurai custom.  She wears a blue kimono, 
+with red trim, unlike normal Jurai clothing. Her calm smile towards you 
+makes you feel at ease.
+~
+Human~
+AG DFH 1000 0
+58 10 50d10+8700 0d0+0 5d10+25 slap
+-23 -23 -23 -23
+FK B 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#14515
+Misaki~
+Misaki~
+Misaki greets you with a very smirky grin on her face.
+~
+Misaki stands there, looking sheepish. Her blue hair, goes all over the 
+place, just like her emotional scale.  On a sleeve of her garb it appears 
+that there is some sort of military like patch sewn in.
+~
+unique~
+AG H 1000 0
+58 11 50d10+8500 0d0+0 8d6+26 punch
+-29 -29 -29 -29
+DEFHIK 0 0 0
+stand stand female 0
+AHMV ABCDEF medium unknown
+#14520
+oops~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0
+1 0 1d2+2 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#14500
+Aeka whip~
+Aeka's whip~
+A sharp, black whip awaits the attention of it's owner, and it's recipient.~
+wood~
+weapon ABSY AN
+whip 7 10 whip BG
+63 5 10600 100
+A
+18 2
+#14501
+brown wood ring~
+A interwoven wooden ring.~
+A rather simple looking ring, three pieces of wood woven together, lies here.~
+~
+armor ABGKLSY AB
+AC ABC ABC AC 0
+60 5 12000 100
+A
+24 -3
+#14502
+wrist jewel~
+A red wrist jewel~
+A small jewel with a reddish hue sits here.~
+~
+armor AGKLY AM
+BD BD BD CD 0
+60 5 12000 100
+A
+19 3
+A
+2 1
+#14503
+aeka wooden headband~
+A wooden headband~
+A wooden headband, humming with power sits on the floor.~
+~
+armor ABGKS AE
+ABC AC AB BD 0
+53 5 10600 100
+A
+17 -4
+#14504
+Apron~
+Sasami's Apron~
+A bright yellow apron, with a bright orange carrot on it, sits here.~
+~
+armor 0 AK
+BD BD AD BC 0
+48 5 9600 100
+A
+12 15
+#14505
+puff ball~
+A white puff ball~
+Strange, a white puff ball seems to hover here.~
+~
+armor SY AL
+B B B B 0
+49 5 9800 100
+A
+4 -2
+A
+12 5
+#14506
+latex gloves~
+A pair of latex gloves~
+A pair of slightly used gloves sit here, sort of rubbery.~
+~
+armor ABK AH
+B B B B 0
+53 5 10600 100
+A
+17 -3
+A
+4 1
+#14507
+jurai patch guard~
+A Jurai guard patch~
+A patch bearing the Jurai royal crest lay torn from it's uniform.~
+~
+armor AGKLSY AI
+AD AD ABC D 0
+58 5 11600 100
+A
+19 0
+#14508
+washcloth~
+A white washcloth~
+A small washcloth tied at the corners gathers dust.~
+~
+armor S AE
+0 0 0 0 0
+50 5 10000 100
+#14509
+Baton pretty sammy~
+A pink baton~
+A pink baton with a heart on top of it sits here, waiting to make people happy.~
+~
+weapon 0 AN
+exotic 5 9 magic C
+49 5 9800 100
+#14510
+hot spring towel~
+a Hot Spring Towel~
+A hot spring towel, barely enough to cover anything, lies crumpled on the floor.~
+cotton~
+armor 0 AD
+0 0 0 0 0
+0 10 20 100
+#0
+
+
+
+#ROOMS
+#14500
+In front of Ryoh's lake~
+The clearing opens wider as Ryoh's tree completely fills the area.  
+Underneith the tree remains a calm lake, with a bridge going to and 
+from the tree farther north.
+~
+0 0 2
+D0
+~
+~
+0 -1 14501
+D2
+~
+~
+0 -1 6109
+S
+#14501
+South side of Ryoh's lake~
+The wooden boards creak with the weight put onto them.  The giantic
+ tree looms to the north, with the lake continuing to the east and 
+west.  To the south a clearing of the forest can be seen.
+~
+0 0 2
+D0
+~
+~
+0 -1 14509
+D1
+~
+~
+0 -1 14508
+D2
+~
+~
+0 -1 14500
+D3
+~
+~
+0 -1 14502
+S
+#14502
+Southwest side of Ryoh's lake~
+The gentle breeze of the lake fills the air, both calming and soothing.  
+To the east an old bridge joining the land to the tree stands, and more 
+of the lake goes to the north.
+~
+0 0 7
+D0
+~
+~
+0 -1 14503
+D1
+~
+~
+0 -1 14501
+S
+#14503
+West side of Ryoh's lake~
+The gentle breeze of the lake fills the air, both calming and soothing.  
+To the east Ryoh's tree stands, in all of it's glory.  Both the north and 
+south contains more of the lake.
+~
+0 0 7
+D0
+~
+~
+0 -1 14504
+D1
+~
+~
+0 -1 14509
+D2
+~
+~
+0 -1 14502
+S
+#14504
+Northwest side of Ryoh's lake~
+The gentle breeze of the lake fills the air, both calming and soothing. 
+The lake continues on both to the south and east.
+~
+0 0 7
+D1
+~
+~
+0 -1 14505
+D2
+~
+~
+0 -1 14503
+S
+#14505
+North side of Ryoh's lake~
+The gentle breeze of the lake fills the air, both calming and soothing.  
+Looking to the south, Ryoh's tree fills the sky, creating a large shadow 
+over the entire lake.
+~
+0 0 7
+D1
+~
+~
+0 -1 14506
+D2
+~
+~
+0 -1 14509
+D3
+~
+~
+0 -1 14504
+S
+#14506
+Northeast side of Ryoh's lake~
+The gentle breeze of the lake fills the air, both calming and soothing.  
+The south has quite a few stones, creating a path from the tree to the shore. 
+Ryoh's lake continues to the west.
+~
+0 0 7
+D2
+~
+~
+0 -1 14507
+D3
+~
+~
+0 -1 14505
+S
+#14507
+East side of Ryoh's lake~
+The stones that you step on have been flattened, as if to create an easy 
+path between the tree and shoreline.  Ryoh's lake continues on to the north 
+and south, while the tree itself lies to the west, blocking out the sun. Off 
+to the east lies a path in between the trees of the forest.
+~
+0 0 2
+D0
+~
+~
+0 -1 14506
+D1
+~
+~
+0 -1 14511
+D2
+~
+~
+0 -1 14508
+D3
+~
+~
+0 -1 14509
+S
+#14508
+Southeast side of Ryoh's lake~
+The gentle breeze of the lake fills the air, both calming and soothing.  
+Off in the distance to the north has a group of stones clustered together, 
+and the west has a rickety bridge leading to the tree.
+~
+0 0 7
+D0
+~
+~
+0 -1 14507
+D3
+~
+~
+0 -1 14501
+S
+#14509
+Ryoh's Tree~
+Before you lies the greatest tree in the forest, Ryoh.  After Aeka's ship 
+crashed to ground, the ship began to heal itself, rooting into the fertile 
+soil.  Because of the energy residing in the woods, the tree quickly grew 
+to a tremenous size.  To the north and west the lake continues.  Both the 
+east and south have paths back to solid ground.  Looking up, the floating 
+hot springs can be seen.
+~
+0 0 3
+D0
+~
+~
+0 -1 14505
+D1
+~
+~
+0 -1 14507
+D2
+~
+~
+0 -1 14501
+D3
+~
+~
+0 -1 14503
+D4
+~
+~
+0 -1 14510
+S
+#14510
+Up the tree~
+Resting on the firm branches of Ryoh, the strong breeze whistles through 
+your hair.  The entire forest can be seen from this perch. A blend of 
+greens and reds fill your vision as you scan out over the horizon.  Below, 
+the roots of the tree lay, and above, the entrance to the floating hot 
+springs resides.
+~
+0 4 3
+D4
+~
+~
+0 -1 14512
+D5
+~
+~
+0 -1 14509
+S
+#14511
+A path in between the trees~
+The ground has been worn through by the years and years of foot travel 
+coming to the shrine. The path continues to the east, and the entrance 
+to the lake is to the west.
+~
+0 0 3
+D1
+~
+~
+0 -1 14521
+D3
+~
+~
+0 -1 14507
+S
+#14512
+Hot Springs entrance~
+Taking a fresh breath of air, the humidity is very high. Attatched to the 
+wall is a sign, getting your attention.  A quaint picture of Ken-Ohki rests 
+above the entrance to the north, and a picture of Ryo-Ohki rests above the 
+east exit.  A large question mark is etched above the exit to the west.  
+The hot springs themselves are to the south.
+~
+0 1032 0
+D0
+~
+~
+0 -1 14514
+D1
+~
+~
+0 -1 14515
+D2
+~
+~
+0 -1 14516
+D3
+~
+~
+0 -1 14513
+D5
+~
+~
+0 -1 14510
+S
+#14513
+Sexless changing room~
+To your suprise, the room doesn't smell like a gym locker.  Must be one of 
+Washu's inventions...  A row of curtesy changing rooms are to the west, but 
+are all locked and sealed.  Looks like you'll just have to change with 
+everyone staring at you.  To the east the entrance to the hot springs is.
+~
+0 1032 0
+D1
+~
+~
+0 -1 14512
+S
+#14514
+Mens changing room~
+To your suprise, the room doesn't smell like a gym locker.  Must be one 
+of Washu's inventions...  A row of curtesy changing rooms are to the north, 
+but are all locked and sealed.  Looks like you'll just have to change with 
+everyone staring at you. To the south is the entrance to the springs.
+~
+0 1032 0
+D2
+~
+~
+0 -1 14512
+S
+#14515
+Ladies changing room~
+To your suprise, the room doesn't smell like a gym locker.  Must be one of 
+Washu's inventions...  A row of curtesy changing rooms are to the east, but 
+are all locked and sealed.  Looks like you'll just have to change with 
+everyone staring at you. Back to the west the entrance lies.
+~
+0 1032 0
+D3
+~
+~
+0 -1 14512
+S
+#14516
+Hot springs waterfall~
+The quiet roar of the waterfall drowns out most of the other sounds in 
+the room.  A large dome encloses the area, protecting it from any kind 
+of weather.  The group bathing pools are to the east and west, and the 
+private saunas reside farther east and west.
+~
+0 1032 0
+D0
+~
+~
+0 -1 14512
+D1
+~
+~
+0 -1 14519
+D3
+~
+~
+0 -1 14517
+S
+#14517
+Group bathing pool~
+The water comes up to your neck as you step in, opening up your pours.  
+With enough room for many, the pool is a favorite for relaxation and 
+conversation to pass the time.  To the south, a door can be seen that 
+leads to one of the personal saunas.
+~
+0 1032 0
+D1
+~
+~
+0 -1 14516
+D2
+~
+sauna door~
+1 -1 14518
+S
+#14518
+Personal sauna~
+Wow... it's hot in here.  A light mist surrounds the room, causing a 
+mystical feeling inside the sauna.  A bench is built into one of the 
+walls, with just enough room for two. A door leading out of the sauna 
+is to the north.
+~
+0 1032 0
+D0
+~
+sauna door~
+1 -1 14517
+S
+#14519
+Group bathing pool~
+The water comes up to your neck as you step in, opening up your pours.  
+With enough room for many, the pool is a favorite for relaxation and 
+conversation to pass the time. On the east side, a door leads to a 
+personal sauna.
+~
+0 1032 0
+D1
+~
+sauna door~
+1 -1 14520
+D3
+~
+~
+0 -1 14516
+S
+#14520
+Personal sauna~
+Wow... it's hot in here.  A light mist surrounds the room, causing 
+a mystical feeling inside the sauna.  A bench is built into one of 
+the walls, with just enough room for two. The door leading out is 
+on the west wall.
+~
+0 1032 0
+D3
+~
+sauna door~
+1 -1 14519
+S
+#14521
+The base of the mountain~
+Rolling slowly, the mountain at which the Masaki shrine resides 
+majestically reaches up to the north.  Off to the west leads a 
+path to a lake with a tree in it, and a large house can be seen 
+through the trees to the east.
+~
+0 0 4
+D0
+~
+~
+0 -1 14522
+D1
+~
+~
+0 -1 14523
+D3
+~
+~
+0 -1 14511
+S
+#14522
+The stairs leading to the shrine~
+The stairs seem to continue both north and south for what seems to 
+be an eternity.  The limestone stairs do not seem the worse for wear, 
+after hundred of years of being used.
+~
+0 0 0
+D0
+~
+~
+0 -1 14524
+D2
+~
+~
+0 -1 14521
+S
+#14523
+Entry gate to the Masaki household~
+A large gate has been left wide open here, with two strange wooden 
+figures attached to them.  They rotate around, and greet you.  To 
+the east a small walkway can be seen into the house.
+~
+0 0 2
+D1
+~
+~
+0 -1 14536
+D3
+~
+~
+0 -1 14521
+S
+#14524
+The stairs leading to the shrine~
+The stairs seem to continue both north and south for what seems to be an 
+eternity.  The limestone stairs do not seem the worse for wear, after 
+hundred of years of being used.
+~
+0 0 4
+D0
+~
+~
+0 -1 14525
+D2
+~
+~
+0 -1 14522
+S
+#14525
+The stairs leading to the shrine~
+The stairs seem to continue both north and south for what seems to be 
+an eternity.  The limestone stairs do not seem the worse for wear, 
+after hundred of years of being used. A small path leads eastward.
+~
+0 0 4
+D0
+~
+~
+0 -1 14526
+D1
+~
+~
+0 -1 14527
+D2
+~
+~
+0 -1 14524
+S
+#14526
+The stairs leading to the shrine~
+The stairs seem to continue both north and south for what seems to 
+be an eternity.  The limestone stairs do not seem the worse for wear, 
+after hundred of years of being used.
+~
+0 0 4
+D0
+~
+~
+0 -1 14531
+D2
+~
+~
+0 -1 14525
+S
+#14527
+Tenchi's practice ground~
+A large cluster of small, flattened stumps are stuck onto the ground.  
+The trees seems to be cleared a bit above the stumps, as to give enough 
+rooms to manuvere quickly.  Three small paths lead north, west, and south.
+~
+0 0 3
+D0
+~
+~
+0 -1 14528
+D2
+~
+~
+0 -1 14529
+D3
+~
+~
+0 -1 14525
+S
+#14528
+Funaho's tree~
+Lord Yosho's tree remains steadfast in the middle of a small pond.  After 
+crashing onto earth, Yosho's ship took root into the earth, refusing to 
+ever let go.  Like her master, the both chose to stay among the beauty 
+of earth instead of returning to Jurai
+.
+~
+0 0 3
+D2
+~
+~
+0 -1 14527
+S
+#14529
+A small, unused path in the trees~
+Barely making it through the trees, a clearing can be seen to the north and south.
+~
+0 0 3
+D0
+~
+~
+0 -1 14527
+D2
+~
+~
+0 -1 14530
+S
+#14530
+Achika's grave~
+Before your feet lies the grave of Achika, mother of Tenchi Masaki.  To this day, 
+nobody truly knows how she died.  A small arrangement of flowers lean against the 
+gravestone, in memoriam. A feeling of loss and sorrow fills the air.
+~
+0 0 2
+D0
+~
+~
+0 -1 14529
+S
+#14531
+Entrance to the Masaki shrine~
+Standing before you is the famous Masaki shrine, visited by thousands every 
+year to pay tribute.  The simple, yet elegant shrine is surrouned by a plain 
+fence, painted in a faded yellow.  To the north is the courtyard and the west 
+remains a dark cave.
+~
+0 0 2
+D0
+~
+~
+0 -1 14533
+D2
+~
+~
+0 -1 14526
+D3
+~
+~
+0 -1 14532
+S
+#14532
+Entrance to a cave~
+With a large, rusted gate with a lock on the door, the cave seems off-limits 
+to visitors.  No signs of any kind warn of any kind of dangers, so it seems 
+pecular that the shrine would keep such a place closed up.
+~
+0 0 2
+D1
+~
+~
+0 -1 14531
+D3
+~
+door~
+1 -1 14534
+S
+#14533
+The courtyard at the Masaki shrine~
+The courtyard is beaming with all sorts of flowers.  A small pile of leaves 
+has been collected near the entrance of the shrine itself, to the north.  A 
+yellow fence surrounds the area, protecting it from the elements.
+~
+0 0 2
+D0
+~
+~
+0 -1 14559
+D2
+~
+~
+0 -1 14531
+S
+#14534
+In the dark cave~
+Drawings fill the cave, telling some sort of story.  However, they have become 
+faded, leaving only a few left distinguishable.  One picture clearly shows a 
+small handle with three red dots on it, and other shows of a large demon 
+conjuring up dangerous spirits.
+~
+0 9 0
+D1
+~
+door~
+1 -1 14532
+D3
+~
+~
+0 -1 14535
+S
+#14535
+Ryoko's resting place~
+This large cavern in the cave glows an ominous green, emminating from the 
+center.  A large hole leads downward, radiating some sort of power.  Small, 
+whispy spirits float all around, as if protecting this sacred spot.
+~
+0 9 0
+D1
+~
+~
+0 -1 14534
+S
+#14536
+Bridge to the Masaki residence~
+The newly built bridge doesn't even make a sound as you walk onto it. In fact, 
+it seems like the entire house is new.  Strangely, it seems to have some sort 
+of moat around it, unusal for houses in this area.  The entrance to the house 
+is north.
+~
+0 0 2
+D0
+~
+~
+0 -1 14537
+D3
+~
+~
+0 -1 14523
+S
+#14537
+Front door of the household~
+Whomever designed this house did a good job, especially with the crew that 
+runs around in it.  It's hard to tell where all the holes from the various 
+explosions are patched up. A rather plain door is to the north.
+~
+0 0 2
+D0
+~
+~
+0 -1 14538
+D2
+~
+~
+0 -1 14536
+S
+#14538
+Foyer~
+The entryway of the house remains simple, with only a cat statue with one 
+of it's paws held up for good luck as the only ornament to the room.  A 
+stairway leads to the second floor, and hallways go off to the other directions.
+~
+0 8 0
+D0
+~
+~
+0 -1 14546
+D1
+~
+~
+0 -1 14542
+D2
+~
+~
+0 -1 14537
+D3
+~
+~
+0 -1 14540
+D4
+~
+~
+0 -1 14539
+S
+#14539
+Upstairs hallway~
+The window in one of the walls gives a great view of Ryoh's tree from here.  
+This hallway containes the rooms of the residents here.  Be careful to knock, 
+don't want to catch anybody by suprise!
+~
+0 8 0
+D1
+~
+~
+0 -1 14549
+D3
+~
+~
+0 -1 14550
+D5
+~
+~
+0 -1 14538
+S
+#14540
+Living room~
+Often not used, the living room is kept for special occasions, either karaoke, 
+or drinking sake.  Usually both.  Kept rather clean, the only striking object 
+in the room is the small shrine on one of the ledges.
+~
+0 8 0
+D1
+~
+~
+0 -1 14538
+D3
+~
+door~
+1 -1 14541
+S
+#14541
+Bathroom~
+Pink.  Lots of it.  The bathroom would make any young girl pround and everyone 
+else sick. Pink curtains, pink soap, pink, pink, pink.  Sasami should have not 
+been put in charge of decorating this room.
+~
+0 520 0
+D1
+~
+door~
+1 -1 14540
+S
+#14542
+Dining room~
+A long table built low to the ground dominates the room.  Each side of 
+the table has cushions, appropriate for when the entire group decided 
+to eat.  A small trail of carrot crumbs can be seen going into a corner.
+~
+0 8 0
+D0
+~
+~
+0 -1 14543
+D3
+~
+~
+0 -1 14538
+S
+#14543
+Dining room~
+A long table built low to the ground dominates the room.  Each side of 
+the table has cushions, appropriate for when the entire group decided 
+to eat.  A small trail of carrot crumbs can be seen going into a corner.
+~
+0 8 0
+D0
+~
+~
+0 -1 14544
+D2
+~
+~
+0 -1 14542
+S
+#14544
+Kitchen~
+The smell of fresh vegetables, more specifically, carrots, fills the 
+air.  A small container of baby formula sits, stuck in a corner from 
+Taro-chan's last visit here.  This part of the kitchen seems much 
+cleaner than the rest.
+~
+0 8 0
+D2
+~
+~
+0 -1 14543
+D3
+~
+~
+0 -1 14545
+S
+#14545
+Kitchen~
+What a mess!  Food, pots and pans, garbage lay all over the place.  
+Who knows who tried to make a meal this time.  Needless to say, Sasami
+doesn't use this part of the kitchen to cook.
+~
+0 8 0
+D1
+~
+~
+0 -1 14544
+D2
+~
+~
+0 -1 14546
+D3
+~
+~
+0 -1 14548
+S
+#14546
+Hallway~
+A small walkway leads between the kitchen and the foyer.  Various pictures 
+of Tenchi during his childhood adorn the walls.  A broom closet door to the
+west leads to the closet... or does it?
+~
+0 8 0
+D0
+~
+~
+0 -1 14545
+D2
+~
+~
+0 -1 14538
+D3
+~
+~
+1 -1 14547
+S
+#14547
+Washu's lab~
+Not exactly a broom closet, it looks like a giantic room with one heck of a 
+window to the south.  A small cushion floats in the air, where Washu sits 
+and plots her next devious invention.  The walls seem to be made of some 
+substance you've never seen, but looks remarkably strong and beige.
+~
+0 8 0
+D1
+~
+closet door~
+1 -1 14546
+S
+#14548
+Shed~
+Lots of carrots.  Carrots in baskets, carrots on the shelf.  An amazing number 
+of carrots is here, especially with Ryo-Ohki around.  A small box of rags sits 
+on the ground, all dirty from Tenchi wiping himself off after fetching more 
+vegetables from the garden.
+~
+0 8 0
+D1
+~
+~
+0 -1 14545
+S
+#14549
+Manga room~
+Rows and rows of bookshelves fill the room, all stocked with volumes of manga.  
+Shoujo manga, to be more specific.  Tenchi's dad sure has a strange hobby.  Many 
+of the books lay all over the floor, somebody probably has been doing "research" 
+to get Tenchi's attention.
+~
+0 8 0
+D3
+~
+~
+0 -1 14539
+S
+#14550
+Hallway~
+This hallway containes the rooms of the residents here.  Be careful to knock, 
+don't want to catch anybody by suprise! A quiet room lies to the north.
+~
+0 8 0
+D0
+~
+door~
+1 -1 14554
+D1
+~
+~
+0 -1 14539
+D3
+~
+~
+0 -1 14551
+S
+#14551
+Hallway~
+This hallway containes the rooms of the residents here. 
+Be careful to knock, don't want to catch anybody by suprise! 
+A quiet room lies to the north.
+~
+0 8 0
+D0
+~
+door~
+1 -1 14555
+D1
+~
+~
+0 -1 14550
+D3
+~
+~
+0 -1 14552
+S
+#14552
+Hallway~
+This hallway containes the rooms of the residents here.  Be careful to knock, 
+don't want to catch anybody by suprise! A quiet room lies to the north.
+~
+0 8 0
+D0
+~
+door~
+1 -1 14558
+D1
+~
+~
+0 -1 14551
+D3
+~
+~
+0 -1 14553
+S
+#14553
+End of the Hallway~
+This hallway containes the rooms of the residents here.  Be careful to 
+knock, don't want to catch anybody by suprise! The stench of sake lies 
+to the north, and another suspicious looking room lies to the west.
+~
+0 8 0
+D0
+~
+door~
+1 -1 14556
+D1
+~
+~
+0 -1 14552
+D3
+~
+door~
+1 -1 14557
+S
+#14554
+Aeka's Room~
+With miniblinds turned down, the light given off in this room is very 
+low.  A tidly made matress lies on the ground, the center of the room's 
+attention.  A picture of Yosho and Aeka sits on top of the dresser, as 
+a reminder of yesteryear.  A small bit of leather sticks out from one 
+of the dressers.
+~
+0 8 0
+D2
+~
+door~
+1 -1 14550
+S
+#14555
+Sasami's Room~
+Carrot pillows fill the room, with a small mat bed sitting in a corner 
+of the room. A small set of red hair ties sits on the dresser.  Hanging 
+in the closet is a strange scepter, with a large heart on top of it.
+~
+0 8 0
+D2
+~
+door~
+1 -1 14551
+S
+#14556
+Ryouko's Room~
+The room is covered with dust, as if it hasn't been used in ages.  Nothing 
+on the walls, and the  blinds are drawn shut.  Ryouko must be too busy keeping 
+an eye on Tenchi to do something as useless as sleep.
+~
+0 8 0
+D2
+~
+door~
+1 -1 14553
+S
+#14557
+Nobuyuki's Room~
+With the lights turned off, this rooms seems quite dark.  Video tapes 
+line the wall, a video camera sits on the bed.  A small white towel is 
+draped over the video camera.  The towel has a small red stain in the 
+middle. A copy of the latest Shoujo manga, braced open in the middle, 
+rests on the headboard.
+~
+0 8 0
+D1
+~
+door~
+1 -1 14553
+S
+#14558
+Tenchi's Room~
+A desk, full of papers and books stands in a corner. The room is entirely 
+brown, brown drapes, brown bedspread.  A small piece of eaten carrot sits 
+on top of the bed.
+~
+0 8 0
+D2
+~
+door~
+1 -1 14552
+S
+#14559
+Masaki Shrine~
+More of a house for Yosho than a real shrine, and the size of a large 
+shed, the Masaki shrine remains sparce, with only a small table and a 
+mat  inside.  A small stick of insense sits in a glass, giving off a 
+pleasant aroma.
+~
+0 8 0
+D2
+~
+~
+0 -1 14533
+S
+#0
+
+
+
+#SPECIALS
+M 14500 spec_cast_cleric
+M 14512 spec_cabbit
+S
+
+
+
+#RESETS
+D 0 14517 2 1
+D 0 14518 0 1
+D 0 14519 1 1
+D 0 14520 3 1
+D 0 14532 3 1
+D 0 14534 1 1
+D 0 14540 3 1
+D 0 14541 1 1
+D 0 14547 1 1
+D 0 14550 0 1
+D 0 14551 0 1
+D 0 14552 0 1
+D 0 14553 0 1
+D 0 14553 3 1
+D 0 14554 2 1
+D 0 14555 2 1
+D 0 14556 2 1
+D 0 14557 1 1
+D 0 14558 2 1
+M 0 14514 1 14507 1
+M 0 14502 1 14511 1
+E 0 14502 0 14
+M 0 14511 10 14521 10
+M 0 14511 10 14521 10
+M 0 14511 10 14522 10
+M 0 14507 2 14523 2
+M 0 14507 2 14523 2
+M 0 14509 1 14524 1
+M 0 14511 10 14525 10
+M 0 14511 10 14525 10
+M 0 14511 10 14525 10
+M 0 14511 10 14526 10
+M 0 14501 1 14527 1
+E 0 14501 0 1
+M 0 14511 10 14531 10
+M 0 14510 1 14532 1
+M 0 14500 1 14533 1
+E 0 14503 0 6
+E 0 14500 0 16
+M 0 14511 10 14533 10
+M 0 14508 5 14534 5
+M 0 14508 5 14535 5
+M 0 14508 5 14535 5
+M 0 14508 5 14535 5
+M 0 14508 5 14535 5
+M 0 14504 1 14537 1
+E 0 14505 0 13
+M 0 14512 1 14542 1
+M 0 14515 1 14543 1
+E 0 14507 0 10
+M 0 14503 1 14544 1
+E 0 14504 0 12
+E 0 14509 0 16
+M 0 14505 1 14547 1
+E 0 14506 0 9
+M 0 14513 1 14552 1
+E 0 14508 0 6
+M 0 14506 1 14559 1
+M 0 14511 10 14559 10
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

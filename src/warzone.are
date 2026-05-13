@@ -1,0 +1,652 @@
+#AREADATA
+Name WarZone~
+Builders None~
+VNUMs 400 499
+Credits {PK PK} Scorp   War Zone~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#400
+Pillar of PK~
+The Pillar of PK Greats.~
+This is the pillar where the great player killers are honored with their
+names engraved on it.
+`1Scorpian``~
+etherealness~
+furniture TY 0
+0 0 0 0 0
+100 100 0 0
+E
+names~
+Scorpian aka Zor aka Iceman~
+#0
+
+
+
+#ROOMS
+#400
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D0
+~
+~
+0 -1 401
+D1
+~
+~
+0 -1 417
+D2
+~
+~
+0 -1 411
+D3
+~
+~
+0 -1 412
+D4
+~
+~
+0 -1 421
+D5
+~
+~
+0 -1 427
+S
+#401
+The War Zone~
+You are standing in the War Zone.
+~
+0 8708 1
+D0
+~
+~
+0 -1 416
+D1
+~
+~
+0 -1 402
+D2
+~
+~
+0 -1 400
+D4
+~
+~
+0 -1 429
+S
+#402
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D1
+~
+~
+0 -1 408
+D2
+~
+~
+0 -1 403
+D3
+~
+~
+0 -1 401
+S
+#403
+The War Zone~
+You are standing in the War Zone.
+~
+0 8708 1
+D0
+~
+~
+0 -1 402
+D3
+~
+~
+0 -1 427
+D4
+~
+~
+0 -1 420
+D5
+~
+~
+0 -1 404
+S
+#404
+The War Zone~
+You are standing in the War Zone.
+~
+0 8708 1
+D1
+~
+~
+0 -1 425
+D3
+~
+~
+0 -1 405
+D4
+~
+~
+0 -1 403
+S
+#405
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D0
+~
+~
+0 -1 420
+D1
+~
+~
+0 -1 404
+D3
+~
+~
+0 -1 417
+D4
+~
+~
+0 -1 406
+S
+#406
+The War Zone~
+You are standing in the War Zone.
+~
+0 8708 1
+D2
+~
+~
+0 -1 423
+D3
+~
+~
+0 -1 407
+D5
+~
+~
+0 -1 405
+S
+#407
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D1
+~
+~
+0 -1 406
+D2
+~
+~
+0 -1 408
+D3
+~
+~
+0 -1 426
+S
+#408
+The War Zone~
+You are standing in the War Zone.
+~
+0 8708 1
+D0
+~
+~
+0 -1 407
+D2
+~
+~
+0 -1 430
+D3
+~
+~
+0 -1 402
+D5
+~
+~
+0 -1 409
+S
+#409
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D1
+~
+~
+0 -1 410
+D4
+~
+~
+0 -1 408
+S
+#410
+The War Zone~
+You are standing in the War Zone.
+~
+0 8708 1
+D0
+~
+~
+0 -1 411
+D2
+~
+~
+0 -1 426
+D3
+~
+~
+0 -1 409
+S
+#411
+The War Zone~
+You are standing in the War Zone.
+~
+0 8708 1
+D0
+~
+~
+0 -1 400
+D1
+~
+~
+0 -1 412
+D2
+~
+~
+0 -1 410
+S
+#412
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D1
+~
+~
+0 -1 400
+D2
+~
+~
+0 -1 418
+D3
+~
+~
+0 -1 411
+D5
+~
+~
+0 -1 413
+S
+#413
+The War Zone~
+You are standing in the War Zone.
+~
+0 8708 1
+D0
+~
+~
+0 -1 414
+D2
+~
+~
+0 -1 419
+D4
+~
+~
+0 -1 412
+S
+#414
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D1
+~
+~
+0 -1 415
+D2
+~
+~
+0 -1 413
+D3
+~
+~
+0 -1 430
+S
+#415
+The War Zone~
+You are standing in the War Zone.
+~
+0 8708 1
+D2
+~
+~
+0 -1 416
+D3
+~
+~
+0 -1 414
+S
+#416
+The War Zone~
+You are standing in the War Zone.
+~
+0 8708 1
+D0
+~
+~
+0 -1 415
+D2
+~
+~
+0 -1 401
+D5
+~
+~
+0 -1 424
+S
+#417
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D0
+~
+~
+0 -1 418
+D1
+~
+~
+0 -1 405
+D2
+~
+~
+0 -1 422
+D3
+~
+~
+0 -1 400
+S
+#418
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D0
+~
+~
+0 -1 412
+D1
+~
+~
+0 -1 421
+D2
+~
+~
+0 -1 417
+D3
+~
+~
+0 -1 419
+S
+#419
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D0
+~
+~
+0 -1 413
+D1
+~
+~
+0 -1 418
+D5
+~
+~
+0 -1 420
+S
+#420
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D2
+~
+~
+0 -1 405
+D4
+~
+~
+0 -1 419
+D5
+~
+~
+0 -1 403
+S
+#421
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D0
+~
+~
+0 -1 422
+D3
+~
+~
+0 -1 418
+D5
+~
+~
+0 -1 400
+S
+#422
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D0
+~
+~
+0 -1 417
+D1
+~
+~
+0 -1 423
+D2
+~
+~
+0 -1 421
+S
+#423
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D0
+~
+~
+0 -1 406
+D2
+~
+~
+0 -1 424
+D3
+~
+~
+0 -1 422
+S
+#424
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D0
+~
+~
+0 -1 423
+D3
+~
+~
+0 -1 425
+D4
+~
+~
+0 -1 416
+S
+#425
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D0
+~
+~
+0 -1 426
+D1
+~
+~
+0 -1 424
+D3
+~
+~
+0 -1 404
+S
+#426
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D0
+~
+~
+0 -1 410
+D1
+~
+~
+0 -1 407
+D2
+~
+~
+0 -1 425
+D5
+~
+~
+0 -1 428
+S
+#427
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D1
+~
+~
+0 -1 403
+D3
+~
+~
+0 -1 428
+D4
+~
+~
+0 -1 400
+S
+#428
+The War Zone~
+You are standing in the War Zone.
+~
+0 8708 1
+D0
+~
+~
+0 -1 429
+D1
+~
+~
+0 -1 427
+D4
+~
+~
+0 -1 426
+S
+#429
+The War Zone~
+You are standing in the War Zone.
+~
+0 8708 1
+D1
+~
+~
+0 -1 430
+D2
+~
+~
+0 -1 428
+D5
+~
+~
+0 -1 401
+S
+#430
+The War Zone~
+You are standing in the War Zone.
+~
+0 8196 1
+D0
+~
+~
+0 -1 408
+D1
+~
+~
+0 -1 414
+D3
+~
+~
+0 -1 429
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 400 0 400
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

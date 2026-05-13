@@ -1,0 +1,1287 @@
+#HELPS
+
+-1 DROW DARK-ELF~
+Dark-elves are an offshoot of the normal breed of elves. They are similar 
+in most ways, save their skin color is black, or deep purple, and their hair 
+color is generally white, or silver. They usually have magenta, or amber 
+eyes, and they are amazingly smart, and nimble, making excellent thieves, 
+mages, and ninjas. Dark-elves generally hate the elves that drove them 
+below the surface of the world, and take revenge when possible.
+
+Starting stats:    Str: 11 Int: 17 Wis: 14 Dex: 16 Con: 13
+Maximum stats: Str: 20 Int: 25 Wis: 23 Dex: 25 Con: 22
+
+Resist: magic
+Vulnerable: light
+
+Special skill: Dual wield %100
+~
+
+-1 CYBORG~
+A hybrid of Man and Machine, a cyborg is an organism that can either be
+half man half machine, or any other combination, right down to a machine 
+with human tissue, like a Terminator. There is no uniform type, but most 
+may be considered to be humanoid in form, and more than human, in at 
+least some way.
+
+Starting stats:    Str: 15 Int: 18 Wis: 16 Dex: 14 Con: 14 
+Maximum Stats: Str: 24 Int: 24 Wis: 25 Dex: 23 Con: 23
+
+Resist: Charm, Weapon
+Vulnerable: Fire, Cold
+
+Special Skill: Optic Blast %100
+~
+
+-1 Elf HIGH-ELF~
+Elves are tall, and thin, with hair colors ranging from light green, to near  
+black. Their eyes are frequently pale blues and greens. Elves are masters 
+of magic, and excel at the arts of both the Cleric, and Mage. Elves are 
+known for arrogance, and frivolity, for their love of nature, and 
+their charisma. They are said to be charming, captivating, and beautiful.
+
+Starting stats:    Str: 10 Int: 17 Wis: 14 Dex: 15 Con: 13
+Maximum stats: Str: 19 Int: 25 Wis: 23 Dex: 24 Con: 22 
+
+Resist: Charm, Magic
+Vulnerable: Fire
+
+Special Skills: Infrared, Regeration %100
+~
+
+-1 VAMPIRE~
+Fiends of the night, legendary stalkers of humans, and feeders of blood, 
+this creatures are frequently beautiful, and seductive on the outside, yet
+evil and predatory in reality. They drain the blood of the living to sustain
+their undead lives, and make excellent members of each of the classes. 
+They are immune to poisons,and the elements, while succumbing more 
+often to the effects of holy items, and sunlight.  It is rumoured that a stake 
+to the heart will kill a creature permanently.
+
+Starting stats:    Str: 16 Int: 15 Wis: 15 Dex: 14 Con: 14
+Maximum stats: Str: 25 Int: 23 Wis: 24 Dex: 23 Con: 23
+
+Immune: cold lightning poison
+Resist: charm
+Vulnerable: holy light
+
+Special skills: Drain, Feed %100
+~
+
+-1 HUMAN~
+The most basic of races, if you dont know what a human is, perhaps a 
+good look in the mirror is in order? The primary advantages of humans, 
+concern the possibility that they might be Espers, or Demons, in 
+disguise, and that eq is more effective when worn by a human.
+	
+Starting stats:    Str: 13 Int: 14 Wis: 13 Dex: 13 Con: 13
+Maximum stats: Str: 23 Int: 23 Wis: 23 Dex: 23 Con: 23
+
+Resist: None
+Vulnerabilities: None
+
+Special Skill: Can become Espers, Demons
+SEE ALSO: Help HOWTOESPER, Help HOWTODEMON
+~
+
+-1 ESPER~ Creatures made entirely of Magic, and devoted to good, they are
+the masters of the use of magic, and are unparalled in the realms of
+intellectual and magical study and pursuit. They make the best possible
+Clerics, Mages, and Monks, and are formidable foes. They are allied with
+all those who fight for the cause of good. Like demons, they too often
+begin life believing themselves to be human, and only later does their
+true nature emerge, a being of immense power. 
+
+Starting stats:    Str: 15 Int: 16 Wis: 15 Dex: 15 Con: 15
+Maximum stats: Str: 20 Int: 25 Wis: 25 Dex: 25 Con: 22 
+
+Immune: light
+Resist: magic 
+Vulnerability: negative
+
+Special Skills: Spells do 2x damage, double mana gain, spells cost 0.5x to cast.
+SEE ALSO: Help HOWTOESPER
+~
+
+-1 DEMON~
+Creatures of vast and limitless evil, this form of demon is often the result 
+of either a Succubus, or an Incubus, mating with a human. The result is 
+frequently an otherworldly demon, of great power. Resistant to damage 
+like none other, they are resilient as well as deadly, wielding deadly
+hellfire, they make truly terrifying foes. They spend much of their early 
+lives living as humans, frequently not manifesting the true horror of
+their beings until later.  
+
+Starting stats:    Str: 15 Int: 16 Wis: 15 Dex: 15 Con: 15
+Maximum Stats: Str: 25 Int: 20 Wis: 22 Dex: 25 Con: 25
+
+Immune: charm
+Resist: weapon
+Vulnerable: holy
+
+Special Skills:Gain double hit points each level, Hellbender %1, Possess Person %100
+SEE ALSO: Help HOWTODEMON
+~
+
+-1 DRAGON DRAGON-KIN~
+The Ancestors of mighty dragons, and powerful in their own right, they 
+have mighty wings they use to fly, and superior intellect, wisdom, 
+strength, fortitude, and agility. They make excellent members of all 
+classes, and many forms of weapons are ineffective against their tough 
+scales. Dragon-kin come in nearly as many colours as do Dragons, and 
+share many common features with them, tails, wings, claws, and 
+multitudes of of sharp teeth in their maws.
+
+Starting stats:    Str: 16  Int: 17 Wis: 16 Dex: 16 Con: 16
+Maximum stats: Str: 25  Int: 25 Wis: 25 Dex: 25 Con: 25
+
+Resist: charm slashing
+Vulnerable: none
+
+Special Skills: Flight
+~
+
+-1 GIANT~
+Huge and brutal, and frequently known to live in less than civilized 
+conditions, Giants are known for their vast physical power, and not so 
+fast speed, both of thought, and movement. The make excellent Warriors, 
+but arent well suited for the more nimble, nor for the more intellectual 
+classes. Giants have been known to kidnap and eat, or enslave humans, 
+generally female humans. They are also gifted with the ability to throw 
+massive rocks at their enemies...or to throw their enemies!
+
+Starting stats:    Str: 16 Int: 12 Wis: 13 Dex: 12 Con: 14
+Maximum stats: Str: 25 Int: 20 Wis: 22 Dex: 20 Con: 23
+
+Resist: None
+Vulnerabilty: None
+
+Special: Throw %100
+~
+
+-1 DWARF~
+Short, underground dwellers, usually possessed of a paunch, short 
+stature, and a mighty beard, they are master craftsmen, making many of
+the most powerful items, and making many powerful items more so. They 
+make excellent warriors and clerics, and their stamina is unparalled. 
+Dwarves are sometimes friends with elves, who they consider somewhat 
+frivolous, and sometimes disdainful of them, due to their own dour 
+dispositions. A dwarf can always be counted upon to drink copious 
+amounts of alcohol, fight as often as possible, and work in a forge, 
+whenever not doing the other two. 
+
+Starting stats:    Str: 16 Int: 12 Wis: 14 Dex: 9   Con: 16
+Maximum stats: Str: 25 Int: 20 Wis: 23 Dex: 18 Con: 25
+
+Resist: magic
+Vulnerability: None
+
+Special Skill: Forge %100
+~
+
+-1 GREETING~
+.
+                                  Anime MUD 
+
+               Original DikuMUD by Hans Staerfeldt, Katja Nyboe,   
+               Tom Madsen, Michael Seifert, and Sebastian Hammer  
+               Based on MERC 2.1 code by Hatchet, Furey, and Kahn
+               ROM 2.4 copyright (c) 1993-1996 Russ Taylor. 
+	       Code further mucked with by SV&Crew...
+  
+  
+                                                   ....- .
+                                           e$***$$$$$o/''<
+                                         ')cs '   "$$$$L' :
+                                          $$ '''  ' $$$$<!.!
+                                          #F    '   $$$F:!!
+       .-  .:::::.          ..::!!!!! '(. -.      .d$P\ !!!
+     zd$$$$$bu<!:('>  .::!!!!!!!(:!!!!<!!!:." **?):! :  <
+    *"CF""*$$$$ (:!.<!!!!!!!!!!!!!!!!!!!!!!!!!!!: ''..-:.    --::.(((''---
+    4$$'    "!!!!!!!!!!! !)!!!!!!!!!!!!!!!!!!!!!!:4:'!!!!!h.      ''!!!!!!
+     '    :!!!!!!!!!!!'< )<!!!!!!!!!!!!!!!!!!!!!!!!!>!!!!!!!!: !!!!!::::('!
+	:!!!!!!!!!!!!':!!!!!!!!!!!!!!!!!!!!!!X$#?!!!!'!!!!!!!!h'!!!!!!!!XXUU
+      :!!!!!!!!!!!!!.!!!!!!!!!!!!!!!!tUUUW$R*T!!!!!!!:!!!!!!!!!!!!!!!!!!!!!
+  ..::!!!!!!!!!!!!!!!!!!!  4X!!UUNX!!!?*# !!!!!!!!!!!!!!!!!!!!!!! !!!!!!!:
+!!!X!!!!!!!!!!!!!!!!!! >'-'' #?TT!!!!4!!!> !!!!!!! !!!!!!!!!!!!!!!    !!
+!M$$U!!!!!!!!!X!! ''' ':uo@$k !!!!!! !!!!  !!!!!!  !!!!!!!!!!!!!!!>      >
+:M$$$$$$$$$#X#!! -<xUW$$$$$P":!!!!! <!! .:!!!!!   !!!!!!!!!!!!!!!!!
+!!?!!!!!!!!!!!!:'*$$$$$$Nc -    'uuoef !)LLun<:x.    '.!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!: ::.'""?  !!! :$$#)d$$$$$$$$$$$&Ub.'    ( )o:!:.'!
+!!!!!!!!!!!'!!!!!!:(('(!' <R' d$$$$$$$$$$$$$$$$$$$$&!!!!!:*#   !!!
+!!!!!!! !!!!:'     'uu.' "" \@$$$$$$$$$$$$$*T2"  *\*WX!!!!!! !!:'!!
+!!!!!!!!.'!!!  --:$$$$$$$$$$$$$$$$$$$$$$5r"  .ueeeed$$X!!!!!!:!!!:
+f!!!!!!!!!: :eesP"   ^F*$$$$$$$$$$$$$$$# .d$$$$$$$$$$$$X!!!!   .!
+! !!!!!! !!:!- @ :$  '$$N/*$$$$$$$$$$$b@$$$$$$$$$$$$$$$R!!!!= ! 
+ ' !!!. !!:..'"#.'$N  '#$$ '$$$$$$$$$$$$$$$$8$$$$$$$$$$X!!!<
+     ' !::.   ^ @$$$$cb.    9$$$$$$$$$$$$$$$$$$$$$$$$$$!!!!!   :f
+                 "$$$$$c.  z$$$#$$$$$$$$$$$$$$$$$$$$$$R!!!!!>
+                  '?$$$b$@$$$$F "t$$$$$$$$$$$$$$$$$$$$!!!!!!!
+                     #$$9$b$$$$$$$$I$Bd$$$$$$$$$$$$$$ :!!!!!!
+                      "$$$$$$$$$$$$$$$B$$$$$$$$$$$$F.!!!!!!!!
+                        "*$$$$$$$$$$$$$$$$$$$$$$$#.!!!!!!!!!!!
+                           '"*R$$$$$$$$$$$$$$$$":!!!!!!!!!!!
+  Welcome to                      ^""***R$$*".<!!!!!!!! ' ' '  ..
+                     ''                      '    '':     ..:!!! '
+      Anime MUD!!      .                  '!!>    ' ..:!!!! '
+                                       :!!.'!:e@$$$$H!! ' ..
+                                     <!X@$PJ$$$$$$$#`               '"   .  
+                       .e4ICC<"%u u$N$$$$$$$$$$$#"         .-     - '
+                  %##"U@"$#b#  *L#$#'#$$$$$$$"          ' .  '
+                  !*$lE d)d"   d$WF  ' ?*?"      .-"    '!-:       ..z.*   
+                     ''?$N2+mm$9X$       >  .=^ .-      <    <:e$$$*z"  
+                     ''  '?*@?k$$XN -        -"                ?*"``
+
+By what name do you wish to go by? ~
+
+-1 GREETING_DEFAULT~
+.
+                             Anime MUD (Beta v1.2)
+
+               Original DikuMUD by Hans Staerfeldt, Katja Nyboe,
+               Tom Madsen, Michael Seifert, and Sebastian Hammer
+               Based on MERC 2.1 code by Hatchet, Furey, and Kahn
+               ROM 2.4 copyright (c) 1993-1996 Russ Taylor. Code
+               further enhanced by: TW Team/Prophecy Team. (:
+
+,;+.,.=..I+i:..I;i,IV+I:,.I.t,I..,,,;Yi+Y.+Y=itI+::.,.;,i+,;i+.,i,.=::=;=...:
+.;+.,.=..t=i;..Y;t,IViI:..I.t.I,.,.,,Yi=Y.+Y;=tY=:;;;.;,i+,:i=.,t,.+::=:;....
+,;=.,.+..t++=..Y:+,IY+Y;..I.t,I;::,:,Yt;Y.iY,:iI===..=+:i+::i+..I:.+::=;=....
+,;=,,.+..t+i=..I;+.IY=Y:.,Vii:;:,,,,.;;,i.tViItt=+=;+..,=;:,i=..I;.+,;=;+...,
+,;=.,.+..t++=..I:i,tY=Y,;.Y:Y;I+=,.::::,.....,ti=....i,...::t+.,I;.+::=+=....
+,==,,.+.;ii+;..I:i.tY=Y...I.t.ii=+Iii=;+;,.;,..,+i;........=tIi;I;,+,.==+....
+,;=,,.+..ii+=..I:+,tY+Y...I:i;;,...,::,,:,=:;:,....::.......,=i+t,,=:.=;=....
+,==:,.i..ii+=..I:i,tY=I,.,;,=:==++,;=tii+:,..................,,,.;,=:.=;=...,
+.==;,.i..iii=..I:t.tYtI;..Y==,:...............................:=:.;=:,=:;...,
+,==.:.i..VYt:..I+i.IYii,:;.,;=;:::,.,,................,.........;.;=:.=:=....
+,==,=.+..tit,..I+i,ti+It;,Yii+i++ti=...............................i:.+:;....
+,+=;;.+..i+t,..I=ItXXtI,.YVVi=i:;...=YI+=:,.:i=,......:...........,t;.=;=.,;;
+,iI;;.=..t+t:..Iii;IY=Y,+iXWMIt+,=;XMV+ittVY+.:ti..................=i.:..:i=:
+=RI;;.+..t;t:..I;+;Y=YVI+iRYMY,+=+MXI=+tWBYRMWi+VI..................=...i==.:
+.==.;.+..t;I,..t;+i;IXXXBXIiBI+RBYiiXIRWWWWYWWWtI+;.,..................=+:...
+,Yi.=.i..t;t...t:+=;+tBWVVWMYXWWWWBi=IXVVRMIIIttii;,:,.................t..,.;
+.+;.=.i..I;t...t:++;=.;iWBIWWWWWWWBBIiYYVYt+:,:;==;:...................:=.:.:
+,+;.=.i..t,t...I=t=+i=..IWtXWWWWWWWWBXi+::+tBBBMRV=.:;..................i.:.:
+,=;.=.i..I:t..:I;;=+=+...BiMWWWMWWWMXRYIYYVBVWRXi,=i+...................Y.:.:
+,+;.+.i..I=t+i;....,......IWWWWMWWWBRVVVRMWWMXXVIIIt.;,.................It:.;
+,+;.+.itVYiRWWV=.........tWWWWWWWWWRVVVVVRWBMRVRRBt.....................+t=.;
+,+;.+;IWWWWMXRWWX......:VWWWWWWWWWBBRYVVMMWBBRBRVY+i.....................i;.;
+,+;,:IWWWWWWWWXVVI;;+tXWWWWWWWWWWWWBXYYXRWMWRMRRRtY......................,i.=
+,++;XWWWWWWWWWWWWWWWWWWWWWWWWWWWWWMMWBVVRRBBXXMRYVY.......................Y,;
+;=IWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWBMWWRVWXVXXVXXV:....,..................t.;
+:VWWWWWWWWWWWWWWWWWWWWWWWWWMWWWWMWMBBMBBYYRVVXRIV+:=,=IXX;.................I;
+;WWWWWWWWWWWWWWWWWWWWWWWWBBWWWWWBRRRBWMBXVIYVBIYRMVIVII+;Bi...............=+;
+:iIVBWWWWWWWWWWWWWWWWMWWMWWMMWWMVRRXRRMVXXRVYIIIYYXtWtVWR;M..............;t.;
+,iI==+IXBBWWWMBWWWWMBRRRMWXBWRWWXVVYYXVYYVRYI+;IXWRYWYXXVM:..............+;.:
+:+t.i=;.=IIYYIVXXYXVVVVRVBXRWVVXYVXYIIIXI:=XMWVYYVIRXXBXi...............:;;.=
+:+t.+,I++..,,;iiYtIYIIYYBVYVVVVIYYIYYYRVMi:.;tXWWWMY+...................i:;.;
+,+i.+.t;ti+.:;;;,i==tti+titttIIYVXXXBWWMBRt:;i........................,ti:=.;
+,+i,+.t=i.tI,MWWWWWWRVYtII+tYVXWMWWWWWMYItiYR.........................+t+:=.;
+,+i.+.i=+.iV+tWWWWWWWWWWWWWWWWWWWWWWWWXY+;IB........................:;ttt:=.;
+,=+.+.i=+.iV;IRWWWWWWWWWWWWWWWWWWWWMWXVt=IWWV=..............,...,+:=:,It+:=.;
+,++.+.i=i.+Y;+IWWWWWWWWMWWMMWWWWWWWBBVItIBWWI..............+I=i:tI:;,.YIi:=.=
+,i=.;.i=i;+I;;IWWWWWWWBXWXMWWWWWW=VXVIYiYWWRI;..........,==+III,tI:::.+Ii,=.=
+,i=,;.i=I:+I;.YWWWWWWWMBRBWWWWWWWRYtt+=,YWWXB+:==;:=:=:;+I:;iIt,tI;::..ti,=.;
+,i+:+.i=+,+I:.IWWWWWWWMXVXWWWWWWWWRY;tY+RWWYI;..;+,t.i,.+t,;iY+,iY=::,,ii,=.;
+,i+;=.i==,+I;.YWWWWWWMMRXMWWWWWMVXY+=+XX+..::::...YI=+..=t,:i;=,iV=,:.:ii.;.;
+,+;,;.i==.+I;.tYWWWWWMMBVWWWWWWBVt+;.:XXXYt;......I=;t..;t.:+,=.+Y:,;.:i+.;.;
+,+;.;.i==.+I:.=tBWWWWXBVBVMVXI+:,:=:,.IVXXXXXI+==:,.;:;.;t.:i,+.=Y,:;,,++.;.=
+:;=.:.i=;.+I,.=+YMWWMYXYVVY,:;i+;.,;;tXXXXXXXXXXXI;,Ii=i=t..i,+.;Y:,:,.=+.;.=
+::=.,.+=:,+t,.=;tIBWVXt;:,;;:..iXXXRXYVVYVVYXRXXXXXVI+++=I,.t,i.;Y;::,.;i.;,+
+:==...i=;:=i,.++i+:Y;,,:.....+YXXXXYtiii+====;;=itVRYI+=,+=:t,i.;Y=:,:,;i.;,=
+:==,..i=;;ti=;,....::....,.IVXXXV+:......:==++++++=:=tY=,.i,t,t.=I+::,,;i.=,=
+,++,..t+;=,:,..,;:,..,:=iIVXXt=..,:...::;=;+=+==+i;=+=;=:..I.+i.;I+,:::;i.=,;
+,=+.++:,,..,;:;;=.,;+YXXRXV+...,=;...:;;;;===++=,:=++++;..;:Y=;:;Y=.;::=i.=.;
+
+Type "HELP NAME" after creation.
+
+By what name do you wish to go by? ~
+ 
+-1 MOTD~
+.
+                        Welcome`8!`7 To `&A`7n`&i`7m`&e M`7U`&D`8!`7
+                                     
+  `!*`7 Make sure that you read `8'`^HELP RULES`8'`7 and `8'`^HELP NAMES`8'`7 newbies/oldbies.
+  `!*`7 `8'`^HELP`8'`7 in general will give you a summary of helpfiles.
+  `!*`7 Characters save at level `@2`7! Level `@1`7's are deleted.
+  `!*`7 Type color to activate`&/`7deactivate all the COLORZ!
+  `!*`7 Check out the `8'`^HELP NOT`6i`^CE`8'`7 and `8'`^HELP THANKS`8'`7
+  `!*`7 Be sure to pick up some of the new AQEQ `&(`7Autoquest Equipment`&)`7
+  `!*`7 Shimmering stones cannot be bought anymore! Newbies use sub issue.
+  `!*`7 Just in `8'`^HELP CUSS`8'`7: Live and Learn.
+  `!*`^ BEING KILLED WHILE LINKDEAD IS NOT ILLEGAL.  `&<--
+
+  `@**`` `&Update:``								   
+  `@**`` `&Webpages are located at http://animemud.org and http://anime.umtec.com.`` 
+  `@**`` `&More updates (including areas and code) will be coming sometime soon.`` 
+
+`!REM`1i`!NDER`8:`7
+    If you didn't kill em, don't loot em. Leave the corpse alone even   
+    if you are pkset. It wasn't your kill to begin with. Tampering
+    with corpses you didn't kill will result in punishment.
+
+Any questions or missing helpfiles? Note the immortal staff. `6(`^note to immortal`6)`7
+
+`&[`7Press Return to Continue`&]`7
+
+~
+-1 SUZURAN_MOTD~
+.
+                        Welcome`8!`7 To `&Su`7zu`&ra`7n`& M`7U`&D`8!`7
+                                     
+  `!*`7 Make sure that you read `8'`^HELP RULES`8'`7 and `8'`^HELP NAMES`8'`7 newbies/oldbies.
+  `!*`7 `8'`^HELP`8'`7 in general will give you a summary of helpfiles.
+  `!*`7 Characters save at level `@2`7! Saiyans are deleted.
+  `!*`7 Type "suzuran" to activate`&/`7deactivate all the CROZZ DREZZING!
+  `!*`7 Check out the `8'`^HELP BIA`6S`^ED`8'`7 and `8'`^HELP SUZURAN`8'`7
+  `!*`7 Be sure to pick up some of the new SMEQ `&(`7Sailormoon Equipment`&)`7
+  `!*`7 Kamehameha cannot be used anymore!  Saiyans can go to hell.
+  `!*`7 Just in `8'`^DBZ SUCKS, SHOUJO RULES`8'`7: Live and Learn.
+  `!*`^ WEARING A SKIRT IS NOT ILLEGAL. (Unless you got hairy legs)`&<--
+
+  `@**`` `&Update:``								   
+  `@**`` `&Suzuran owns this MUD.  DBZ sucks.  I am immense and immortal.`` 
+  `@**`` `&I invented the Internet, Al Gore, Pants, and Disco.`` 
+  `@**`` `&All shall kneel, or be knelt!  JRST 4,774000``
+
+`!REM`1i`!NDER`8:`7
+    If you didn't kill em, don't loot em. Leave the corpse alone even   
+    if you are pkset. It wasn't your kill to begin with. Tampering
+    with corpses you didn't kill will result in punishment.
+
+Any questions or missing helpfiles? Note the immortal staff. `6(`^note to immortal`6)`7
+
+`%FOR THE LAWYERS, STUPID NEWBIES, STUPID OLDBIES, PEOPLE WITH NO SENSE
+OF HUMOR, AND OTHER LOWER FORMS OF LIFE: THIS IS A JOKE! POINT AND LAUGH!
+(It goes away in a few hours.)``
+
+`&[`7Press Return to Continue`&]`7
+
+~
+92 IMOTD~
+Welcome Immortal`A(`@TR`2i`@CK`A)`&!!``
+
+`@TR`6i`@CK BOARD`A:``
+
+1`&)`` Make sure you read your `A'`#HELP COMMANDMENTS`A'`` en stuffage!
+2`&)`` Also `A'`#HELP RULES`A'`` which is a given you chode!
+3`&)`` Do your job or you job will do you to `AASHES``.
+4`&)`` Read also `A'`#HELP GU`3i`#DEL`3i`#NES`A'`` too!
+
+`&[``Hit Return to Continue`&]``
+~
+
+-1 NAMES~
+.
+                   `1*```!*``* `&READ THIS PLEASE`` *`!*```1*``               
+                                                    
+Here in Anime MUD we would like you to seek a name that fits your
+personality. This is your chance to create your very own Anime 
+character with powerful skills/spells. YOU are responsible for the
+name you create, and only YOU. Please, we ask that you create a 
+orginal name of correct grammer, and a name that would not be seen
+as "silly". Names that the Immortal staff deam unacceptable will
+be asked to recreate.                                       
+         
+Names that would be would inappropriate would fall under these
+categories:
+
+ 1) Names that are two words or could be made into two words.
+    Ex. SillyPuddy, KingBladen, TheMan...(Includes words even
+    if they do not contain more than one capital)
+
+ 2) Names that contain more than one uppercase letter.
+    Ex. JiFfY, BoNkeRz, ToRak...
+
+ 3) Names that are commonly used in the real world.
+    Ex. Bill, Joe, Sam, Harry, Tom...
+
+ 4) Names that are actions or descriptive words.
+    Ex. Quick, Ponder, Gorgeous, Beautiful, Hateful, Sinister...
+
+ 5) Names that are Profane or that insinuate sexual behavior.
+    Ex. (I'm sure you can think of some -snicker-)
+
+ 6) Names that would be in direct conflict with another players.
+    Ex. I have a character named Plith, they have one named Plyth...ect.
+
+ 7) Names that are objects, foods and beverages included.
+    Ex. Ice, Spoon, Dagger, Saber, Blade, Soda, Grapes, Cheese...
+
+ 8) Names that refer to any part of the human or organic/plant body.
+    Ex. Arm, Leg, Kneecap, Shin (Ack Shin), Ankle...
+
+ 9) Names that are real life diseases.
+    Ex. Polio, Aids, Hiv...
+
+10) Names of religous or political figures in real life.
+    Ex. Jesus, Lucifer, Hitler, Clinton, Hillary...
+
+This list could go on and on but it would be boring. When creating a 
+character please try at the upmost to be original. There are a fair
+amount of names out there that could be left up to the imagination.
+Please feel free to explore your mind and come up with that one
+particular name that you like. Also, please remember immortals can
+deam a name illegal if they see that it will affect the RP of the game.
+
+NOTICE ON NAMES FROM WELL KNOWN ANIME:
+
+The creation of any Anime name is ***ILLEGAL***. This means that
+you are not to create any anime name. Any name that is created will
+be deleted, NO EXCEPTIONS! These names will be reserved for future
+use on areas. Any questions about this will be answered by
+the immortals. Thanks!
+                                              
+`$-`` I`&M``M Staff                                        
+~
+
+-1 DEAD 'DEAD FLAG'~
+The dead flag is another insentive to choose the path of a killer. Unlike
+other muds, when you die..there is a possiblity that someone 'other than
+the first killer' to kill you. This is very frustrating especially when
+you are trying to re-equip yourself after been looted. The flag is designed
+to deter those that like to either: Kill players after they have just died
+from a pk battle, or those that like to multi-kill(illegal). When you die
+from another player, your character will be flagged (`8DEAD``). Any player
+flagged will not be able to be pkilled until one of two things happen:
+
+1) The character raises a level.
+2) The character quits the game.
+
+Once either of these two things happen, the flag will be removed from the
+player, and can be pkilled again. The main purpose is to deter multi-killing
+which means that re-equiping yourself without being pkilled is an added plus.
+There is only one stipulation to this flag which is that characters already
+flagged (KILLER) will NOT recieve the flag if they are pkilled.
+~
+
+-1 HOWTOESPER~
+Because the outer and inner realms are slowly being connect, the Espers
+have found ways to live with the mortal humans on the planet. Esper, beings
+made from the essance of magick, have found ways to create a being physically
+like a human. Because the humans have not accepted the Espers as a race
+of peace, the Espers are forced to increase their popluation by secretly
+tampering with the genetics of unborn humans infants. After the infants are
+born, they ..nor their parents are aware of what their infant is. When the
+'human' matures to a certain age, a transformation takes place. The body
+burns violently and become a mass fire of magick. This is the true form of
+an esper and their power excedes any known race that lives in the realm.
+
+You as a character have the opportunity to determine whether you have been 
+chosen to become an Esper. There are certain conditions that need to be
+followed if you have any chance of becoming one. You must create a human,
+and must be of angelic alignment. Your profession must deal soley with magick
+so the classes of mage, cleric, and monk are the only classes that will
+allow you to transform. And finally, you must have chosen the path of a
+player killer. After you have made all the requirements, you gain
+experience normally. When you gain a level, a percentage check is made to
+see if you 'transform' or not. The check begins when you reach the 25th
+level of experience and continues till level 50th. If you meet the race,
+class, alignment requirements and roll a 1% out of a 100, your body will
+transform and you will become an Esper.
+
+After your transformation, you recieve almost godlike powers when it comes to 
+the use of magick. Because you are in fact, Magick itself, the durations of
+all your spells casted will be doubled, protective and combat wise. Your
+mana costs will be half compared to other magic users. Your attack spells do
+double damage, and you will recieve double mana gains per level after trans-
+formation. 
+
+An Esper is a unique race, and therefore few mortals will see or grasp its 
+powers. Many will never become an Esper, which is a consideration that you 
+must take.
+~
+
+-1 HOWTODEMON~
+As the outer and inner realms combine, the barriers that protect the innocent
+from the demonic minions have begun to dissipate. These demons are special
+followers of the Lord of Terror himself. Because these beings have no
+morals or concerns for the living, they have been repeatedly been held back
+from entering the outer realm. However, with the weakening of the barrier,
+more and more demons have been escaping and the attempts to stop them have
+been all but successful. These demons ravage the lands, murdering and raping
+innocent victims of the realm. Because these beasts need some host to
+reproduce, they use females that have the ability to bear children to carry
+their children. These children are born and raised like humans, for in fact
+they are a mirror image of a human. However, the dreaded day arrives in
+which a painful tranformation occurs, and the human ..becomes a demon. Their
+demon body quickly mutates inside of them and bursts out of its human shell
+in a matter of hours. The body is consumed in fire as the transformation 
+takes place. Once it has transformed, it has retained all its knowledge as
+a human but has transented above mortal living.
+
+The opportunity as a character exists for you to become a minion of the
+damned only if certain conditions are followed. The main condition is that
+you do have to be of the human race. Your professions would have to deal
+with exposure to death and chaos and therefore a warrior, thief, or ninja 
+would qualify. You must have chosen the path of a player killer and
+finally, you  much be of a satanic alignment, one that already follows the
+ways of the demon. When you reach your 25th level of experience, a roll is
+made for every level until level 50th. If you keep to the conditions and
+make the 1% roll on any level up you have on and after 25th, you will
+transform into a demon. 
+
+Because demons were former humans before transformation, they understand
+and use to the fullest the weaknesses of the human and other races. Demons 
+recieve double hp gains for every level up after transformation. Finally,
+the demons have the power to cast the fires of hell upon you.
+
+Because the demons are great in power, many will never become one. Those
+that transform have become better than any race that exists in the realm
+and therefore gives all races a reason to fear the demons.
+~
+
+-1 PK_QUEST~
+PKQuests in the realm of `&A``n`&i``m`&e M``U`&D``...
+
+  Here in `&A``n`&i``m`&e M``U`&D`` we hold such events as PKQuest where
+mass amounts
+of players who wish to participate in killing others can join in. In
+a PKQuest you are NOT required to type PK set twice. This is a method
+by which you can PK others without becoming a player killer yourself.
+In a PKQuest you do not lose EXP or any EQ from your person at all! The
+point of a PKQuest if to either: Hold a Major Tournament or basically
+have the joy of killing mass opponents. There are no level restrictions
+on who you may kill in a PKQuest. Higher levels have the decision of
+attacking a lower level if he decides to. Remember PKQuests are for fun
+use only, immortals will not tolerate people flooding the channels on 
+how unfair it is that you were PKed or how bad your character is or how
+bad your class/race is.
+
+To enter a Quest simply type: quest apply 
+
+See also: help <Quest>
+~
+
+-1 QUEST~
+Quests in the realm of `&A``n`&i``m`&e M``U`&D``...
+
+  Here on `&A``n`&i``m`&e M``U`&D`` we hold a variety of Quests. We range
+Quests from:
+Trivial Quests, Search and Find Quests, Hack-n-Slash, and to Tournament
+Quests. These Quests are for the sole purpose of adding enjoyment to
+the game. We, the immortals, try to encourage others to join the Quests
+we have out hand for you. Some quests can be very enjoyable and some
+can be very nerve wrecking and very hard to deal with at that time. We
+encourage that you please have fun when Questing and not flood the public
+channels when you have died or have a spell that is hard to remove from 
+your character at that particular time. Asking for a restore during a 
+Quest is probably something that will occur a lot, but do not expect the
+immortal to restore you every time you ask. Restores during a Quest will
+be minimal, and will come from time to time. Please have fun when Questing
+that is all the immortals ask.
+
+To enter a Quest simply type: quest apply
+
+See also: help <PK_Quest, Quest_Tokens>
+~
+
+-1 QUEST_TOKENS~
+System of Quest Tokens in the realm of `&A``n`&i``m`&e M``U`&D``...
+
+  Here in `&A``n`&i``m`&e M``U`&D`` we have a system of Quest Tokens. You
+can be rewarded
+with Quest Tokens through the various Quests. It is up to the immortal that
+is running the quest, on how many Quest Tokens you shall gain if you win 
+that particular Quest.  We have set up a range of options you can do with 
+the Quest Tokens once you decide to turn them in. Note that Quest Tokens
+can be taken away from you if you lose your corpse or die to a PKBattle.
+There will be no reimbursing of Quest Tokens if you lost them in any of 
+those two particular ways. 
+
+The Quest Token System is as Follows`A:``
+
+ 5 `A-`` Free Restring.
+ 7 `A-`` `&20`` Hp/Mana/Move or -2 Saves.
+10 `A-`` +`&2`` Hit/Dam added.
+15 `A-`` `&1`` spell/skill up by `A10`&%`` `6(`^Not to exceed 95%`6)``.
+20 `A-`` Addable flags`A:`` flaming, frost, shocking, `!OR`` poison.
+25 `A-`` `&25`` Hp/Mana/Move `@AND`` +`&2`` Hit/Dam.
+30 `A-`` 3 training sessions.
+35 `A-`` Addable flags`A:`` vorpal, sharp, vampiric, haste, `!OR`` berserk.
+35 `A-`` Flag removals`A:`` `&1`` weapon flag, `!OR`` `&1`` extra flag.
+40 `A-`` Avg. Damage on Weapon Increase +5 `6(`^not to exceed 65`6)``.
+
+Note`A: `$Non-Quest`` items can only be enhanced `&ONCE``.
+        `&Quest and Autoquest`` items cannot be quest enhanced `&AT ALL
+	  `6(`^except for restring`6)``.
+~
+
+-1 RP~
+Here at `&A`7n`&i`7m`&e M`7U`&D`` we encourage the effort of a person's effort to role-play(RP)
+out their character through interactions with other players, and through
+their reactions in game situations. In order to further promote the idea
+of `@R`#P`` here, there is now a reward system in effect. Certain players
+and immortals (who will remain anonymous) will be able to reward others
+through this system. Collection of these "RP points" can be from level 1 up
+to level 93, though players for the time being can only use them to advance
+in level`%(``SEE help rplevel`%)``. 
+~
+
+-1 RPLEVEL~
+Syntax : Level
+Level is now a command for those who have acquired enough rp points in order
+to be able to go up in level. This command is usable by level 90s and above
+only. The required `@R`#P`` points for levels above 90 go as follows:
+  91 - 500 `@R`#P`` po`&i``nts (and char is level 90)
+  92 - 1500 `@R`#P`` po`&i``nts (and char is level 91)
+  93 - 4500 `@R`#P`` po`&i``nts (and char is level 92)
+Upon reaching level 93, rp points cannot be used to advance your char's level
+any further.
+
+SEE ALSO: help RP
+~
+
+-1 AUTOAUCTION AUCTION~
+Syntax : 
+ auction  <mesg> | off | show | list | remove <item number> |
+          item <item> <min bid> | <bet|bid> <amt> | stop
+          
+auction (no parameters) - will show syntax
+auction <mesg>          - lets you speak your piece on the `Va`8u`Vcti`8o`Vn`` channel
+auction <bet|bid> <amt> - will bet on the item - you cannot bid on item you
+                          put up for auction.
+auction show            - will show stats on the item, and the current bet
+                          `@(``you can't see the stats on any item you auctioned`@)``
+auction list            - lists all items waiting to be auctioned.
+auction remove <item number> - returns the specified item from the list to you
+                          if you are the owner of said item. You can tell if an
+                          item is yours' if it has a `^л`` beside it. 
+auction item <mesg> [<min bid>]  - will auction an item, if no auction is going
+                          on, use the <min bid> option to set a mininum bid on
+                          the object. If no bet is specified, it will default
+                          to 0(zero).
+auction off             - will toggle the `Va`8u`Vcti`8o`Vn`` channel on and off
+auction stop            - will stop the auction, return the gold to the last
+                          bidder and transfer the item to you (imm only).
+
+`8N`&o`8te`$:`` You cannot auction clan eq OR autoquest eq.
+
+SEE ALSO: help BET
+~
+
+-1 BET~
+A bet can be placed with the letters k or m letters to signify 1,000 and 
+1,000,000 `8(`#G`3o`#ld`8)`` respectively. (This is for those of you who might like 
+scientific notation)
+
+Examples:
+auction bet 14k4 ... translates to auction bet 14400
+auction bet 200k ... translates to auction bet 200000
+
+If you don't have any idea about how this works, don't worry about it, just
+use auction bet <number> instead.
+
+SEE ALSO: help AUCTION
+~
+
+-1 AQSTRING~
+Syntax: astring <obj name> "<new name<s>>" "<short desc>" "<long desc>"
+
+The "aqstring" command allows you to take a piece of equipment in your
+inventory and lets you change the keywords for grabbing it, the name
+it is seen when you are wearing it, and the name that is seen from the
+ground view.
+
+Quest requirements for this command`8:``
+`#1`@)`` Have 700 `Vqp``'s on hand.
+`#2`@)`` Have the piece of equipment in your inventory.
+`#3`@)`` Be present in the questmasters room.
+
+See Also`8:`` Help AQExample, Testaqstring
+
+ `^K`6udos`` to `@G`2rodeg`` from `#P`3rophecy`` for this sn`8i``ppet`!!!!!``
+
+~
+
+-1 AUTOQUEST AUTO_QUEST~
+Certain characters in the game will allow you to go on quests to recover an
+item or kill another mob. To go on a quest, you must be in the same room with
+a questmaster. When you successfully complete a quest, you will receive a
+certain number of quest points. These points may be saved up and used to buy
+incredible items from the questmaster.
+ 
+The `&AUTOQUEST`` command is used for information about your current quest, to 
+request a quest from a questmaster, etc. Commands are as follows:
+
+`&AUTOQUEST POINTS`` `A-`` Gives your current number of quest points. This command 
+may be used anywhere.
+                      
+`&AUTOQUEST INFO `A-`` If you are on a quest, this will remind you who or what 
+you are after.
+ 
+`&AUTOQUEST TIME `A-`` Gives the amount of time remaining on your current quest, 
+or the amount of time until you can request another quest. This command may 
+be used anywhere.
+
+`&AUTOQUEST REQUEST `A-`` Petitions the questmaster to send you on a quest. If 
+you accept the quest, you will be given a realtime limit (in minutes) in which 
+you must complete the quest. If you are on a quest to kill a creature, when 
+you come across that creature you will see a `A[`@TARGET`A]`` notice before it.
+This is the creature you are to kill.
+
+`&AUTOQUEST COMPLETE `A-`` Once you have completed your quest and recovered the 
+item or killed the mob or whatever, you must return to the questmaster who
+sent you on the quest and use this command. If you have successfully 
+completed your quest, he will reward you with gold and quest points. Once 
+you complete a quest you cannot request another for 30 minutes.
+
+`&AUTOQUEST GIVEUP `A-`` When the quest seems hopeless, you can give up your 
+quest by using this command. You do have to wait a length of time before 
+you can quest again.
+
+`&AUTOQUEST LIST `A-`` Displays the list of fabulous items for sale by the 
+questmaster. These items are not buyable via gold, they must be purchased 
+with quest points.  
+
+`&AUTOQUEST BUY <``item`&> `A-`` Purchases an item from the questmaster and deducts
+the cost of the item from your quest points.
+
+`&AQSTRING `A-`` Purchases a restring from the QuestMaster. See help AQSTRING.
+
+`&TESTAQSTRING `A-`` Test out AQSTRING before you do it for real! Same syntax as 
+AQSTRING!
+~
+
+-1 TESTAQSTRING~
+Syntax: testaqstring <obj name> "<new name<s>>" "<short desc>" "<long desc>"
+
+The "testaqstring" command allows you to take a piece of equipment in your
+inventory and lets you see what it would look like if you used the aqstring
+command on it. This is not permenant! It is a tester to use BEFORE you use
+aqstring.
+~
+
+-1 AQEXAMPLE~
+Example for AQstring command`8...``
+
+If you're sketchy on what to type when using AQstring command here's a
+little tip on what you should do.
+`#1`@)`` Make sure you have all the requirements `6(`^seen on AQstring helpfile`6)``
+`#2`@)`` Have ready in notepad of your string, that way you can copy/paste.
+`#3`@)`` Keep in mind format`8:``
+   Astring <obj name> "<obj keyword(s)>" "<short desc>" "<long desc>"
+
+The Example`8:``
+ Astring dagger "dagger power" "a dagger of POWER" "A dagger rests here."
+
+Legend`8:``
+`8-``object         = current obj in inventory to be restrung
+`8-``new keyword`&(`7s`&)`` = words of item used to get/drop item
+`8-``short desc     = words seen when wearing/getting the item
+`8-``long desc      = words seen when item is on the ground
+
+`!*``Caution`!*``
+ Name field cannot use color code! Nor in any part of your item can
+ it be made to have a " character shown. Make sure you know what you're
+ doing before you do it! iMM's should not be held accountable for any
+ mishaps. Read before you leap.
+
+~
+
+-1 NOTICE~
+.
+`A __``___`&_______________________________________________________``___`A__
+`A|                  `&A``n`&i``m`&e M``U`&D `@Notice  (`212`@/`28`@/`296`@)                    `A|
+|                                                                 |
+|                    `@Welcome to `&A``n`&i``m`&e M``U`&D`@!                        `A|
+|                 `@Thanks for playing `&A``n`&i``m`&e M``U`&D`@..                  `A|
+|                                                                 |
+|                                                                 | 
+|  `@You agree to be monitored by our staff.                        `A|
+|  `@You assume full responsibility for your actions and for your   `A|
+|  `@interactions in real life that may result from your actions    `A|
+|  `@or interactions from within the mud.                           `A|
+|                                                                 |
+|  `@You agree that you:                                            `A|
+|    `&1`2. `@Have never been banned from this system.                  `A|
+|    `&2`2. `@If so, you have the express permission of an ``I`&M``P `@to play  `A|
+|       `@here.                                                     `A|
+|                                                                 |
+`A'"``"""`&"""""""""""""""""""""""""""""""""""""""""""""""""""""""""``"""`A"'``
+~
+
+-1 BELLDANDY~
+`&
+$$$$$$$$$$B$MMMMMMMMM?!        -          XMM%tMMMMMMMMMMMMMMMMMMMMMMMMM
+$RR$$MB$$$$MMMMMMMM*!!<-                  MMX!:MMMMMMMMMMMMMMMMMMMMMMMMM
+RMMMMMM$M$RMMMMMMM!!!                     MMMHMXMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMR8MRMMMMMMM-'                      MMMMMM!MMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMRMMMMMMMM!:            .x.          MMM??XMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMM5MMMMM"!-            MMMMX :        -!!XM!MMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMM :!!         ..MMMMMM:X: <     : !MMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMM -XM'        <!MMMMMMMMX!  .    ': MMMXMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMM -MM!  ':    !!M*"#MMMMMXM!  ! '  !-M*HM?MMMMMMMMMMMMMMMMMMMM
+!?MMMMMMMM -HM:  !     !MX"-:-?MMMMXM!. -      !M?!!MMMMMMMMMMMMMMMMMMMM
+!!!XMMMMM!-XM!- !!.   ..'M----XMMMMXMM!        ?!!!M!MMMMMMMMMMMMMMMMMMM
+!!!!MMMMM <M!- !!.>   !  !X--XMM?''^"M!        -!!XMMMMMMMMMMMMMMMMMMMMM
+!!!!XMMMM MM!  - !!   X!M'M.MMMM!!!-':.         '!MMM!MMMMMMMMMMMMMMMMMM
+!!!!XMMMXXMM  ' ! -   MX 'MMMMMMMM.:X !!          MMMMMMMMMMMMMMMMMMMMM*
+!!!!!MMMXMMM   !!<    M!<<MMMMMMMMM""  !          MMMM!MMMMMMMMMMMMM?XHM
+!!!!!MMM!MMX -:!-'    MnXMMMMMMMMMR    '         <MMMMMMMMMMMMMM*2nMMMMM
+!!!!!MMMXMMX -!! : ' <*?!!MMMMMMMMRH!!-!         'MMMMM?MMMMM!XHMMMMMMMM
+!!!!!MMMMMM! <!!   ! XM!!!MMMM$MMMMMHM!-     .!.  'MMMMXMM?X!XMMMMMMMMMM
+!!!!!MMMMMMX !!!   ! MMXXMMMMMMMMMMMMMX-    .<!!    #MM!/(!XMMMMMMMMMMMM
+!!!!!MMMMMMX H!X>  X 'MM^"*MMMMMMMMMM!! !   <!-!     -!XMXMMMMMMMMMMMMMM
+!!!!!MMMMMMM'MMMX  M: 4MM!!!<MMMMMM?!!-.    !':-       MMMM?MMMMMMMMMMMM
+!!!!!MMMMM??'?MMM  MM  ?MX!XMMMMMM!!!-:!    !-        'MMMMMiMMMMMMMMMMM
+!!!!!MMMMM!!:!!!!! !M: !?M?MMMMMM!!!-<!     :          ^*?!MMM?MMMMMMMMM
+!!!!!!MMMMX!!!!!!! !!! -!?MMMMM!!!!.!!     <'             !MMMM?MMMMMMMM
+!!!!!MMMMM!!!:!!!!  !!! !!^MMM!!!!!!-      !:             MMMMMM?MMMMMMM
+!!!!!MMMMM!!!!!!!!! !!!!.!:       :- .-   !--            '**M?!!!?MMMMMM
+!!!!!MMMMM!!!!!!!!!! !!!!<-        .! -   ---                '!!!!XMMMMM
+!!!!!MMMMM!!!!!!!!!!!-!!!!       .!! -   ----                '!!!!MXMMMM
+!!!!!MMMMX!!!!!!!!!!!!!!!!      :!'     <----                 !!!MMMXMMM
+!!!!!MMMMX!!!!!!!!!!!!!!!!   - !-      -!!---                  !XMMMMXMM
+!!!!!MMMMX!!!!!!!!!!!!!!!! >          <!!<!>-                  -MMMMMMXM
+!!!!!MMMM!!!!!!!!!!!!!!!!.-         :!!!!!!<-                   'MMMMMX?
+!!!!!MMMM!!!!!!!!!!!!!!!> <:       :!!!((:X::                   '!#?!!MM
+!!!!!MMMM!!!!!!!!!!!!!!-:-- .xnMMMMMMMMMMMMM!  :                 -!!!!M!
+!!!!!MMMM!!!!!!!!!!!!!-<xHMMMMMMMMMMMMMMMMMM!  !      <           !!!!!!
+``
+~
+
+-1 ASCII_WIZLIST~
+.
+                         ***************************                
+                         ** The `^G`6ods`` of `&A``n`&i``m`&e M``U`&D`` **                  
+                         ***************************                  
+                                    
+                                Implementors`8:
+
+                      `3.`#_`8_`7_`&_``Suzuran    `8-`` `5Imp`%lemen`5tor``
+
+ 
+                     `6.`^_`8_`7_`&_``Belldandy   `8-`` `8Re`7t`&i`7re`8d `7Coder
+                      `2.`@_`8_`7_`&_``Biryu      `8-`` `8Re`7t`&i`7re`8d `7Coder
+                      `2.`@_`8_`7_`&_``Kyrn       `8-`` `8Re`7t`&i`7re`8d `7Coder
+
+                                Immortals`8:
+
+                                 None Yet!
+~
+
+-1 ANSI_WIZLIST~
+.`!                                                                        А ААББВ
+`!А                              мммм                              А ААБВВлВллВВл
+ВБА А                      ммллл лАпп                          АБВлВллллллВлВБВ
+лВлВБА                   млллллллА     м                А   АБВллллллллллллллВл
+ллВллВБА                Вллллллл н   лА                   АБВлллллллллллллллллл
+лллллллВБА             олллллллллл  лА   млп            АБВллллллллллллллллллВл
+лллллВлллВА            Вллллллллллнллн  л н мн       А АВлллллллллллллллллллллл
+ллллллллллВА           оллллллллллллллнллА лл          Вллллллллллллллллллллллл
+лллллллллВлВА           лллллллллллллллллнллн        АВлллллллллллллллллллллллл
+ллллллллллллБ         мВБВллллллллллллллллллА        Бллллллллллллллллллллллллл
+ллллллллллллВ       мллллВллллллллллллллллллллм      Вллллллллллллллллллллллллл
+ллллллллллллл     млллллллллллллллллллллллполллА     Вллллллллллллллллллллллллл
+ллллллллллллн   мллллллллллллллллллллллллнў ллллА    оллллллллллллллллллллллллл
+лллллллллллВ   лллллллллллллллллллллллллллм оллллн    ллллллллллллллллллллллллл
+ллллллллллВ   ллллллллллллллллллллллллллллллмллллА     лллллллллллллллллллллллл
+лллллллллп   ллллллллллллллллллллллллллллллллллллн      плллллллллллллллллллллл
+лллллллп    лллллллллллллллллллллллллпппллллнпллл         плллллллллллллллллллл
+лллллл     лллллллллллллллллллллллп       пллмллн           ллллллллллллллллллл
+ллллл     лллллллллллллллллллллллн          ллл              лллллллллллллллллл
+лллл     лллллллллллллллллллВллллл          олп               ллллллллллллллллл
+лллн    оллллллллллллллллллллВлллллм        п                 олллллллллллллллл
+лллл    оллллллллллллллллллВлВБпллллллммм                     ллллллллллллллллл
+лллллм   Вллллллллллллллллллллн   ппп                       млллллллллллллллллл
+лллллВлВББВллллллллллллллллллллмм                        ммлллллллллллллллллллл
+лллллллллВллллллллллллллллллллллллллммммм        мммммллллллллллллллллллллллллл
+ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл
+лллллллллВллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл
+ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл
+ллллллллллллллллллллллллллллВлВлллВВллллллллллллллллллллллллллллллллллллллллллл
+лллллллллллллВлВлВлллВлВллВВВББВлВБББВлВлВБВлллВВВллллллллллллллллллллллллллллл
+ВлВлллллВВВллВВВББВлВБББВлБВББББВБАААБВВВВББВлВБББВлВлВВВлллВВВлллллллллллллллл
+ВВВБВВлВБББВлБВББББВБАААБВАББААББА  АБББВББББВБАААБВВВВББВлВБББВллллллллллллллл
+БВББББВБАААБВАББААББА  АББ БА ААА    АААББААББА  АБББВББББВБАААБВВВлВВВлллВБВлл
+АББААББА  АББ БА ААА    АА АА   А    А  БА ААА    АААББААББА  АББВВВВББВлВБББВл
+ БА ААА    АА АА   А    А  А             А   А    А  БА ААА    ААББВББББВБАААБВ
+ АА   А    А  А                                      АА   А    А ААББААББА  АББ
+ А                                                   А             БА ААА    АА
+                                                                    А   А    А
+                                `^I`6mplementors`A:
+
+
+                                    `&S``uzuran
+
+
+                                  `^I`6mmortals`A:
+
+~
+
+
+-1 SLAYERS SPELLS~
+This group of spells, taken from the Slayers anime, are used
+to inflict massive amounts of damage and destruction to others.
+They are high level spells for the mage class only:
+
+doragu sureibu    invokes a powerful shot of negative energy
+ra tiruto         bends a beam of astral energy toward an opponent
+raguna bureedo    creates a wieldable dagger of pure negative energy
+~
+
+-1 DORAGU SUREIBU~
+Syntax:  cast 'doragu sureibu' <target>
+
+
+Darkness from twilight
+Crimson from blood that flows
+Buried in the flow of time
+In Thy great name,I pledge myself to darkness!
+Those who oppose us shall be destroyed by the 
+power you and I possess!
+DRAGU SLAVE!!
+
+By calling on the Lord of Darkness, this spell causes an extraordinary
+amount of negative energy to be shot from the caster to the opponent.
+It contains enoughs power to destroy entire cities.
+~
+
+-1 RA TIRUTO~
+Syntax: cast 'ra tiruto'  <target>
+
+
+The strongest spirit magic spell which envelops a target in blue-white
+light. This spell can only be used against a single target --
+and only those that have spirits -- but its effect is absolute.
+The blue-white flame is said to destroy even a pure Demon destroy
+with a single shot.
+~
+
+-1 RAGUNA BUREEDO~
+Syntax: cast 'raguna bureedo'
+
+
+The Laguna Blade, created by calling on the powers of the Lord of
+Nightmares, creates a dagger of pure negative energy.  Because of it's
+powerful nature, it can only be held for a limited amount of time before
+it crumbles to dust.
+~
+
+-1 RSAY~
+Syntax: `&rsay``
+
+The function '`&rsay``' was added so that you could toggle racial says to
+be either on or off. This way, we don't have to be constantly annoyed
+and changing our says (which most everyone did, and that's just as bad).
+
+Change added on 8/23/2000 by Vorlin.
+~
+
+-1 DTOGGLE~
+Syntax: `&dtoggle``
+
+The function '`&dtoggle``' was added so that you could toggle descriptions
+of players and mobiles. This way, if you're not interested in having to
+scroll past lines of useless or offensive text, `&dtoggle`` is the way to go.
+It saves when you exit so you'll have to type it again to view descriptions.
+
+Change added on 8/26/2000 by Vorlin.
+~
+
+-1 'KAMEHAMEHA WAVE'~
+Syntax: kamehameha <target>
+
+This allows Saiyans to collect their will into the palms of their
+hands and then suddenly release it on their oppenent causing injury.
+The blast generated is dependant upon ones level. The more the level
+the more damage this technique can deal. Using this technique also
+reduces ones movement. This move cannot be performed if the user is
+near death or out of movement.
+~
+
+-1 SAIYAN~
+Saiyans are a race of fighters, which came from the now extinct planet
+of Vegeta.  They range in size from a normal human to a small giant, having
+furry tails.  Most Saiyans have black hair, although other colors do exist.
+Very muscular, it is said their strength gets more powerful after each
+fight they have.  Rumors persist about a so-called Saiyan that had powers 
+beyond any other Saiyan, a "Super" Saiyan, but one has not been seen in over
+10,000 years.
+
+Starting Stats:  Str: 17 Int: 11 Wis: 12 Dex: 16 Con: 15
+Maximum Stats:   Str: 25 Int: 20 Wis: 21 Dex: 25 Con: 24
+
+Resist:  Energy
+Vulnerable:  Mental
+
+Special Skill: Kamehameha Wave  100%
+~
+
+-1 XJAPANESE XTERMS~
+`8-`#Arigato`7
+  Many thanks. Also arigato gozaimasu (thank you)
+`8-`#Baka`7
+  Idiot or fool, used as an insult.
+`8-`#Bishojo`7
+  Literally "beautiful girl", but often translated into "pretty".
+`8-`#Bishonen`7
+  Literally "beautiful boy", but often refers to a male with delicate,
+  female features.
+`8-`#Etchi`7
+  Perverted or lewd.
+`8-`#Fuku`7
+  Clothing.
+`8-`#Gomen nasai`7
+  Excuse me. Sometimes shortened to gomen (pardon).
+`8-`#Hai`7
+  Yes or okay.
+`8-`#Kanji`7
+  A form of character symbols or ideograms used to write the Japanese
+  language.  Other character forms included hiragana and katakana.
+`8-`#Kawaii`7
+  Cute. Kawaii anime characters are often the ones with the largest eyes.
+`8-`#Konban wa`7
+  Good evening.
+`8-`#Konnichi wa`7
+  Good afternoon.
+`8-`#Maho`7
+  Magic or magical spell.
+
+To be continued on `8'`#HELP JAPANESE TERMS2`8'`7
+~
+-1 'XJAPANESE XTERMS2'~
+`8-`#Manga`7
+  Japanese comic.
+`8-`#Mina`7
+  Everyone.
+`8-`#Moshi moshi`7
+  A greeting used when answering the telephone, equivalent to "hello".
+`8-`#Nani`7
+  The term "what?", often used as an exclamation of disbelief.
+`8-`#Neko`7
+  A cat.
+`8-`#Ohayo gozaimasu`7
+  Good morning.
+`8-`#Otaku`7
+  Japanese slang for an unhealthy fan obsession (such as an anime otaku).
+  Recently the anime fan community has taken the term for itself and tried
+  to remove the negative connotations. For many people, the word "otaku"
+  now simply means "anime fan".
+`8-`#Oyasumi nasai`7
+  Good night, said when going to bed.
+`8-`#Seiyuu`7
+  Voice actor/actress
+`8-`#Sempai`7
+  Senior or superior
+`8-`#Shojo`7
+  Literally "young girl".
+`8-`#Shonen`7
+  Literally "young boy".
+`8-`#Yoma`7
+  A monster, demon or ghost.
+~
+
+-1 JAPANESE~
+Non-english is prohibited on public channels!
+
+~
+
+-1 CLANSYSTEM~
+
+The new clan system allows players to initate their own clans.
+The clans have to be OKed by immortals, so don't get any ideas. ^_^
+
+It works like this:
+
+Player X wants to make a clan, Clan WhatEver.
+Players Y and Z want to join.
+
+Player X does a "clan initiate" command to create the clan.
+The clan is NOT a real clan at this point and isn't visible to anyone but
+X.  Anyway, X proceeds to set the charge to pledge (explained later),
+min level to join, how it looks in the who list (long name), etc.  Then, he waits.
+
+Eventually, the Clan IMM with the appropriate command will show up, and decide
+whether the clan will be established. If so, it will then become a real clan,
+with X as the leader. Or, the Clan IMM can reject the clan, and X LOSES his
+payment he paid to create the clan.  To create a clan, you need `!two`` of the following:
+
+`@*`& 250,000`# gold`7.
+`@*`& 80`7 RP points (160 to make a Non-PK clan)
+`@*`& 3000 autoquest points.`7
+
+`%(`5Note`%)`&: We will be adding more payment methods soon.``  --Batanen
+
+Non-PK clans *MUST* pay using RP points.
+Also, Non-PK clans are `&HEAVILY DISCOURAGED`7.  Meaning, if you intend to
+create one, there's a `#VERY`7 high chance it will be deleted.  You'd better
+have a VERY good backstory, or you're throing away your money. Also, NonPK clans
+have *ABSOLUTELY NO CHANCE* to get clan equipment, when those are introduced later.
+
+See help`^ clansys2`7, `^newclans`7, `^clan_upgrade`7, `^clan_upkeep`7,
+and  `^clan_rules`7 for more details.
+~
+
+-1 CLANSYS2~
+
+`&HELP CLANSYS2``
+
+Anyway, say clan WhatEver gets established.  Now, Y and Z want to join.
+This doesn't work like before.  They have to "clan pledge <short name>" to
+join.  This pre-checks for min level, PK status, etc.  Somewhat like
+writing an app, except you can't lie to it. :P There is also a charge,
+between 100 and 10,000 gold, to pledge a clan.  This charge is set by the
+leader.
+
+Also, the clan leader can create an "ACL entry" for pledges.  This is to
+keep known bad people from pledging, and to make "private" clans, if you
+wish.  It works like this:
+
+There are two settings for the "default ACL".  Allow, and deny.
+If you set the default to "Allow", everyone NOT on the ACL list can pledge.
+If you set the default to "Deny", ONLY those on the ACL list can pledge.
+There is a limit to ACL entries, so be careful with them.
+
+Anyway, X can only clan Y and Z after they pledge.  Or he can decide to
+delete their pledges.  If they are rejected, they will have to try again.
+
+This system may be revised depending on how well it works.
+
+The old clan system commands are replaced with "clanldr" and "clan".
+Type those by themselves for help.
+
+It is extraordinarily important to talk to the Clan IMM before doing a
+clan initiate.  Since they are the person who decides on whether the
+clan lives or dies, communication is vital.  Send them notes, tells, etc.
+in order to be certain your clan will be successful.
+
+Also, read HELP NEWCLANS for notes. 
+~
+
+-1 CLAN_UPGRADE~
+
+`&HELP CLAN_UPGRADE`7
+
+For additional fees, clan hall and clan equipment may be added after the
+first month's upkeep has been collected on time.  Clan Halls must be purchased
+first, before Clan Equipment.  The cost of an upgrade is one of the payment
+methods not already used by the creation of a clan, with the possibility of
+paying more for additional rooms/items.
+
+Clan Halls will start with 3 rooms; an entrance, and two clan-only safe rooms.
+Also, they will be able to clan recall into their clan hall, with the violence
+timer off, at no extra fee.  Extra rooms are purchased for 0.5x the cost, with
+a limit of 6 clan-only safe rooms.  A clan healer costs 0.25x the cost of a room,
+and a clan trainer costs 0.25x the cost of a room. Clan trainers cannot be
+purchased by RP Clans.  The upkeep for a clan hall will be 1/10 of the total cost
+of the clan hall.  Clan Halls are for clan members ONLY.  Additional rooms/MOBs
+can be bought later on.
+
+Clan Equipment starts with 1 item at the base cost. Clan Equipment cannot be
+purchased by RP Clans. Additional items cost 0.75x, with a limit of 3 items.
+These items will only be available from the Clan Leader, unless a clan shopkeeper
+is bought. They of a shopkeeper is 1x the base cost of the clan equipment, is not
+part of the clan hall cost. Additional EQ/MOB can be bought later on.
+
+
+~
+
+-1 CLAN_UPKEEP~
+
+`&HELP CLAN_UPKEEP`7
+
+
+After the first month of existance, a clan will have to pay an upkeep fee of
+1/10 each month of their original payment to the clan.  If clan halls and/or
+clan equipment is also purchased, then that is added to the upkeep.
+
+Each clan will have a "safety deposit box" that each clan member will be
+able to deposit payments into.  These cannot be returned to you or any
+other clan member once deposited.  Every month, the clan IMM will check
+the box for payment, and remove the appropriate amount for upkeep.
+
+Initial payments for clan halls and clan equipment will also be handled via
+the "safety deposit box."  The Clan Ldr will be able to check on how much
+is in the box, to be certain the correct amount is entered in.
+
+If a clan is late on their payments, they may be fined an extra 15% on their
+next month's upkeep.  If a clan does not pay their upkeep, or is repeatedly
+late on upkeep, it will be taken away, and all clan members will become
+clanless.
+
+We will be revising this system, as problems come up with it, please
+be patient.
+
+
+~
+
+-1 CLAN_RULES~
+
+`&HELP CLAN_RULES`7
+
+Due to the major change in the way clans work now, we have a group of rules and
+processes that are listed here.  These help clarify any questions people have
+about the new clan system.
+
+A person may only have one character in one of the following positions, Clan Initiator,
+Clan Leader, Clan Member, and Pledge. Failure to do so will result in punishment,
+depending on the crime.
+
+A clan member may request to leave a clan, and may also be kicked out of a clan,
+at the clan leader's choice.  A clan member may be rejected when asking to leave
+a clan.  Their choices are to recreate, or IMM removal.  If removed by the clan
+IMM, they will not be allowed to ever join a clan again with that character.
+If the clan leader removes them, they will then be free to pledge any other clan.
+
+If a clan leader decides to step down, the person who is ranked 2nd will then be
+made Clan Leader.  If the former leader wishes to choose a new leader for him/herself,
+they must indicate that by making that person 2nd ranked.  For this reason,
+there should only and always be one person ranked 2nd at one time.
+
+If a clan leader does not logon for more than 18 days, without letting the IMM
+staff know ahead of time, they will be removed as leader.  The person who was
+ranked 2nd will then be made leader in their stead.  If a member of a clan does
+not logon for more than 18 days without letting the Leader know, they will be
+allowed to declan the person without their presence.
+
+If there is not someone ranked 2nd in a clan when the clan leader steps down,
+a general election within the clan will be done, with the clan members given 48
+hours from first notice to vote for their choice for new Leader.  The Clan IMM
+will break ties.
+~
+
+-1 NEWCLANS~
+NEW CLAN SYSTEM NOTES:
+
+One - If you are asked for a clan shortname, this is a one-word identifier
+for your clan.  DO NOT put colors, spaces, or anything else wierd into it.
+If your clans has two words, use a - between words, not an _.
+Keep it less than 8 letters.  Longer names will probably get ignored or
+edited by the immortals, and this will not be good for you.
+
+Two - on "clan initialize":
+It asks you for two PMs.  This is short for Payment Method, and it's a
+number from one to three.  The number means:
+
+1 = Pay by gold.  You need 250,000 gold in your bank account.
+2 = Pay by autoquest points.  You need 3,000 quest points.
+3 = Pay by RP points.  If you are a PK clan, you need 80.
+    NonPK clans need 160, and MUST use RP points to establish a clan.
+
+Three - If you are asked for a clan longname, or lname, this is the
+text that shows up in the who list for your clan.  Put whatever in this.
+You MUST specify it like this, or Anime will mess it up on you:
+"[WhatEver] "
+The " and space after the ] are important.  If you leave those out,
+nasty things happen.  (To you, not Anime).  So don't do that.
+
+Four - Clans do not automatically get clan halls and equipment.
+They do get the following for the initial cost:
+
+`@*  `&A clan title on the who list
+`@*  `&A clan talk channel, which only clan mates can hear.
+`@*  `&The ability to clan 12 other people, a total of 13 total clan members.
+`@*  `&Clan Ldrs can see who is in their clan, whether their members are
+    on-line or not.``
+`@*  `&Clan Ldrs can name their ranks for clans, not just 1st, 2nd, etc.`7
+
+READ "HELP CLANSYSTEM" AND "HELP CLANSYS2" IF YOU HAVEN'T!!!!
+
+~
+
+0 $~
+
+#$
+
