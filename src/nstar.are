@@ -1,0 +1,2545 @@
+#AREADATA
+Name Land of the North Star~
+Builders None~
+VNUMs 12200 12299
+Credits {60 90} Breetai Land of the North Star~
+Security 9
+End
+
+
+
+#MOBILES
+#12201
+roaming maurader~
+A roaming maurader~
+A roaming marauder of the wastelands stands here, eyeing you with greed.
+~
+A sneer is worn upon this dirty man's face like an old friend.  His clothes
+are raggish and in shambles, while his hair is cut in a punk mohawk style.
+His arms and legs are skinny and withered from lack of proper food and
+water.  He roams this desert with only a goal taking from others to benefit
+himself.
+~
+Human~
+ACGT FP -500 0
+60 1 10d30+4300 10d10+1000 10d50+2 smash
+-25 -25 -25 -2
+FKNU 0 HLQ IR
+stand stand male 320
+ABHMV ABCDEFGHIJK medium unknown
+#12202
+kenshiro ken fist north star~
+Ken~
+The Fist of the North Star marches here, destroying buildings in his passing.
+~
+After his 'death', Ken, Fist of the North Star, awakens from the ground
+to see his rebirth.  Seven scars anoint his chest, given to him by his
+former friend, Shin.  His anger and vengeance emanate from him like a
+sickly black smoke.  His eyes glow from beneath a long black cloak, showing
+only pure unadulterated anger.
+~
+Human~
+ABGT DFHN 200 0
+95 9 10d12+6400 100d10+1000 8d12+11 pound
+-97 -97 -97 -60
+CDEFHIKN ABLNQU EFG 0
+stand stand male 1000
+ABHMV ABCDEFGHIJK medium unknown
+#12203
+punk dirty~
+a dirty punk~
+A dirty punk stands here with a sneer on his face, and a weapon readied.
+~
+This punk has no regard for any life except for his own.  He steals from
+those who survived the holocaust and seeks to take any of their goods for
+himself.  His clothes are tattered and ragged, and his hair looks as though
+a child cut it.
+~
+Human~
+AGS P -300 0
+66 1 22d10+4000 1000d10+100 10d3+10 thrust
+-35 -35 -35 -35
+FHIKNOU AB I 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+#12204
+shin south star fist~
+Shin~
+Shin, the Fist of the South Star stands here with a smirk upon his face.
+~
+With long flowing blonde hair, Shin stands here proclaiming to be the Fist
+of the North Star, as well as the Fist of the South Star.  He wears long
+flowing robes like that of a king, and stands with an unearned air of
+royalty.  His eyes are a brilliant blue, and mock you with their glance.
+~
+Human~
+AGT H -250 0
+100 0 120d10+13000 100d100+1000 10d5+9 thrust
+-46 -46 -46 -46
+DEFHIK ABU 0 N
+stand stand male 550
+AHMV ABCDEFGHIJK medium unknown
+#12205
+soldier~
+A Soldier~
+A soldier of Raoh stands here ready to fight.
+~
+This young man is very powerful indeed.  He has trained under Raoh for
+many, many years.  His outfit and clothing are black and he has the crest
+of Raoh on his left breast.
+~
+Human~
+AGT 0 300 0
+68 0 12d20+4000 100d100+1000 10d5+9 stab
+-43 -43 -43 -43
+EFIK AB 0 0
+stand stand male 230
+AHMV ABCDEFGHIJK medium unknown
+#12206
+metal man~
+A metal man~
+A man with the ability to change his skin into metal stands here.
+~
+This incredibly large man stands before all with a cocky gaze in his eye.
+He stands as tall as five men, and has a fairly long and scraggly beard.
+He yells about, boasting of his ability to change his skin into pure metal,
+and defeat any foe that challenges him.  He charges towards Raoh to battle
+him.
+~
+Human~
+AGT O -600 0
+75 5 10d20+12000 1000d1000+100 10d6+10 crush
+-70 -70 -70 -70
+EFKQ ABHILQ 0 JK
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#12207
+Jaggi brother~
+Jaggi~
+Jaggi, brother of Ken and Raoh stands here, his face hidden.
+~
+For challenging his brother Ken, Jaggi was disfigured in a fight with him.
+He keeps his face hidden, and kills all who make fun or cringe in fear from
+it.  Impersonating his brother Ken, Fist of the North Star, Jaggi keeps
+people under his twisted order by legends of Ken's power.
+~
+Human~
+ABFHT Z -300 0
+40 3 10d10+3400 100d100+1000 5d4+5 charge
+-34 -34 -34 -18
+EFHI A 0 K
+stand stand male 800
+AHMV ABCDEFGHIJK medium unknown
+#12208
+ray warrior~
+Ray~
+Ray stands here ready to fight Jaggi until the death.
+~
+Ray is an unusually handsome man, with long flowing white hair.  He left
+his village long ago to find his sister Alei who was kidnapped by Jaggi.  He will stop at nothing to save his sister ad to help Ken in his quest to stop his eldest brother Raoh in his madness.
+~
+Human~
+ABGT 0 600 0
+90 9 20d10+10000 100d100+1000 10d10+5 wrath
+-120 -120 -120 -120
+CEFHIKNOQ ABJ 0 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium unknown
+#12209
+lynn~
+Lynn~
+Lynn, a silent little girl stands here quietly.
+~
+With pink hair and a pink headband, Lynn stands here with large eyes,
+staring at you meaningfully.  She hold with her the power to change the
+defeated world into a lively and prosperous place once more.  She alone
+can change Raoh's mind in his mad plans.
+~
+Human~
+ABGR 0 1000 0
+30 0 10d5+1000 100d100+1000 5d3+5 scratch
+-120 -120 -120 -8
+FH AB 0 0
+stand stand female 6
+AHMV ABCDEFGHIJK medium unknown
+#12210
+general~
+Raoh's General~
+Raoh's General stands here beside Raoh, ready to battle.
+~
+This man stands as tall as three men, and has twenty times the girth.
+He has a trim white beard and an insane look in his eye.  He screams and
+yells around the area telling all of his power and chiding others for not
+being polite enough to Raoh.  He looks very competent with the lash.
+~
+Human~
+ABGT DF -500 0
+70 2 20d10+13000 100d100+1000 10d8+7 whip
+-70 -70 -70 -70
+FGHIJKNO ABHIJK 0 NO
+stand stand male 300
+AHMV ABCDEFGHIJK medium unknown
+#12211
+julia woman~
+Julia~
+Julia stands here, seeking a way out of her prison.
+~
+Julia, the love of the Fist of the North Star seeks her way out of her
+prison from Shin, the Fist of the South Star.  She has beautiful red hair
+and a calm and serene look in her big blue eyes.  She shudders as she
+looks at all the corpses in the subway tunnel.
+~
+Human~
+ABGR HN 1000 0
+30 2 10d10+2000 10d10+1000 10d2+3 beating
+-12 -12 -12 -12
+EFHK ABJ 0 0
+stand stand female 50
+AHMV ABCDEFGHIJK medium unknown
+#12212
+brad boy freind~
+Brad~
+Brad, companion and friend to Lynn stands here.
+~
+This young boy has long dark brown hair that covers his right eye.  He is
+cheerful and very intelligent, having managed to survive this long in the
+apocalypical world. He owns a small dune buggy in which he and Lynn travel
+about the world in.  He would do anything to protect Lynn and see her safe.
+~
+Human~
+ABGT 0 700 0
+30 0 10d12+3000 100d100+1000 5d7+3 punch
+-32 -32 -32 -32
+EFK 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#12213
+zenda gang leader~
+Zenda~
+Zenda, leader of a gang of ruffians stands here bullying innocent people.
+~
+This man and his lot keep many small, innocent survivors of the holocaust
+under their bidding.  They threaten them with death or punishment and force
+them to commit atrociaous acts upon each other to break the peoples spirits.  He stands as tall as two men, and is just as wide.  He holds himself upright in a cock manner that is befitting to such scum.
+~
+Human~
+ABGT 0 0 0
+55 0 10d10+12000 100d100+1000 10d5+4 pound
+-28 -28 -28 -12
+EFIK 0 0 0
+stand stand male 256
+AHMV ABCDEFGHIJK medium unknown
+#12214
+member gang~
+Z gang member~
+A member of the 'Z' gang stands here smirking.
+~
+This dirty youn man has long pink hair and ragged clothes. He smells
+of dirt and body stink, and looks as though he hasn't washed in days.
+His teeth are yellow and crooked and he has scruff from not shaving in the
+last few days.
+~
+Human~
+ABFGT DF -300 0
+50 0 100d15+5000 0d0+0 10d4+6 beating
+-22 -22 -22 -11
+FHIKU M 0 N
+stand stand male 50
+AHMV ABCDEFGHIJK medium unknown
+#12215
+soldier shin~
+A Soldier~
+A soldier of the Fist of the South Star stands here.
+~
+This soldier has been trained and such from the Fist of the South Star.
+He has a helmet and suit on of brown and grey.  He looks and acts confedant
+although he knows that his forces could be overun and consumed by Raoh's
+forces at any time.
+~
+Human~
+AGT 0 0 0
+68 0 10d100+6000 100d100+1000 6d7+5 pound
+-30 -35 -35 -18
+FIKLN 0 IJ LQ
+stand stand male 350
+AHMV ABCDEFGHIJK medium unknown
+#12216
+ryuuken old man~
+Ryuuken~
+Ryuuken, master of this Dojo kneels here silently.
+~
+This ancient man was once Fist of the North Star.  He let his son Ken take
+his place.  His two other sons, Jaggi and Raoh however have been constantly
+trying to beat thier brother to gain his title.  The old man knows however
+that power must be perceived and therefore any power that Raoh or Jaggi
+possess is useless.
+~
+Human~
+ABGRVa DFHZ 600 0
+90 0 10d10+10000 100d1000+10000 10d10+1 blast
+-20 -20 -20 -20
+FHI ABCLNQ 0 M
+sit stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#12217
+lieutenant soldier~
+A Lieutenant~
+A Lieutenant of the Fist of the South Star stands here.
+~
+This man has climbed through some of the lesser ranks in the service of the
+Fist of hte South Star to become a lieutenant.  He wears a much classier
+uniform than that of his lower ranking officers and soldiers.  He takes
+commands straight from Lord Shin of this palace.
+~
+Human~
+ABGT 0 0 0
+73 0 100d15+8000 100d100+1000 7d8+6 thrust
+0 0 0 0
+FIKLN 0 HI 0
+stand stand male 450
+AHMV ABCDEFGHIJK medium unknown
+#12218
+raoh eldest brother~
+Raoh~
+Raoh stands here, preparing to battle Ray.
+~
+Raoh is Ken and Jaggi's eldest brother.  He stands much taller than both
+of them and twice as large.  Raoh beleived that when his father passed the
+title of Fist of the North Star on to his younger brother Ken, he was
+making a huge mistake.  When Raoh is angered his, body emits a glowing red
+aura, of which surrounds him presently.
+~
+Human~
+ABGT HOUZ -350 0
+100 0 100d100+25000 100d100+1000 10d10+5 pound
+-60 -60 -60 -32
+ACDEFHIJKNO ABHIJLQU 0 KNOP
+stand stand male 3200
+AHMV ABCDEFGHIJK medium unknown
+#12219
+alei~
+Alei~
+Alei, sister to Ray stands here, wondering what your next order is.
+~
+This poor woman is Ray's sister.  She was kidnapped from he village on
+  her wedding day to serve Jaggi, false Fist of the North Star.  She
+  stands here, with her eyes closed, not able to stand the sight of the
+  world.  She is very beautiful and has been horribly taken advantage of.
+~
+Human~
+ABGR 0 1000 0
+20 7 10d10+1500 100d100+1000 5d10+2 peck
+-10 -10 -10 -3
+FHIK ALQ 0 HI
+stand stand female 120
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#12201
+seven wounds~
+the seven wounds~
+The seven vengeful wounds of the Fist of the North Star lie here, glowing.~
+energy~
+armor AHY AD
+ABCD ABCD ABCD ABCD 0
+100 120 20000 100
+A
+1 4
+A
+17 -6
+A
+18 4
+#12202
+black cloak long~
+a long tattered cloak~
+A long tattered black cloak lies upon the ground here.~
+cloth~
+armor Y AK
+ABCD ABCD ABCD ABCD 0
+100 200 20000 100
+A
+18 4
+A
+13 60
+#12203
+spike baseball bat~
+a spiked bat~
+A baseball bat with nails protruding from it lies here.~
+wood~
+weapon G AN
+mace 8 9 crush 0
+80 60 16000 100
+A
+5 3
+A
+17 -4
+A
+13 20
+#12204
+lines chi~
+Lines of Chi~
+A part of someone's expanded Chi glows here brightly.~
+~
+weapon Y AN
+exotic 10 9 none D
+110 20 22000 100
+A
+18 3
+A
+19 6
+#12205
+7 wounds marred~
+7 marred wounds~
+Something marred and wrong sits here.~
+~
+armor 0 AD
+0 0 0 A 0
+30 50 1 100
+A
+1 -15
+A
+13 -100
+#12206
+black helmet~
+a black helmet~
+A black helmet with a red face guard lies here.~
+~
+armor B AE
+CD CD CD C 0
+60 25 12000 100
+A
+18 2
+A
+3 2
+A
+13 15
+#12207
+whip lash~
+The lash~
+The lash lies here, writhing.~
+~
+weapon B AN
+whip 9 9 slash EG
+90 12 18000 100
+A
+13 50
+A
+2 3
+#12208
+saw handle wood~
+a saw blade with a wooden handle~
+A saw blade with a wooden handle lies here.~
+~
+weapon G AN
+exotic 8 9 cleave 0
+80 50 16000 100
+A
+4 3
+A
+14 50
+#12209
+goggles driving~
+driving goggles~
+Driving goggles lie here, covered with desert dust.~
+~
+armor BG AE
+CE CE E B 0
+60 30 12000 100
+A
+4 3
+A
+17 -4
+A
+23 -3
+#12210
+white cloak~
+a blood stained cloak~
+A brilliant white cloak with smears of blood upon it lies here.~
+cloth~
+armor AY AK
+CD CE E BD 0
+95 60 19000 100
+A
+2 4
+A
+12 30
+A
+19 4
+#12211
+ring power~
+a ring of power~
+A bizarre ring lies here on the ground.~
+~
+armor BFGY AB
+ABCD ABCD ABCD ABCD 0
+105 20 21000 100
+A
+5 5
+A
+18 4
+A
+24 -5
+#0
+
+
+
+#ROOMS
+#12289
+Before the Stronghold.~
+You stand before the stronghold.  There is no possible way to enter it.
+Raoh and all his guards are here, guarding this place against any who
+would dare to intrude.  The ground is covered with corpses and blood.
+The hot and hazey smell of death raoms freely here.
+~
+0 0 2
+D1
+~
+~
+0 -1 12290
+D2
+~
+~
+0 -1 12292
+D3
+~
+~
+0 -1 12287
+S
+#12290
+Before the Stronghold.~
+You stand before the stronghold.  There is no possible way to enter it.
+Raoh and all his guards are here, guarding this place against any who
+would dare to intrude.  The ground is covered with corpses and blood.
+The hot and hazey smell of death raoms freely here.
+~
+0 0 2
+D1
+~
+~
+0 -1 12291
+D2
+~
+~
+0 -1 12299
+D3
+~
+~
+0 -1 12289
+S
+#12291
+Before the Stronghold.~
+You stand before the stronghold.  There is no possible way to enter it.
+Raoh and all his guards are here, guarding this place against any who
+would dare to intrude.  The ground is covered with corpses and blood.
+The hot and hazey smell of death raoms freely here.
+~
+0 0 2
+D1
+~
+~
+0 -1 12298
+D2
+~
+~
+0 -1 12294
+D3
+~
+~
+0 -1 12290
+S
+#12292
+Before the Stronghold.~
+You stand before the stronghold.  There is no possible way to enter it.
+Raoh and all his guards are here, guarding this place against any who
+would dare to intrude.  The ground is covered with corpses and blood.
+The hot and hazey smell of death raoms freely here.
+~
+0 0 2
+D0
+~
+~
+0 -1 12289
+D1
+~
+~
+0 -1 12299
+D2
+~
+~
+0 -1 12295
+S
+#12293
+Before the Stronghold.~
+You stand before the stronghold.  There is no possible way to enter it.
+Raoh and all his guards are here, guarding this place against any who
+would dare to intrude.  The ground is covered with corpses and blood.
+The hot and hazey smell of death raoms freely here.
+~
+0 4 2
+S
+#12294
+Before the Stronghold.~
+You stand before the stronghold.  There is no possible way to enter it.
+Raoh and all his guards are here, guarding this place against any who
+would dare to intrude.  The ground is covered with corpses and blood.
+The hot and hazey smell of death raoms freely here.
+~
+0 0 2
+D0
+~
+~
+0 -1 12291
+D2
+~
+~
+0 -1 12297
+D3
+~
+~
+0 -1 12299
+S
+#12295
+Before the Stronghold.~
+You stand before the stronghold.  There is no possible way to enter it.
+Raoh and all his guards are here, guarding this place against any who
+would dare to intrude.  The ground is covered with corpses and blood.
+The hot and hazey smell of death raoms freely here.
+~
+0 0 2
+D0
+~
+~
+0 -1 12292
+D1
+~
+~
+0 -1 12296
+S
+#12296
+Before the Stronghold.~
+You stand before the stronghold.  There is no possible way to enter it.
+Raoh and all his guards are here, guarding this place against any who
+would dare to intrude.  The ground is covered with corpses and blood.
+The hot and hazey smell of death raoms freely here.
+~
+0 0 2
+D0
+~
+~
+0 -1 12299
+D1
+~
+~
+0 -1 12297
+D3
+~
+~
+0 -1 12295
+S
+#12297
+Before the Stronghold.~
+You stand before the stronghold.  There is no possible way to enter it.
+Raoh and all his guards are here, guarding this place against any who
+would dare to intrude.  The ground is covered with corpses and blood.
+The hot and hazey smell of death raoms freely here.
+~
+0 0 2
+D0
+~
+~
+0 -1 12294
+D3
+~
+~
+0 -1 12296
+S
+#12298
+Before the Stronghold.~
+You stand before the stronghold.  There is no possible way to enter it.
+Raoh and all his guards are here, guarding this place against any who
+would dare to intrude.  The ground is covered with corpses and blood.
+The hot and hazey smell of death raoms freely here.
+~
+0 0 2
+D3
+~
+~
+0 -1 12291
+S
+#12299
+A Circle in the Dirt.~
+You stand before the stronghold.  This part of the entrance to the
+stronghold is scored and scarred.  There is a huge circle burned
+into the ground.  You can not begin to fathom what the purpose of this
+circle could be.
+~
+0 0 2
+D0
+~
+~
+0 -1 12290
+D1
+~
+~
+0 -1 12294
+D2
+~
+~
+0 -1 12296
+D3
+~
+~
+0 -1 12292
+S
+#12200
+Climbing a sand slope.~
+You begin to feel the exhaustion climb inside your body as you struggle
+with every step you take up this sand slope. The desert seems to surround
+you as you move futher up this hill. You begin to feel weary and almost
+lose your footing in the sand. The sand shines with a metallic luster
+here, oddly in a goldish color.
+~
+0 0 10
+D2
+~
+~
+0 -1 3530
+D4
+~
+~
+0 -1 12201
+S
+#12201
+The desert.~
+You stand among desolate wastelands.  The ground is completely barren of
+any kind of plant life.  Judging from the dry cracked ground, you can guess
+that it hasn't rained for many years.  The winds whispers through your e
+ars, bringing a song of death and complete despair.
+~
+0 0 10
+D0
+~
+~
+0 -1 12202
+D1
+~
+~
+0 -1 12205
+D2
+~
+~
+0 -1 12204
+D3
+~
+~
+0 -1 12212
+S
+#12202
+The desert.~
+You stand among the desolate wastelands of the post holocaustic world.
+There are no smells in the air, and no plant life to add any color to the
+grey, brown and cracked ground.  The wind screams by carrying only odours
+of death, decay and despair.
+~
+0 0 10
+D0
+~
+~
+0 -1 12203
+D1
+~
+~
+0 -1 12206
+D2
+~
+~
+0 -1 12201
+D3
+~
+~
+0 -1 12211
+S
+#12203
+The desert.~
+You stand amid a desolate and barren desert landscape.  There is not a
+sign of plant life, or of any other kind of life for that matter.  The
+air is hot, and blows by you with a steamy carelessness.
+~
+0 0 10
+D0
+~
+~
+0 -1 12244
+D1
+~
+~
+0 -1 12207
+D2
+~
+~
+0 -1 12202
+D3
+~
+~
+0 -1 12210
+S
+#12204
+The desert.~
+Winds blow feircely here, stinging you with uprising sand. The cracked
+ground is completely dry and lifeless.  No plants can survive in the
+extreme desolation of this ravaged land.
+~
+0 0 10
+D0
+~
+~
+0 -1 12201
+D1
+~
+~
+0 -1 12208
+D2
+~
+~
+0 -1 12203
+D3
+~
+~
+0 -1 12215
+S
+#12205
+The desert.~
+You walk along a landscape absent of all plant and animal life.  There
+appears to be no water or any other life sustaining subtances anywhere
+in sight.  Dry winds blow by, shrieking in your ears.
+~
+0 0 10
+D0
+~
+~
+0 -1 12206
+D1
+~
+~
+0 -1 12212
+D2
+~
+~
+0 -1 12208
+D3
+~
+~
+0 -1 12201
+S
+#12206
+The desert.~
+This barren landscape is completely devoid of a plant and animal life.
+Not a single scent of anything except unrelenting heat can be detected
+in the air.  The ground is cracked and dry from years without rain or
+moisture.
+~
+0 0 10
+D0
+~
+~
+0 -1 12207
+D1
+~
+~
+0 -1 12211
+D2
+~
+~
+0 -1 12205
+D3
+~
+~
+0 -1 12202
+S
+#12207
+The desert.~
+The ground along this broken and dead landscape is that of a dry and
+lifeless desert.  A smell in the air of only heat and hopelessness lie
+thick.  A quick wind blows by bring with it stinging sand and heat.
+~
+0 0 10
+D0
+~
+~
+0 -1 12208
+D1
+~
+~
+0 -1 12210
+D2
+~
+~
+0 -1 12206
+D3
+~
+~
+0 -1 12203
+S
+#12208
+The desert.~
+This wasteland is incapable of supporting any form of plant or animal
+life.  The ground is crack and broken, and it appears as though rain has
+not fallen here for many years.  A brisk wind shrieks by, perhaps telling
+a story of a once great civilization.
+~
+0 0 10
+D0
+~
+~
+0 -1 12205
+D1
+~
+~
+0 -1 12209
+D2
+~
+~
+0 -1 12207
+D3
+~
+~
+0 -1 12204
+S
+#12209
+The desert.~
+You stand in a land filled with only sand and cracked hard ground.  There
+is a smell of burning heat throughout the air, and a feeling of complete
+desolation and despair.  The land here is completely incapable of
+supporting any sort of plant life whatseoever.
+~
+0 0 10
+D0
+~
+~
+0 -1 12212
+D1
+~
+~
+0 -1 12264
+D2
+~
+~
+0 -1 12210
+D3
+~
+~
+0 -1 12208
+S
+#12210
+The desert.~
+You stand among the remains of a once great and prosperous civilization.
+All that remains now is a deserted land of fleeing and scared survivors.
+The landscape is completely barren and lifeless.  There is a quick wind
+that tears its way through the air.
+~
+0 0 10
+D0
+~
+~
+0 -1 12209
+D1
+~
+~
+0 -1 12203
+D2
+~
+~
+0 -1 12211
+D3
+~
+~
+0 -1 12207
+S
+#12211
+The desert.~
+You are among a barren and deserted wasteland.  There are only the lifeless
+smells of heat and dry air.  The ground is scarred with cracks from lack
+of moisture and years without rain.  A fast wind flys through the air
+whistling in your ears.
+~
+0 0 10
+D0
+~
+~
+0 -1 12210
+D1
+~
+~
+0 -1 12214
+D2
+~
+~
+0 -1 12212
+D3
+~
+~
+0 -1 12206
+S
+#12212
+The desert.~
+The ground among the desert is dry and cracked from years without rain.
+The air is hard and hot from the desert's extreme heat.  The smell of deat
+and sorrow are thick in the air, covering your mind with a thick blanket of
+despair.
+~
+0 0 10
+D0
+~
+~
+0 -1 12211
+D1
+~
+~
+0 -1 12201
+D2
+~
+~
+0 -1 12213
+D3
+~
+~
+0 -1 12205
+S
+#12213
+The desert.~
+You stand in a landscape in which there is only brown, cracked dirt and
+burning heat.  This land is completely incapable of supporting any sort
+of plant life.  There is a brisk wind that stirs up sand, stinging your
+skin and eyes.
+~
+0 0 10
+D0
+~
+~
+0 -1 12212
+S
+#12214
+A path to a broken city.~
+You are in a very small valley of rock.  To the west, you can make out a
+barren and cracked land.  The eastern way leads to broken ad barren ruins
+of a once large and prosperous city.  The wind tears throught the air
+relentlessly stinging your skin and eyes.
+~
+0 0 10
+D1
+~
+~
+0 -1 12216
+D3
+~
+~
+0 -1 12211
+S
+#12215
+The desert.~
+You stand among the desert.  There are no smells in the air except for
+that of burning heat and hot air.  There is a very large crack in the
+ground, leading straight downwards.  The wind howls through the fault
+wickedly.
+~
+0 0 10
+D0
+~
+~
+0 -1 12201
+D1
+~
+~
+0 -1 12204
+D2
+~
+~
+0 -1 12211
+D3
+~
+~
+0 -1 12209
+S
+#12216
+Entrance to a Broken City.~
+Shattered sky scrapers tower around you endlessly.  Their broken and
+battered skeletons loom around in every direction, the only remains of a
+once advaced society.  Obviously their advaced culture was a large part
+of their downfall.  The wind whistles by quickly, singing of death and
+despair.
+~
+0 0 10
+D1
+~
+~
+0 -1 12217
+D3
+~
+~
+0 -1 12214
+S
+#12217
+Along a street.~
+You walk along a street in which the pavement is crumbled and broken.
+Skeletons of once huge buildings tower around you in every diretion.
+Wind howls through the air, singing a song of death and despair.
+~
+0 0 1
+D1
+~
+~
+0 -1 12218
+D3
+~
+~
+0 -1 12216
+S
+#12218
+Along a street.~
+You are along a city street in a city once powerful and prosperous.  The
+pavement is cracked and broken from many years of neglect.  A wind howls
+through the air, screaming.
+~
+0 0 1
+D0
+~
+~
+0 -1 12224
+D1
+~
+~
+0 -1 12219
+D2
+~
+~
+0 -1 12221
+D3
+~
+~
+0 -1 12217
+S
+#12219
+Along a street.~
+Standing among a broken city street, you see incredibly tall buildings
+whose innards are shown through their decay.  A wind flies through the
+air, lamenting of a once prosperous civilization now shattered.
+~
+0 0 1
+D1
+~
+~
+0 -1 12217
+D3
+~
+~
+0 -1 12218
+S
+#12220
+Along a street.~
+You walk among shattered and broken buildings.  The city street is
+covered in cracked and unused pavement.  The skeletons of these buildings
+look as though they once belong to a large and prosperous city, now torn
+to peices.
+~
+0 0 1
+D1
+~
+~
+0 -1 12221
+D3
+~
+~
+0 -1 12222
+S
+#12221
+Along a street.~
+You walk along pavement battered and broken.  There are the skeletal
+remains of hundreds of buildings, each dead and lifeless.  This city's
+once prosperous life, is now nothing more than a laughable graveyard of
+concrete.
+~
+0 0 1
+D0
+~
+~
+0 -1 12218
+D1
+~
+~
+0 -1 12222
+D2
+~
+~
+0 -1 12224
+D3
+~
+~
+0 -1 12220
+S
+#12222
+Along a street.~
+You walk along a city street, once heavily populated, but now, just
+broken and barren.  Skeletal remains of hundreds of buildings tower
+over you, weak and broken.  There is a wind howling through the air,
+whistling through the building's remains.
+~
+0 0 1
+D1
+~
+~
+0 -1 12220
+D3
+~
+~
+0 -1 12221
+S
+#12223
+Along a street.~
+You stand among the shattered and broken remains of a once powerful
+and great city.  Now all that remains are the laughable corpses of these
+buildings, hollow and dead.  A wind whistles through them, laughing at
+their owner's ignorance.
+~
+0 0 1
+D1
+~
+~
+0 -1 12224
+D3
+~
+~
+0 -1 12226
+S
+#12224
+Along a street.~
+You walk along a street covered in cracked and scattered pavement.
+Buildings loom over you with only their skeletal remains as any substance
+of their existance.  A quick wind howls through the air, lamenting of a
+once great civilization.
+~
+0 0 1
+D0
+~
+~
+0 -1 12221
+D1
+~
+~
+0 -1 12225
+D2
+~
+~
+0 -1 12218
+D3
+~
+~
+0 -1 12223
+S
+#12225
+Along a street.~
+You walk along a city street, broken and barren.  Once strong and
+mighty buildings tower around you in every direction, now skeletal
+and weak.  A quick wind flies through the air with a whisper of death.
+~
+0 0 1
+D1
+~
+~
+0 -1 12226
+D3
+~
+~
+0 -1 12224
+S
+#12226
+Along a street.~
+You stand among buildings and shops broken and destroyed. The pavement
+covering the ground is cracked and wrought into unstable material.  There
+is a wind that whistles through the building's skeletons, singing a song
+of death.
+~
+0 0 1
+D1
+~
+~
+0 -1 12223
+D2
+~
+~
+0 -1 12227
+D3
+~
+~
+0 -1 12225
+S
+#12227
+Along a street.~
+You walk along a street in which there is no life.  Cars lie upturned
+and scattered all around you.  There is a chill breeze making you wrap
+your clothing around you tightly to keep it out.  Lightposts lie bent
+and usless around every corner.
+~
+0 0 1
+D0
+~
+~
+0 -1 12226
+D2
+~
+~
+0 -1 12228
+S
+#12228
+Along a street.~
+You stand among scattered cars and ruins of a once huge city.  Buildings
+tower around you only consisting of skeletal remains.  Wind whisps through
+the air carrying a hot sticky smell of complete despair and utter
+hopelessness.
+~
+0 0 1
+D0
+~
+~
+0 -1 12227
+D1
+~
+~
+0 -1 12229
+D3
+~
+~
+0 -1 12230
+S
+#12229
+Along a street.~
+You stand among scattered cars and ruins of a once huge city.  Buildings
+tower around you only consisting of skeletal remains.  Wind whisps through
+the air carrying a hot sticky smell of complete despair and utter
+hopelessness.
+~
+0 0 1
+D1
+~
+~
+0 -1 12242
+D3
+~
+~
+0 -1 12228
+S
+#12230
+Along a street.~
+You stand among scattered cars and ruins of a once huge city.  Buildings
+tower around you only consisting of skeletal remains.  Wind whisps through
+the air carrying a hot sticky smell of complete despair and utter
+hopelessness.
+~
+0 0 1
+D1
+~
+~
+0 -1 12228
+D2
+~
+~
+0 -1 12235
+D3
+~
+~
+0 -1 12231
+S
+#12231
+Along a street.~
+You stand among scattered cars and ruins of a once huge city.
+Buildings tower around you only consisting of skeletal remains.
+Wind whisps through the air carrying a hot sticky smell of complete despair
+and utter hopelessness.
+~
+0 0 1
+D1
+~
+~
+0 -1 12230
+D3
+~
+~
+0 -1 12232
+S
+#12232
+Along a street.~
+You stand among scattered cars and ruins of a once huge city.  Buildings
+tower around you only consisting of skeletal remains.  Wind whisps
+through the air carrying a hot sticky smell of complete despair and utter
+hopelessness.
+~
+0 0 1
+D1
+~
+~
+0 -1 12231
+D2
+~
+~
+0 -1 12233
+S
+#12233
+Along a street.~
+You stand among scattered cars and ruins of a once huge city.
+Buildings tower around you only consisting of skeletal remains.
+Wind whisps through the air carrying a hot sticky smell of complete
+despair and utter hopelessness.
+~
+0 0 1
+D0
+~
+~
+0 -1 12232
+D1
+~
+~
+0 -1 12234
+S
+#12234
+Along a street.~
+You stand among scattered cars and ruins of a once huge city.
+Buildings tower around you only consisting of skeletal remains.
+Wind whisps through the air carrying a hot sticky smell of complete
+despair and utter hopelessness.
+~
+0 0 1
+D1
+~
+~
+0 -1 12235
+D3
+~
+~
+0 -1 12233
+D5
+~
+manhole~
+1 -1 12286
+S
+#12235
+Along a street.~
+You stand among scattered cars and ruins of a once huge city.
+Buildings tower around you only consisting of skeletal remains.
+Wind whisps through the air carrying a hot sticky smell of complete
+despair and utter hopelessness.
+~
+0 0 1
+D0
+~
+~
+0 -1 12230
+D1
+~
+~
+0 -1 12236
+D2
+~
+~
+0 -1 12238
+D3
+~
+~
+0 -1 12234
+S
+#12236
+Along a street.~
+You stand among scattered cars and ruins of a once huge city.
+Buildings tower around you only consisting of skeletal remains.
+Wind whisps through the air carrying a hot sticky smell of complete despair
+and utter hopelessness.
+~
+0 0 1
+D1
+~
+~
+0 -1 12237
+D3
+~
+~
+0 -1 12235
+S
+#12237
+Along a street.~
+You stand among scattered cars and ruins of a once huge city.
+Buildings tower around you only consisting of skeletal remains.
+ Wind whisps through the air carrying a hot sticky smell of complete
+ despair and utter hopelessness.
+~
+0 0 1
+D0
+~
+~
+0 -1 12242
+D3
+~
+~
+0 -1 12236
+S
+#12238
+Along a street.~
+You stand among scattered cars and ruins of a once huge city.
+Buildings tower around you only consisting of skeletal remains.
+Wind whisps through the air carrying a hot sticky smell of complete
+despair and utter hopelessness.
+~
+0 0 1
+D0
+~
+~
+0 -1 12235
+D2
+~
+~
+0 -1 12239
+S
+#12239
+Along a street.~
+You stand among scattered cars and ruins of a once huge city.
+Buildings tower around you only consisting of skeletal remains.
+Wind whisps through the air carrying a hot sticky smell of complete
+despair and utter hopelessness.
+~
+0 0 1
+D0
+~
+~
+0 -1 12238
+D1
+~
+~
+0 -1 12241
+D3
+~
+~
+0 -1 12240
+S
+#12240
+Along a street.~
+You stand among scattered cars and ruins of a once huge city.
+Buildings tower around you only consisting of skeletal remains.
+Wind whisps through the air carrying a hot sticky smell of complete
+despair and utter hopelessness.
+~
+0 0 1
+D1
+~
+~
+0 -1 12239
+D5
+~
+~
+0 -1 12275
+S
+#12241
+Along a street.~
+You stand among scattered cars and ruins of a once huge city.  Buildings
+tower around you only consisting of skeletal remains.  Wind whisps
+through the air carrying a hot sticky smell of complete despair and utter
+hopelessness.  To the south there is a small shack lacking a door.
+~
+0 0 1
+D2
+~
+~
+0 -1 12243
+D3
+~
+~
+0 -1 12239
+S
+#12242
+Along a street.~
+You stand among scattered cars and ruins of a once huge city.
+Buildings tower around you only consisting of skeletal remains.
+Wind whisps through the air carrying a hot sticky smell of complete
+despair and utter hopelessness.
+~
+0 0 1
+D0
+~
+~
+0 0 12113
+D2
+~
+~
+0 -1 12237
+D3
+~
+~
+0 -1 12229
+S
+#12243
+Inside a small shack.~
+You stand inside a small shack.  The door apears to have been blown
+straight off it's hinges.  There is a wooden table in the centre of the
+room.  The walls are cracked and crumbling from years of innactivity.
+A definte sense of anger fills the room from its now departed occupant.
+~
+0 0 0
+D0
+~
+~
+0 -1 12241
+S
+#12244
+Entrance to a Palace.~
+You stand at the entrance to a strange but wonderful palace in the desert.
+This place belongs and is ruled by Shin, the Fist of the South Star.
+Shin has claimed to be the Fist of the North Star, but shall probably
+be defeated by Ken and Jaggi's brother: Raoh.  The palace gates are open
+and the guards here look very strong.  The palace itself looms off in the
+distance.
+~
+0 0 1
+D0
+~
+~
+0 -1 12245
+D2
+~
+~
+0 -1 12203
+S
+#12245
+In a barren courtyard.~
+You stand in the courtyard by the entrance to Shin's palace.
+There are no plants or grass of any sort.  Only the scent of death
+and complete insanity loom around this place. The palace looms off to
+the north, while in all other directions lie the courtyard.
+~
+0 0 1
+D0
+~
+~
+0 -1 12248
+D1
+~
+~
+0 -1 12246
+D2
+~
+~
+0 -1 12244
+D3
+~
+~
+0 -1 12250
+S
+#12246
+In a barren courtyard.~
+You stand in the courtyard by the entrance to Shin's palace.
+There are no plants or grass of any sort.  Only the scent of death
+and complete insanity loom around this place. The palace looms off
+to the north, while in all other directions lie the courtyard.
+~
+0 0 1
+D0
+~
+~
+0 -1 12247
+D3
+~
+~
+0 -1 12245
+S
+#12247
+In a barren courtyard.~
+You stand in the courtyard by the entrance to Shin's palace.
+There are no plants or grass of any sort.  Only the scent of death
+and complete insanity loom around this place. The palace looms off
+to the north, while in all other directions lie the courtyard.
+~
+0 0 1
+D2
+~
+~
+0 -1 12246
+D3
+~
+~
+0 -1 12248
+S
+#12248
+In a barren courtyard.~
+You stand in the courtyard by the entrance to Shin's palace.
+There are no plants or grass of any sort.  Only the scent of death
+and complete insanity loom around this place. The palace looms off
+to the north, while in all other directions lie the courtyard.
+~
+0 0 1
+D0
+~
+~
+0 -1 12251
+D1
+~
+~
+0 -1 12247
+D2
+~
+~
+0 -1 12245
+D3
+~
+~
+0 -1 12249
+S
+#12249
+In a barren courtyard.~
+You stand in the courtyard by the entrance to Shin's palace.
+There are no plants or grass of any sort.  Only the scent of death
+and complete insanity loom around this place. The palace looms off
+to the north, while in all other directions lie the courtyard.
+~
+0 0 1
+D1
+~
+~
+0 -1 12248
+D2
+~
+~
+0 -1 12250
+S
+#12250
+In a barren courtyard.~
+You stand in the courtyard by the entrance to Shin's palace.
+There are no plants or grass of any sort.  Only the scent of death
+and complete insanity loom around this place. The palace looms off
+to the north, while in all other directions lie the courtyard.
+~
+0 0 1
+D0
+~
+~
+0 -1 12249
+D1
+~
+~
+0 -1 12245
+S
+#12251
+The first level of the palace.~
+You stand instide of the first level of the Fist of the
+South Star's palace.  It is made from marble and is polished
+thouroughly.  This place has a glow about it that bothers you very much
+so.  This place is heavily guarded and fortified by many guards of
+different rank.  Shin himself is rarely seen.
+~
+0 8 0
+D0
+~
+~
+0 -1 12254
+D1
+~
+~
+0 -1 12252
+D2
+~
+~
+0 -1 12248
+D3
+~
+~
+0 -1 12256
+S
+#12252
+The first level of the palace.~
+You stand instide of the first level of the Fist of the South Star's
+palace.  It is made from marble and is polished thouroughly.  This
+place has a glow about it that bothers you very much so.  This place
+is heavily guarded and fortified by many guards of different rank.
+Shin himself is rarely seen.
+~
+0 8 0
+D0
+~
+~
+0 -1 12253
+D3
+~
+~
+0 -1 12251
+S
+#12253
+The first level of the palace.~
+You stand instide of the first level of the Fist of the South Star's
+palace.  It is made from marble and is polished thouroughly.  This
+place has a glow about it that bothers you very much so.  This place
+is heavily guarded and fortified by many guards of different rank.
+Shin himself is rarely seen. There is a flight of stairs leading upwards
+to the second level of the Palace.  There is also a rather large crack
+in the floor panels below you.
+~
+0 8 0
+D2
+~
+~
+0 -1 12252
+D3
+~
+~
+0 -1 12254
+D4
+~
+~
+0 -1 12257
+D5
+The crack is set between two marble tiles.~
+crack~
+1 -1 12276
+S
+#12254
+The first level of the palace.~
+You stand instide of the first level of the Fist of the South
+Star's palace.  It is made from marble and is polished thouroughly.
+This place has a glow about it that bothers you very much so.  This
+place is heavily guarded and fortified by many guards of different rank.
+Shin himself is rarely seen.
+~
+0 8 0
+D1
+~
+~
+0 -1 12253
+D2
+~
+~
+0 -1 12251
+D3
+~
+~
+0 -1 12255
+S
+#12255
+The first level of the palace.~
+You stand instide of the first level of the Fist of the South
+Star's palace.  It is made from marble and is polished thouroughly.
+This place has a glow about it that bothers you very much so.  This place
+is heavily guarded and fortified by many guards of different rank.
+Shin himself is rarely seen.
+~
+0 8 0
+D1
+~
+~
+0 -1 12254
+D2
+~
+~
+0 -1 12256
+S
+#12256
+The first level of the palace.~
+You stand instide of the first level of the Fist of the South Star's
+palace.  It is made from marble and is polished thouroughly.  This
+place has a glow about it that bothers you very much so.  This place
+is heavily guarded and fortified by many guards of different rank.
+Shin himself is rarely seen.
+~
+0 8 0
+D0
+~
+~
+0 -1 12255
+D1
+~
+~
+0 -1 12251
+S
+#12257
+Second level of the Palace.~
+You stand upon the second level of the palace of the Fist of the South Star.
+This level appears to be more suited towards living quarters and other such
+uses.  There are rooms scattered about with nothing of very much use or
+interest in them.  The walls and ceilings, aswell as the floor are made
+from polished marble, making this palace seem fit for a king, and not
+a lunatic.  There is a flight of stairs descending down onto the first
+level of the Palace.
+~
+0 8 0
+D0
+~
+~
+0 -1 12262
+D3
+~
+~
+0 -1 12258
+D5
+~
+~
+0 -1 12253
+S
+#12258
+Second level of the Palace.~
+You stand upon the second level of the palace of the Fist of the
+South Star.  This level appears to be more suited towards living
+quarters and other such uses.  There are rooms scattered about with
+nothing of very much use or interest in them.  The walls and ceilings,
+aswell as the floor are made from polished marble, making this palace
+seem fit for a king, and not a lunatic.  There is a large throne in
+the center of the room and a balcony looking over the courtyard to the
+south.
+~
+0 8 0
+D0
+~
+~
+0 -1 12261
+D1
+~
+~
+0 -1 12257
+D2
+~
+~
+0 -1 12263
+D3
+~
+~
+0 -1 12259
+S
+#12259
+Second level of the Palace.~
+You stand upon the second level of the palace of the Fist of the
+South Star.  This level appears to be more suited towards living
+quarters and other such uses.  There are rooms scattered about with
+nothing of very much use or interest in them.  The walls and ceilings,
+aswell as the floor are made from polished marble, making this palace
+seem fit for a king, and not a lunatic.
+~
+0 8 0
+D0
+~
+~
+0 -1 12260
+D1
+~
+~
+0 -1 12258
+S
+#12260
+Second level of the Palace.~
+You stand upon the second level of the palace of the Fist of the
+South Star.  This level appears to be more suited towards living
+quarters and other such uses.  There are rooms scattered about with
+nothing of very much use or interest in them.  The walls and ceilings,
+aswell as the floor are made from polished marble, making this palace
+seem fit for a king, and not a lunatic.
+~
+0 8 0
+D1
+~
+~
+0 -1 12261
+D2
+~
+~
+0 -1 12259
+S
+#12261
+Second level of the Palace.~
+You stand upon the second level of the palace of the Fist of the
+South Star.  This level appears to be more suited towards living
+quarters and other such uses.  There are rooms scattered about with
+nothing of very much use or interest in them.  The walls and ceilings,
+aswell as the floor are made from polished marble, making this palace
+seem fit for a king, and not a lunatic.
+~
+0 8 0
+D1
+~
+~
+0 -1 12262
+D2
+~
+~
+0 -1 12258
+D3
+~
+~
+0 -1 12260
+S
+#12262
+Second level of the Palace.~
+You stand upon the second level of the palace of the Fist of the
+South Star.  This level appears to be more suited towards living
+quarters and other such uses.  There are rooms scattered about with
+nothing of very much use or interest in them.  The walls and ceilings,
+aswell as the floor are made from polished marble, making this palace
+seem fit for a king, and not a lunatic.
+~
+0 8 0
+D2
+~
+~
+0 -1 12257
+D3
+~
+~
+0 -1 12261
+S
+#12263
+On the balcony.~
+You stand on a balcony which is similiar to a large mouth. 
+There are large pillars lining each side of the walls of the balacony,
+acting like teeth.  To the south, you can see the enmpty and barren
+courtyard of the palace below.  This is the resting place of Shin, for
+he knows that Julia has fled.
+~
+0 0 1
+D0
+~
+~
+0 -1 12258
+S
+#12264
+A broken battlefield.~
+You stand within a mountainous valley in the deep desert.  There are
+corpses littering the entire ground.  There are blood smears and other
+such gore all around this part of the desert.  The rocks are deep stained
+red from this battle and many others that have taken place here.  There
+are smells of rotting flesh and blood in the air.
+~
+0 0 4
+D0
+~
+~
+0 -1 12267
+D1
+~
+~
+0 -1 12268
+D2
+~
+~
+0 -1 12270
+D3
+~
+~
+0 -1 12209
+S
+#12265
+A broken battlefield.~
+You stand within a mountainous valley in the deep desert.  There are
+corpses littering the entire ground.  There are blood smears and other
+such gore all around this part of the desert.  The rocks are deep stained
+red from this battle and many others that have taken place here.  There
+are smells of rotting flesh and blood in the air.
+~
+0 0 4
+D1
+~
+~
+0 -1 12266
+D2
+~
+~
+0 -1 12268
+D3
+~
+~
+0 -1 12267
+S
+#12266
+A broken battlefield.~
+You stand within a mountainous valley in the deep desert.  There are
+corpses littering the entire ground.  There are blood smears and other
+such gore all around this part of the desert.  The rocks are deep
+stained red from this battle and many others that have taken place here.
+There are smells of rotting flesh and blood in the air.
+~
+0 0 4
+D1
+~
+~
+0 -1 12273
+D2
+~
+~
+0 -1 12269
+D3
+~
+~
+0 -1 12265
+S
+#12267
+A broken battlefield.~
+You stand within a mountainous valley in the deep desert.  There are
+corpses littering the entire ground.  There are blood smears and other
+such gore all around this part of the desert.  The rocks are deep
+stained red from this battle and many others that have taken place here.
+There are smells of rotting flesh and blood in the air.
+~
+0 0 4
+D1
+~
+~
+0 -1 12265
+D2
+~
+~
+0 -1 12264
+S
+#12268
+A broken battlefield.~
+You stand within a mountainous valley in the deep desert.  There are
+corpses littering the entire ground.  There are blood smears and other
+such gore all around this part of the desert.  The rocks are deep
+stained red from this battle and many others that have taken place here.
+There are smells of rotting flesh and blood in the air.
+~
+0 0 4
+D0
+~
+~
+0 -1 12265
+D1
+~
+~
+0 -1 12269
+D3
+~
+~
+0 -1 12264
+S
+#12269
+A broken battlefield.~
+You stand within a mountainous valley in the deep desert.  There are
+corpses littering the entire ground.  There are blood smears and other
+such gore all around this part of the desert.  The rocks are deep stained
+red from this battle and many others that have taken place here.  There
+are smells of rotting flesh and blood in the air.
+~
+0 0 4
+D0
+~
+~
+0 -1 12266
+D1
+~
+~
+0 -1 12274
+D2
+~
+~
+0 -1 12272
+D3
+~
+~
+0 -1 12268
+S
+#12270
+A broken battlefield.~
+You stand within a mountainous valley in the deep desert.  There are
+corpses littering the entire ground.  There are blood smears and other
+such gore all around this part of the desert.  The rocks are deep stained
+red from this battle and many others that have taken place here.  There
+are smells of rotting flesh and blood in the air.
+~
+0 0 4
+D0
+~
+~
+0 -1 12264
+D1
+~
+~
+0 -1 12271
+S
+#12271
+A broken battlefield.~
+You stand within a mountainous valley in the deep desert.  There are
+corpses littering the entire ground.  There are blood smears and other
+such gore all around this part of the desert.  The rocks are deep
+stained red from this battle and many others that have taken place here.
+There are smells of rotting flesh and blood in the air.
+~
+0 0 4
+D1
+~
+~
+0 -1 12272
+D3
+~
+~
+0 -1 12270
+S
+#12272
+A broken battlefield.~
+You stand within a mountainous valley in the deep desert.  There are
+corpses littering the entire ground.  There are blood smears and other
+such gore all around this part of the desert.  The rocks are deep stained
+red from this battle and many others that have taken place here.  There
+are smells of rotting flesh and blood in the air.
+~
+0 0 4
+D0
+~
+~
+0 -1 12269
+D3
+~
+~
+0 -1 12271
+S
+#12273
+A broken battlefield.~
+You stand within a mountainous valley in the deep desert.  There are
+corpses littering the entire ground.  There are blood smears and other
+such gore all around this part of the desert.  The rocks are deep stained
+red from this battle and many others that have taken place here.  There
+are smells of rotting flesh and blood in the air.
+~
+0 0 4
+D2
+~
+~
+0 -1 12274
+D3
+~
+~
+0 -1 12266
+S
+#12274
+A broken battlefield.~
+You stand within a mountainous valley in the deep desert.  There
+are corpses littering the entire ground.  There are blood smears and
+other such gore all around this part of the desert.  The rocks are deep
+stained red from this battle and many others that have taken place here.
+There are smells of rotting flesh and blood in the air.
+~
+0 0 4
+D0
+~
+~
+0 -1 12273
+D1
+~
+~
+0 -1 12287
+D3
+~
+~
+0 -1 12269
+S
+#12275
+In Ryuuken's Dojo.~
+This place is utterly amazing.  There are two statues of battling
+gods against the north wall.  The room is almost utterly dark except
+for a slight glow coming from small oil lamps in the corner of each room.
+You can smell meditation inscence in the air thickly and a greasey stench
+of sweat.  This room is safe from any form or battle or torment.
+~
+0 1036 0
+D4
+~
+~
+0 -1 12240
+S
+#12276
+A tunnel underground.~
+You find yourself in a tunnel under the ground of Shin's palace.
+There is a musky smell in the air and cobwebs all around.  The tunnel
+carries on downwards.  Upwards leads to the first level of Shin's palace.
+~
+0 9 0
+D4
+The crack is in the center of two marble tiles.~
+crack~
+1 -1 12253
+D5
+~
+~
+0 -1 12277
+S
+#12277
+Abandoned Subway.~
+You stand in a gloomy abandoned subway train compound.  There are
+litterally hundreds of skeletons down here.  The lie upon the ground,
+within the cars, in stores, everywhere. You stand horrified as you walk
+through this terrible gigantic graveyard, knowing that every single one
+of these people died slowly and painfully.
+~
+0 9 0
+D0
+~
+~
+0 -1 12279
+D1
+~
+~
+0 -1 12281
+D2
+~
+~
+0 -1 12278
+D4
+~
+~
+0 -1 12276
+S
+#12278
+Abandoned Subway.~
+You stand in a gloomy abandoned subway train compound.  There are
+litterally hundreds of skeletons down here.  The lie upon the ground,
+within the cars, in stores, everywhere. You stand horrified as you walk
+through this terrible gigantic graveyard, knowing that every single one of
+these people died slowly and painfully.
+~
+0 9 0
+D0
+~
+~
+0 -1 12277
+D1
+~
+~
+0 -1 12282
+S
+#12279
+Abandoned Subway.~
+You stand in a gloomy abandoned subway train compound.  There are
+litterally hundreds of skeletons down here.  The lie upon the ground,
+within the cars, in stores, everywhere. You stand horrified as you walk
+through this terrible gigantic graveyard, knowing that every single one
+of these people died slowly and painfully.
+~
+0 9 0
+D0
+~
+~
+0 -1 12280
+D1
+~
+~
+0 -1 12283
+D2
+~
+~
+0 -1 12277
+S
+#12280
+Abandoned Subway.~
+You stand in a gloomy abandoned subway train compound.  There are
+litterally hundreds of skeletons down here.  The lie upon the ground,
+within the cars, in stores, everywhere. You stand horrified as you walk
+through this terrible gigantic graveyard, knowing that every single one
+of these people died slowly and painfully.
+~
+0 9 0
+D0
+~
+~
+0 -1 12285
+D1
+~
+~
+0 -1 12284
+D2
+~
+~
+0 -1 12279
+S
+#12281
+Abandoned Subway.~
+You stand in a gloomy abandoned subway train compound.  There are
+litterally hundreds of skeletons down here.  The lie upon the ground,
+within the cars, in stores, everywhere. You stand horrified as you walk
+through this terrible gigantic graveyard, knowing that every single one
+of these people died slowly and painfully.
+~
+0 9 0
+D0
+~
+~
+0 -1 12283
+D2
+~
+~
+0 -1 12282
+D3
+~
+~
+0 -1 12277
+S
+#12282
+Abandoned Subway.~
+You stand in a gloomy abandoned subway train compound.  There are
+litterally hundreds of skeletons down here.  The lie upon the ground,
+within the cars, in stores, everywhere. You stand horrified as you
+walk through this terrible gigantic graveyard, knowing that every single
+one of these people died slowly and painfully.
+~
+0 9 0
+D0
+~
+~
+0 -1 12281
+D3
+~
+~
+0 -1 12278
+S
+#12283
+Abandoned Subway.~
+You stand in a gloomy abandoned subway train compound.  There are
+litterally hundreds of skeletons down here.  The lie upon the ground,
+within the cars, in stores, everywhere. You stand horrified as you walk
+through this terrible gigantic graveyard, knowing that every single one
+of these people died slowly and painfully.
+~
+0 9 0
+D0
+~
+~
+0 -1 12284
+D2
+~
+~
+0 -1 12281
+D3
+~
+~
+0 -1 12279
+S
+#12284
+Abandoned Subway.~
+You stand in a gloomy abandoned subway train compound.  There are
+litterally hundreds of skeletons down here.  The lie upon the ground,
+within the cars, in stores, everywhere. You stand horrified as you
+walk through this terrible gigantic graveyard, knowing that every
+single one of these people died slowly and painfully.
+~
+0 9 0
+D2
+~
+~
+0 -1 12283
+D3
+~
+~
+0 -1 12280
+S
+#12285
+Abandoned Subway.~
+You stand in a gloomy abandoned subway train compound.
+There are litterally hundreds of skeletons down here.  The lie
+upon the ground, within the cars, in stores, everywhere. You stand
+horrified as you walk through this terrible gigantic graveyard, knowing
+that every single one of these people died slowly and painfully.
+~
+0 9 0
+D2
+~
+~
+0 -1 12280
+D4
+~
+~
+0 -1 12286
+S
+#12286
+Pathway through a manhole.~
+You climb along a ladder leading to a manhole above you.  It is dark
+and very greasey in this small tubular corridor.
+~
+0 9 0
+D4
+~
+manhole~
+1 -1 12234
+D5
+~
+~
+0 -1 12285
+S
+#12287
+Before Raoh's Stronghold.~
+You stand before Raoh's great and powerful Stronghold.  There is nothing
+stronger or more impenitrible in the entire known world.  The
+stronghold spans oof north a very far distance, but you can barely make
+it out.  There are soldiers guarding the entrance with their lives.
+~
+0 0 2
+D1
+~
+~
+0 -1 12289
+D3
+~
+~
+0 -1 12274
+S
+#0
+
+
+
+#SPECIALS
+M 12203 spec_janitor
+M 12208 spec_cast_mage
+M 12216 spec_cast_adept
+M 12218 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 12276 4 1
+M 0 12218 1 12299 1
+M 0 12213 1 12239 1
+E 0 12208 0 16
+M 0 12214 7 12239 7
+M 0 12203 3 12240 3
+E 0 12203 0 16
+M 0 12207 1 12240 1
+E 0 12205 0 5
+E 0 12206 0 6
+M 0 12219 1 12240 1
+M 0 12209 1 12241 1
+M 0 12212 1 12241 1
+E 0 12209 0 6
+M 0 12202 1 12243 1
+E 0 12201 0 5
+E 0 12202 0 12
+M 0 12215 2 12244 2
+M 0 12215 2 12247 2
+M 0 12215 2 12248 2
+M 0 12215 2 12249 2
+M 0 12217 2 12255 2
+M 0 12204 1 12263 1
+E 0 12210 0 12
+M 0 12217 1 12264 1
+M 0 12206 1 12266 1
+M 0 12208 1 12273 1
+E 0 12204 0 16
+M 0 12217 2 12273 2
+M 0 12215 4 12273 4
+M 0 12210 1 12274 1
+E 0 12207 0 16
+M 0 12205 6 12274 6
+M 0 12216 1 12275 1
+M 0 12211 1 12278 1
+E 0 12211 0 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

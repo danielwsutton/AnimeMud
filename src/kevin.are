@@ -1,0 +1,172 @@
+#AREADATA
+Name Kevin's Area~
+Builders $kevin~
+VNUMs 1800 1999
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#1800
+bullet 9mm full metal jacket~
+a 9mm bullet~
+A lonesome bullet is lying here, slightly dirty.~
+brass~
+ammunition 0 A
+0 0 A 0 0
+20 1 10 0
+#1801
+bullet 9mm hollow point~
+a 9mm hollow-point bullet~
+A bullet with a rounded, hollow lead nose has been dropped here.~
+brass~
+ammunition 0 A
+0 A A 0 0
+20 1 10 0
+#1802
+pile 9mm bullets full metal jacket~
+a pile of 9mm bullets~
+Wow! Someone left a pile of 9mm bullets here.~
+brass~
+ammunition 0 A
+0 0 BD 0 0
+20 10 100 100
+#1803
+pile 9mm bullets hollow point~
+a pile of 9mm hollow-point bullets~
+Jinkies! A pile of 9mm hollow point rounds is lying here.~
+brass~
+ammunition 0 A
+0 A BD 0 0
+20 10 100 100
+#1804
+bullet 45 full metal jacket~
+a .45 bullet~
+A small, shiny bullet has been left here.~
+brass~
+ammunition 0 A
+A 0 A 0 0
+20 1 15 0
+#1805
+bullet 45 hollow point~
+a .45 hollow-point bullet~
+A small lead-tipped bullet is lying here.~
+brass~
+ammunition 0 A
+A A A 0 0
+20 1 15 0
+#1806
+pile 45 bullets full metal jacket~
+a pile of .45 bullets~
+A shiny pile of bullets is gathered here.~
+brass~
+ammunition 0 A
+A 0 BD 0 0
+20 10 150 0
+#1807
+pile 45 bullets hollow point~
+a pile of 45 hollow-point bullets~
+A pile of lead-tipped bullets is here, sitting idly.~
+brass~
+ammunition 0 A
+A A BD 0 0
+20 10 150 0
+#1808
+bullet 22 full metal jacket~
+a .22 bullet~
+A small bullet of cheap quality sits here.~
+brass~
+ammunition 0 A
+B 0 A 0 0
+20 15 1 100
+#1809
+bullet 22 hollow point~
+a .22 hollow-point bullet~
+A bullet with a hollow lead nose catches your eye here.~
+brass~
+ammunition 0 A
+B A A 0 0
+20 1 15 100
+#1810
+pile 22 bullets full metal jacket~
+a pile of .22 bullets~
+Several cheaply-made bullets are gathered in a pile here.~
+unknown~
+ammunition 0 A
+B 0 A 0 0
+20 1 15 100
+#1811
+pile 22 bullets hollow point~
+a pile of .22 hollow-point bullets~
+A pile of cheap, hollow bullets lies here waiting to be used.~
+brass~
+ammunition 0 A
+B A A 0 0
+20 1 15 100
+#1812
+shell 12 gauge shot~
+a 12-gauge shell~
+A 12-gauge shotgun shell is here...better hide it from the kids.~
+plastic~
+ammunition 0 A
+AB 0 A 0 0
+20 5 20 100
+#1813
+shell 12 gauge slug~
+a 12-gauge rifle slug~
+A 12-gauge rifle slug is lying here, encased in a blue plastic shell.~
+plastic~
+ammunition 0 A
+AB A A 0 0
+20 10 20 100
+#1814
+pile shells 12 gauge shot~
+a pile of 12-gauge shot shells~
+It looks as if someone left a pile of shotgun shells here.~
+plastic~
+ammunition 0 A
+AB 0 A 0 0
+20 10 20 100
+#1815
+pile shells 12 gauge slug~
+a pile of 12-gauge rifle slugs~
+A pile of 12-gauge rifle slugs has been gathered here. Looks dangerous.~
+plastic~
+ammunition 0 A
+AB A A 0 0
+20 10 20 100
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$
