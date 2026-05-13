@@ -20,15 +20,18 @@ nohup ./rom > ../../rom.log 2>&1 &
 
 ## In Game Commands
 wizhelp
+
 goto 3001 (Recall)
+
 goto 3170 (Temple of Quests)
+
 goto 26000 (Immortal Hangout)
 
 -----
 
 ## Server Dev
 
-This is assuming you have it deployed to AWS EC2 and have a copy of the .pem that gives you access to ssh or scp to the public port hosted on AWS.
+This is assuming you have it deployed to AWS EC2 and have a copy of the `AnimeMud-KeyPair.pem` that gives you access to ssh or scp to the public port hosted on AWS.
 
 ### To Copy Code From PC To Server
 ```
@@ -36,8 +39,7 @@ cd to wherever you have the code and .pem saved
 scp -i .\AnimeMud-KeyPair.pem .\animemud.zip ubuntu@<ip_address>:~
 ```
 
-### To Build Code
-## From PC 
+### From PC 
 ```
 cd to wherever you have the code and .pem saved
 ssh -i .\AnimeMud-KeyPair.pem ubuntu@<ip_address>
