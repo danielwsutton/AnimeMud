@@ -8,11 +8,13 @@ AnimeMud is derived from Rom 2.4, Merc 2.1 and DikuMud
 
 ## Local Dev
 ### Build and Run Locally on Ubunutu (or Ubuntu Desktop on PC)
+```
 cd /mnt/c/Users/<user>/AnimeMud/animemud/src (or whever your code is saved)
 unzip animemud.zip
 cd animemud/src
 make CFLAGS="-g -Wall"
 nohup ./rom > ../../rom.log 2>&1 &
+```
 
 -----
 
@@ -29,24 +31,32 @@ goto 26000 (Immortal Hangout)
 This is assuming you have it deployed to AWS EC2 and have a copy of the .pem that gives you access to ssh or scp to the public port hosted on AWS.
 
 ### To Copy Code From PC To Server
+```
 cd to wherever you have the code and .pem saved
 scp -i .\AnimeMud-KeyPair.pem .\animemud.zip ubuntu@<ip_address>:~
+```
 
 ### To Build Code
 ## From PC 
+```
 cd to wherever you have the code and .pem saved
 ssh -i .\AnimeMud-KeyPair.pem ubuntu@<ip_address>
+```
 
 ### To Start MUD Service
+```
 cd to wherever you have the code and .pem saved
 ssh -i .\AnimeMud-KeyPair.pem ubuntu@<ip_address>
 nohup ./rom > ../../rom.log 2>&1 &
+```
 
 ### To Stop MUD Service
+```
 cd to wherever you have the code and .pem saved
 ssh -i .\AnimeMud-KeyPair.pem ubuntu@<ip_address>
 ps aux | grep rom
 kill <PID>
+```
 
 ### Auto backup of players
 This is done outside of AnimeMud. 
